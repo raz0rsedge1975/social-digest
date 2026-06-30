@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-30T16:10:18.690Z",
-  "timestamp": "30.6.2026, 18:10:18",
+  "generated": "2026-06-30T16:21:23.985Z",
+  "timestamp": "30.6.2026, 18:21:23",
   "items": [
     {
       "platform": "Bluesky",
@@ -61,7 +61,7 @@
       "author": "@derschwede.bsky.social",
       "text": "Das mit Abstand seltsamste Klischee über die Bundeswehr ist echt, dass man da dauernd angebrüllt werden würde.",
       "url": "https://bsky.app/profile/derschwede.bsky.social/post/3mpirbfarj22t",
-      "engagement": 20,
+      "engagement": 21,
       "ts": "2026-06-30T10:12:07.661Z",
       "sentiment": "neutral"
     },
@@ -724,7 +724,11 @@
     }
   ],
   "analysis": {
-    "summary": "Analyse fehlgeschlagen (ollama).",
-    "themes": []
+    "summary": "Heute wird der Neue Wehrdienst und die Personalaufwuchs der Bundeswehr im Fokus, sowie Kritik an Boris Pistorius' Aussagen über die NATO und die Schifffahrt nach Hormus.",
+    "themes": [
+      "Neuer Wehrdienst",
+      "Personalaufwuchs",
+      "NATO und Schifffahrt"
+    ]
   }
 }

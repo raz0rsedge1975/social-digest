@@ -1,33 +1,30 @@
 {
-  "generated": "2026-06-30T17:32:25.398Z",
-  "timestamp": "30.6.2026, 19:32:25",
+  "generated": "2026-06-30T18:15:42.647Z",
+  "timestamp": "30.6.2026, 20:15:42",
   "items": [
     {
       "platform": "Bluesky",
       "author": "@wiegold.de",
+      "handle": "wiegold.de",
       "text": "Na, wie viel Interessenten am 'Neuen Wehrdienst' der Bundeswehr' gibt es bislang? Eher 530 oder eher 10.000? Wer die Zahlen mal selber nachsehen möchte:",
       "url": "https://bsky.app/profile/wiegold.de/post/3mp2s52qwik26",
       "engagement": 77,
       "ts": "2026-06-24T20:50:19.843Z",
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Mastodon",
-      "author": "@Gegenwind@chaos.social",
-      "text": "Lustig. Ein Reddit-User hat im Sub der # Bundeswehr eine „DDoS-Attacke“ auf den # Wehrdienst erklärt und könnte jetzt # Wehrpflicht -Kritiker*innen ein mächtiges Tool in die Hand gegeben haben ohne es gewollt zu haben 🤣🤣🤣",
-      "url": "https://chaos.social/@Gegenwind/116534787131955958",
-      "engagement": 52,
-      "ts": "2026-05-07T18:48:55.000Z",
-      "sentiment": "neutral"
+      "followers": 15655,
+      "isBot": false,
+      "sentiment": "kritisch"
     },
     {
       "platform": "Bluesky",
       "author": "@konflikt-sicher.bsky.social",
+      "handle": "konflikt-sicher.bsky.social",
       "text": "Der neue #Wehrdienst soll eigentlich den Personalaufwuchs der #Bundeswehr unterstützen. Laut @reservistenverband.bsky.social bleiben die Zahlen aber bislang niedrig; zugleich fehlen Musterungskapazitäten & die Zielmarken für zusätzliche Rekruten steigen nur schrittweise. #Wehrfähigkeit",
       "url": "https://bsky.app/profile/konflikt-sicher.bsky.social/post/3momnuawsu22i",
       "engagement": 35,
       "ts": "2026-06-19T05:56:33.029Z",
-      "sentiment": "neutral"
+      "followers": 9831,
+      "isBot": false,
+      "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
@@ -36,151 +33,117 @@
       "url": "https://mastodon.social/@TwraSun/116616759568267292",
       "engagement": 30,
       "ts": "2026-05-22T06:15:35.000Z",
-      "sentiment": "neutral"
+      "followers": 5629,
+      "isBot": false,
+      "sentiment": "negativ"
     },
     {
       "platform": "Bluesky",
       "author": "@gdwberlin.bsky.social",
+      "handle": "gdwberlin.bsky.social",
       "text": "Heute besuchte der Bundesminister der Verteidigung Boris Pistorius das Schaudepot Reichsbanner Schwarz-Rot-Gold in der Gedenkstätte Deutscher Widerstand. Wir danken herzlich für das große Interesse! #GedenkstätteDeutscherWiderstand #ReichsbannerSchwarzRotGold #Demokratiegeschichte #Schaudepot",
       "url": "https://bsky.app/profile/gdwberlin.bsky.social/post/3mm7glqswmc2t",
       "engagement": 29,
       "ts": "2026-05-19T12:51:31.646Z",
-      "sentiment": "neutral"
+      "followers": 3050,
+      "isBot": false,
+      "sentiment": "kritisch"
     },
     {
       "platform": "Bluesky",
       "author": "@derlaemmermann.bsky.social",
+      "handle": "derlaemmermann.bsky.social",
       "text": "Und Boris #Pistorius stützt diesen Weg bei der #Rüstung offenbar auch noch. Angesichts der Unfähigkeit von #Merz wäre es an ihm, den Ton anders zu setzen.\nWir brauchen breite europäische Kooperation bei der Rüstung & am Ende eine Europäische Armee für eine kostengünstige, aber wirksame Verteidigung.",
       "url": "https://bsky.app/profile/derlaemmermann.bsky.social/post/3mnyyrtanjk2p",
       "engagement": 23,
       "ts": "2026-06-11T10:18:47.958Z",
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@derschwede.bsky.social",
-      "text": "Das mit Abstand seltsamste Klischee über die Bundeswehr ist echt, dass man da dauernd angebrüllt werden würde.",
-      "url": "https://bsky.app/profile/derschwede.bsky.social/post/3mpirbfarj22t",
-      "engagement": 21,
-      "ts": "2026-06-30T10:12:07.661Z",
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Mastodon",
-      "author": "@theDuesentrieb@social.linux.pizza",
-      "text": "\"Ich muss Menschen töten, mit denen ich kein Problem habe, außer dass sie unter einer anderen Staatsherrschaft leben, die andere politische Ziele verfolgt als die meinige. Das ist der Grund, warum ich im Krieg auf diese Menschen schießen müsste. Und dazu bin ich - wenn es denn eine Sache des Wollens wäre - nicht bereit.\" Das fasst es stichhaltig zusammen. Aus diesem Interview: https://www. ndr.de/",
-      "url": "https://social.linux.pizza/@theDuesentrieb/116277809549314357",
-      "engagement": 15,
-      "ts": "2026-03-23T09:36:08.000Z",
-      "sentiment": "neutral"
+      "followers": 2475,
+      "isBot": false,
+      "sentiment": "kritisch"
     },
     {
       "platform": "Bluesky",
       "author": "@emha.bsky.social",
+      "handle": "emha.bsky.social",
       "text": "Wenn Deutschland verteidigungsfähig sein möchte und es bei der Bundeswehr dann heißt, viel lüften und trinken, luftige Kleidung tragen. \nUnd dann die Klimaanlage im Leopard 2 ausfällt und sich das Teil im Inneren auf 50-60 Grad erhitzt.😌",
       "url": "https://bsky.app/profile/emha.bsky.social/post/3mpisjd4io22h",
       "engagement": 13,
       "ts": "2026-06-30T10:34:27.601Z",
-      "sentiment": "neutral"
+      "followers": 3962,
+      "isBot": false,
+      "sentiment": "kritisch"
     },
     {
       "platform": "Bluesky",
       "author": "@zeit.de",
+      "handle": "zeit.de",
       "text": "Erstmals muss ein Jahrgang Stellung beziehen: Wehrdienst ja oder nein? Neun junge Männer erklären, warum sie sich wohl gegen die Bundeswehr entscheiden.",
       "url": "https://bsky.app/profile/zeit.de/post/3mpe2l2wbhc2a",
       "engagement": 13,
       "ts": "2026-06-28T13:02:05.000Z",
-      "sentiment": "neutral"
+      "followers": 50720,
+      "isBot": false,
+      "sentiment": "kritisch"
     },
     {
       "platform": "Bluesky",
       "author": "@tiniko.bsky.social",
+      "handle": "tiniko.bsky.social",
       "text": "Guten Morgen, in Litauen reagiert man sehr adäquat auf einen eigentümlichen Artikel im Spiegel, der einen Partisanenbunker und die Bundeswehr thematisiert. Hatte den Eindruck, dass die Linke damit indirekt versucht ihr Image zu polieren und der Spiegel sich benutzen ließ. \n\nlrt.lt/naujienos/li...",
       "url": "https://bsky.app/profile/tiniko.bsky.social/post/3mpiideo3g22h",
       "engagement": 12,
       "ts": "2026-06-30T07:32:10.480Z",
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@coprophob.bsky.social",
-      "text": "Ein rechtsnationaler Typ der dreist bei seiner Promotion beschiss, versuchte vom Tod eines Soldaten zu profitieren und der Bundeswehr einen Milliardenschaden zufügte.\nDas sind exakt die Karrieremerkmale die man als Unionspolitiker braucht.",
-      "url": "https://bsky.app/profile/coprophob.bsky.social/post/3mpiflika3k2t",
-      "engagement": 10,
-      "ts": "2026-06-30T06:43:01.757Z",
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@derschwede.bsky.social",
-      "text": "War das ein Schreier?\nAuch wenn er das vielleicht gerne gehabt hätte ein Parli im VG ist nicht bei der Bundeswehr.",
-      "url": "https://bsky.app/profile/derschwede.bsky.social/post/3mpirqhjbe22t",
-      "engagement": 8,
-      "ts": "2026-06-30T10:20:33.352Z",
-      "sentiment": "neutral"
+      "followers": 8001,
+      "isBot": false,
+      "sentiment": "kritisch"
     },
     {
       "platform": "Bluesky",
       "author": "@baks.bund.de",
+      "handle": "baks.bund.de",
       "text": " »Damit wird deutlich: Die #NATO kann sich auf ihre europäischen Alliierten verlassen«, so Pistorius. Das 🇩🇪-🇳🇱-Korps stellt ab sofort die Führung über die Landstreitkräfte in 🇪🇪 & 🇱🇻. Das Korps wird \"verantwortlich sein für militärische Übungen sowie im Ernstfall für die Verteidigung der #Ostflanke.\"",
       "url": "https://bsky.app/profile/baks.bund.de/post/3mpikzwsboc2b",
       "engagement": 8,
       "ts": "2026-06-30T08:20:35.173Z",
+      "followers": 3229,
+      "isBot": false,
       "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
       "author": "@ahaachja.bsky.social",
+      "handle": "ahaachja.bsky.social",
       "text": "Boris #Pistorius. Seit Januar 2023 #Bundesminister der #Verteidigung. Sorry.\n#Federal Minister of #Defense since January 2023. \n \nde.wikipedia.org/wiki/Boris_P...",
       "url": "https://bsky.app/profile/ahaachja.bsky.social/post/3mph4imwbmc2c",
       "engagement": 8,
       "ts": "2026-06-29T18:27:42.270Z",
+      "followers": 11029,
+      "isBot": false,
       "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
       "author": "@loyalmagazin.bsky.social",
+      "handle": "loyalmagazin.bsky.social",
       "text": "Bringt's der #NeueWehrdienst in Sachen Personalaufwuchs? Jein. Es gehen zwar mehr Bewerbungen ein, aber das hat (noch) keine Auswirkungen auf die Personalstärke der Bundeswehr. Unsere Analyse dazu 👉https://www.reservistenverband.de/magazin-loyal/neuer-wehrdienst-wachstum-im-schneckentempo/",
       "url": "https://bsky.app/profile/loyalmagazin.bsky.social/post/3mocx3srwi22i",
       "engagement": 8,
       "ts": "2026-06-15T09:15:12.916Z",
+      "followers": 800,
+      "isBot": false,
       "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
       "author": "@germany.diplo.de",
+      "handle": "germany.diplo.de",
       "text": "Following the earthquake in #Venezuela, 🇩🇪 & 🇺🇸 are providing rapid assistance. 🇩🇪 is supporting the relief effort with THW personnel, Bundeswehr capabilities, and humanitarian & disaster relief funding from @diplo.de, which has been increased to a total of €13.7 million. @aussenminister.diplo.de  6/6",
       "url": "https://bsky.app/profile/germany.diplo.de/post/3mpiw3gjvfk2g",
       "engagement": 7,
       "ts": "2026-06-30T11:38:12.069Z",
+      "followers": 5134,
+      "isBot": false,
       "sentiment": "neutral"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@marko-schwarz-rot.eurosky.social",
-      "text": "Adbusting Aktion am Tag der Bundeswehr in Gera\n\n\"Um die Mittagszeit herum konnten drei als Beamte verkleidete Personen im Bereich der Haltestelle Duale Hochschule dabei beobachtet werden, wie sie eine Vitrine mutwillig beschädigten und die darin befindlichen Plakate entwendeten\"\n👇\nknack.news/16822",
-      "url": "https://bsky.app/profile/marko-schwarz-rot.eurosky.social/post/3mpipzyr5bk2m",
-      "engagement": 7,
-      "ts": "2026-06-30T09:50:05.942Z",
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@philipppolster.bsky.social",
-      "text": "Arbeit,Soziales: #Ramelow\nDigitales/Datenschutz/Digitals Souveränität: @anke.domscheit-berg.de \nVerteidigung: #Pistorius\nErnährung/Landwirtschaft: @oezdemir.de  \nInfrastruktur, Verkehr und Wohnen: Dominik #Krause\nUnwelt: @svenjaschulze.bsky.social \nEntwicklung und besondere Aufgaben: #GerdMüller",
-      "url": "https://bsky.app/profile/philipppolster.bsky.social/post/3mk5hvcjxpc26",
-      "engagement": 7,
-      "ts": "2026-04-23T07:19:02.982Z",
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@ndhsv.bsky.social",
-      "text": "pazifistisch und entmilitarisiert sein funktioniert nur in einer idealen Wunschvorstellung. In der Realität kann einem Krieg aufgezwungen werden.\n7) Die Linke will weder Werbung für die Bundeswehr, noch einen verpflichtenden Wehrdienst. Dabei gibt es nur einen Weg, wie man die Wehrpflicht vermeiden",
-      "url": "https://bsky.app/profile/ndhsv.bsky.social/post/3moasoklnkk2s",
-      "engagement": 7,
-      "ts": "2026-06-14T12:50:53.081Z",
-      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -189,7 +152,9 @@
       "url": "https://ard.social/@tagesschau/116788982132188059",
       "engagement": 7,
       "ts": "2026-06-21T16:14:03.000Z",
-      "sentiment": "kritisch"
+      "followers": 91869,
+      "isBot": false,
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -198,16 +163,21 @@
       "url": "https://social.bund.de/@Verteidigungsministerium/112721782116565944",
       "engagement": 7,
       "ts": "2024-07-03T09:11:36.066Z",
-      "sentiment": "positiv"
+      "followers": 1038,
+      "isBot": false,
+      "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
       "author": "@baks.bund.de",
+      "handle": "baks.bund.de",
       "text": "\"Zur Stärkung der Reserve der #Bundeswehr sollen [..] alle, die einen Wehrdienst absolviert & ein bestimmtes Alter haben, verpflichtend zum Dienst herangezogen werden können – auch zu Friedenszeiten.\" Reservisten fungieren als Bindeglied zwischen Streitkräften & Gesellschaft ➡️ #IntegrierteSicherheit",
       "url": "https://bsky.app/profile/baks.bund.de/post/3mn7hhpuacs2k",
       "engagement": 6,
       "ts": "2026-06-01T06:32:21.790Z",
-      "sentiment": "kritisch"
+      "followers": 3229,
+      "isBot": false,
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -216,6 +186,8 @@
       "url": "https://ard.social/@tagesschau/116831520241352320",
       "engagement": 6,
       "ts": "2026-06-29T04:32:03.000Z",
+      "followers": 91869,
+      "isBot": false,
       "sentiment": "neutral"
     },
     {
@@ -225,6 +197,8 @@
       "url": "https://ard.social/@tagesschau/116474020059776581",
       "engagement": 6,
       "ts": "2026-04-27T01:15:03.000Z",
+      "followers": 91869,
+      "isBot": false,
       "sentiment": "kritisch"
     },
     {
@@ -234,6 +208,8 @@
       "url": "https://social.bund.de/@Cyberagentur/114742419545368735",
       "engagement": 5,
       "ts": "2025-06-25T05:46:16.370Z",
+      "followers": 2123,
+      "isBot": false,
       "sentiment": "positiv"
     },
     {
@@ -243,43 +219,9 @@
       "url": "https://ard.social/@tagesschau/116539848348179445",
       "engagement": 5,
       "ts": "2026-05-08T16:16:03.000Z",
+      "followers": 91869,
+      "isBot": false,
       "sentiment": "negativ"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@doener.eurosky.social",
-      "text": "#Bundeswehr\n\nwww.linkedin.com/posts/michel...",
-      "url": "https://bsky.app/profile/doener.eurosky.social/post/3mpjgnqnns22e",
-      "engagement": 4,
-      "ts": "2026-06-30T16:34:50.847Z",
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@pfj161.bsky.social",
-      "text": "Bist du jetzt in der Bundeswehr?",
-      "url": "https://bsky.app/profile/pfj161.bsky.social/post/3mpircjf2ic24",
-      "engagement": 4,
-      "ts": "2026-06-30T10:12:45.549Z",
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@olgkarlsruhe.bsky.social",
-      "text": "🎙️ Wie kommt man als Diensthundeführer und Kampfmittelerkunder zur Justiz? 😉🐕⚖️ Dass Patrick einmal Teil der Justiz sein würde, hatte er während seiner Zeit bei der Bundeswehr wohl selbst nicht auf dem Schirm.",
-      "url": "https://bsky.app/profile/olgkarlsruhe.bsky.social/post/3mpig4odqbk2s",
-      "engagement": 4,
-      "ts": "2026-06-30T06:52:38.263Z",
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Mastodon",
-      "author": "@annyhartmann@mastodon.social",
-      "text": "@ peacekeeper Lese-Empfehlung: „Die Prinzipien der Kriegspropaganda“ von Anna Morelli. Sie belegt, dass seit Napoleon jeder Krieg mit dem immer gleichen 10 Sätzen begründet wird. Wenn ihr das Buch kauft, lest und anschließend Nachrichten hört…. Viel Spaß, kauft euch ein Schuppen-Shampoo 😉🤓 # frieden # krieg # rheinmetallentwaffnen # bundeswehr",
-      "url": "https://mastodon.social/@annyhartmann/116783432614975124",
-      "engagement": 4,
-      "ts": "2026-06-20T16:42:44.000Z",
-      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -288,7 +230,9 @@
       "url": "https://social.bund.de/@Cyberagentur/110026389427785747",
       "engagement": 4,
       "ts": "2023-03-15T08:37:47.596Z",
-      "sentiment": "neutral"
+      "followers": 2123,
+      "isBot": false,
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -297,69 +241,8 @@
       "url": "https://ard.social/@tagesschau/116532251368745167",
       "engagement": 4,
       "ts": "2026-05-07T08:04:02.000Z",
-      "sentiment": "positiv"
-    },
-    {
-      "platform": "Mastodon",
-      "author": "@nemo@mas.to",
-      "text": "Verwirrung um Wehrdienst-Regel: Das Verteidigungsministerium stellt klar, dass Männer vorerst keine Reiseerlaubnis für Auslandaufenthalte brauchen – solange der Wehrdienst freiwillig bleibt. 🛫🛡️ # Wehrdienst # Reisefreiheit https://www. n-tv.de/mediathek/videos/polit ik/Minister-stellt-klar-Maenner-brauchen-keine-Reiseerlaubnis-id30690255.html Phew nochmal Glück gehabt… war wohl doch nur falsche",
-      "url": "https://mas.to/@nemo/116368293233062396",
-      "engagement": 4,
-      "ts": "2026-04-08T09:07:20.000Z",
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Mastodon",
-      "author": "@Karl_Theodor@mastodon.social",
-      "text": "Der # Bundeskanzler # Merz denkt über die \" # Zukunft unserer # KinderundEnkel \" nach. Natürlich nicht❓ aus der Sicht der # Heilpflanze 🌱 😀 👯 # Cannabis , sondern aus Sicht der # Industrie und der # Wertschöpfungsketten in # Deutschland und # Europa . Ist diese sprachliche Veränderung mit Zugehen auf die 🙏 # Bedürfnisse der Menschen ein ✅ # Wendepunkt ❓ Das Bild des großen 🛥️ Tankers kann ich",
-      "url": "https://mastodon.social/@Karl_Theodor/116685974650610336",
-      "engagement": 4,
-      "ts": "2026-06-03T11:37:53.000Z",
-      "sentiment": "negativ"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@nacktnasenwombat.bsky.social",
-      "text": "Du könntest Dich freiwillig zur Bundeswehr melden, dann ist das in der unentgeltlichen truppenärztlichen Versorgung drin...",
-      "url": "https://bsky.app/profile/nacktnasenwombat.bsky.social/post/3mpj2omasgc2i",
-      "engagement": 3,
-      "ts": "2026-06-30T13:00:34.885Z",
-      "sentiment": "positiv"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@franzjaeger.bsky.social",
-      "text": "Die Ergebnisse bei WM-Teilnahme liegt (für Amateure) wohl weniger an der Leistungsorientierung im Schulsport als an der Sportförderung des Bundes beim Leistungssport.\nSelbst Olympiakader bekommen kaum Unterstützung, solange sie nicht bei Bundeswehr oder Polizei verbeamtet werden.",
-      "url": "https://bsky.app/profile/franzjaeger.bsky.social/post/3mpiqefs6o22o",
-      "engagement": 3,
-      "ts": "2026-06-30T09:55:55.152Z",
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@hallifax.bsky.social",
-      "text": "Ich versteh es nicht!\nHeute erst eine Meldung gelesen, dass internationalen Hilfsmannschaften die Einreise verweigert wurde - auch deutschen.\nEine Mannschaft war schon mit ihren Hunden und Gerät am Flughafen + sollte von der Bundeswehr eingeflogen werden. Dann kam die Absage aus Venezuela.",
-      "url": "https://bsky.app/profile/hallifax.bsky.social/post/3mpipyzd6ts2b",
-      "engagement": 3,
-      "ts": "2026-06-30T09:49:32.979Z",
-      "sentiment": "negativ"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@erikuden.mastodon.de.ap.brid.gy",
-      "text": "Boris Pistorius plante mit diesem neuen Wehrdienst-Gesetz ja 203.000 neue Soldat:innen bis 2031. Nun, es ist 2026 in Kraft getreten, seither ist ein halbes Jahr vergangen, und das Gesetz hat ganze 530 neue Menschen motiviert zur Bundeswehr zu gehen.\n\nHochgerechnet, bei gleichbleibender […]",
-      "url": "https://bsky.app/profile/erikuden.mastodon.de.ap.brid.gy/post/3mp2wstr5imm2",
-      "engagement": 3,
-      "ts": "2026-06-24T22:13:59.000Z",
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Mastodon",
-      "author": "@aktionfsa@mastodon.social",
-      "text": "Zum Kräfteverhältnis Russland-NATO Es gibt noch vernünftige Stimmen Mehr dazu bei https://www. telepolis.de/article/Militaere xperte-sicher-Russischer-Angriff-auf-die-Nato-ist-nicht-plausibel-11330829.html a-fsa.de/d/3Qn Link zu dieser Seite: https://www. a-fsa.de/de/articles/9571-2026 0623-zum-kraefteverhaeltnis-russland-nato.html Link im Tor-Netzwerk: http:// a6pdp5vmmw4zm5tifrc3qo2pyz7mvn k4zzi",
-      "url": "https://mastodon.social/@aktionfsa/116798305470822908",
-      "engagement": 3,
-      "ts": "2026-06-23T07:45:06.000Z",
+      "followers": 91869,
+      "isBot": false,
       "sentiment": "kritisch"
     },
     {
@@ -369,6 +252,8 @@
       "url": "https://ard.social/@tagesschau/116777783279900580",
       "engagement": 3,
       "ts": "2026-06-19T16:46:02.000Z",
+      "followers": 91869,
+      "isBot": false,
       "sentiment": "kritisch"
     },
     {
@@ -378,7 +263,9 @@
       "url": "https://ard.social/@tagesschau/116774889221943521",
       "engagement": 3,
       "ts": "2026-06-19T04:30:02.000Z",
-      "sentiment": "negativ"
+      "followers": 91869,
+      "isBot": false,
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -387,7 +274,9 @@
       "url": "https://social.bund.de/@Verteidigungsministerium/112512188179100111",
       "engagement": 3,
       "ts": "2024-05-27T08:49:06.387Z",
-      "sentiment": "positiv"
+      "followers": 1038,
+      "isBot": false,
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -396,7 +285,9 @@
       "url": "https://social.bund.de/@Verteidigungsministerium/112455497192232403",
       "engagement": 3,
       "ts": "2024-05-17T08:31:50.578Z",
-      "sentiment": "kritisch"
+      "followers": 1038,
+      "isBot": false,
+      "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
@@ -405,7 +296,9 @@
       "url": "https://social.bund.de/@Cyberagentur/110099684039083605",
       "engagement": 3,
       "ts": "2023-03-28T07:17:34.610Z",
-      "sentiment": "positiv"
+      "followers": 2123,
+      "isBot": false,
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -414,6 +307,8 @@
       "url": "https://ard.social/@tagesschau/116675873558064545",
       "engagement": 3,
       "ts": "2026-06-01T16:49:03.000Z",
+      "followers": 91869,
+      "isBot": false,
       "sentiment": "kritisch"
     },
     {
@@ -423,79 +318,33 @@
       "url": "https://ard.social/@tagesschau/116663188343976154",
       "engagement": 3,
       "ts": "2026-05-30T11:03:02.000Z",
+      "followers": 91869,
+      "isBot": false,
       "sentiment": "negativ"
-    },
-    {
-      "platform": "Mastodon",
-      "author": "@OndrekaKL@mastodon.social",
-      "text": "Karl Marx hat das Dasein eines Arbeiters einmal mit dem Gefühl verglichen, die eigene Haut zum Markt zu tragen. Spätestens jetzt, wo die Abschaffung des Achtstundentags unmittelbar bevorsteht, muss uns allen klar werden, dass man vorhat, uns zu häuten. https:// jacobin.de/artikel/arbeitszeit reform-betrieb-merz-cdu # arbeitsregime # zeitenwende # solidarität # widerstand",
-      "url": "https://mastodon.social/@OndrekaKL/116618047941530098",
-      "engagement": 3,
-      "ts": "2026-05-22T11:43:14.000Z",
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Mastodon",
-      "author": "@Kunze_steffen@mastodon.social",
-      "text": "Trump legt die regelbasierte Weltordnung in Schutt und Asche. Putin schießt mit allem, was er hat, die Ukraine in Schutt und Asche. Die AfD ist in Deutschland immer noch nicht verboten. # Bundeskanzler # Merz kümmert sich gerade darum, dass Krankschreibungen per Telefon abgeschafft werden sollen. # Zeitenwende jetzt @ Bundesregierung # ZeitenwendeJetzt",
-      "url": "https://mastodon.social/@Kunze_steffen/115911935048839974",
-      "engagement": 3,
-      "ts": "2026-01-17T18:49:26.000Z",
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@franzjaeger.bsky.social",
-      "text": "Ich könnte mir vorstellen, dass es noch weitere Ressorts gibt, bei denen der Bund sinnvollerweise Vorgaben machen sollte, die dann natürlich nach lokalen Erfordernissen anzupassen sind:\n- Bundeswehr, Bundespolizei, THW etc.\n- Deutsche Bahn\n- Behörden und andere Einrichtungen des Bundes\n🤔\n...",
-      "url": "https://bsky.app/profile/franzjaeger.bsky.social/post/3mpjaljj26c2u",
-      "engagement": 2,
-      "ts": "2026-06-30T14:46:13.797Z",
-      "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
       "author": "@diplo.de",
+      "handle": "diplo.de",
       "text": "Nach dem verheerenden Erdbeben in #Venezuela leisten 🇩🇪 & 🇺🇸 schnelle Hilfe. 🇩🇪 unterstützt die internationalen Hilfsmaßnahmen mit dem THW, Bundeswehr-Transportkapazitäten und der vom AA auf insg. 13,7 Mio. € aufgestockten humanitären & Katastrophenhilfe. @aussenminister.diplo.de 6/6",
       "url": "https://bsky.app/profile/diplo.de/post/3mpivp7kqxc2g",
       "engagement": 2,
       "ts": "2026-06-30T11:31:04.782Z",
-      "sentiment": "neutral"
+      "followers": 24927,
+      "isBot": false,
+      "sentiment": "positiv"
     },
     {
       "platform": "Bluesky",
       "author": "@ahaachja.bsky.social",
+      "handle": "ahaachja.bsky.social",
       "text": "Boris #Pistorius. Seit Januar 2023 #Bundesminister der #Verteidigung. Sorry.\n \nde.wikipedia.org/wiki/Boris_P...",
       "url": "https://bsky.app/profile/ahaachja.bsky.social/post/3mph4erpjnc2c",
       "engagement": 2,
       "ts": "2026-06-29T18:25:33.072Z",
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@owlyk.bsky.social",
-      "text": "Udo Jürgens zufolge fängt für den Bundesminister der Verteidigung Boris Pistorius heute das Leben an.",
-      "url": "https://bsky.app/profile/owlyk.bsky.social/post/3mgzlxwsees2x",
-      "engagement": 2,
-      "ts": "2026-03-14T14:05:52.712Z",
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@wackjackle.norden.social.ap.brid.gy",
-      "text": "'Fragebogenaktion bringt Bundeswehr etwa 530 Rekruten\n\nAus diesem Pool konnten bisher etwa 530 rekrutiert werden, die ihren Wehrdienst in diesem Jahr antreten. Das sind 0,18 Prozent der Angeschriebenen.' […]",
-      "url": "https://bsky.app/profile/wackjackle.norden.social.ap.brid.gy/post/3mp5h56maykd2",
-      "engagement": 2,
-      "ts": "2026-06-25T22:11:28.000Z",
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@andreas-irmer.bsky.social",
-      "text": "1992-1993 Wehrdienst und SAM15. 1994 dann Wehrübung. 1996 etwas überrascht gesundheitlich aus der Wehrüberwachung \"ausgeschieden\". Aber in den Akten gab es mich wohl doch noch irgendwie / irgendwo.",
-      "url": "https://bsky.app/profile/andreas-irmer.bsky.social/post/3mobmblphas2b",
-      "engagement": 2,
-      "ts": "2026-06-14T20:28:55.909Z",
-      "sentiment": "neutral"
+      "followers": 11029,
+      "isBot": false,
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -504,15 +353,8 @@
       "url": "https://social.tchncs.de/@doener/116840023688007595",
       "engagement": 2,
       "ts": "2026-06-30T16:34:35.000Z",
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Mastodon",
-      "author": "@peacekeeper@social.anoxinon.de",
-      "text": "Das z.B. # Frankreich so ruhig gegenüber dem Imperialismus von # Deutschland ist, ist schon erstaunlich. Zwei Kriegsminister # vonderLeyen und # Pistorius bauen unter dem Deckmantel der # EU # Demokratie wieder eine Art # Reichswehr auf - nennen es # Bundeswehr ! Hat # Frankreich , hat # Polen # Niederlande wirklich vergessen, was deutsche Soldaten so treiben können? Sehen Sie die Gefahr nicht die",
-      "url": "https://social.anoxinon.de/@peacekeeper/116811805831843641",
-      "engagement": 2,
-      "ts": "2026-06-25T16:58:25.000Z",
+      "followers": 2709,
+      "isBot": false,
       "sentiment": "kritisch"
     },
     {
@@ -522,6 +364,8 @@
       "url": "https://ard.social/@tagesschau/116806873395368928",
       "engagement": 2,
       "ts": "2026-06-24T20:04:02.000Z",
+      "followers": 91869,
+      "isBot": false,
       "sentiment": "neutral"
     },
     {
@@ -531,7 +375,9 @@
       "url": "https://ard.social/@tagesschau/116798395674369760",
       "engagement": 2,
       "ts": "2026-06-23T08:08:02.000Z",
-      "sentiment": "negativ"
+      "followers": 91869,
+      "isBot": false,
+      "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
@@ -540,16 +386,9 @@
       "url": "https://ard.social/@tagesschau/116792764798118564",
       "engagement": 2,
       "ts": "2026-06-22T08:16:02.000Z",
+      "followers": 91869,
+      "isBot": false,
       "sentiment": "kritisch"
-    },
-    {
-      "platform": "Mastodon",
-      "author": "@peacekeeper@social.anoxinon.de",
-      "text": "# Deutschland wird wieder Militärmacht in # Europa und ruft zur Kriegstüchtigkeit an die # Ostfront ! Hatten wir schon mal - am 22.6.1941 ging das brandschatzen, morden und töten los! Auch damals unter dem Deckmantel der # Freiheit - Leute, sie belügen uns auch heute wieder! Was sagt übrigens # Frankreich dazu, dass # Deutschland wieder wer ist? # niewiederkrieg - stoppt die Schlägertruppe # NATO ",
-      "url": "https://social.anoxinon.de/@peacekeeper/116783103291377324",
-      "engagement": 2,
-      "ts": "2026-06-20T15:18:59.000Z",
-      "sentiment": "negativ"
     },
     {
       "platform": "Mastodon",
@@ -558,177 +397,479 @@
       "url": "https://eupolicy.social/@ilumium/116776036484081536",
       "engagement": 2,
       "ts": "2026-06-19T09:21:48.000Z",
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Mastodon",
-      "author": "@chbmeyer@digitalcourage.social",
-      "text": "@ bfdi Na, die Liste ist ja schon da: https:// de.m.wikipedia.org/wiki/Bundes ministerium_%28Deutschland%29#Derzeitige_Bundesministerien ❤ - @ BMWK ❤ - @ bmf ❤ - @ bmi ❤ - @ AuswaertigesAmt 🙁 - # BMJ 🙁 - # BMAS 🙁 - # BMVg 🙁 - # BMEL 🙁 - # BMFSFJ 🙁 - # BMG ❤ - @ bmdv ❤ ??? - @ bmuv ❤ - @ bmbf_bund 🙁 - # BMZ ❤ - @ BMWSB_Bund 🙁 - # BKAmt So gesehen sind wir bei 50% mit datenschutzfreundlicher",
-      "url": "https://digitalcourage.social/@chbmeyer/109428601358452527",
-      "engagement": 2,
-      "ts": "2022-11-29T18:52:25.000Z",
+      "followers": 2964,
+      "isBot": false,
       "sentiment": "negativ"
     },
     {
       "platform": "Mastodon",
-      "author": "@MisterSmith@mastodon.social",
-      "text": "massive Kuerzungen bei # Sozialausgaben geplant. Zielgruppen: Kinder, Menschen mit Behinderung unf Familien! https://www. der-paritaetische.de/alle-meld ungen/enthuellung-kahlschlag/ https://www. deutschlandfunk.de/kinder-und- jugendkriminalitaet-warum-experten-auf-hilfe-statt-strafe-setzen-100.html # sozialstaat # zeitenwende",
-      "url": "https://mastodon.social/@MisterSmith/116450596642965223",
-      "engagement": 2,
-      "ts": "2026-04-22T21:58:10.000Z",
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Mastodon",
-      "author": "@darkandandstormy@kinkycats.org",
-      "text": "@ glsbank Und der Artikel dazu: \"Die NachDenkSeiten wollten vor diesem Hintergrund wissen, ob die Bundesregierung ausschließen kann, dass einzelne Ministerien Druck auf die entsprechenden Banken ausgeübt haben, und wie Kanzler Merz grundsätzlich die zunehmende Tendenz zum # Debanking von regierungskritischen Stimmen in # Deutschland bewertet.\" https://www. nachdenkseiten.de/?p=143481 # Banken # GL",
-      "url": "https://kinkycats.org/@darkandandstormy/115700782916197995",
-      "engagement": 2,
-      "ts": "2025-12-11T11:50:40.000Z",
+      "author": "@Verteidigungsministerium",
+      "text": "Direktorin Döring wird neue Abteilungsleiterin für den Bereich # Personal im # BMVg . Zuletzt engagierte sie sich als Teil des Führungsteams in der Task Force Personal. Auch das Bundesamt für das # Personalmanagement der Bundeswehr bekommt eine neue Führung. Die # Pressemitteilung 👇",
+      "url": "https://social.bund.de/@Verteidigungsministerium/112286424149808385",
+      "engagement": 1,
+      "ts": "2024-04-17T11:54:20.685Z",
+      "followers": 1038,
+      "isBot": false,
       "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
-      "author": "@darkandandstormy@kinkycats.org",
-      "text": "@ glsbank # debanking '\"Die GLS-Bank hat zum 31. Dezember die Konten des Parteivorstands der Deutschen Kommunistischen Partei # DKP sowie zahlreicher Gliederungen gekündigt. Vorgeschoben werden die Allgemeinen Geschäftsbedingungen (AGB) und die darin enthaltene Klausel zur Kündigung ohne Angabe von Gründen. Die DKP protestiert scharf gegen dieses offensichtlich politisch motivierte Vorgehen.\" http",
-      "url": "https://kinkycats.org/@darkandandstormy/115694042685334138",
-      "engagement": 2,
-      "ts": "2025-12-10T07:16:33.000Z",
+      "author": "@Cyberagentur",
+      "text": "Zwei Tage # Technologiesymposium # Oberlausitz in # Dresden . # BMVg und Sächsische # Staatsregierung haben zum Austausch eingeladen, um die Region fit zu machen für den # Kohleausstieg durch # Innovation und # Technologieansiedlung . Besonderer Fokus: Verbindung von ziviler und militärischer # Forschung . Das Thema # Cybersicherheit bildete den Abschluss mit Beteiligung der @ Cyberagentur . Viele",
+      "url": "https://social.bund.de/@Cyberagentur/111346916916483457",
+      "engagement": 1,
+      "ts": "2023-11-03T13:45:17.996Z",
+      "followers": 2123,
+      "isBot": false,
       "sentiment": "positiv"
     },
     {
-      "platform": "Bluesky",
-      "author": "@goanauttt.bsky.social",
-      "text": "THW\nBundeswehr\n\"Bundestag\"  \nAlle ma machen....",
-      "url": "https://bsky.app/profile/goanauttt.bsky.social/post/3mpjhyxc7xk2e",
+      "platform": "Mastodon",
+      "author": "@bmdv",
+      "text": "Die richtige # Software ➡️klügere Entscheidungen beim Militäreinsatz. Das Bundesverteidigungsministerium # BMVg arbeitet an # Digitalisierung der @ Bundeswehr Beiratsvorsitzender # Digitalstrategie Dr. Thomas Koenen unterstreicht, wie wichtig digitale Vernetzung ist – auch mit internationalen Verbündeten.",
+      "url": "https://social.bund.de/@bmdv/110785105031500276",
       "engagement": 1,
-      "ts": "2026-06-30T16:59:00.654Z",
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@soziauftour.troet.cafe.ap.brid.gy",
-      "text": "[Stade]\n\nUnd sowas ist kein unrealistisches Szenario. Ich bin mir sicher, dass jede SPFH mit Berufserfahrung Väter kennt, denen man zutraut, zB beim Besprechen einer Kinderschutzmeldung zuzuschlagen oder schlimmeres zu tun. Ich kenne welche. Und einer davon ist bei der Bundeswehr. Selbst wenn […]",
-      "url": "https://bsky.app/profile/soziauftour.troet.cafe.ap.brid.gy/post/3mpjdh3s35ss2",
-      "engagement": 1,
-      "ts": "2026-06-30T15:37:24.000Z",
+      "ts": "2023-07-27T08:29:08.945Z",
+      "followers": 4310,
+      "isBot": false,
       "sentiment": "kritisch"
     },
     {
-      "platform": "Bluesky",
-      "author": "@mariodonick.bsky.social",
-      "text": "Ach Gott.\n\n\"Am Dienstagnachmittag gibt es deshalb einen öffentlichen Appell der Soldaten mit dem Ehrenzug des Wachbataillons. Im Anschluss spielt die Big Band der Bundeswehr.\nDie Zahl der Korvetten am Standort wird sich laut Bundeswehr in den kommenden Jahren auf zehn verdoppeln\"",
-      "url": "https://bsky.app/profile/mariodonick.bsky.social/post/3mpj35niz2s2p",
+      "platform": "Mastodon",
+      "author": "@Life_is@no-pony.farm",
+      "text": "@tagesschau@ard.social Aus den im Artikel genenannten zahlen: Die #Bundeswehr will auf eine Zahl von Wehrdienstleistenden kommen, die deutlich höher ist als die Zahl Männer, die an einem #Wehrdienst interessiert ist. Also kommt die #Wehrpflicht. Aber da es untaugliche und #verweigerer geben wird, gibt es auch dann nicht genügend männliche Wehrpflichtige. Also kommt eine #Grundgesetzänderung und di",
+      "url": "https://no-pony.farm/@Life_is/116532296677110232",
       "engagement": 1,
-      "ts": "2026-06-30T13:08:59.518Z",
-      "sentiment": "positiv"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@mariodonick.bsky.social",
-      "text": "Noch mehr Bundeswehr, Korvette \"Erfurt\" im Stadthafen, die feiern irgendwas",
-      "url": "https://bsky.app/profile/mariodonick.bsky.social/post/3mpj32flvqk2p",
-      "engagement": 1,
-      "ts": "2026-06-30T13:07:10.542Z",
+      "ts": "2026-05-07T08:15:33.000Z",
+      "followers": 13884,
+      "isBot": false,
       "sentiment": "negativ"
     },
     {
-      "platform": "Bluesky",
-      "author": "@altonese.bsky.social",
-      "text": "Ja wäre meine Wahl wenn ich noch zur Bundeswehr dürfte ist auch besser bezahlt als normale Pferde- oder Flugzeugsoldat",
-      "url": "https://bsky.app/profile/altonese.bsky.social/post/3mpj2a53xt22d",
+      "platform": "Mastodon",
+      "author": "@kaffeeringe@social.tchncs.de",
+      "text": "@ kieliscalling Ich glaube, dann würde ich mir auch noch einmal komplett überlegen, wo ich wohnen will. Derzeit hält uns der Garten ja im Kieler Norden. Aber ohne Garten, umzäunt von Bundeswehr, die dann auch noch viel aktiver sein will... Wir hatten ja 2018 die leise Hoffnung, dass die Bundeswehr irgendwann den Standort in der Wik ganz aufgeben könnte und wir dann freien Zugang zur Förde bekämen.",
+      "url": "https://social.tchncs.de/@kaffeeringe/116412975762691021",
       "engagement": 1,
-      "ts": "2026-06-30T12:52:29.236Z",
-      "sentiment": "positiv"
+      "ts": "2026-04-16T06:30:41.000Z",
+      "followers": 4769,
+      "isBot": false,
+      "sentiment": "neutral"
     },
     {
-      "platform": "Bluesky",
-      "author": "@hlhhry.bsky.social",
-      "text": "Pistorius. März. Strack-Zimmermann. Hofreiter.\nSie sitzen im Bundestag und wünschen sich den Krieg herbei. Mit Worten, mit Gesetzen, mit Werbekampagnen für die Bundeswehr.\nKeiner von ihnen hat das Grauen geerbt. Keiner saß als Kind neben einem Vater, der stumm war und zerstört.",
-      "url": "https://bsky.app/profile/hlhhry.bsky.social/post/3mpiwgucahk23",
+      "platform": "Mastodon",
+      "author": "@BlumeEvolution@sueden.social",
+      "text": "Das ist wahr, @ Erika Ich habe für die Erfahrungen dieser Jahre den Begriff # Zeitenumbruch vorgeschlagen, da sich der # Fossilismus ja sogar mit Gewalt gegen die Energie- und # Zeitenwende stemmt. https:// scilogs.spektrum.de/natur-des- glaubens/saekularer-zeitenumbruch-wie-fuehlt-sich-die-zeit-fuer-dich-an/",
+      "url": "https://sueden.social/@BlumeEvolution/115926378857873893",
       "engagement": 1,
-      "ts": "2026-06-30T11:44:39.902Z",
+      "ts": "2026-01-20T08:02:41.000Z",
+      "followers": 12400,
+      "isBot": false,
       "sentiment": "kritisch"
     },
     {
-      "platform": "Bluesky",
-      "author": "@dauerfeuer.bsky.social",
-      "text": "In Deutschland doch das selbe. Ich frag mich wieso überhaupt wer zur Bundeswehr gehen soll...\n\nWenn der Russe oder Franzose hier einmarschiert, ich bin dann mal weg ;)",
-      "url": "https://bsky.app/profile/dauerfeuer.bsky.social/post/3mpiqbtx44k2u",
-      "engagement": 1,
-      "ts": "2026-06-30T09:54:29.330Z",
+      "platform": "Mastodon",
+      "author": "@tagesschau@ard.social",
+      "text": "Wäre ein Bundeswehreinsatz in der Straße von Hormus rechtlich möglich? Nach der Öffnung der Straße von Hormus plant die Bundesregierung, sich an einer internationalen Aktion zur Minenräumung zu beteiligen. Aber es gibt rechtliche Risiken. Von Max Bauer. ➡️ https://www. tagesschau.de/ausland/asien/st rasse-hormus-bundeswehreinsatz-faq-100.html?at_medium=mastodon&at_campaign=tagesschau.de # FAQ # St",
+      "url": "https://ard.social/@tagesschau/116775817232976167",
+      "engagement": 0,
+      "ts": "2026-06-19T08:26:02.000Z",
+      "followers": 91869,
+      "isBot": false,
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "Mastodon",
+      "author": "@Verteidigungsministerium",
+      "text": "„Frauen können das!“ lautete das Motto des diesjährigen # GirlsDay im # BMVg . 40 Schülerinnen haben heute Einblicke in verschiedene Berufe unserer # Bundeswehr bekommen. Seit 2015 öffnet das BMVg die Tore für interessierte junge # Frauen zwischen 15 und 17 Jahren.",
+      "url": "https://social.bund.de/@Verteidigungsministerium/112332340523239687",
+      "engagement": 0,
+      "ts": "2024-04-25T14:31:28.942Z",
+      "followers": 1038,
+      "isBot": false,
+      "sentiment": "negativ"
+    },
+    {
+      "platform": "Mastodon",
+      "author": "@fsteiner@mastodon.social",
+      "text": "Empfehle letzte Frage und letzte Antwort: # Habeck rechnet damit, dass Lieferung Kampfpanzer erste Frage ist, die nach Nachbesetzung in # BMVg zu klären ist. Aus der Dlf Audiothek | Interviews | Weltwirtschaftsforum in Davos | Robert Habeck (Grüne): Das Kapital in die richtige Richtung lenken https:// share.deutschlandradio.de/dlf- audiothek-audio-teilen.3265.de.html?mdm:audio_id=dira_DLF_236f98d0",
+      "url": "https://mastodon.social/@fsteiner/109703454523776658",
+      "engagement": 0,
+      "ts": "2023-01-17T07:51:12.000Z",
+      "followers": 2047,
+      "isBot": false,
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Mastodon",
+      "author": "@kenji@chaos.social",
+      "text": "# Zeitenwende in # Japan : Nicht nur wir in der EU müssen uns überlegen, wie wir uns in geopolitisch und digital unsicheren Zeiten neu aufstellen. Obwohl japanische Unternehmen im internationalen Vergleich überdurchschnittlich häufig formale Risikomanagementstrukturen unterhalten und Japan bereits 2014 sein erstes # Cybersicherheitsgesetz auf den Weg brachte, haben weniger als 1/3 ihre # Cyberrisi",
+      "url": "https://chaos.social/@kenji/116738444762283103",
+      "engagement": 0,
+      "ts": "2026-06-12T18:01:44.000Z",
+      "followers": 2403,
+      "isBot": false,
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Mastodon",
+      "author": "@kenji@chaos.social",
+      "text": "# Zeitenwende in der # Cybersicherheit : Was hilft uns Management und Compliance, wenn bereits die zugrunde liegenden Produkte unsicher sind? Mit den neuen # KI Frontier-Modellen lassen sich Schwachstellen nicht nur in aktueller Software, sondern in Produkten ausfindig machen, die teils seit Jahrzehnten im Einsatz sind - und bei denen \"Security by Design\" noch keine Rolle spielte. Wir stehen vor m",
+      "url": "https://chaos.social/@kenji/116657450799893235",
+      "engagement": 0,
+      "ts": "2026-05-29T10:43:54.000Z",
+      "followers": 2403,
+      "isBot": false,
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "Mastodon",
+      "author": "@Sicherheitspod@mastodontech.de",
+      "text": "Und jetzt auch mit Bewegtbild (aber ohne Sicherheitshinweise!) bei Phoenix: # SicherheitshalberLive # Zeitenwende https://www. phoenix.de/sicherheitshalber-a -5186737.html",
+      "url": "https://mastodontech.de/@Sicherheitspod/116431143859322603",
+      "engagement": 0,
+      "ts": "2026-04-19T11:31:04.000Z",
+      "followers": 5747,
+      "isBot": false,
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Reddit r/de",
+      "author": "u/QwertzNoTh",
+      "text": "Nach schweren Erdbeben: Bundeswehr fliegt nach Venezuela - bewaffnete Soldaten mit dabei",
+      "url": "https://www.reddit.com/r/de/comments/1ug53ia/nach_schweren_erdbeben_bundeswehr_fliegt_nach/",
+      "engagement": 0,
+      "ts": "2026-06-26T12:13:04+00:00",
+      "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
-      "platform": "Bluesky",
-      "author": "@derknippser.bsky.social",
-      "text": "Wenn die Bundeswehr Radar will muss sie ein Abo abschließen 🤣",
-      "url": "https://bsky.app/profile/derknippser.bsky.social/post/3mpiignmnzk27",
-      "engagement": 1,
-      "ts": "2026-06-30T07:34:00.535Z",
+      "platform": "Reddit r/de",
+      "author": "u/the_real_lucia",
+      "text": "Bundeswehr erwägt offenbar Verpflichtung für Dienst in der Litauen-Brigade",
+      "url": "https://www.reddit.com/r/de/comments/1uan8p5/bundeswehr_erwägt_offenbar_verpflichtung_für/",
+      "engagement": 0,
+      "ts": "2026-06-20T04:37:05+00:00",
+      "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
-      "platform": "Bluesky",
-      "author": "@zucker.mastodon.social.ap.brid.gy",
-      "text": "»Pistorius zweifelt an Deutschlands Verteidigungswillen«\nhttps://www.sueddeutsche.de/politik/verteidigung-ruestung-pistorius-gesamtverteidigung-zivilschutz-li.3503400\n\n»Es gehe nicht darum, den Staat zu verteidigen, sondern die Art zu leben: in Freiheit und Selbstbestimmung, mit dem Recht, zu […]",
-      "url": "https://bsky.app/profile/zucker.mastodon.social.ap.brid.gy/post/3mowou3asuk52",
-      "engagement": 1,
-      "ts": "2026-06-23T05:40:57.000Z",
+      "platform": "Reddit r/de",
+      "author": "u/GirasoleDE",
+      "text": "Linke fordert Verbot: „Mit Anstieg zu rechnen“ – Streit um Tierversuche bei der Bundeswehr",
+      "url": "https://www.reddit.com/r/de/comments/1uaabr1/linke_fordert_verbot_mit_anstieg_zu_rechnen/",
+      "engagement": 0,
+      "ts": "2026-06-19T18:49:13+00:00",
+      "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
-      "platform": "Bluesky",
-      "author": "@regberlin.bsky.social",
-      "text": "Berlin wird krisenfester! Der Berliner Senat tagte am Dienstag gemeinsam mit Boris Pistorius im @bmvg-bundeswehr.bsky.social. In der gemeinsamen Sitzung beschloss der Berliner Senat umfangreiche Maßnahmen, um die Zivilverteidigungsstrukturen zu stärken und Berlin resilienter im Krisenfall zu machen.",
-      "url": "https://bsky.app/profile/regberlin.bsky.social/post/3mhg52h7zf224",
-      "engagement": 1,
-      "ts": "2026-03-19T13:43:27.498Z",
+      "platform": "Reddit r/de",
+      "author": "u/SEKM0",
+      "text": "Zeitenwende: Merz schickt sogar seine eigene Frau zur Bundeswehr",
+      "url": "https://www.reddit.com/r/de/comments/1u5e3s5/zeitenwende_merz_schickt_sogar_seine_eigene_frau/",
+      "engagement": 0,
+      "ts": "2026-06-14T06:56:41+00:00",
+      "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
-      "platform": "Bluesky",
-      "author": "@demo-ticker-berlin.bsky.social",
-      "text": "💥Ankündigung! Montag 29.06.2026💥\n\n🔥✊🏾Zusammen gegen Krieg, Wehrdienst und Genozid✊🏾🔥\n\nMontag, 29.06.2026 | 17:00 Uhr | Mauerpark, Bernauer Straße 63, 13355 Berlin\n\n📣 Aufruf: asanb.noblogs.org?p=18293 - @stralsunderstr.gegen.krieg\n\n#b2906 #KriegDemKrieg\n1/2",
-      "url": "https://bsky.app/profile/demo-ticker-berlin.bsky.social/post/3mpeg7lbtn222",
-      "engagement": 1,
-      "ts": "2026-06-28T16:43:36.763Z",
+      "platform": "Reddit r/de",
+      "author": "u/GirasoleDE",
+      "text": "Bundeswehr - Streit um Zuständigkeiten im Weltraum",
+      "url": "https://www.reddit.com/r/de/comments/1u53yse/bundeswehr_streit_um_zuständigkeiten_im_weltraum/",
+      "engagement": 0,
+      "ts": "2026-06-13T22:24:35+00:00",
+      "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
-      "platform": "Bluesky",
-      "author": "@eus-nachrichten.bsky.social",
-      "text": "Röwekamp sieht Wehrpflicht-Debatte nach ersten Wehrdienstzahlen als verfrüht an #Röwekamp #Wehrpflicht #Wehrdienst #Bundeswehr #Verteidigung #Sicherheit #Deutschland #Politik #Deutschland #Hilfe #News #Berlin #Newsroom #Nachrichten #presse https://tinyurl.com/27edemdo",
-      "url": "https://bsky.app/profile/eus-nachrichten.bsky.social/post/3mp3kz7tjzb2a",
-      "engagement": 1,
-      "ts": "2026-06-25T05:15:32+01:00",
+      "platform": "Reddit r/de",
+      "author": "u/Spekulatiu5",
+      "text": "Frauen in der Bundeswehr: \"Man ist Soldat, egal welches Geschlecht\"",
+      "url": "https://www.reddit.com/r/de/comments/1u4lo4m/frauen_in_der_bundeswehr_man_ist_soldat_egal/",
+      "engagement": 0,
+      "ts": "2026-06-13T08:40:50+00:00",
+      "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
-      "platform": "Bluesky",
-      "author": "@amyoungproject.bsky.social",
-      "text": "Weiß nicht ob man mich als autoritär links bezeichnen kann (bin ja eher Anarchistisch politisch zu verorden), aber das ist ein Punkt den ich bei der Partei (Linke) nicht nachvollziehen kann. Solange wir einen dt. Staat haben, sollte es eine Bundeswehr geben und ja den Wehrdienst.",
-      "url": "https://bsky.app/profile/amyoungproject.bsky.social/post/3mnqccggqus2e",
-      "engagement": 1,
-      "ts": "2026-06-07T23:15:10.983Z",
+      "platform": "Reddit r/de",
+      "author": "u/GirasoleDE",
+      "text": "Szenario für die Nato-Ostflanke: Binnen weniger Tage wäre die Bundeswehr-Brigade überrannt",
+      "url": "https://www.reddit.com/r/de/comments/1tu1ope/szenario_für_die_natoostflanke_binnen_weniger/",
+      "engagement": 0,
+      "ts": "2026-06-01T18:44:50+00:00",
+      "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
-      "platform": "Bluesky",
-      "author": "@mattdrayton.bsky.social",
-      "text": "Wehrpflicht Bundeswehr Pistorius\n\nAuslandsreisen\nBundestag veröffentlicht Wehrdienst-Gutachten \nMinisterium handelte offenbar rechtswidrig\nwww.welt.de/article6a1d5...",
-      "url": "https://bsky.app/profile/mattdrayton.bsky.social/post/3mnamsqi7q22w",
-      "engagement": 1,
-      "ts": "2026-06-01T17:40:39.990Z",
+      "platform": "Reddit r/de",
+      "author": "u/LethisXia",
+      "text": "Reservestärkungsgesetz: Arbeitgeber im Konkurrenzkampf mit der Bundeswehr",
+      "url": "https://www.reddit.com/r/de/comments/1tsyzkg/reservestärkungsgesetz_arbeitgeber_im/",
+      "engagement": 0,
+      "ts": "2026-05-31T15:50:19+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Reddit r/de",
+      "author": "u/the_real_lucia",
+      "text": "Umfrage zur Kriegstüchtigkeit: Nur wenige trauen der Bundeswehr die Verteidigung Deutschlands zu",
+      "url": "https://www.reddit.com/r/de/comments/1tm5eyf/umfrage_zur_kriegstüchtigkeit_nur_wenige_trauen/",
+      "engagement": 0,
+      "ts": "2026-05-24T07:36:17+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Reddit r/de",
+      "author": "u/Loewin_Leona",
+      "text": "Wer den Bundeswehr-Fragebogen nicht ausfüllt, muss 250 Euro Bußgeld zahlen",
+      "url": "https://www.reddit.com/r/de/comments/1t6d1b6/wer_den_bundeswehrfragebogen_nicht_ausfüllt_muss/",
+      "engagement": 0,
+      "ts": "2026-05-07T14:58:39+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Reddit r/de",
+      "author": "u/WestAcceptable1155",
+      "text": "Mehr als jeder Vierte ignoriert Bundeswehr-Fragebogen",
+      "url": "https://www.reddit.com/r/de/comments/1t5yk8z/mehr_als_jeder_vierte_ignoriert/",
+      "engagement": 0,
+      "ts": "2026-05-07T03:12:07+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Reddit r/de",
+      "author": "u/WestAcceptable1155",
+      "text": "Fragebogen zum Wehrdienst: Schon 200.000 junge Menschen haben Post von der Bundeswehr bekommen",
+      "url": "https://www.reddit.com/r/de/comments/1t2fo0z/fragebogen_zum_wehrdienst_schon_200000_junge/",
+      "engagement": 0,
+      "ts": "2026-05-03T08:23:17+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Reddit r/de",
+      "author": "u/Separate-Start-8978",
+      "text": "Cyber-Chef der Bundeswehr erteilt Palantir eine Absage",
+      "url": "https://www.reddit.com/r/de/comments/1sz6fdo/cyberchef_der_bundeswehr_erteilt_palantir_eine/",
+      "engagement": 0,
+      "ts": "2026-04-29T17:59:33+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Reddit r/de",
+      "author": "u/jobaxgaming",
+      "text": "Versorgung im Kriegsfall: Medizin-Studierende trainieren mit Bundeswehr-Teams",
+      "url": "https://www.reddit.com/r/de/comments/1syae9w/versorgung_im_kriegsfall_medizinstudierende/",
+      "engagement": 0,
+      "ts": "2026-04-28T18:46:39+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Reddit r/de",
+      "author": "u/worst_mathematician",
+      "text": "US-Techkonzern: Bundeswehr will keine Palantir-Software einsetzen",
+      "url": "https://www.reddit.com/r/de/comments/1sxxhvv/ustechkonzern_bundeswehr_will_keine/",
+      "engagement": 0,
+      "ts": "2026-04-28T10:30:54+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Reddit r/bundeswehr",
+      "author": "u/Serahbeee",
+      "text": "Zivile Angebote für militärische Fitness, gemeinsame Märsche…",
+      "url": "https://www.reddit.com/r/bundeswehr/comments/1ujscx3/zivile_angebote_für_militärische_fitness/",
+      "engagement": 0,
+      "ts": "2026-06-30T15:27:10+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Reddit r/bundeswehr",
+      "author": "u/Unusual_Ad_5198",
+      "text": "Wochend Modell Heimatschutz während man in der Ausbildung ist",
+      "url": "https://www.reddit.com/r/bundeswehr/comments/1ujmuvl/wochend_modell_heimatschutz_während_man_in_der/",
+      "engagement": 0,
+      "ts": "2026-06-30T11:43:33+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Reddit r/bundeswehr",
+      "author": "u/zarnyalbi",
+      "text": "Fragebogen Screenshot benötigt",
+      "url": "https://www.reddit.com/r/bundeswehr/comments/1ujh6vp/fragebogen_screenshot_benötigt/",
+      "engagement": 0,
+      "ts": "2026-06-30T06:21:58+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Reddit r/bundeswehr",
+      "author": "u/Fun-Ad6782",
+      "text": "Nach dem (Medizin)Studium zur Bundeswehr - Erfahrungswerte gesucht!",
+      "url": "https://www.reddit.com/r/bundeswehr/comments/1uj5sg4/nach_dem_medizinstudium_zur_bundeswehr/",
+      "engagement": 0,
+      "ts": "2026-06-29T21:37:50+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Reddit r/bundeswehr",
+      "author": "u/PerfectEqual3115",
+      "text": "Erst zivile Ausbildung und dann Bund - oder anderesrum?",
+      "url": "https://www.reddit.com/r/bundeswehr/comments/1uj2j1y/erst_zivile_ausbildung_und_dann_bund_oder/",
+      "engagement": 0,
+      "ts": "2026-06-29T19:35:55+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Reddit r/bundeswehr",
+      "author": "u/EquivalentTop1204",
+      "text": "Zivile Tätigkeit bei der Bundeswehr in Litauen mit meinen Qualifikationen möglich?",
+      "url": "https://www.reddit.com/r/bundeswehr/comments/1uiy4om/zivile_tätigkeit_bei_der_bundeswehr_in_litauen/",
+      "engagement": 0,
+      "ts": "2026-06-29T16:55:58+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "YouTube (Bundeswehr)",
+      "author": "Bundeswehr",
+      "text": "Erste Großübung der Brigade Litauen: Freedom Shield 2026 | Bundeswehr",
+      "url": "https://www.youtube.com/watch?v=1y3cXQiuhMI",
+      "engagement": 0,
+      "ts": "2026-06-29T12:05:51+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "YouTube (Bundeswehr)",
+      "author": "Bundeswehr",
+      "text": "#shorts: Als Austauschoffizier auf einer Fregatte | Bundeswehr",
+      "url": "https://www.youtube.com/shorts/X5jTnlpG8Iw",
+      "engagement": 0,
+      "ts": "2026-06-25T14:11:59+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "YouTube (Bundeswehr)",
+      "author": "Bundeswehr",
+      "text": "Die Pistole P9: Glock 17 im Einsatz bei den Fernspähern | Bundeswehr",
+      "url": "https://www.youtube.com/watch?v=pOvNXtDK518",
+      "engagement": 0,
+      "ts": "2026-06-23T14:25:33+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "YouTube (Bundeswehr)",
+      "author": "Bundeswehr",
+      "text": "Tapferkeit hat viele Facetten | Bundeswehr",
+      "url": "https://www.youtube.com/shorts/Yko0PjRS9SM",
+      "engagement": 0,
+      "ts": "2026-06-19T12:39:36+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "YouTube (Bundeswehr)",
+      "author": "Bundeswehr",
+      "text": "Sein letzter Flug: NH90-Pilot Hauptmann Mike nimmt Abschied | Bundeswehr",
+      "url": "https://www.youtube.com/watch?v=BnTPpvC0t5o",
+      "engagement": 0,
+      "ts": "2026-06-18T12:31:37+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "YouTube (Bundeswehr)",
+      "author": "Bundeswehr",
+      "text": "whY? So wichtig ist Tapferkeit für die Truppe | #Bundeswehr",
+      "url": "https://www.youtube.com/shorts/sY5U3PYSGtE",
+      "engagement": 0,
+      "ts": "2026-06-18T10:41:14+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "YouTube (Bundeswehr)",
+      "author": "Bundeswehr",
+      "text": "Das Ehrenkreuz der Bundeswehr für Tapferkeit und seine Bedeutung | Bundeswehr",
+      "url": "https://www.youtube.com/watch?v=aORcJfLrlA4",
+      "engagement": 0,
+      "ts": "2026-06-17T14:17:16+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Mehr deutsches (und niederländisches) Engagement an der NATO-Ostflanke – und eine US-Zusage",
+      "url": "https://augengeradeaus.net/2026/06/mehr-deutsches-und-niederlaendisches-engagement-an-der-nato-ostflanke-und-eine-us-zusage/",
+      "engagement": 0,
+      "ts": "Tue, 30 Jun 2026 12:59:21 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Fürs Protokoll: Deutsche Patriot-Stationierung in der Türkei begonnen",
+      "url": "https://augengeradeaus.net/2026/06/fuers-protokoll-deutsche-patriot-stationierung-der-der-tuerkei-begonnen/",
+      "engagement": 0,
+      "ts": "Fri, 26 Jun 2026 09:07:45 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Erste Zahlen zum „Neuen Wehrdienst“: Die Interpretationen beginnen",
+      "url": "https://augengeradeaus.net/2026/06/erste-zahlen-zum-neuen-wehrdienst-die-interpretationen-beginnen/",
+      "engagement": 0,
+      "ts": "Wed, 24 Jun 2026 20:48:43 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "„Mein kleines Schiff“ ist Geschichte",
+      "url": "https://augengeradeaus.net/2026/06/mein-kleines-schiff-ist-geschichte/",
+      "engagement": 0,
+      "ts": "Wed, 24 Jun 2026 15:22:35 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Verteidigungsaufstellung erlassen – jetzt müsste alles klar sein",
+      "url": "https://augengeradeaus.net/2026/06/verteidigungsaufstellung-erlassen-jetzt-muesste-alles-klar-sein/",
+      "engagement": 0,
+      "ts": "Wed, 24 Jun 2026 13:49:46 +0000",
+      "alwaysKeep": true,
       "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Der Diskurs um den Neuen Wehrdienst und die Bundeswehr wird von Kritik an der Personalaufwuchs-Strategie, der Rolle des Bundesministers der Verteidigung Boris Pistorius und der Debatte über die Vielfalt in der Bundeswehr geprägt.",
+    "summary": "Der Diskurs um die Bundeswehr und ihre Zukunft dominiert das Thema des Personalaufwuchses und der Wehrdienstpflicht. Die Debatte über die Rolle der Bundeswehr in der internationalen Sicherheit und die Bedeutung von NATO und EU ist weiterhin aktuell.",
     "themes": [
-      "Neuer Wehrdienst",
-      "Bundesminister der Verteidigung",
-      "Vielfalt in der Bundeswehr"
+      "Personalaufwuchs und Wehrdienstpflicht",
+      "Bundeswehr und NATO",
+      "Internationale Sicherheit und EU"
     ]
   }
 }

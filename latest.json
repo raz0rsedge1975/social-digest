@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-30T18:15:42.647Z",
-  "timestamp": "30.6.2026, 20:15:42",
+  "generated": "2026-07-01T03:38:42.000Z",
+  "timestamp": "1.7.2026, 05:38:42",
   "items": [
     {
       "platform": "Bluesky",
@@ -10,7 +10,7 @@
       "url": "https://bsky.app/profile/wiegold.de/post/3mp2s52qwik26",
       "engagement": 77,
       "ts": "2026-06-24T20:50:19.843Z",
-      "followers": 15655,
+      "followers": 15656,
       "isBot": false,
       "sentiment": "kritisch"
     },
@@ -69,7 +69,7 @@
       "url": "https://bsky.app/profile/emha.bsky.social/post/3mpisjd4io22h",
       "engagement": 13,
       "ts": "2026-06-30T10:34:27.601Z",
-      "followers": 3962,
+      "followers": 3963,
       "isBot": false,
       "sentiment": "kritisch"
     },
@@ -81,19 +81,7 @@
       "url": "https://bsky.app/profile/zeit.de/post/3mpe2l2wbhc2a",
       "engagement": 13,
       "ts": "2026-06-28T13:02:05.000Z",
-      "followers": 50720,
-      "isBot": false,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@tiniko.bsky.social",
-      "handle": "tiniko.bsky.social",
-      "text": "Guten Morgen, in Litauen reagiert man sehr adäquat auf einen eigentümlichen Artikel im Spiegel, der einen Partisanenbunker und die Bundeswehr thematisiert. Hatte den Eindruck, dass die Linke damit indirekt versucht ihr Image zu polieren und der Spiegel sich benutzen ließ. \n\nlrt.lt/naujienos/li...",
-      "url": "https://bsky.app/profile/tiniko.bsky.social/post/3mpiideo3g22h",
-      "engagement": 12,
-      "ts": "2026-06-30T07:32:10.480Z",
-      "followers": 8001,
+      "followers": 50724,
       "isBot": false,
       "sentiment": "kritisch"
     },
@@ -103,9 +91,21 @@
       "handle": "baks.bund.de",
       "text": " »Damit wird deutlich: Die #NATO kann sich auf ihre europäischen Alliierten verlassen«, so Pistorius. Das 🇩🇪-🇳🇱-Korps stellt ab sofort die Führung über die Landstreitkräfte in 🇪🇪 & 🇱🇻. Das Korps wird \"verantwortlich sein für militärische Übungen sowie im Ernstfall für die Verteidigung der #Ostflanke.\"",
       "url": "https://bsky.app/profile/baks.bund.de/post/3mpikzwsboc2b",
-      "engagement": 8,
+      "engagement": 9,
       "ts": "2026-06-30T08:20:35.173Z",
-      "followers": 3229,
+      "followers": 3230,
+      "isBot": false,
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@germany.diplo.de",
+      "handle": "germany.diplo.de",
+      "text": "Following the earthquake in #Venezuela, 🇩🇪 & 🇺🇸 are providing rapid assistance. 🇩🇪 is supporting the relief effort with THW personnel, Bundeswehr capabilities, and humanitarian & disaster relief funding from @diplo.de, which has been increased to a total of €13.7 million. @aussenminister.diplo.de  6/6",
+      "url": "https://bsky.app/profile/germany.diplo.de/post/3mpiw3gjvfk2g",
+      "engagement": 8,
+      "ts": "2026-06-30T11:38:12.069Z",
+      "followers": 5135,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -117,7 +117,7 @@
       "url": "https://bsky.app/profile/ahaachja.bsky.social/post/3mph4imwbmc2c",
       "engagement": 8,
       "ts": "2026-06-29T18:27:42.270Z",
-      "followers": 11029,
+      "followers": 11034,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -130,18 +130,6 @@
       "engagement": 8,
       "ts": "2026-06-15T09:15:12.916Z",
       "followers": 800,
-      "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@germany.diplo.de",
-      "handle": "germany.diplo.de",
-      "text": "Following the earthquake in #Venezuela, 🇩🇪 & 🇺🇸 are providing rapid assistance. 🇩🇪 is supporting the relief effort with THW personnel, Bundeswehr capabilities, and humanitarian & disaster relief funding from @diplo.de, which has been increased to a total of €13.7 million. @aussenminister.diplo.de  6/6",
-      "url": "https://bsky.app/profile/germany.diplo.de/post/3mpiw3gjvfk2g",
-      "engagement": 7,
-      "ts": "2026-06-30T11:38:12.069Z",
-      "followers": 5134,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -169,13 +157,25 @@
     },
     {
       "platform": "Bluesky",
+      "author": "@dirkmassat.bsky.social",
+      "handle": "dirkmassat.bsky.social",
+      "text": "#Bundeswehr-Soldaten sind stolz darauf - sich gegenseitig das Rohr zu polieren\n\nDass dieser #Armee-Ersatz Geschlechtsverkehr ins Zentrum seiner #Rekrutenansprache stellt, ist wohl die ultimative #Demütigung seiner verbliebenen #Mitglieder.",
+      "url": "https://bsky.app/profile/dirkmassat.bsky.social/post/3mpkbq6yn6k22",
+      "engagement": 6,
+      "ts": "2026-07-01T00:39:24.026Z",
+      "followers": 9699,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
       "author": "@baks.bund.de",
       "handle": "baks.bund.de",
       "text": "\"Zur Stärkung der Reserve der #Bundeswehr sollen [..] alle, die einen Wehrdienst absolviert & ein bestimmtes Alter haben, verpflichtend zum Dienst herangezogen werden können – auch zu Friedenszeiten.\" Reservisten fungieren als Bindeglied zwischen Streitkräften & Gesellschaft ➡️ #IntegrierteSicherheit",
       "url": "https://bsky.app/profile/baks.bund.de/post/3mn7hhpuacs2k",
       "engagement": 6,
       "ts": "2026-06-01T06:32:21.790Z",
-      "followers": 3229,
+      "followers": 3230,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -208,7 +208,7 @@
       "url": "https://social.bund.de/@Cyberagentur/114742419545368735",
       "engagement": 5,
       "ts": "2025-06-25T05:46:16.370Z",
-      "followers": 2123,
+      "followers": 2125,
       "isBot": false,
       "sentiment": "positiv"
     },
@@ -230,7 +230,7 @@
       "url": "https://social.bund.de/@Cyberagentur/110026389427785747",
       "engagement": 4,
       "ts": "2023-03-15T08:37:47.596Z",
-      "followers": 2123,
+      "followers": 2125,
       "isBot": false,
       "sentiment": "kritisch"
     },
@@ -243,7 +243,19 @@
       "ts": "2026-05-07T08:04:02.000Z",
       "followers": 91869,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "negativ"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@diplo.de",
+      "handle": "diplo.de",
+      "text": "Nach dem verheerenden Erdbeben in #Venezuela leisten 🇩🇪 & 🇺🇸 schnelle Hilfe. 🇩🇪 unterstützt die internationalen Hilfsmaßnahmen mit dem THW, Bundeswehr-Transportkapazitäten und der vom AA auf insg. 13,7 Mio. € aufgestockten humanitären & Katastrophenhilfe. @aussenminister.diplo.de 6/6",
+      "url": "https://bsky.app/profile/diplo.de/post/3mpivp7kqxc2g",
+      "engagement": 3,
+      "ts": "2026-06-30T11:31:04.782Z",
+      "followers": 24926,
+      "isBot": false,
+      "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
@@ -252,17 +264,6 @@
       "url": "https://ard.social/@tagesschau/116777783279900580",
       "engagement": 3,
       "ts": "2026-06-19T16:46:02.000Z",
-      "followers": 91869,
-      "isBot": false,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Mastodon",
-      "author": "@tagesschau@ard.social",
-      "text": "11KM-Podcast: Reparaturstau - ist die Bundeswehr einsatzbereit? Die Bundeswehr soll bis Ende des Jahrzehnts verteidigungsfähig werden. Doch Insider warnen vor einem massiven Reparaturstau bei den Panzerfahrzeugen. 11KM fragt: Ist die Bundeswehr einsatzbereit? ➡️ https://www. tagesschau.de/podcast-11km-bun deswehr-reparaturstau-100.html?at_medium=mastodon&at_campaign=tagesschau.de # 11KM # Verteidi",
-      "url": "https://ard.social/@tagesschau/116774889221943521",
-      "engagement": 3,
-      "ts": "2026-06-19T04:30:02.000Z",
       "followers": 91869,
       "isBot": false,
       "sentiment": "kritisch"
@@ -287,7 +288,7 @@
       "ts": "2024-05-17T08:31:50.578Z",
       "followers": 1038,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -296,7 +297,7 @@
       "url": "https://social.bund.de/@Cyberagentur/110099684039083605",
       "engagement": 3,
       "ts": "2023-03-28T07:17:34.610Z",
-      "followers": 2123,
+      "followers": 2125,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -309,7 +310,7 @@
       "ts": "2026-06-01T16:49:03.000Z",
       "followers": 91869,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -320,19 +321,19 @@
       "ts": "2026-05-30T11:03:02.000Z",
       "followers": 91869,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
-      "author": "@diplo.de",
-      "handle": "diplo.de",
-      "text": "Nach dem verheerenden Erdbeben in #Venezuela leisten 🇩🇪 & 🇺🇸 schnelle Hilfe. 🇩🇪 unterstützt die internationalen Hilfsmaßnahmen mit dem THW, Bundeswehr-Transportkapazitäten und der vom AA auf insg. 13,7 Mio. € aufgestockten humanitären & Katastrophenhilfe. @aussenminister.diplo.de 6/6",
-      "url": "https://bsky.app/profile/diplo.de/post/3mpivp7kqxc2g",
+      "author": "@dirkmassat.bsky.social",
+      "handle": "dirkmassat.bsky.social",
+      "text": "Kann man sich nicht ausdenken: Auf #Schwulen-Promo-Paraden setzt die #Bundeswehr ihre \" #Karriereberater\" und spezielles Werbematerial ein, um \" #Queere\" mit sexualisierter Werbung zum Dienst unter der #Gruppendusche zu motivieren.",
+      "url": "https://bsky.app/profile/dirkmassat.bsky.social/post/3mpkbslcukc22",
       "engagement": 2,
-      "ts": "2026-06-30T11:31:04.782Z",
-      "followers": 24927,
+      "ts": "2026-07-01T00:40:44.054Z",
+      "followers": 9699,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
@@ -342,9 +343,9 @@
       "url": "https://bsky.app/profile/ahaachja.bsky.social/post/3mph4erpjnc2c",
       "engagement": 2,
       "ts": "2026-06-29T18:25:33.072Z",
-      "followers": 11029,
+      "followers": 11034,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -355,7 +356,7 @@
       "ts": "2026-06-30T16:34:35.000Z",
       "followers": 2709,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -377,7 +378,7 @@
       "ts": "2026-06-23T08:08:02.000Z",
       "followers": 91869,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -388,7 +389,7 @@
       "ts": "2026-06-22T08:16:02.000Z",
       "followers": 91869,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -399,7 +400,7 @@
       "ts": "2026-06-19T09:21:48.000Z",
       "followers": 2964,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -410,7 +411,7 @@
       "ts": "2024-04-17T11:54:20.685Z",
       "followers": 1038,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -419,9 +420,9 @@
       "url": "https://social.bund.de/@Cyberagentur/111346916916483457",
       "engagement": 1,
       "ts": "2023-11-03T13:45:17.996Z",
-      "followers": 2123,
+      "followers": 2125,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -432,7 +433,7 @@
       "ts": "2023-07-27T08:29:08.945Z",
       "followers": 4310,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -443,7 +444,7 @@
       "ts": "2026-05-07T08:15:33.000Z",
       "followers": 13884,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -465,7 +466,7 @@
       "ts": "2026-01-20T08:02:41.000Z",
       "followers": 12400,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -476,7 +477,7 @@
       "ts": "2026-06-19T08:26:02.000Z",
       "followers": 91869,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -487,7 +488,7 @@
       "ts": "2024-04-25T14:31:28.942Z",
       "followers": 1038,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -498,7 +499,7 @@
       "ts": "2023-01-17T07:51:12.000Z",
       "followers": 2047,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -509,7 +510,7 @@
       "ts": "2026-06-12T18:01:44.000Z",
       "followers": 2403,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -520,7 +521,7 @@
       "ts": "2026-05-29T10:43:54.000Z",
       "followers": 2403,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -531,7 +532,7 @@
       "ts": "2026-04-19T11:31:04.000Z",
       "followers": 5747,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -684,132 +685,22 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "Reddit r/bundeswehr",
-      "author": "u/Serahbeee",
-      "text": "Zivile Angebote für militärische Fitness, gemeinsame Märsche…",
-      "url": "https://www.reddit.com/r/bundeswehr/comments/1ujscx3/zivile_angebote_für_militärische_fitness/",
+      "platform": "Reddit r/CredibleDefense",
+      "author": "u/Financial_Chance9172",
+      "text": "Russia’s next battlefield is the seabed: why German-bound gas pipes look ripe for sabotage",
+      "url": "https://www.reddit.com/r/CredibleDefense/comments/1ll8at8/russias_next_battlefield_is_the_seabed_why/",
       "engagement": 0,
-      "ts": "2026-06-30T15:27:10+00:00",
+      "ts": "2025-06-26T18:51:20+00:00",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
-      "platform": "Reddit r/bundeswehr",
-      "author": "u/Unusual_Ad_5198",
-      "text": "Wochend Modell Heimatschutz während man in der Ausbildung ist",
-      "url": "https://www.reddit.com/r/bundeswehr/comments/1ujmuvl/wochend_modell_heimatschutz_während_man_in_der/",
+      "platform": "Reddit r/CredibleDefense",
+      "author": "u/darian66",
+      "text": "Proposed budget cuts of the Dutch Armed Forces",
+      "url": "https://www.reddit.com/r/CredibleDefense/comments/4m9iuu/proposed_budget_cuts_of_the_dutch_armed_forces/",
       "engagement": 0,
-      "ts": "2026-06-30T11:43:33+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Reddit r/bundeswehr",
-      "author": "u/zarnyalbi",
-      "text": "Fragebogen Screenshot benötigt",
-      "url": "https://www.reddit.com/r/bundeswehr/comments/1ujh6vp/fragebogen_screenshot_benötigt/",
-      "engagement": 0,
-      "ts": "2026-06-30T06:21:58+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Reddit r/bundeswehr",
-      "author": "u/Fun-Ad6782",
-      "text": "Nach dem (Medizin)Studium zur Bundeswehr - Erfahrungswerte gesucht!",
-      "url": "https://www.reddit.com/r/bundeswehr/comments/1uj5sg4/nach_dem_medizinstudium_zur_bundeswehr/",
-      "engagement": 0,
-      "ts": "2026-06-29T21:37:50+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Reddit r/bundeswehr",
-      "author": "u/PerfectEqual3115",
-      "text": "Erst zivile Ausbildung und dann Bund - oder anderesrum?",
-      "url": "https://www.reddit.com/r/bundeswehr/comments/1uj2j1y/erst_zivile_ausbildung_und_dann_bund_oder/",
-      "engagement": 0,
-      "ts": "2026-06-29T19:35:55+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Reddit r/bundeswehr",
-      "author": "u/EquivalentTop1204",
-      "text": "Zivile Tätigkeit bei der Bundeswehr in Litauen mit meinen Qualifikationen möglich?",
-      "url": "https://www.reddit.com/r/bundeswehr/comments/1uiy4om/zivile_tätigkeit_bei_der_bundeswehr_in_litauen/",
-      "engagement": 0,
-      "ts": "2026-06-29T16:55:58+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "YouTube (Bundeswehr)",
-      "author": "Bundeswehr",
-      "text": "Erste Großübung der Brigade Litauen: Freedom Shield 2026 | Bundeswehr",
-      "url": "https://www.youtube.com/watch?v=1y3cXQiuhMI",
-      "engagement": 0,
-      "ts": "2026-06-29T12:05:51+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "YouTube (Bundeswehr)",
-      "author": "Bundeswehr",
-      "text": "#shorts: Als Austauschoffizier auf einer Fregatte | Bundeswehr",
-      "url": "https://www.youtube.com/shorts/X5jTnlpG8Iw",
-      "engagement": 0,
-      "ts": "2026-06-25T14:11:59+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "YouTube (Bundeswehr)",
-      "author": "Bundeswehr",
-      "text": "Die Pistole P9: Glock 17 im Einsatz bei den Fernspähern | Bundeswehr",
-      "url": "https://www.youtube.com/watch?v=pOvNXtDK518",
-      "engagement": 0,
-      "ts": "2026-06-23T14:25:33+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "YouTube (Bundeswehr)",
-      "author": "Bundeswehr",
-      "text": "Tapferkeit hat viele Facetten | Bundeswehr",
-      "url": "https://www.youtube.com/shorts/Yko0PjRS9SM",
-      "engagement": 0,
-      "ts": "2026-06-19T12:39:36+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "YouTube (Bundeswehr)",
-      "author": "Bundeswehr",
-      "text": "Sein letzter Flug: NH90-Pilot Hauptmann Mike nimmt Abschied | Bundeswehr",
-      "url": "https://www.youtube.com/watch?v=BnTPpvC0t5o",
-      "engagement": 0,
-      "ts": "2026-06-18T12:31:37+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "YouTube (Bundeswehr)",
-      "author": "Bundeswehr",
-      "text": "whY? So wichtig ist Tapferkeit für die Truppe | #Bundeswehr",
-      "url": "https://www.youtube.com/shorts/sY5U3PYSGtE",
-      "engagement": 0,
-      "ts": "2026-06-18T10:41:14+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "YouTube (Bundeswehr)",
-      "author": "Bundeswehr",
-      "text": "Das Ehrenkreuz der Bundeswehr für Tapferkeit und seine Bedeutung | Bundeswehr",
-      "url": "https://www.youtube.com/watch?v=aORcJfLrlA4",
-      "engagement": 0,
-      "ts": "2026-06-17T14:17:16+00:00",
+      "ts": "2016-06-02T21:31:08+00:00",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -862,14 +753,124 @@
       "ts": "Wed, 24 Jun 2026 13:49:46 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Alle Räder stehen still… Resilienz, anyone?",
+      "url": "https://augengeradeaus.net/2026/06/alle-raeder-stehen-still-resilienz-anyone/",
+      "engagement": 0,
+      "ts": "Tue, 23 Jun 2026 22:19:11 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Nicht nur Freiwillige für die Litauen-Brigade: „Operational Readiness is the key“",
+      "url": "https://augengeradeaus.net/2026/06/nicht-nur-freiwillige-fuer-die-litauen-brigade-operational-readiness-is-the-key/",
+      "engagement": 0,
+      "ts": "Mon, 22 Jun 2026 19:51:03 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Zur Dokumentation: Bundesregierung will mit 40 Prozent bei KNDS einsteigen",
+      "url": "https://augengeradeaus.net/2026/06/zur-dokumentation-bundesregierung-will-mit-40-prozent-bei-knds-einsteigen/",
+      "engagement": 0,
+      "ts": "Mon, 22 Jun 2026 10:02:05 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Fürs Protokoll: Länder-Innenminister wollen engere Zusammenarbeit mit der Bundeswehr",
+      "url": "https://augengeradeaus.net/2026/06/fuers-protokoll-laender-innenminister-wollen-engere-zusammenarbeit-mit-der-bundeswehr/",
+      "engagement": 0,
+      "ts": "Fri, 19 Jun 2026 13:42:40 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Marine verlegt Schiffe für Einsatz in Straße von Hormus nach Djibouti",
+      "url": "https://augengeradeaus.net/2026/06/marine-verlegt-schiffe-fuer-einsatz-in-strasse-von-hormus-nach-djibouti/",
+      "engagement": 0,
+      "ts": "Tue, 16 Jun 2026 14:47:05 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bundeswehr Journal",
+      "author": "Bundeswehr Journal",
+      "text": "Drohne MQ-28 Ghost Bat: neue Partner im Industrieteam",
+      "url": "https://www.bundeswehr-journal.de/2026/drohne-mq-28-ghost-bat-neue-partner-im-industrieteam/",
+      "engagement": 0,
+      "ts": "Mon, 15 Jun 2026 17:42:01 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bundeswehr Journal",
+      "author": "Bundeswehr Journal",
+      "text": "SATCOMBw Stufe 4: Joint Venture von OHB und Rheinmetall",
+      "url": "https://www.bundeswehr-journal.de/2026/satcombw-stufe-4-joint-venture-von-ohb-und-rheinmetall/",
+      "engagement": 0,
+      "ts": "Fri, 12 Jun 2026 21:00:31 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bundeswehr Journal",
+      "author": "Bundeswehr Journal",
+      "text": "Fragebogen: 90 Prozent der Angeschriebenen antworteten",
+      "url": "https://www.bundeswehr-journal.de/2026/fragebogen-90-prozent-der-angeschriebenen-antworteten/",
+      "engagement": 0,
+      "ts": "Sun, 07 Jun 2026 21:15:33 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bundeswehr Journal",
+      "author": "Bundeswehr Journal",
+      "text": "Den Dienst in der Bundeswehr sichtbarer würdigen",
+      "url": "https://www.bundeswehr-journal.de/2026/den-dienst-in-der-bundeswehr-sichtbarer-wuerdigen/",
+      "engagement": 0,
+      "ts": "Sat, 06 Jun 2026 21:15:18 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bundeswehr Journal",
+      "author": "Bundeswehr Journal",
+      "text": "Materielle Einsatzbereitschaft: Insider schlagen Alarm",
+      "url": "https://www.bundeswehr-journal.de/2026/materielle-einsatzbereitschaft-insider-schlagen-alarm/",
+      "engagement": 0,
+      "ts": "Fri, 05 Jun 2026 13:45:12 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bundeswehr Journal",
+      "author": "Bundeswehr Journal",
+      "text": "Großes NATO-Manöver BALTOPS 2026 in der Ostsee gestartet",
+      "url": "https://www.bundeswehr-journal.de/2026/grosses-nato-manoever-baltops-2026-in-der-ostsee-gestartet/",
+      "engagement": 0,
+      "ts": "Thu, 04 Jun 2026 13:18:02 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Der Diskurs um die Bundeswehr und ihre Zukunft dominiert das Thema des Personalaufwuchses und der Wehrdienstpflicht. Die Debatte über die Rolle der Bundeswehr in der internationalen Sicherheit und die Bedeutung von NATO und EU ist weiterhin aktuell.",
+    "summary": "Der Diskurs um die Bundeswehr und ihre Zukunft ist vor allem von der Debatte über den neuen Wehrdienst und die Personalaufwuchs geprägt. Die Bundesregierung versucht, die Bundeswehr zu stärken, aber es gibt auch Kritik an der Politik und der Ausbildung der Soldaten.",
     "themes": [
-      "Personalaufwuchs und Wehrdienstpflicht",
-      "Bundeswehr und NATO",
-      "Internationale Sicherheit und EU"
+      "Neuer Wehrdienst",
+      "Personalaufwuchs",
+      "Bundeswehr-Politik"
     ]
   }
 }

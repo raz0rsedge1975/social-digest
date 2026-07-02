@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-02T03:38:55.973Z",
-  "timestamp": "2.7.2026, 05:38:55",
+  "generated": "2026-07-02T14:52:50.233Z",
+  "timestamp": "2.7.2026, 16:52:50",
   "items": [
     {
       "platform": "Bluesky",
@@ -10,7 +10,7 @@
       "url": "https://bsky.app/profile/wiegold.de/post/3mp2s52qwik26",
       "engagement": 77,
       "ts": "2026-06-24T20:50:19.843Z",
-      "followers": 15656,
+      "followers": 15659,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -22,7 +22,7 @@
       "url": "https://bsky.app/profile/konflikt-sicher.bsky.social/post/3momnuawsu22i",
       "engagement": 35,
       "ts": "2026-06-19T05:56:33.029Z",
-      "followers": 9835,
+      "followers": 9837,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -45,7 +45,31 @@
       "url": "https://bsky.app/profile/gdwberlin.bsky.social/post/3mm7glqswmc2t",
       "engagement": 29,
       "ts": "2026-05-19T12:51:31.646Z",
-      "followers": 3050,
+      "followers": 3049,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@konflikt-sicher.bsky.social",
+      "handle": "konflikt-sicher.bsky.social",
+      "text": "Flugabwehrsystem #Skynex von #Rheinmetall weckt angebliche Zweifel: Ein in der #Ukraine eingesetztes System soll bei der Drohnenabwehr versagt haben. Für die #Bundeswehr ist dies besonders relevant, weil Skynex zentrale Rolle u.a. beim Schutz gegen UAV übernehmen soll.\nwww.stern.de/wirtschaft/b...",
+      "url": "https://bsky.app/profile/konflikt-sicher.bsky.social/post/3mpnaxabji22q",
+      "engagement": 28,
+      "ts": "2026-07-02T05:03:25.721Z",
+      "followers": 9837,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@greenpeace.de",
+      "handle": "greenpeace.de",
+      "text": "Die Zahl der Verdachtsmeldungen zu rechtsextremistischen Vorfällen bei der Bundeswehr nimmt zu. 📈 Statt Jugendliche mit großen Gehaltsversprechen in die Kasernen zu locken, muss die #Bundeswehr einen Wertewandel vollziehen, um ihre #Attraktivitätskrise zu beenden: www.greenpeace.de/publikatione...",
+      "url": "https://bsky.app/profile/greenpeace.de/post/3mpnxroa26s25",
+      "engagement": 24,
+      "ts": "2026-07-02T11:51:55.086Z",
+      "followers": 11817,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -63,13 +87,13 @@
     },
     {
       "platform": "Bluesky",
-      "author": "@leiewol.eurosky.social",
-      "handle": "leiewol.eurosky.social",
-      "text": "«Bis 2035 soll die Bundeswehr auf 460.000 Personen wachsen»\n\nBegründung: Demokratie verteidigen!?\n\nDie AfD kann nicht mit Soldaten bekämpft werden.\n\nRussland wird oft auch als Bedrohung angeführt. Dieses Russland, dass nicht einmal die Ukraine besiegen kann.\n\nwww.tagesschau.de/inland/innen...",
-      "url": "https://bsky.app/profile/leiewol.eurosky.social/post/3mpm52j2xp222",
-      "engagement": 17,
-      "ts": "2026-07-01T18:21:00.900Z",
-      "followers": 2646,
+      "author": "@konflikt-sicher.bsky.social",
+      "handle": "konflikt-sicher.bsky.social",
+      "text": "Der Standort Süd für das #Arrow -Raketenabwehrsystem der #Bundeswehr entsteht im Großraum Kaufbeuren. Zusammen mit weiteren im Norden und Osten soll nun ein vernetzter 24/7-Verbund entstehen, der ballistische Raketen früh erkennt und außerhalb der Atmosphäre bekämpfen kann.\nesut.de/2026/07/meld...",
+      "url": "https://bsky.app/profile/konflikt-sicher.bsky.social/post/3mpnjmonfms2h",
+      "engagement": 20,
+      "ts": "2026-07-02T07:38:35.367Z",
+      "followers": 9837,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -81,9 +105,9 @@
       "url": "https://bsky.app/profile/zeit.de/post/3mpe2l2wbhc2a",
       "engagement": 13,
       "ts": "2026-06-28T13:02:05.000Z",
-      "followers": 50746,
+      "followers": 50753,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Bluesky",
@@ -93,21 +117,9 @@
       "url": "https://bsky.app/profile/baks.bund.de/post/3mpikzwsboc2b",
       "engagement": 9,
       "ts": "2026-06-30T08:20:35.173Z",
-      "followers": 3236,
+      "followers": 3240,
       "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@leiewol.eurosky.social",
-      "handle": "leiewol.eurosky.social",
-      "text": "Rechtsextremismus ist auf dem Vormarsch. Auch die Bundeswehr muss dieses Thema ernsthaft angehen.\n\n«Die Zahl der Verdachtsmeldungen zu rechtsextremistischen Vorfällen bei der Bundeswehr ist erneut leicht gestiegen.»\n\n2024 gab es 280,\n2025 gab es 302 Meldungen.\n\nwww.tagesschau.de/investigativ...",
-      "url": "https://bsky.app/profile/leiewol.eurosky.social/post/3mpm4qmu6w222",
-      "engagement": 8,
-      "ts": "2026-07-01T18:15:29.328Z",
-      "followers": 2646,
-      "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "positiv"
     },
     {
       "platform": "Bluesky",
@@ -117,9 +129,9 @@
       "url": "https://bsky.app/profile/ahaachja.bsky.social/post/3mph4imwbmc2c",
       "engagement": 8,
       "ts": "2026-06-29T18:27:42.270Z",
-      "followers": 11042,
+      "followers": 11046,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "negativ"
     },
     {
       "platform": "Bluesky",
@@ -131,18 +143,6 @@
       "ts": "2026-06-15T09:15:12.916Z",
       "followers": 800,
       "isBot": false,
-      "sentiment": "negativ"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@zeit.de",
-      "handle": "zeit.de",
-      "text": "In Stade wurden in einer Jugendhilfeeinrichtung sechs Menschen erschossen. Wer schützt diejenigen, die anderen helfen sollen? Und: Mehr Reservisten für die Bundeswehr",
-      "url": "https://bsky.app/profile/zeit.de/post/3mplru4u4tv2u",
-      "engagement": 7,
-      "ts": "2026-07-01T14:55:03.000Z",
-      "followers": 50746,
-      "isBot": false,
       "sentiment": "kritisch"
     },
     {
@@ -152,7 +152,7 @@
       "url": "https://ard.social/@tagesschau/116788982132188059",
       "engagement": 7,
       "ts": "2026-06-21T16:14:03.000Z",
-      "followers": 92056,
+      "followers": 92068,
       "isBot": false,
       "sentiment": "kritisch"
     },
@@ -168,27 +168,15 @@
       "sentiment": "positiv"
     },
     {
-      "platform": "Bluesky",
-      "author": "@baks.bund.de",
-      "handle": "baks.bund.de",
-      "text": "\"Zur Stärkung der Reserve der #Bundeswehr sollen [..] alle, die einen Wehrdienst absolviert & ein bestimmtes Alter haben, verpflichtend zum Dienst herangezogen werden können – auch zu Friedenszeiten.\" Reservisten fungieren als Bindeglied zwischen Streitkräften & Gesellschaft ➡️ #IntegrierteSicherheit",
-      "url": "https://bsky.app/profile/baks.bund.de/post/3mn7hhpuacs2k",
-      "engagement": 6,
-      "ts": "2026-06-01T06:32:21.790Z",
-      "followers": 3236,
-      "isBot": false,
-      "sentiment": "kritisch"
-    },
-    {
       "platform": "Mastodon",
       "author": "@tagesschau@ard.social",
       "text": "11KM-Podcast: Weltraummacht Deutschland? Streit um Zuständigkeiten&nbsp; Deutschland soll Weltraummacht werden und pumpt Milliarden in die Aufrüstung im All. Doch die Bundeswehr streitet intern um Zuständigkeiten. 11KM fragt: Wer schützt uns im Weltraum? ➡️ https://www. tagesschau.de/inland/innenpoli tik/podcast-11km-weltraum-macht-100.html?at_medium=mastodon&at_campaign=tagesschau.de # 11KM # Wel",
       "url": "https://ard.social/@tagesschau/116831520241352320",
       "engagement": 6,
       "ts": "2026-06-29T04:32:03.000Z",
-      "followers": 92056,
+      "followers": 92068,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -197,9 +185,9 @@
       "url": "https://ard.social/@tagesschau/116474020059776581",
       "engagement": 6,
       "ts": "2026-04-27T01:15:03.000Z",
-      "followers": 92056,
+      "followers": 92068,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "negativ"
     },
     {
       "platform": "Mastodon",
@@ -208,9 +196,9 @@
       "url": "https://social.bund.de/@Cyberagentur/114742419545368735",
       "engagement": 5,
       "ts": "2025-06-25T05:46:16.370Z",
-      "followers": 2126,
+      "followers": 2127,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
@@ -219,9 +207,9 @@
       "url": "https://ard.social/@tagesschau/116539848348179445",
       "engagement": 5,
       "ts": "2026-05-08T16:16:03.000Z",
-      "followers": 92056,
+      "followers": 92068,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -230,9 +218,9 @@
       "url": "https://ard.social/@tagesschau/116845554073337363",
       "engagement": 4,
       "ts": "2026-07-01T16:01:02.000Z",
-      "followers": 92056,
+      "followers": 92068,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "negativ"
     },
     {
       "platform": "Mastodon",
@@ -241,9 +229,9 @@
       "url": "https://social.bund.de/@Cyberagentur/110026389427785747",
       "engagement": 4,
       "ts": "2023-03-15T08:37:47.596Z",
-      "followers": 2126,
+      "followers": 2127,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -252,9 +240,21 @@
       "url": "https://ard.social/@tagesschau/116532251368745167",
       "engagement": 4,
       "ts": "2026-05-07T08:04:02.000Z",
-      "followers": 92056,
+      "followers": 92068,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@dirkmassat.bsky.social",
+      "handle": "dirkmassat.bsky.social",
+      "text": "Merz: „Wir sind bereit für den Krieg“ – Bundeswehr bestellt schonmal 8.400 Leichensäcke\n\nLeichensäcke geordert, nur für den Inhalt muss noch gesorgt werden: Die Bundeswehr bereitet sich vor auf den “Fight tonight”",
+      "url": "https://bsky.app/profile/dirkmassat.bsky.social/post/3mpn4zbudus27",
+      "engagement": 3,
+      "ts": "2026-07-02T03:52:59.526Z",
+      "followers": 9722,
+      "isBot": false,
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -265,7 +265,7 @@
       "ts": "2024-05-27T08:49:06.387Z",
       "followers": 1038,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
@@ -276,7 +276,7 @@
       "ts": "2024-05-17T08:31:50.578Z",
       "followers": 1038,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -285,7 +285,7 @@
       "url": "https://social.bund.de/@Cyberagentur/110099684039083605",
       "engagement": 3,
       "ts": "2023-03-28T07:17:34.610Z",
-      "followers": 2126,
+      "followers": 2127,
       "isBot": false,
       "sentiment": "positiv"
     },
@@ -296,7 +296,7 @@
       "url": "https://ard.social/@tagesschau/116675873558064545",
       "engagement": 3,
       "ts": "2026-06-01T16:49:03.000Z",
-      "followers": 92056,
+      "followers": 92068,
       "isBot": false,
       "sentiment": "kritisch"
     },
@@ -307,7 +307,7 @@
       "url": "https://ard.social/@tagesschau/116663188343976154",
       "engagement": 3,
       "ts": "2026-05-30T11:03:02.000Z",
-      "followers": 92056,
+      "followers": 92068,
       "isBot": false,
       "sentiment": "negativ"
     },
@@ -319,7 +319,7 @@
       "url": "https://bsky.app/profile/ahaachja.bsky.social/post/3mph4erpjnc2c",
       "engagement": 2,
       "ts": "2026-06-29T18:25:33.072Z",
-      "followers": 11042,
+      "followers": 11046,
       "isBot": false,
       "sentiment": "positiv"
     },
@@ -330,7 +330,7 @@
       "url": "https://social.tchncs.de/@doener/116840023688007595",
       "engagement": 2,
       "ts": "2026-06-30T16:34:35.000Z",
-      "followers": 2709,
+      "followers": 2713,
       "isBot": false,
       "sentiment": "kritisch"
     },
@@ -341,7 +341,7 @@
       "url": "https://ard.social/@tagesschau/116806873395368928",
       "engagement": 2,
       "ts": "2026-06-24T20:04:02.000Z",
-      "followers": 92056,
+      "followers": 92068,
       "isBot": false,
       "sentiment": "positiv"
     },
@@ -352,7 +352,7 @@
       "url": "https://ard.social/@tagesschau/116798395674369760",
       "engagement": 2,
       "ts": "2026-06-23T08:08:02.000Z",
-      "followers": 92056,
+      "followers": 92068,
       "isBot": false,
       "sentiment": "kritisch"
     },
@@ -363,33 +363,9 @@
       "url": "https://ard.social/@tagesschau/116792764798118564",
       "engagement": 2,
       "ts": "2026-06-22T08:16:02.000Z",
-      "followers": 92056,
+      "followers": 92068,
       "isBot": false,
       "sentiment": "positiv"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@hanfdampf.bsky.social",
-      "handle": "hanfdampf.bsky.social",
-      "text": "In der 20 Uhr Tagesschau behandelt die Strobl ARD lang und breit  unsere Regierung mit allem was geht \ninkl. Mobilmachung für die Wehr äh Bundeswehr\n\nDas Thema #Klimakatastrophe behandlen sie später \nseparat ohne auch nur den winzigsten Bezug zur Politik \nvon Merz \n\nwww.tagesschau.de/tagesschau_2...",
-      "url": "https://bsky.app/profile/hanfdampf.bsky.social/post/3mpm7bdj3n222",
-      "engagement": 1,
-      "ts": "2026-07-01T19:00:37.437Z",
-      "followers": 3103,
-      "isBot": false,
-      "sentiment": "positiv"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@zeit.de",
-      "handle": "zeit.de",
-      "text": "Die Bundesregierung will den Umbau der Bundeswehr entbürokratisieren. Kasernen sollen schneller gebaut werden, Reservisten einfacher verfügbar sein. ",
-      "url": "https://bsky.app/profile/zeit.de/post/3mplsowika72w",
-      "engagement": 1,
-      "ts": "2026-07-01T15:10:51.000Z",
-      "followers": 50746,
-      "isBot": false,
-      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -398,7 +374,7 @@
       "url": "https://ard.social/@tagesschau/116842892013844169",
       "engagement": 1,
       "ts": "2026-07-01T04:44:02.000Z",
-      "followers": 92056,
+      "followers": 92068,
       "isBot": false,
       "sentiment": "positiv"
     },
@@ -420,9 +396,9 @@
       "url": "https://social.bund.de/@Cyberagentur/111346916916483457",
       "engagement": 1,
       "ts": "2023-11-03T13:45:17.996Z",
-      "followers": 2126,
+      "followers": 2127,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
@@ -433,7 +409,7 @@
       "ts": "2023-07-27T08:29:08.945Z",
       "followers": 4309,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "negativ"
     },
     {
       "platform": "Mastodon",
@@ -444,7 +420,7 @@
       "ts": "2026-05-07T08:15:33.000Z",
       "followers": 13884,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -455,7 +431,7 @@
       "ts": "2026-04-16T06:30:41.000Z",
       "followers": 4769,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
@@ -466,7 +442,19 @@
       "ts": "2026-01-20T08:02:41.000Z",
       "followers": 12400,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@nicebastard.bsky.social",
+      "handle": "nicebastard.bsky.social",
+      "text": "Bundeswehr startet auf YouTube und Joyn eine Dokuserie, die echte Rekrut*innen bei ihren ersten Schritten im Wehrdienst begleitet. Die emotional aufgezogene Serie ist auf mehrere Staffeln angelegt.",
+      "url": "https://bsky.app/profile/nicebastard.bsky.social/post/3mpnwcw6abk2d",
+      "engagement": 0,
+      "ts": "2026-07-02T11:25:46.358Z",
+      "followers": 808,
+      "isBot": false,
+      "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
@@ -477,7 +465,7 @@
       "ts": "2024-04-25T14:31:28.942Z",
       "followers": 1038,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
@@ -488,7 +476,7 @@
       "ts": "2023-01-17T07:51:12.000Z",
       "followers": 2047,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -499,7 +487,7 @@
       "ts": "2026-06-12T18:01:44.000Z",
       "followers": 2403,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "negativ"
     },
     {
       "platform": "Mastodon",
@@ -510,7 +498,7 @@
       "ts": "2026-05-29T10:43:54.000Z",
       "followers": 2403,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -521,7 +509,7 @@
       "ts": "2026-04-19T11:31:04.000Z",
       "followers": 5747,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Reddit r/de",
@@ -531,7 +519,7 @@
       "engagement": 0,
       "ts": "2026-07-01T18:01:47+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Reddit r/de",
@@ -541,7 +529,7 @@
       "engagement": 0,
       "ts": "2026-07-01T17:09:45+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "negativ"
     },
     {
       "platform": "Reddit r/de",
@@ -551,7 +539,7 @@
       "engagement": 0,
       "ts": "2026-06-26T12:13:04+00:00",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -561,7 +549,7 @@
       "engagement": 0,
       "ts": "2026-06-20T04:37:05+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -571,7 +559,7 @@
       "engagement": 0,
       "ts": "2026-06-19T18:49:13+00:00",
       "alwaysKeep": true,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -581,7 +569,7 @@
       "engagement": 0,
       "ts": "2026-06-14T06:56:41+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -591,7 +579,7 @@
       "engagement": 0,
       "ts": "2026-06-13T22:24:35+00:00",
       "alwaysKeep": true,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -601,7 +589,7 @@
       "engagement": 0,
       "ts": "2026-06-13T08:40:50+00:00",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -611,7 +599,7 @@
       "engagement": 0,
       "ts": "2026-06-01T18:44:50+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -631,7 +619,7 @@
       "engagement": 0,
       "ts": "2026-05-24T07:36:17+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -641,7 +629,7 @@
       "engagement": 0,
       "ts": "2026-05-07T14:58:39+00:00",
       "alwaysKeep": true,
-      "sentiment": "negativ"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Reddit r/de",
@@ -674,24 +662,114 @@
       "sentiment": "kritisch"
     },
     {
-      "platform": "Reddit r/CredibleDefense",
-      "author": "u/Financial_Chance9172",
-      "text": "Russia’s next battlefield is the seabed: why German-bound gas pipes look ripe for sabotage",
-      "url": "https://www.reddit.com/r/CredibleDefense/comments/1ll8at8/russias_next_battlefield_is_the_seabed_why/",
+      "platform": "Reddit r/bundeswehr",
+      "author": "u/jxstinjh",
+      "text": "Live Tissue Testing?",
+      "url": "https://www.reddit.com/r/bundeswehr/comments/1uleyi6/live_tissue_testing/",
       "engagement": 0,
-      "ts": "2025-06-26T18:51:20+00:00",
+      "ts": "2026-07-02T10:56:22+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Reddit r/bundeswehr",
+      "author": "u/HptFwOderso",
+      "text": "Abgelehnten KdV zurückziehen?",
+      "url": "https://www.reddit.com/r/bundeswehr/comments/1uleibk/abgelehnten_kdv_zurückziehen/",
+      "engagement": 0,
+      "ts": "2026-07-02T10:31:38+00:00",
       "alwaysKeep": true,
       "sentiment": "kritisch"
     },
     {
-      "platform": "Reddit r/CredibleDefense",
-      "author": "u/darian66",
-      "text": "Proposed budget cuts of the Dutch Armed Forces",
-      "url": "https://www.reddit.com/r/CredibleDefense/comments/4m9iuu/proposed_budget_cuts_of_the_dutch_armed_forces/",
+      "platform": "Reddit r/bundeswehr",
+      "author": "u/DieGurke007",
+      "text": "Eloka Sprache Erfahrung - Quereinsteiger - Russisch, Englisch",
+      "url": "https://www.reddit.com/r/bundeswehr/comments/1ulbpw5/eloka_sprache_erfahrung_quereinsteiger_russisch/",
       "engagement": 0,
-      "ts": "2016-06-02T21:31:08+00:00",
+      "ts": "2026-07-02T07:49:51+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Reddit r/bundeswehr",
+      "author": "u/lenemez",
+      "text": "Maximalgewicht bei der Bundeswehr",
+      "url": "https://www.reddit.com/r/bundeswehr/comments/1ula5nh/maximalgewicht_bei_der_bundeswehr/",
+      "engagement": 0,
+      "ts": "2026-07-02T06:18:44+00:00",
       "alwaysKeep": true,
       "sentiment": "negativ"
+    },
+    {
+      "platform": "Reddit r/bundeswehr",
+      "author": "u/gerronimo4520",
+      "text": "Bundeswehr so... 🫠",
+      "url": "https://www.reddit.com/r/bundeswehr/comments/1ul9oy5/bundeswehr_so/",
+      "engagement": 0,
+      "ts": "2026-07-02T05:53:15+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Reddit r/bundeswehr",
+      "author": "u/CreativoraLab",
+      "text": "Offene Mpu wegen Cannabis am Steuer (erste Mal)",
+      "url": "https://www.reddit.com/r/bundeswehr/comments/1ukzu6s/offene_mpu_wegen_cannabis_am_steuer_erste_mal/",
+      "engagement": 0,
+      "ts": "2026-07-01T22:14:16+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Reddit r/bundeswehr",
+      "author": "u/DieGurke007",
+      "text": "Bundeswehr mit Mitte 30 und Familie? Neuanfang - ZAW",
+      "url": "https://www.reddit.com/r/bundeswehr/comments/1ukxh95/bundeswehr_mit_mitte_30_und_familie_neuanfang_zaw/",
+      "engagement": 0,
+      "ts": "2026-07-01T20:43:11+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Reddit r/bundeswehr",
+      "author": "u/Klutzy_Draw4662",
+      "text": "Die Kernpunkte des heute beschlossenen Reservestärkungsgesetzes (ResStG)",
+      "url": "https://www.reddit.com/r/bundeswehr/comments/1ukrzof/die_kernpunkte_des_heute_beschlossenen/",
+      "engagement": 0,
+      "ts": "2026-07-01T17:22:10+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Reddit r/bundeswehr",
+      "author": "u/Weak_Nuclear_Force",
+      "text": "Pflicht zur Reserveübung für Ex-FWDler?",
+      "url": "https://www.reddit.com/r/bundeswehr/comments/1ukr53w/pflicht_zur_reserveübung_für_exfwdler/",
+      "engagement": 0,
+      "ts": "2026-07-01T16:51:26+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "YouTube (Bundeswehr)",
+      "author": "Bundeswehr",
+      "text": "🇱🇹 Neue Serie: Mitten drin in Litauen!",
+      "url": "https://www.youtube.com/shorts/RlvBUdWEvaw",
+      "engagement": 0,
+      "ts": "2026-07-02T12:24:42+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "YouTube (Bundeswehr)",
+      "author": "Bundeswehr",
+      "text": "🇱🇹 Brigade Litauen: Die Truppe an der NATO-Ostflanke – Folge 1 | Bundeswehr",
+      "url": "https://www.youtube.com/watch?v=s_x7dYe30xs",
+      "engagement": 0,
+      "ts": "2026-07-02T11:28:10+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -701,12 +779,12 @@
       "engagement": 0,
       "ts": "2026-06-29T12:05:51+00:00",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "YouTube (Bundeswehr)",
       "author": "Bundeswehr",
-      "text": "#shorts: Als Austauschoffizier auf einer Fregatte | Bundeswehr",
+      "text": "Austauschoffizier auf einer Fregatte | Bundeswehr",
       "url": "https://www.youtube.com/shorts/X5jTnlpG8Iw",
       "engagement": 0,
       "ts": "2026-06-25T14:11:59+00:00",
@@ -754,16 +832,6 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "YouTube (Bundeswehr)",
-      "author": "Bundeswehr",
-      "text": "Das Ehrenkreuz der Bundeswehr für Tapferkeit und seine Bedeutung | Bundeswehr",
-      "url": "https://www.youtube.com/watch?v=aORcJfLrlA4",
-      "engagement": 0,
-      "ts": "2026-06-17T14:17:16+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
       "platform": "Augen geradeaus!",
       "author": "Augen geradeaus!",
       "text": "Minenräumen in der Straße von Hormus vermutlich abgeblasen",
@@ -792,84 +860,14 @@
       "ts": "Tue, 30 Jun 2026 12:59:21 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
-    },
-    {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Fürs Protokoll: Deutsche Patriot-Stationierung in der Türkei begonnen",
-      "url": "https://augengeradeaus.net/2026/06/fuers-protokoll-deutsche-patriot-stationierung-der-der-tuerkei-begonnen/",
-      "engagement": 0,
-      "ts": "Fri, 26 Jun 2026 09:07:45 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Erste Zahlen zum „Neuen Wehrdienst“: Die Interpretationen beginnen",
-      "url": "https://augengeradeaus.net/2026/06/erste-zahlen-zum-neuen-wehrdienst-die-interpretationen-beginnen/",
-      "engagement": 0,
-      "ts": "Wed, 24 Jun 2026 20:48:43 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "„Mein kleines Schiff“ ist Geschichte",
-      "url": "https://augengeradeaus.net/2026/06/mein-kleines-schiff-ist-geschichte/",
-      "engagement": 0,
-      "ts": "Wed, 24 Jun 2026 15:22:35 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Verteidigungsaufstellung erlassen – jetzt müsste alles klar sein",
-      "url": "https://augengeradeaus.net/2026/06/verteidigungsaufstellung-erlassen-jetzt-muesste-alles-klar-sein/",
-      "engagement": 0,
-      "ts": "Wed, 24 Jun 2026 13:49:46 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Alle Räder stehen still… Resilienz, anyone?",
-      "url": "https://augengeradeaus.net/2026/06/alle-raeder-stehen-still-resilienz-anyone/",
-      "engagement": 0,
-      "ts": "Tue, 23 Jun 2026 22:19:11 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Nicht nur Freiwillige für die Litauen-Brigade: „Operational Readiness is the key“",
-      "url": "https://augengeradeaus.net/2026/06/nicht-nur-freiwillige-fuer-die-litauen-brigade-operational-readiness-is-the-key/",
-      "engagement": 0,
-      "ts": "Mon, 22 Jun 2026 19:51:03 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Zur Dokumentation: Bundesregierung will mit 40 Prozent bei KNDS einsteigen",
-      "url": "https://augengeradeaus.net/2026/06/zur-dokumentation-bundesregierung-will-mit-40-prozent-bei-knds-einsteigen/",
-      "engagement": 0,
-      "ts": "Mon, 22 Jun 2026 10:02:05 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Der Diskurs um die Bundeswehr und ihre Zukunft dominiert die sozialen Medien. Die AfD warnt vor Faschismus, während der Bundesminister der Verteidigung Boris Pistorius den neuen Wehrdienst als Mittel zur Personalaufwuchs unterstützt. Gleichzeitig wird auf die Unfähigkeit der Bundeswehr in Sachen Rüstung und Sicherheit kritisiert.",
+    "summary": "Heute diskutiert der Bundesminister der Verteidigung Boris Pistorius über den neuen Wehrdienst und die Personalaufwuchs, während es zu rechtsextremistischen Vorwürfen innerhalb der Bundeswehr und einer Beschaffungsverzögerung bei Flugabwehrsystemen gibt.",
     "themes": [
-      "Bundeswehr",
-      "Wehrdienst",
-      "Rechtsextremismus"
+      "Pistorius' Wehrdienst-Modell",
+      "AfD-Faschismus-Vorwurf",
+      "Beschaffungsverzögerung Skynex"
     ]
   }
 }

@@ -1,19 +1,7 @@
 {
-  "generated": "2026-07-03T03:39:02.380Z",
-  "timestamp": "3.7.2026, 05:39:02",
+  "generated": "2026-07-04T03:38:39.360Z",
+  "timestamp": "4.7.2026, 05:38:39",
   "items": [
-    {
-      "platform": "Bluesky",
-      "author": "@renatusdeckert.bsky.social",
-      "handle": "renatusdeckert.bsky.social",
-      "text": "Heute habe ich vor Schüler:innen des Gymnasiums Königsbrunn (Foto) und der Fachschule der Bundeswehr für Informationstechnik Kleinaitingen aus Victor Klemperers Tagebuch 1933-1945 gelesen und über Holocaust und Antisemitismus gesprochen. Herzlichen Dank für euer großes Interesse u. die guten Fragen!",
-      "url": "https://bsky.app/profile/renatusdeckert.bsky.social/post/3mpokcrjsrs2b",
-      "engagement": 86,
-      "ts": "2026-07-02T17:23:36.295Z",
-      "followers": 5936,
-      "isBot": false,
-      "sentiment": "kritisch"
-    },
     {
       "platform": "Bluesky",
       "author": "@wiegold.de",
@@ -22,9 +10,21 @@
       "url": "https://bsky.app/profile/wiegold.de/post/3mp2s52qwik26",
       "engagement": 77,
       "ts": "2026-06-24T20:50:19.843Z",
-      "followers": 15663,
+      "followers": 15664,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@luftwaffe.bundeswehr.de",
+      "handle": "luftwaffe.bundeswehr.de",
+      "text": "Hilfeleistung für Venezuela 🇻🇪\n++Update++\n\nUnterstützung vorläufig beendet.\nDer letzte A400M ist heute in Wunstorf gelandet. Alle Kräfte des LTG 62 sind wohlbehalten zurück.\n\n✈️ 58 Flüge | 📦 109,8 t Fracht | 👥 308 Hilfskräfte | 🐕‍🦺 24 Hunde | ⏱️ 266 Flugstunden\n\n(📷: Bundeswehr/ Dittmann / Wolff)",
+      "url": "https://bsky.app/profile/luftwaffe.bundeswehr.de/post/3mpqwdh45xs2d",
+      "engagement": 51,
+      "ts": "2026-07-03T16:04:03.317Z",
+      "followers": 3349,
+      "isBot": false,
+      "sentiment": "kritisch"
     },
     {
       "platform": "Bluesky",
@@ -34,19 +34,7 @@
       "url": "https://bsky.app/profile/konflikt-sicher.bsky.social/post/3momnuawsu22i",
       "engagement": 35,
       "ts": "2026-06-19T05:56:33.029Z",
-      "followers": 9837,
-      "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@greenpeace.de",
-      "handle": "greenpeace.de",
-      "text": "Die Zahl der Verdachtsmeldungen zu rechtsextremistischen Vorfällen bei der Bundeswehr nimmt zu. 📈 Statt Jugendliche mit großen Gehaltsversprechen in die Kasernen zu locken, muss die #Bundeswehr einen Wertewandel vollziehen, um ihre #Attraktivitätskrise zu beenden: www.greenpeace.de/publikatione...",
-      "url": "https://bsky.app/profile/greenpeace.de/post/3mpnxroa26s25",
-      "engagement": 30,
-      "ts": "2026-07-02T11:51:55.086Z",
-      "followers": 11821,
+      "followers": 9835,
       "isBot": false,
       "sentiment": "kritisch"
     },
@@ -71,6 +59,18 @@
       "ts": "2026-05-19T12:51:31.646Z",
       "followers": 3050,
       "isBot": false,
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@hi-i-am-frank.com",
+      "handle": "hi-i-am-frank.com",
+      "text": "Die Bundeswehr arbeitet ganz offiziell mit selbsterklärten Faschisten zusammen. Und niemensch unternimmt etwas dagegen. Das die post-faschistische Junta dieses Landes mit ihren Gesinnungskameraden (bewusst nicht gegendert) gemeinsame Sache macht ist aber nicht verwunderlich. Democracy is dead.",
+      "url": "https://bsky.app/profile/hi-i-am-frank.com/post/3mpq374kahs2f",
+      "engagement": 24,
+      "ts": "2026-07-03T07:58:27.011Z",
+      "followers": 2074,
+      "isBot": false,
       "sentiment": "kritisch"
     },
     {
@@ -81,7 +81,7 @@
       "url": "https://bsky.app/profile/derlaemmermann.bsky.social/post/3mnyyrtanjk2p",
       "engagement": 23,
       "ts": "2026-06-11T10:18:47.958Z",
-      "followers": 2476,
+      "followers": 2488,
       "isBot": false,
       "sentiment": "kritisch"
     },
@@ -93,9 +93,9 @@
       "url": "https://bsky.app/profile/zeit.de/post/3mpe2l2wbhc2a",
       "engagement": 13,
       "ts": "2026-06-28T13:02:05.000Z",
-      "followers": 50760,
+      "followers": 50770,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "positiv"
     },
     {
       "platform": "Bluesky",
@@ -117,7 +117,7 @@
       "url": "https://bsky.app/profile/ahaachja.bsky.social/post/3mph4imwbmc2c",
       "engagement": 8,
       "ts": "2026-06-29T18:27:42.270Z",
-      "followers": 11059,
+      "followers": 11098,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -140,19 +140,30 @@
       "url": "https://social.bund.de/@Verteidigungsministerium/112721782116565944",
       "engagement": 7,
       "ts": "2024-07-03T09:11:36.066Z",
-      "followers": 1038,
+      "followers": 1037,
       "isBot": false,
       "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
-      "author": "@spacer.bsky.social",
-      "handle": "spacer.bsky.social",
-      "text": "ob DEMOnstrieren zu einer DEMOkratie dazugehören? hmmm 🤔🤔 schwierige frage!\n\nich denke die antwort ist: nein! eine demokratie ist vor allem wenn alle ganz ganz friedlich sind und ganz oft \"Demokratie\" sagen! bundeswehr=demokratie polizei=demokratie parteien=demokratie abschieben=demokratie",
-      "url": "https://bsky.app/profile/spacer.bsky.social/post/3mpocopfues25",
+      "author": "@saegge.eurosky.social",
+      "handle": "saegge.eurosky.social",
+      "text": "für mein ganz persönliches Überleben ist die Bundeswehr halt gefährlicher",
+      "url": "https://bsky.app/profile/saegge.eurosky.social/post/3mprn46tyw22n",
       "engagement": 6,
-      "ts": "2026-07-02T15:07:06.824Z",
-      "followers": 4190,
+      "ts": "2026-07-03T22:51:35.857Z",
+      "followers": 2071,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Mastodon",
+      "author": "@tagesschau@ard.social",
+      "text": "Erneut mehr Verdachtsmeldungen bei der Bundeswehr Die Zahl der Verdachtsmeldungen zu rechtsextremistischen Vorfällen bei der Bundeswehr ist erneut leicht gestiegen. Im Jahr 2024 gab es noch 280 solcher Meldungen, im vergangenen Jahr 302 Meldungen. Die Gründe für die Meldungen sind vielfältig. ➡️ https://www. tagesschau.de/investigativ/wdr /bundeswehr-rechtsextremismus-136.html?at_medium=mastodon&a",
+      "url": "https://ard.social/@tagesschau/116845554073337363",
+      "engagement": 6,
+      "ts": "2026-07-01T16:01:02.000Z",
+      "followers": 92068,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -180,23 +191,12 @@
     },
     {
       "platform": "Mastodon",
-      "author": "@tagesschau@ard.social",
-      "text": "Erneut mehr Verdachtsmeldungen bei der Bundeswehr Die Zahl der Verdachtsmeldungen zu rechtsextremistischen Vorfällen bei der Bundeswehr ist erneut leicht gestiegen. Im Jahr 2024 gab es noch 280 solcher Meldungen, im vergangenen Jahr 302 Meldungen. Die Gründe für die Meldungen sind vielfältig. ➡️ https://www. tagesschau.de/investigativ/wdr /bundeswehr-rechtsextremismus-136.html?at_medium=mastodon&a",
-      "url": "https://ard.social/@tagesschau/116845554073337363",
-      "engagement": 5,
-      "ts": "2026-07-01T16:01:02.000Z",
-      "followers": 92068,
-      "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Mastodon",
       "author": "@Cyberagentur",
       "text": "Es wird feierlich! Zum fünfjährigen Geburtstag der @ Cyberagentur haben wir hohen Besuch im Podcast. @ Marcel ist in Berlin unterwegs und sammelt Grußworte aus dem Verteidigungs- und dem Innenministerium. General Michael Vetter ( # BMVg ) und Friederike Dahns ( @ bmi ) gratulieren, aber sprechen auch über akute Cybergefahren und die Rolle der Cyberagentur. Jetzt reinhören: https:// t1p.de/oikte # ",
       "url": "https://social.bund.de/@Cyberagentur/114742419545368735",
       "engagement": 5,
       "ts": "2025-06-25T05:46:16.370Z",
-      "followers": 2127,
+      "followers": 2130,
       "isBot": false,
       "sentiment": "positiv"
     },
@@ -218,7 +218,7 @@
       "url": "https://social.bund.de/@Cyberagentur/110026389427785747",
       "engagement": 4,
       "ts": "2023-03-15T08:37:47.596Z",
-      "followers": 2127,
+      "followers": 2130,
       "isBot": false,
       "sentiment": "negativ"
     },
@@ -231,7 +231,7 @@
       "ts": "2026-05-07T08:04:02.000Z",
       "followers": 92068,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -240,9 +240,9 @@
       "url": "https://social.bund.de/@Verteidigungsministerium/112512188179100111",
       "engagement": 3,
       "ts": "2024-05-27T08:49:06.387Z",
-      "followers": 1038,
+      "followers": 1037,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
@@ -251,9 +251,9 @@
       "url": "https://social.bund.de/@Verteidigungsministerium/112455497192232403",
       "engagement": 3,
       "ts": "2024-05-17T08:31:50.578Z",
-      "followers": 1038,
+      "followers": 1037,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -262,7 +262,7 @@
       "url": "https://social.bund.de/@Cyberagentur/110099684039083605",
       "engagement": 3,
       "ts": "2023-03-28T07:17:34.610Z",
-      "followers": 2127,
+      "followers": 2130,
       "isBot": false,
       "sentiment": "positiv"
     },
@@ -286,7 +286,7 @@
       "ts": "2026-05-30T11:03:02.000Z",
       "followers": 92068,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
@@ -296,9 +296,9 @@
       "url": "https://bsky.app/profile/ahaachja.bsky.social/post/3mph4erpjnc2c",
       "engagement": 2,
       "ts": "2026-06-29T18:25:33.072Z",
-      "followers": 11059,
+      "followers": 11098,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -320,7 +320,7 @@
       "ts": "2026-06-24T20:04:02.000Z",
       "followers": 92068,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -331,7 +331,7 @@
       "ts": "2026-06-23T08:08:02.000Z",
       "followers": 92068,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -342,19 +342,19 @@
       "ts": "2026-06-22T08:16:02.000Z",
       "followers": 92068,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
-      "author": "@spacer.bsky.social",
-      "handle": "spacer.bsky.social",
-      "text": "darf nur vom staat kommen und niemals von den braven bürgern. denn das wäre demokratiegefährdend. nur die bundeswehr darf gewalt. und die polizei. und der kanzler. und die parteien. und die grenzkontrollen. und die ämter. und die regierung. aber diese zu kritisieren ist bereits gewalt und weil sie",
-      "url": "https://bsky.app/profile/spacer.bsky.social/post/3mpocopgsnk25",
+      "author": "@saegge.eurosky.social",
+      "handle": "saegge.eurosky.social",
+      "text": "ich hab Vorträge dadrüber gehalten dass wir mit Russland im Krieg sind. Gleichzeitig gehört Deutschland nunmal zum Russland-Block der EU und Russland hat kein einsatzfähiges Militär. Da die Bundeswehr eine Kampfgruppe und keine Propagandaabteilung ist, ist sie fundamental nutzlos bzgl Russland.",
+      "url": "https://bsky.app/profile/saegge.eurosky.social/post/3mpqlyxixvs2b",
       "engagement": 1,
-      "ts": "2026-07-02T15:07:06.826Z",
-      "followers": 4190,
+      "ts": "2026-07-03T12:59:14.012Z",
+      "followers": 2071,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
@@ -364,9 +364,9 @@
       "url": "https://bsky.app/profile/nicebastard.bsky.social/post/3mpnwcw6abk2d",
       "engagement": 1,
       "ts": "2026-07-02T11:25:46.358Z",
-      "followers": 809,
+      "followers": 810,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -386,7 +386,7 @@
       "url": "https://social.bund.de/@Verteidigungsministerium/112286424149808385",
       "engagement": 1,
       "ts": "2024-04-17T11:54:20.685Z",
-      "followers": 1038,
+      "followers": 1037,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -397,7 +397,7 @@
       "url": "https://social.bund.de/@Cyberagentur/111346916916483457",
       "engagement": 1,
       "ts": "2023-11-03T13:45:17.996Z",
-      "followers": 2127,
+      "followers": 2130,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -408,7 +408,7 @@
       "url": "https://social.bund.de/@bmdv/110785105031500276",
       "engagement": 1,
       "ts": "2023-07-27T08:29:08.945Z",
-      "followers": 4308,
+      "followers": 4307,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -430,7 +430,7 @@
       "url": "https://social.tchncs.de/@kaffeeringe/116412975762691021",
       "engagement": 1,
       "ts": "2026-04-16T06:30:41.000Z",
-      "followers": 4769,
+      "followers": 4778,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -446,13 +446,37 @@
       "sentiment": "neutral"
     },
     {
+      "platform": "Bluesky",
+      "author": "@saegge.eurosky.social",
+      "handle": "saegge.eurosky.social",
+      "text": "die Bundeswehr wäre gar nicht in der Lage noch rechtzeitig bis nach Moskau zu kommen",
+      "url": "https://bsky.app/profile/saegge.eurosky.social/post/3mpqmlvsngc2b",
+      "engagement": 0,
+      "ts": "2026-07-03T13:09:49.766Z",
+      "followers": 2071,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@saegge.eurosky.social",
+      "handle": "saegge.eurosky.social",
+      "text": "was da grade Moskau zerbombt gehört nicht der Bundeswehr Digga.",
+      "url": "https://bsky.app/profile/saegge.eurosky.social/post/3mpqlonk2622b",
+      "engagement": 0,
+      "ts": "2026-07-03T12:53:28.017Z",
+      "followers": 2071,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
       "platform": "Mastodon",
       "author": "@Verteidigungsministerium",
       "text": "„Frauen können das!“ lautete das Motto des diesjährigen # GirlsDay im # BMVg . 40 Schülerinnen haben heute Einblicke in verschiedene Berufe unserer # Bundeswehr bekommen. Seit 2015 öffnet das BMVg die Tore für interessierte junge # Frauen zwischen 15 und 17 Jahren.",
       "url": "https://social.bund.de/@Verteidigungsministerium/112332340523239687",
       "engagement": 0,
       "ts": "2024-04-25T14:31:28.942Z",
-      "followers": 1038,
+      "followers": 1037,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -528,7 +552,7 @@
       "engagement": 0,
       "ts": "2026-06-26T12:13:04+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Reddit r/de",
@@ -538,7 +562,7 @@
       "engagement": 0,
       "ts": "2026-06-20T04:37:05+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Reddit r/de",
@@ -548,7 +572,7 @@
       "engagement": 0,
       "ts": "2026-06-19T18:49:13+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "negativ"
     },
     {
       "platform": "Reddit r/de",
@@ -558,7 +582,7 @@
       "engagement": 0,
       "ts": "2026-06-14T06:56:41+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Reddit r/de",
@@ -568,7 +592,7 @@
       "engagement": 0,
       "ts": "2026-06-13T22:24:35+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Reddit r/de",
@@ -578,7 +602,7 @@
       "engagement": 0,
       "ts": "2026-06-13T08:40:50+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Reddit r/de",
@@ -588,7 +612,7 @@
       "engagement": 0,
       "ts": "2026-06-01T18:44:50+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "negativ"
     },
     {
       "platform": "Reddit r/de",
@@ -598,7 +622,7 @@
       "engagement": 0,
       "ts": "2026-05-31T15:50:19+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Reddit r/de",
@@ -651,6 +675,46 @@
       "sentiment": "neutral"
     },
     {
+      "platform": "Reddit r/bundeswehr",
+      "author": "u/OkDiscipline728",
+      "text": "Ein Soldat ist für die Beförderung geeignet, und trotzdem geht sie nicht durch. Darf die Bundeswehr das einfach stoppen?",
+      "url": "https://www.reddit.com/r/bundeswehr/comments/1umm7zh/ein_soldat_ist_für_die_beförderung_geeignet_und/",
+      "engagement": 0,
+      "ts": "2026-07-03T18:28:49+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Reddit r/bundeswehr",
+      "author": "u/Happy-Detail-259",
+      "text": "Abschluss der Ausbildung meldepflichtig?",
+      "url": "https://www.reddit.com/r/bundeswehr/comments/1umlhww/abschluss_der_ausbildung_meldepflichtig/",
+      "engagement": 0,
+      "ts": "2026-07-03T18:00:42+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Reddit r/bundeswehr",
+      "author": "u/2coolFrog",
+      "text": "Soldaten am Bahnhof.",
+      "url": "https://www.reddit.com/r/bundeswehr/comments/1umd0yz/soldaten_am_bahnhof/",
+      "engagement": 0,
+      "ts": "2026-07-03T12:23:03+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Reddit r/bundeswehr",
+      "author": "u/Tyron79Le",
+      "text": "Macht das Sinn?",
+      "url": "https://www.reddit.com/r/bundeswehr/comments/1ulss0q/macht_das_sinn/",
+      "engagement": 0,
+      "ts": "2026-07-02T19:57:39+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
       "platform": "Reddit r/CredibleDefense",
       "author": "u/Financial_Chance9172",
       "text": "Russia’s next battlefield is the seabed: why German-bound gas pipes look ripe for sabotage",
@@ -667,6 +731,16 @@
       "url": "https://www.reddit.com/r/CredibleDefense/comments/4m9iuu/proposed_budget_cuts_of_the_dutch_armed_forces/",
       "engagement": 0,
       "ts": "2016-06-02T21:31:08+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "YouTube (Bundeswehr)",
+      "author": "Bundeswehr",
+      "text": "Nachgefragt: Was ändert sich für die Reserve der Bundeswehr? | Bundeswehr",
+      "url": "https://www.youtube.com/watch?v=9KsyxF6Mlg4",
+      "engagement": 0,
+      "ts": "2026-07-03T18:25:32+00:00",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -741,16 +815,6 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "YouTube (Bundeswehr)",
-      "author": "Bundeswehr",
-      "text": "whY? So wichtig ist Tapferkeit für die Truppe | #Bundeswehr",
-      "url": "https://www.youtube.com/shorts/sY5U3PYSGtE",
-      "engagement": 0,
-      "ts": "2026-06-18T10:41:14+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
       "platform": "Augen geradeaus!",
       "author": "Augen geradeaus!",
       "text": "IISS-Studie: Russische (Spionage)Drohnen über Europa",
@@ -799,76 +863,14 @@
       "ts": "Fri, 26 Jun 2026 09:07:45 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
-    },
-    {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Erste Zahlen zum „Neuen Wehrdienst“: Die Interpretationen beginnen",
-      "url": "https://augengeradeaus.net/2026/06/erste-zahlen-zum-neuen-wehrdienst-die-interpretationen-beginnen/",
-      "engagement": 0,
-      "ts": "Wed, 24 Jun 2026 20:48:43 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "„Mein kleines Schiff“ ist Geschichte",
-      "url": "https://augengeradeaus.net/2026/06/mein-kleines-schiff-ist-geschichte/",
-      "engagement": 0,
-      "ts": "Wed, 24 Jun 2026 15:22:35 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Verteidigungsaufstellung erlassen – jetzt müsste alles klar sein",
-      "url": "https://augengeradeaus.net/2026/06/verteidigungsaufstellung-erlassen-jetzt-muesste-alles-klar-sein/",
-      "engagement": 0,
-      "ts": "Wed, 24 Jun 2026 13:49:46 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Alle Räder stehen still… Resilienz, anyone?",
-      "url": "https://augengeradeaus.net/2026/06/alle-raeder-stehen-still-resilienz-anyone/",
-      "engagement": 0,
-      "ts": "Tue, 23 Jun 2026 22:19:11 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Nicht nur Freiwillige für die Litauen-Brigade: „Operational Readiness is the key“",
-      "url": "https://augengeradeaus.net/2026/06/nicht-nur-freiwillige-fuer-die-litauen-brigade-operational-readiness-is-the-key/",
-      "engagement": 0,
-      "ts": "Mon, 22 Jun 2026 19:51:03 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bundeswehr Journal",
-      "author": "Bundeswehr Journal",
-      "text": "Drohne MQ-28 Ghost Bat: neue Partner im Industrieteam",
-      "url": "https://www.bundeswehr-journal.de/2026/drohne-mq-28-ghost-bat-neue-partner-im-industrieteam/",
-      "engagement": 0,
-      "ts": "Mon, 15 Jun 2026 17:42:01 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Heute diskutiert der Bundeswehr-Diskurs vor allem über die Auswirkungen des neuen Wehrdienst-Modells, die zunehmende Zahl von Verdachtsmeldungen zu rechtsextremistischen Vorfällen und die Proteste gegen die Wehrpflicht.",
+    "summary": "Heute diskutieren die Nutzer von sozialen Medien vor allem über den neuen Wehrdienst der Bundeswehr, die Beschlüsse des Bundesministers der Verteidigung Boris Pistorius und die Kontroversen um die Bundeswehr und ihre Zusammenarbeit mit rechtsextremen Gruppen.",
     "themes": [
       "Pistorius' Wehrdienst-Modell",
       "AfD-Faschismus-Vorwurf",
-      "Beschaffungsverzögerung bei der Bundeswehr",
-      "Proteste gegen die Wehrpflicht",
-      "Rechtsextremismus in der Bundeswehr"
+      "Beschaffungsverzögerung des A400M"
     ]
   }
 }

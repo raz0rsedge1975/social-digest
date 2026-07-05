@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-04T03:38:39.360Z",
-  "timestamp": "4.7.2026, 05:38:39",
+  "generated": "2026-07-05T03:39:01.991Z",
+  "timestamp": "5.7.2026, 05:39:01",
   "items": [
     {
       "platform": "Bluesky",
@@ -10,21 +10,21 @@
       "url": "https://bsky.app/profile/wiegold.de/post/3mp2s52qwik26",
       "engagement": 77,
       "ts": "2026-06-24T20:50:19.843Z",
-      "followers": 15664,
+      "followers": 15662,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Bluesky",
-      "author": "@luftwaffe.bundeswehr.de",
-      "handle": "luftwaffe.bundeswehr.de",
-      "text": "Hilfeleistung für Venezuela 🇻🇪\n++Update++\n\nUnterstützung vorläufig beendet.\nDer letzte A400M ist heute in Wunstorf gelandet. Alle Kräfte des LTG 62 sind wohlbehalten zurück.\n\n✈️ 58 Flüge | 📦 109,8 t Fracht | 👥 308 Hilfskräfte | 🐕‍🦺 24 Hunde | ⏱️ 266 Flugstunden\n\n(📷: Bundeswehr/ Dittmann / Wolff)",
-      "url": "https://bsky.app/profile/luftwaffe.bundeswehr.de/post/3mpqwdh45xs2d",
-      "engagement": 51,
-      "ts": "2026-07-03T16:04:03.317Z",
-      "followers": 3349,
+      "author": "@derloeffelbein.bsky.social",
+      "handle": "derloeffelbein.bsky.social",
+      "text": "leute die \"wir brauchen eine kriegstüchtige bundeswehr um eine diktatur unter putin zu verhindern\" sagten auch \"wer den afd parteitag blockiert ist antidemokratisch\"",
+      "url": "https://bsky.app/profile/derloeffelbein.bsky.social/post/3mpt4vzsf3c25",
+      "engagement": 70,
+      "ts": "2026-07-04T13:07:08.841Z",
+      "followers": 3943,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "negativ"
     },
     {
       "platform": "Bluesky",
@@ -34,9 +34,9 @@
       "url": "https://bsky.app/profile/konflikt-sicher.bsky.social/post/3momnuawsu22i",
       "engagement": 35,
       "ts": "2026-06-19T05:56:33.029Z",
-      "followers": 9835,
+      "followers": 9837,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -47,7 +47,7 @@
       "ts": "2026-05-22T06:15:35.000Z",
       "followers": 5629,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Bluesky",
@@ -57,21 +57,9 @@
       "url": "https://bsky.app/profile/gdwberlin.bsky.social/post/3mm7glqswmc2t",
       "engagement": 29,
       "ts": "2026-05-19T12:51:31.646Z",
-      "followers": 3050,
+      "followers": 3049,
       "isBot": false,
-      "sentiment": "positiv"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@hi-i-am-frank.com",
-      "handle": "hi-i-am-frank.com",
-      "text": "Die Bundeswehr arbeitet ganz offiziell mit selbsterklärten Faschisten zusammen. Und niemensch unternimmt etwas dagegen. Das die post-faschistische Junta dieses Landes mit ihren Gesinnungskameraden (bewusst nicht gegendert) gemeinsame Sache macht ist aber nicht verwunderlich. Democracy is dead.",
-      "url": "https://bsky.app/profile/hi-i-am-frank.com/post/3mpq374kahs2f",
-      "engagement": 24,
-      "ts": "2026-07-03T07:58:27.011Z",
-      "followers": 2074,
-      "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "negativ"
     },
     {
       "platform": "Bluesky",
@@ -81,7 +69,19 @@
       "url": "https://bsky.app/profile/derlaemmermann.bsky.social/post/3mnyyrtanjk2p",
       "engagement": 23,
       "ts": "2026-06-11T10:18:47.958Z",
-      "followers": 2488,
+      "followers": 2497,
+      "isBot": false,
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@ustinoff.eurosky.social",
+      "handle": "ustinoff.eurosky.social",
+      "text": "Wie sind eigentlich die Anweisungen der Bundeswehr an den Standorten in Sachsen-Anhalt? \n\"Tragen Sie in der Öffentlichkeit immer Uniform, besonders wenn Sie einen dunklen Hauttyp haben!\" ?",
+      "url": "https://bsky.app/profile/ustinoff.eurosky.social/post/3mpsljakcuk2d",
+      "engagement": 17,
+      "ts": "2026-07-04T07:55:46.099Z",
+      "followers": 3256,
       "isBot": false,
       "sentiment": "kritisch"
     },
@@ -93,9 +93,21 @@
       "url": "https://bsky.app/profile/zeit.de/post/3mpe2l2wbhc2a",
       "engagement": 13,
       "ts": "2026-06-28T13:02:05.000Z",
-      "followers": 50770,
+      "followers": 50785,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "negativ"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@leonceundlena.bsky.social",
+      "handle": "leonceundlena.bsky.social",
+      "text": "Vorschlag zur Güte: Bundeswehr im Landesinneren einsetzen, um einen Arfde-Parteitag zu verhindern. ☸️",
+      "url": "https://bsky.app/profile/leonceundlena.bsky.social/post/3mpt557f5r22t",
+      "engagement": 11,
+      "ts": "2026-07-04T13:11:09.581Z",
+      "followers": 5434,
+      "isBot": false,
+      "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
@@ -117,7 +129,7 @@
       "url": "https://bsky.app/profile/ahaachja.bsky.social/post/3mph4imwbmc2c",
       "engagement": 8,
       "ts": "2026-06-29T18:27:42.270Z",
-      "followers": 11098,
+      "followers": 11114,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -146,13 +158,13 @@
     },
     {
       "platform": "Bluesky",
-      "author": "@saegge.eurosky.social",
-      "handle": "saegge.eurosky.social",
-      "text": "für mein ganz persönliches Überleben ist die Bundeswehr halt gefährlicher",
-      "url": "https://bsky.app/profile/saegge.eurosky.social/post/3mprn46tyw22n",
+      "author": "@dirkmassat.bsky.social",
+      "handle": "dirkmassat.bsky.social",
+      "text": "Laut Verteidigungsminister Pistorius soll die #Bundeswehr schnellstmöglich \"kriegstüchtig\" gegenüber Russland werden, kapituliert aber quasi im Inland bereits vor den #Antifa-Horden?\n\nWas stimmt in diesem Land nicht?",
+      "url": "https://bsky.app/profile/dirkmassat.bsky.social/post/3mpshju2hss2g",
       "engagement": 6,
-      "ts": "2026-07-03T22:51:35.857Z",
-      "followers": 2071,
+      "ts": "2026-07-04T06:44:31.583Z",
+      "followers": 9749,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -187,7 +199,7 @@
       "ts": "2026-04-27T01:15:03.000Z",
       "followers": 92068,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -209,7 +221,7 @@
       "ts": "2026-05-08T16:16:03.000Z",
       "followers": 92068,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "negativ"
     },
     {
       "platform": "Mastodon",
@@ -220,7 +232,7 @@
       "ts": "2023-03-15T08:37:47.596Z",
       "followers": 2130,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -231,7 +243,7 @@
       "ts": "2026-05-07T08:04:02.000Z",
       "followers": 92068,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "negativ"
     },
     {
       "platform": "Mastodon",
@@ -242,7 +254,7 @@
       "ts": "2024-05-27T08:49:06.387Z",
       "followers": 1037,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -253,7 +265,7 @@
       "ts": "2024-05-17T08:31:50.578Z",
       "followers": 1037,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
@@ -264,7 +276,7 @@
       "ts": "2023-03-28T07:17:34.610Z",
       "followers": 2130,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -275,7 +287,7 @@
       "ts": "2026-06-01T16:49:03.000Z",
       "followers": 92068,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -296,7 +308,7 @@
       "url": "https://bsky.app/profile/ahaachja.bsky.social/post/3mph4erpjnc2c",
       "engagement": 2,
       "ts": "2026-06-29T18:25:33.072Z",
-      "followers": 11098,
+      "followers": 11114,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -346,13 +358,25 @@
     },
     {
       "platform": "Bluesky",
+      "author": "@linuxlea.bsky.social",
+      "handle": "linuxlea.bsky.social",
+      "text": "Der soll mal froh sein, daß ich wohl nie mit ihm reden werde.\nIch habe nämlich gedient, und würde in dem Fall mal \"Eine Sprengung vornehmen\", wie man bei der Bundeswehr sagt.\n\nUnd das würde nicht lustig werden für ihn.",
+      "url": "https://bsky.app/profile/linuxlea.bsky.social/post/3mptnlp4vnl2s",
+      "engagement": 1,
+      "ts": "2026-07-04T18:05:35.718Z",
+      "followers": 2326,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
       "author": "@saegge.eurosky.social",
       "handle": "saegge.eurosky.social",
-      "text": "ich hab Vorträge dadrüber gehalten dass wir mit Russland im Krieg sind. Gleichzeitig gehört Deutschland nunmal zum Russland-Block der EU und Russland hat kein einsatzfähiges Militär. Da die Bundeswehr eine Kampfgruppe und keine Propagandaabteilung ist, ist sie fundamental nutzlos bzgl Russland.",
-      "url": "https://bsky.app/profile/saegge.eurosky.social/post/3mpqlyxixvs2b",
+      "text": "Ich will die Bundeswehr abschaffen und jede Form von Polizei. Solang die Polizei noch existiert braucht die aber dringend mehr Personal.",
+      "url": "https://bsky.app/profile/saegge.eurosky.social/post/3mpsskadso222",
       "engagement": 1,
-      "ts": "2026-07-03T12:59:14.012Z",
-      "followers": 2071,
+      "ts": "2026-07-04T10:01:35.632Z",
+      "followers": 2075,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -408,7 +432,7 @@
       "url": "https://social.bund.de/@bmdv/110785105031500276",
       "engagement": 1,
       "ts": "2023-07-27T08:29:08.945Z",
-      "followers": 4307,
+      "followers": 4306,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -442,30 +466,6 @@
       "engagement": 1,
       "ts": "2026-01-20T08:02:41.000Z",
       "followers": 12400,
-      "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@saegge.eurosky.social",
-      "handle": "saegge.eurosky.social",
-      "text": "die Bundeswehr wäre gar nicht in der Lage noch rechtzeitig bis nach Moskau zu kommen",
-      "url": "https://bsky.app/profile/saegge.eurosky.social/post/3mpqmlvsngc2b",
-      "engagement": 0,
-      "ts": "2026-07-03T13:09:49.766Z",
-      "followers": 2071,
-      "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@saegge.eurosky.social",
-      "handle": "saegge.eurosky.social",
-      "text": "was da grade Moskau zerbombt gehört nicht der Bundeswehr Digga.",
-      "url": "https://bsky.app/profile/saegge.eurosky.social/post/3mpqlonk2622b",
-      "engagement": 0,
-      "ts": "2026-07-03T12:53:28.017Z",
-      "followers": 2071,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -552,7 +552,7 @@
       "engagement": 0,
       "ts": "2026-06-26T12:13:04+00:00",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -562,7 +562,7 @@
       "engagement": 0,
       "ts": "2026-06-20T04:37:05+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -572,7 +572,7 @@
       "engagement": 0,
       "ts": "2026-06-19T18:49:13+00:00",
       "alwaysKeep": true,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -582,7 +582,7 @@
       "engagement": 0,
       "ts": "2026-06-14T06:56:41+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -592,7 +592,7 @@
       "engagement": 0,
       "ts": "2026-06-13T22:24:35+00:00",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -602,7 +602,7 @@
       "engagement": 0,
       "ts": "2026-06-13T08:40:50+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -612,7 +612,7 @@
       "engagement": 0,
       "ts": "2026-06-01T18:44:50+00:00",
       "alwaysKeep": true,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -622,7 +622,7 @@
       "engagement": 0,
       "ts": "2026-05-31T15:50:19+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -671,46 +671,6 @@
       "url": "https://www.reddit.com/r/de/comments/1sz6fdo/cyberchef_der_bundeswehr_erteilt_palantir_eine/",
       "engagement": 0,
       "ts": "2026-04-29T17:59:33+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Reddit r/bundeswehr",
-      "author": "u/OkDiscipline728",
-      "text": "Ein Soldat ist für die Beförderung geeignet, und trotzdem geht sie nicht durch. Darf die Bundeswehr das einfach stoppen?",
-      "url": "https://www.reddit.com/r/bundeswehr/comments/1umm7zh/ein_soldat_ist_für_die_beförderung_geeignet_und/",
-      "engagement": 0,
-      "ts": "2026-07-03T18:28:49+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Reddit r/bundeswehr",
-      "author": "u/Happy-Detail-259",
-      "text": "Abschluss der Ausbildung meldepflichtig?",
-      "url": "https://www.reddit.com/r/bundeswehr/comments/1umlhww/abschluss_der_ausbildung_meldepflichtig/",
-      "engagement": 0,
-      "ts": "2026-07-03T18:00:42+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Reddit r/bundeswehr",
-      "author": "u/2coolFrog",
-      "text": "Soldaten am Bahnhof.",
-      "url": "https://www.reddit.com/r/bundeswehr/comments/1umd0yz/soldaten_am_bahnhof/",
-      "engagement": 0,
-      "ts": "2026-07-03T12:23:03+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Reddit r/bundeswehr",
-      "author": "u/Tyron79Le",
-      "text": "Macht das Sinn?",
-      "url": "https://www.reddit.com/r/bundeswehr/comments/1ulss0q/macht_das_sinn/",
-      "engagement": 0,
-      "ts": "2026-07-02T19:57:39+00:00",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -817,6 +777,16 @@
     {
       "platform": "Augen geradeaus!",
       "author": "Augen geradeaus!",
+      "text": "Verteidigungshaushalt soll 2027 um fast ein Drittel steigen",
+      "url": "https://augengeradeaus.net/2026/07/verteidigungshaushalt-soll-2027-um-fast-ein-drittel-steigen/",
+      "engagement": 0,
+      "ts": "Sat, 04 Jul 2026 09:23:06 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
       "text": "IISS-Studie: Russische (Spionage)Drohnen über Europa",
       "url": "https://augengeradeaus.net/2026/07/iiss-studie-russische-spionagedrohnen-ueber-europa/",
       "engagement": 0,
@@ -863,14 +833,44 @@
       "ts": "Fri, 26 Jun 2026 09:07:45 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Erste Zahlen zum „Neuen Wehrdienst“: Die Interpretationen beginnen",
+      "url": "https://augengeradeaus.net/2026/06/erste-zahlen-zum-neuen-wehrdienst-die-interpretationen-beginnen/",
+      "engagement": 0,
+      "ts": "Wed, 24 Jun 2026 20:48:43 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "„Mein kleines Schiff“ ist Geschichte",
+      "url": "https://augengeradeaus.net/2026/06/mein-kleines-schiff-ist-geschichte/",
+      "engagement": 0,
+      "ts": "Wed, 24 Jun 2026 15:22:35 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Verteidigungsaufstellung erlassen – jetzt müsste alles klar sein",
+      "url": "https://augengeradeaus.net/2026/06/verteidigungsaufstellung-erlassen-jetzt-muesste-alles-klar-sein/",
+      "engagement": 0,
+      "ts": "Wed, 24 Jun 2026 13:49:46 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Heute diskutieren die Nutzer von sozialen Medien vor allem über den neuen Wehrdienst der Bundeswehr, die Beschlüsse des Bundesministers der Verteidigung Boris Pistorius und die Kontroversen um die Bundeswehr und ihre Zusammenarbeit mit rechtsextremen Gruppen.",
+    "summary": "Heute diskutiert der Bundeswehr-Diskurs um die Auswirkungen des Wehrdienst-Modells, die AfD-Faschismus-Vorwürfe und die Beschaffungsverzögerung in der Bundeswehr.",
     "themes": [
       "Pistorius' Wehrdienst-Modell",
-      "AfD-Faschismus-Vorwurf",
-      "Beschaffungsverzögerung des A400M"
+      "AfD-Faschismus-Vorwürfe",
+      "Beschaffungsverzögerung in der Bundeswehr"
     ]
   }
 }

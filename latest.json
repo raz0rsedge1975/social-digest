@@ -1,7 +1,19 @@
 {
-  "generated": "2026-07-05T03:39:01.991Z",
-  "timestamp": "5.7.2026, 05:39:01",
+  "generated": "2026-07-06T03:38:34.194Z",
+  "timestamp": "6.7.2026, 05:38:34",
   "items": [
+    {
+      "platform": "Bluesky",
+      "author": "@graf-fencheltee.bsky.social",
+      "handle": "graf-fencheltee.bsky.social",
+      "text": "Der Verteidigungsminiter warnt vor Weitergabe geheimer Bundeswehr- Informationen an mögliche AfD-Minister nach den anstehenden Landtagswahlen im Osten. Alles auch kein Grund für die Regierung für ein AfD-Verbotsverfahren. Wie borniert kann man sein?",
+      "url": "https://bsky.app/profile/graf-fencheltee.bsky.social/post/3mpve436vs22g",
+      "engagement": 333,
+      "ts": "2026-07-05T10:21:07.297Z",
+      "followers": 4368,
+      "isBot": false,
+      "sentiment": "kritisch"
+    },
     {
       "platform": "Bluesky",
       "author": "@wiegold.de",
@@ -12,19 +24,7 @@
       "ts": "2026-06-24T20:50:19.843Z",
       "followers": 15662,
       "isBot": false,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@derloeffelbein.bsky.social",
-      "handle": "derloeffelbein.bsky.social",
-      "text": "leute die \"wir brauchen eine kriegstüchtige bundeswehr um eine diktatur unter putin zu verhindern\" sagten auch \"wer den afd parteitag blockiert ist antidemokratisch\"",
-      "url": "https://bsky.app/profile/derloeffelbein.bsky.social/post/3mpt4vzsf3c25",
-      "engagement": 70,
-      "ts": "2026-07-04T13:07:08.841Z",
-      "followers": 3943,
-      "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "positiv"
     },
     {
       "platform": "Bluesky",
@@ -34,9 +34,21 @@
       "url": "https://bsky.app/profile/konflikt-sicher.bsky.social/post/3momnuawsu22i",
       "engagement": 35,
       "ts": "2026-06-19T05:56:33.029Z",
-      "followers": 9837,
+      "followers": 9840,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "negativ"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@nilskumkar.bsky.social",
+      "handle": "nilskumkar.bsky.social",
+      "text": "Das Ergebnis ist eine politische Diskurspsychose, bei der der Hinweis darauf, dass das auf Dauer nicht gutgehen kann, als Gefahr abgewehrt wird: der nörgler ist es dann, dem anzulasten ist, dass die Wirtschaft nicht surrt, die jungen Leute nicht zur Bundeswehr strömen, die afd gewählt wird, usw.",
+      "url": "https://bsky.app/profile/nilskumkar.bsky.social/post/3mpvfddghjs27",
+      "engagement": 33,
+      "ts": "2026-07-05T10:43:04.555Z",
+      "followers": 6226,
+      "isBot": false,
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -47,7 +59,7 @@
       "ts": "2026-05-22T06:15:35.000Z",
       "followers": 5629,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "positiv"
     },
     {
       "platform": "Bluesky",
@@ -59,7 +71,7 @@
       "ts": "2026-05-19T12:51:31.646Z",
       "followers": 3049,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Bluesky",
@@ -69,19 +81,7 @@
       "url": "https://bsky.app/profile/derlaemmermann.bsky.social/post/3mnyyrtanjk2p",
       "engagement": 23,
       "ts": "2026-06-11T10:18:47.958Z",
-      "followers": 2497,
-      "isBot": false,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@ustinoff.eurosky.social",
-      "handle": "ustinoff.eurosky.social",
-      "text": "Wie sind eigentlich die Anweisungen der Bundeswehr an den Standorten in Sachsen-Anhalt? \n\"Tragen Sie in der Öffentlichkeit immer Uniform, besonders wenn Sie einen dunklen Hauttyp haben!\" ?",
-      "url": "https://bsky.app/profile/ustinoff.eurosky.social/post/3mpsljakcuk2d",
-      "engagement": 17,
-      "ts": "2026-07-04T07:55:46.099Z",
-      "followers": 3256,
+      "followers": 2496,
       "isBot": false,
       "sentiment": "kritisch"
     },
@@ -93,21 +93,9 @@
       "url": "https://bsky.app/profile/zeit.de/post/3mpe2l2wbhc2a",
       "engagement": 13,
       "ts": "2026-06-28T13:02:05.000Z",
-      "followers": 50785,
+      "followers": 50805,
       "isBot": false,
       "sentiment": "negativ"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@leonceundlena.bsky.social",
-      "handle": "leonceundlena.bsky.social",
-      "text": "Vorschlag zur Güte: Bundeswehr im Landesinneren einsetzen, um einen Arfde-Parteitag zu verhindern. ☸️",
-      "url": "https://bsky.app/profile/leonceundlena.bsky.social/post/3mpt557f5r22t",
-      "engagement": 11,
-      "ts": "2026-07-04T13:11:09.581Z",
-      "followers": 5434,
-      "isBot": false,
-      "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
@@ -117,9 +105,21 @@
       "url": "https://bsky.app/profile/baks.bund.de/post/3mpikzwsboc2b",
       "engagement": 9,
       "ts": "2026-06-30T08:20:35.173Z",
-      "followers": 3242,
+      "followers": 3243,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@celsuscassius.bsky.social",
+      "handle": "celsuscassius.bsky.social",
+      "text": "Und warum tritt Pistorius dann nicht konsequenter Weise für ein Verbot ein? Was ist das für eine Vorstellung von Verteidigung, wenn Ministerpräsidenten und deren Länder nicht einbezogen werden können?",
+      "url": "https://bsky.app/profile/celsuscassius.bsky.social/post/3mpuvc2yx5225",
+      "engagement": 8,
+      "ts": "2026-07-05T05:56:02.301Z",
+      "followers": 3774,
+      "isBot": false,
+      "sentiment": "negativ"
     },
     {
       "platform": "Bluesky",
@@ -129,7 +129,7 @@
       "url": "https://bsky.app/profile/ahaachja.bsky.social/post/3mph4imwbmc2c",
       "engagement": 8,
       "ts": "2026-06-29T18:27:42.270Z",
-      "followers": 11114,
+      "followers": 11170,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -143,7 +143,7 @@
       "ts": "2026-06-15T09:15:12.916Z",
       "followers": 800,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -152,21 +152,9 @@
       "url": "https://social.bund.de/@Verteidigungsministerium/112721782116565944",
       "engagement": 7,
       "ts": "2024-07-03T09:11:36.066Z",
-      "followers": 1037,
+      "followers": 1038,
       "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@dirkmassat.bsky.social",
-      "handle": "dirkmassat.bsky.social",
-      "text": "Laut Verteidigungsminister Pistorius soll die #Bundeswehr schnellstmöglich \"kriegstüchtig\" gegenüber Russland werden, kapituliert aber quasi im Inland bereits vor den #Antifa-Horden?\n\nWas stimmt in diesem Land nicht?",
-      "url": "https://bsky.app/profile/dirkmassat.bsky.social/post/3mpshju2hss2g",
-      "engagement": 6,
-      "ts": "2026-07-04T06:44:31.583Z",
-      "followers": 9749,
-      "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "negativ"
     },
     {
       "platform": "Mastodon",
@@ -177,7 +165,7 @@
       "ts": "2026-07-01T16:01:02.000Z",
       "followers": 92068,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
@@ -188,7 +176,7 @@
       "ts": "2026-06-29T04:32:03.000Z",
       "followers": 92068,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -199,7 +187,19 @@
       "ts": "2026-04-27T01:15:03.000Z",
       "followers": 92068,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "negativ"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@glienkestephan.bsky.social",
+      "handle": "glienkestephan.bsky.social",
+      "text": "5. Juli 1968\nHermann-Bernhard Ramcke verstorben, General der Fallschirmtruppe der Wehrmacht, 21. März 1951 in Frankreich als #Kriegsverbrecher zu 5 1/2 Jahren Haft verurteilt. Bei Beisetzung 1968 Kompanie der Bundeswehr zugegen, v. internat. Presse kritisch aufgekommen.\n\n#OTD #OnThisDay #Geschichte",
+      "url": "https://bsky.app/profile/glienkestephan.bsky.social/post/3mpv6iwgk5225",
+      "engagement": 5,
+      "ts": "2026-07-05T08:40:56.055Z",
+      "followers": 2496,
+      "isBot": false,
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -208,9 +208,9 @@
       "url": "https://social.bund.de/@Cyberagentur/114742419545368735",
       "engagement": 5,
       "ts": "2025-06-25T05:46:16.370Z",
-      "followers": 2130,
+      "followers": 2129,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -221,7 +221,7 @@
       "ts": "2026-05-08T16:16:03.000Z",
       "followers": 92068,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -230,9 +230,9 @@
       "url": "https://social.bund.de/@Cyberagentur/110026389427785747",
       "engagement": 4,
       "ts": "2023-03-15T08:37:47.596Z",
-      "followers": 2130,
+      "followers": 2129,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -243,7 +243,7 @@
       "ts": "2026-05-07T08:04:02.000Z",
       "followers": 92068,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -252,9 +252,9 @@
       "url": "https://social.bund.de/@Verteidigungsministerium/112512188179100111",
       "engagement": 3,
       "ts": "2024-05-27T08:49:06.387Z",
-      "followers": 1037,
+      "followers": 1038,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -263,9 +263,9 @@
       "url": "https://social.bund.de/@Verteidigungsministerium/112455497192232403",
       "engagement": 3,
       "ts": "2024-05-17T08:31:50.578Z",
-      "followers": 1037,
+      "followers": 1038,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -274,7 +274,7 @@
       "url": "https://social.bund.de/@Cyberagentur/110099684039083605",
       "engagement": 3,
       "ts": "2023-03-28T07:17:34.610Z",
-      "followers": 2130,
+      "followers": 2129,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -308,7 +308,7 @@
       "url": "https://bsky.app/profile/ahaachja.bsky.social/post/3mph4erpjnc2c",
       "engagement": 2,
       "ts": "2026-06-29T18:25:33.072Z",
-      "followers": 11114,
+      "followers": 11170,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -358,25 +358,25 @@
     },
     {
       "platform": "Bluesky",
-      "author": "@linuxlea.bsky.social",
-      "handle": "linuxlea.bsky.social",
-      "text": "Der soll mal froh sein, daß ich wohl nie mit ihm reden werde.\nIch habe nämlich gedient, und würde in dem Fall mal \"Eine Sprengung vornehmen\", wie man bei der Bundeswehr sagt.\n\nUnd das würde nicht lustig werden für ihn.",
-      "url": "https://bsky.app/profile/linuxlea.bsky.social/post/3mptnlp4vnl2s",
+      "author": "@gerstern.bsky.social",
+      "handle": "gerstern.bsky.social",
+      "text": "In die Bundeswehr z.B.",
+      "url": "https://bsky.app/profile/gerstern.bsky.social/post/3mpvhakh5mk2x",
       "engagement": 1,
-      "ts": "2026-07-04T18:05:35.718Z",
-      "followers": 2326,
+      "ts": "2026-07-05T11:17:18.739Z",
+      "followers": 3579,
       "isBot": false,
       "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
-      "author": "@saegge.eurosky.social",
-      "handle": "saegge.eurosky.social",
-      "text": "Ich will die Bundeswehr abschaffen und jede Form von Polizei. Solang die Polizei noch existiert braucht die aber dringend mehr Personal.",
-      "url": "https://bsky.app/profile/saegge.eurosky.social/post/3mpsskadso222",
+      "author": "@hanfdampf.bsky.social",
+      "handle": "hanfdampf.bsky.social",
+      "text": "was als nächstes \nKinder machen in der Bundeswehr?",
+      "url": "https://bsky.app/profile/hanfdampf.bsky.social/post/3mpvbky2pq22d",
       "engagement": 1,
-      "ts": "2026-07-04T10:01:35.632Z",
-      "followers": 2075,
+      "ts": "2026-07-05T09:35:46.103Z",
+      "followers": 3110,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -410,7 +410,7 @@
       "url": "https://social.bund.de/@Verteidigungsministerium/112286424149808385",
       "engagement": 1,
       "ts": "2024-04-17T11:54:20.685Z",
-      "followers": 1037,
+      "followers": 1038,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -421,7 +421,7 @@
       "url": "https://social.bund.de/@Cyberagentur/111346916916483457",
       "engagement": 1,
       "ts": "2023-11-03T13:45:17.996Z",
-      "followers": 2130,
+      "followers": 2129,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -470,13 +470,25 @@
       "sentiment": "neutral"
     },
     {
+      "platform": "Bluesky",
+      "author": "@hanfdampf.bsky.social",
+      "handle": "hanfdampf.bsky.social",
+      "text": "Bundeswehr bummst Kinder her \n\nMehr Panzer, mehr Kinder, ganz einfach",
+      "url": "https://bsky.app/profile/hanfdampf.bsky.social/post/3mpvbphelrk2d",
+      "engagement": 0,
+      "ts": "2026-07-05T09:38:16.373Z",
+      "followers": 3110,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
       "platform": "Mastodon",
       "author": "@Verteidigungsministerium",
       "text": "„Frauen können das!“ lautete das Motto des diesjährigen # GirlsDay im # BMVg . 40 Schülerinnen haben heute Einblicke in verschiedene Berufe unserer # Bundeswehr bekommen. Seit 2015 öffnet das BMVg die Tore für interessierte junge # Frauen zwischen 15 und 17 Jahren.",
       "url": "https://social.bund.de/@Verteidigungsministerium/112332340523239687",
       "engagement": 0,
       "ts": "2024-04-25T14:31:28.942Z",
-      "followers": 1037,
+      "followers": 1038,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -853,24 +865,16 @@
       "ts": "Wed, 24 Jun 2026 15:22:35 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
-    },
-    {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Verteidigungsaufstellung erlassen – jetzt müsste alles klar sein",
-      "url": "https://augengeradeaus.net/2026/06/verteidigungsaufstellung-erlassen-jetzt-muesste-alles-klar-sein/",
-      "engagement": 0,
-      "ts": "Wed, 24 Jun 2026 13:49:46 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Heute diskutiert der Bundeswehr-Diskurs um die Auswirkungen des Wehrdienst-Modells, die AfD-Faschismus-Vorwürfe und die Beschaffungsverzögerung in der Bundeswehr.",
+    "summary": "Heute diskutiert der Bundesminister der Verteidigung Boris Pistorius über den neuen Wehrdienst und seine Auswirkungen auf die Personalaufwuchs, während es zu Fehlern im Wehrpflichtgesetz und Verdachtsmeldungen bei der Bundeswehr kommt.",
     "themes": [
       "Pistorius' Wehrdienst-Modell",
-      "AfD-Faschismus-Vorwürfe",
-      "Beschaffungsverzögerung in der Bundeswehr"
+      "AfD-Faschismus-Vorwurf",
+      "Beschaffungsverzögerung",
+      "Wehrpflichtgesetz",
+      "Cyberagentur"
     ]
   }
 }

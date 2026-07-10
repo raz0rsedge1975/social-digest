@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-09T06:50:49.238Z",
-  "timestamp": "9.7.2026, 08:50:49",
+  "generated": "2026-07-10T03:39:12.259Z",
+  "timestamp": "10.7.2026, 05:39:12",
   "items": [
     {
       "platform": "Bluesky",
@@ -10,7 +10,7 @@
       "url": "https://bsky.app/profile/derlaemmermann.bsky.social/post/3mlxhejvujs26",
       "engagement": 51,
       "ts": "2026-05-16T08:44:05.355Z",
-      "followers": 2503,
+      "followers": 2506,
       "isBot": false,
       "sentiment": "kritisch"
     },
@@ -24,7 +24,7 @@
       "ts": "2026-07-03T09:17:33.300Z",
       "followers": 4101,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Bluesky",
@@ -34,7 +34,7 @@
       "url": "https://bsky.app/profile/momorulez.bsky.social/post/3mpqamljxcs24",
       "engagement": 35,
       "ts": "2026-07-03T09:35:27.647Z",
-      "followers": 3172,
+      "followers": 3173,
       "isBot": false,
       "sentiment": "negativ"
     },
@@ -57,7 +57,7 @@
       "url": "https://bsky.app/profile/gdwberlin.bsky.social/post/3mm7glqswmc2t",
       "engagement": 29,
       "ts": "2026-05-19T12:51:31.646Z",
-      "followers": 3051,
+      "followers": 3053,
       "isBot": false,
       "sentiment": "positiv"
     },
@@ -69,7 +69,7 @@
       "url": "https://bsky.app/profile/keremschamberger.bsky.social/post/3mpfr34kun227",
       "engagement": 27,
       "ts": "2026-06-29T05:30:38.012Z",
-      "followers": 5612,
+      "followers": 5613,
       "isBot": false,
       "sentiment": "kritisch"
     },
@@ -81,21 +81,21 @@
       "url": "https://bsky.app/profile/derlaemmermann.bsky.social/post/3mnyyrtanjk2p",
       "engagement": 23,
       "ts": "2026-06-11T10:18:47.958Z",
-      "followers": 2503,
+      "followers": 2506,
       "isBot": false,
       "sentiment": "negativ"
     },
     {
       "platform": "Bluesky",
-      "author": "@zeit.de",
-      "handle": "zeit.de",
-      "text": "Der Irankrieg geht wieder weiter. Die Bundestagsfraktionen von Grünen und SPD fordern daher die beiden in die Region entsandten Bundeswehrschiffe wieder zurückzuholen.",
-      "url": "https://bsky.app/profile/zeit.de/post/3mq6oh56lrn2d",
+      "author": "@luftwaffe.bundeswehr.de",
+      "handle": "luftwaffe.bundeswehr.de",
+      "text": "🛰️ Sicherheit im Weltraum gelingt nur gemeinsam!\n\nGeneral B. Chance Saltzman, Chief of Space Operations der U.S. Space Force, zu Gast im Weltraumkommando. Im Fokus: Zusammenarbeit, gemeinsame Fähigkeiten und Sicherheit im Operationsraum Weltraum. 🇩🇪🤝🇺🇸\n\n(📷: Bundeswehr/ Marvin Hofmann)",
+      "url": "https://bsky.app/profile/luftwaffe.bundeswehr.de/post/3mq7t5yomkc2n",
       "engagement": 14,
-      "ts": "2026-07-09T03:18:57.000Z",
-      "followers": 50845,
+      "ts": "2026-07-09T14:17:15.266Z",
+      "followers": 3351,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "positiv"
     },
     {
       "platform": "Bluesky",
@@ -105,19 +105,19 @@
       "url": "https://bsky.app/profile/zeit.de/post/3mpe2l2wbhc2a",
       "engagement": 13,
       "ts": "2026-06-28T13:02:05.000Z",
-      "followers": 50845,
+      "followers": 50856,
       "isBot": false,
       "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
-      "author": "@florianflade.bsky.social",
-      "handle": "florianflade.bsky.social",
-      "text": "🛰️💫 Kriegstüchtig bei den Sternen? Schon nächstes Jahr sollen vier deutsche Satelliten in den Weltraum gebracht werden, um andere Satelliten ausspionieren u stören zu können. Unsere Recherche: www.tagesschau.de/investigativ... @manuelbewarder.bsky.social @martinkaul.bsky.social #Bundeswehr #Space",
-      "url": "https://bsky.app/profile/florianflade.bsky.social/post/3mq5uo2afd22i",
-      "engagement": 10,
-      "ts": "2026-07-08T19:38:48.046Z",
-      "followers": 7469,
+      "author": "@jamilaschaefer.bsky.social",
+      "handle": "jamilaschaefer.bsky.social",
+      "text": "Natürlich ist es wichtig, die Fähigkeitslücken der Bundeswehr zu schließen und dafür mehr Geld in die Hand zu nehmen. \n\nAber die Aufwüchse stehen in keinem Verhältnis zu den Kürzungen in anderen sicherheitsrelevanten Bereichen.",
+      "url": "https://bsky.app/profile/jamilaschaefer.bsky.social/post/3mq7pfem3ts2s",
+      "engagement": 12,
+      "ts": "2026-07-09T13:09:44.904Z",
+      "followers": 4515,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -129,7 +129,19 @@
       "url": "https://bsky.app/profile/baks.bund.de/post/3mpikzwsboc2b",
       "engagement": 9,
       "ts": "2026-06-30T08:20:35.173Z",
-      "followers": 3248,
+      "followers": 3250,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@opfuekdo.bundeswehr.de",
+      "handle": "opfuekdo.bundeswehr.de",
+      "text": "Die „Air and Missile Defence Task Force“ der Bundeswehr unterstützt im Malatya-Hochgebirge mit dem Flugabwehrsystem Patriot die integrierte Luftverteidigung an der Südostflanke zum Schutz des NATO-Luftraumes.\n\nMehr Informationen zur NATO-Luftverteidigung an der Südostflanke findet ihr hier 👇",
+      "url": "https://bsky.app/profile/opfuekdo.bundeswehr.de/post/3mq7iurxb322u",
+      "engagement": 8,
+      "ts": "2026-07-09T11:13:08.811Z",
+      "followers": 2945,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -141,7 +153,7 @@
       "url": "https://bsky.app/profile/celsuscassius.bsky.social/post/3mpuvc2yx5225",
       "engagement": 8,
       "ts": "2026-07-05T05:56:02.301Z",
-      "followers": 3790,
+      "followers": 3789,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -153,7 +165,7 @@
       "url": "https://bsky.app/profile/ahaachja.bsky.social/post/3mph4imwbmc2c",
       "engagement": 8,
       "ts": "2026-06-29T18:27:42.270Z",
-      "followers": 11421,
+      "followers": 11485,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -164,7 +176,7 @@
       "url": "https://social.heise.de/@heiseonline/116885308288344766",
       "engagement": 8,
       "ts": "2026-07-08T16:31:03.000Z",
-      "followers": 85480,
+      "followers": 85494,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -176,9 +188,20 @@
       "url": "https://bsky.app/profile/baks.bund.de/post/3moxarjlxxc2y",
       "engagement": 7,
       "ts": "2026-06-23T11:01:39.928Z",
-      "followers": 3248,
+      "followers": 3250,
       "isBot": false,
       "sentiment": "neutral"
+    },
+    {
+      "platform": "Mastodon",
+      "author": "@heiseonline@social.heise.de",
+      "text": "\"Beam me up, Bundeswehr!\" 🖖 Passend dazu heißt eines der geplanten Projekte tatsächlich \"Spock 2\" – und es geht um nicht weniger als eine eigene Konstellation mit über 1000 Satelliten. Zum Artikel: https:// heise.de/-11358591?wt_mc=sm.re d.ho.mastodon.mastodon.md_beitraege.md_beitraege&utm_source=mastodon # bundeswehr # satelliten # raumfahrt # weltraum # verteidigung",
+      "url": "https://social.heise.de/@heiseonline/116888357058723022",
+      "engagement": 7,
+      "ts": "2026-07-09T05:26:24.000Z",
+      "followers": 85494,
+      "isBot": false,
+      "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
@@ -200,7 +223,7 @@
       "ts": "2026-07-01T16:01:02.000Z",
       "followers": 92270,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -211,7 +234,7 @@
       "ts": "2026-04-27T01:15:03.000Z",
       "followers": 92270,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "negativ"
     },
     {
       "platform": "Mastodon",
@@ -222,7 +245,7 @@
       "ts": "2026-04-08T06:07:03.000Z",
       "followers": 92270,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -231,9 +254,9 @@
       "url": "https://social.bund.de/@Cyberagentur/114742419545368735",
       "engagement": 5,
       "ts": "2025-06-25T05:46:16.370Z",
-      "followers": 2130,
+      "followers": 2131,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
@@ -244,19 +267,7 @@
       "ts": "2026-05-08T16:16:03.000Z",
       "followers": 92270,
       "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@wirtschaftswoche.bsky.social",
-      "handle": "wirtschaftswoche.bsky.social",
-      "text": "Immer mehr junge Menschen wollen zur Bundeswehr. Das Verteidigungsministerium zieht gut fünf Monate nach dem Start des neuen Wehrdienstgesetzes eine positive Bilanz.",
-      "url": "https://bsky.app/profile/wirtschaftswoche.bsky.social/post/3mp3xkv54fi2f",
-      "engagement": 4,
-      "ts": "2026-06-25T10:00:11.928+02:00",
-      "followers": 4838,
-      "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -267,7 +278,7 @@
       "ts": "2026-06-29T04:32:03.000Z",
       "followers": 92270,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "negativ"
     },
     {
       "platform": "Mastodon",
@@ -276,7 +287,7 @@
       "url": "https://social.bund.de/@Cyberagentur/110026389427785747",
       "engagement": 4,
       "ts": "2023-03-15T08:37:47.596Z",
-      "followers": 2130,
+      "followers": 2131,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -289,7 +300,7 @@
       "ts": "2026-05-07T08:04:02.000Z",
       "followers": 92270,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
@@ -299,9 +310,9 @@
       "url": "https://bsky.app/profile/baks.bund.de/post/3mp43flucuc2q",
       "engagement": 3,
       "ts": "2026-06-25T09:08:49.627Z",
-      "followers": 3248,
+      "followers": 3250,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -312,7 +323,7 @@
       "ts": "2024-05-27T08:49:06.387Z",
       "followers": 1038,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -323,7 +334,7 @@
       "ts": "2024-05-17T08:31:50.578Z",
       "followers": 1038,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -332,9 +343,9 @@
       "url": "https://social.bund.de/@Cyberagentur/110099684039083605",
       "engagement": 3,
       "ts": "2023-03-28T07:17:34.610Z",
-      "followers": 2130,
+      "followers": 2131,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -345,7 +356,7 @@
       "ts": "2026-06-01T16:49:03.000Z",
       "followers": 92270,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -355,18 +366,6 @@
       "engagement": 3,
       "ts": "2026-05-30T11:03:02.000Z",
       "followers": 92270,
-      "isBot": false,
-      "sentiment": "negativ"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@radsportamore.bsky.social",
-      "handle": "radsportamore.bsky.social",
-      "text": "ne das sind die von der bundeswehr die deserteure einsammeln",
-      "url": "https://bsky.app/profile/radsportamore.bsky.social/post/3mq5iy77nlc2x",
-      "engagement": 2,
-      "ts": "2026-07-08T16:09:43.914Z",
-      "followers": 2089,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -378,7 +377,7 @@
       "url": "https://bsky.app/profile/ahaachja.bsky.social/post/3mph4erpjnc2c",
       "engagement": 2,
       "ts": "2026-06-29T18:25:33.072Z",
-      "followers": 11421,
+      "followers": 11485,
       "isBot": false,
       "sentiment": "positiv"
     },
@@ -403,6 +402,29 @@
       "followers": 92270,
       "isBot": false,
       "sentiment": "positiv"
+    },
+    {
+      "platform": "Mastodon",
+      "author": "@NDR@ard.social",
+      "text": "🤔 Das neue Wehrdienstgesetz sorgt auch in Hamburg für Verunsicherung. Demnach müssen sich Männer zwischen 17 und 45 Jahren einen längeren Auslandsaufenthalt von der Bundeswehr genehmigen lassen. 👨‍🎓 Auch an der Universität Hamburg gibt es deshalb Kritik an dem Gesetz. Denn das Gesetz trifft viele Studierende, die für ein Semester im Ausland studieren wollen oder für die ein Auslandssemester ver",
+      "url": "https://ard.social/@NDR/116362094530351844",
+      "engagement": 2,
+      "ts": "2026-04-07T06:50:55.000Z",
+      "followers": 29291,
+      "isBot": false,
+      "sentiment": "negativ"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@nornenauge.bsky.social",
+      "handle": "nornenauge.bsky.social",
+      "text": "hartpunkt.de - Haushaltsausschuss bewilligt 16 Beschaffungsgroßprojekte der Bundeswehr...\nwww.hartpunkt.de/haushaltsaus...",
+      "url": "https://bsky.app/profile/nornenauge.bsky.social/post/3mqb74mip6k2w",
+      "engagement": 1,
+      "ts": "2026-07-10T03:23:53.594Z",
+      "followers": 5893,
+      "isBot": false,
+      "sentiment": "kritisch"
     },
     {
       "platform": "Bluesky",
@@ -445,9 +467,9 @@
       "url": "https://social.bund.de/@Cyberagentur/111346916916483457",
       "engagement": 1,
       "ts": "2023-11-03T13:45:17.996Z",
-      "followers": 2130,
+      "followers": 2131,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -469,7 +491,7 @@
       "ts": "2026-05-07T08:15:33.000Z",
       "followers": 13884,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -480,7 +502,7 @@
       "ts": "2026-04-16T06:30:41.000Z",
       "followers": 4789,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -491,7 +513,7 @@
       "ts": "2026-01-20T08:02:41.000Z",
       "followers": 12400,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -502,7 +524,7 @@
       "ts": "2024-04-25T14:31:28.942Z",
       "followers": 1038,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -513,7 +535,7 @@
       "ts": "2023-01-17T07:51:12.000Z",
       "followers": 2049,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -524,7 +546,7 @@
       "ts": "2026-06-12T18:01:44.000Z",
       "followers": 2413,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -544,9 +566,9 @@
       "url": "https://mastodontech.de/@Sicherheitspod/116431143859322603",
       "engagement": 0,
       "ts": "2026-04-19T11:31:04.000Z",
-      "followers": 5747,
+      "followers": 5749,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "positiv"
     },
     {
       "platform": "Reddit r/de",
@@ -556,7 +578,7 @@
       "engagement": 0,
       "ts": "2026-07-08T11:10:40+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "negativ"
     },
     {
       "platform": "Reddit r/de",
@@ -566,7 +588,7 @@
       "engagement": 0,
       "ts": "2026-07-01T18:01:47+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Reddit r/de",
@@ -576,7 +598,7 @@
       "engagement": 0,
       "ts": "2026-07-01T17:09:45+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "negativ"
     },
     {
       "platform": "Reddit r/de",
@@ -586,7 +608,7 @@
       "engagement": 0,
       "ts": "2026-06-26T12:13:04+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Reddit r/de",
@@ -596,7 +618,7 @@
       "engagement": 0,
       "ts": "2026-06-20T04:37:05+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Reddit r/de",
@@ -700,6 +722,26 @@
     },
     {
       "platform": "Reddit r/bundeswehr",
+      "author": "u/No_Skill_4511",
+      "text": "Russische Tu-142 wirft „falsche Torpedos“ neben britischem Flugzeugträger ab",
+      "url": "https://www.reddit.com/r/bundeswehr/comments/1us19dg/russische_tu142_wirft_falsche_torpedos_neben/",
+      "engagement": 0,
+      "ts": "2026-07-09T19:59:18+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Reddit r/bundeswehr",
+      "author": "u/Frankonia",
+      "text": "Bundeswehr nennt acht ehemalige Standorte die reaktiviert werden",
+      "url": "https://www.reddit.com/r/bundeswehr/comments/1us17re/bundeswehr_nennt_acht_ehemalige_standorte_die/",
+      "engagement": 0,
+      "ts": "2026-07-09T19:57:42+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Reddit r/bundeswehr",
       "author": "u/ParkBeginning2105",
       "text": "Mit Ass und adhs zu Bundeswehr",
       "url": "https://www.reddit.com/r/bundeswehr/comments/1ur57jj/mit_ass_und_adhs_zu_bundeswehr/",
@@ -729,22 +771,42 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "Reddit r/bundeswehr",
-      "author": "u/Huge-Jackfruit-4006",
-      "text": "CAT-Test Fallschirmjäger",
-      "url": "https://www.reddit.com/r/bundeswehr/comments/1uptiqg/cattest_fallschirmjäger/",
+      "platform": "Reddit r/CredibleDefense",
+      "author": "u/Financial_Chance9172",
+      "text": "Russia’s next battlefield is the seabed: why German-bound gas pipes look ripe for sabotage",
+      "url": "https://www.reddit.com/r/CredibleDefense/comments/1ll8at8/russias_next_battlefield_is_the_seabed_why/",
       "engagement": 0,
-      "ts": "2026-07-07T12:23:42+00:00",
+      "ts": "2025-06-26T18:51:20+00:00",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
-      "platform": "Reddit r/bundeswehr",
-      "author": "u/Imaginary_Oil8745",
-      "text": "Psychologisches Gespräch bei der Musterung",
-      "url": "https://www.reddit.com/r/bundeswehr/comments/1upp228/psychologisches_gespräch_bei_der_musterung/",
+      "platform": "Reddit r/CredibleDefense",
+      "author": "u/darian66",
+      "text": "Proposed budget cuts of the Dutch Armed Forces",
+      "url": "https://www.reddit.com/r/CredibleDefense/comments/4m9iuu/proposed_budget_cuts_of_the_dutch_armed_forces/",
       "engagement": 0,
-      "ts": "2026-07-07T08:35:04+00:00",
+      "ts": "2016-06-02T21:31:08+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Neuer Wehrdienst: erste Planungen für Reaktivierung von Kasernen (auch die von Elvis)",
+      "url": "https://augengeradeaus.net/2026/07/neuer-wehrdienst-erste-planungen-fuer-reaktivierung-von-kasernen-auch-die-von-elvis/",
+      "engagement": 0,
+      "ts": "Thu, 09 Jul 2026 15:14:29 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "USA wollen Tomahawk-Verkauf an Deutschland genehmigen (zum Lieferzeitpunkt sagt keiner was)",
+      "url": "https://augengeradeaus.net/2026/07/usa-wollen-tomahawk-verkauf-an-deutschland-genehmigen-zum-lieferzeitpunkt-sagt-keiner-was/",
+      "engagement": 0,
+      "ts": "Thu, 09 Jul 2026 10:58:23 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -807,76 +869,16 @@
       "ts": "Wed, 01 Jul 2026 16:36:51 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
-    },
-    {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Reserve hat keine Ruh, schneller bauen für die Truppe: Kabinett bringt neue Gesetze für die Bundeswehr auf den Weg",
-      "url": "https://augengeradeaus.net/2026/07/reserve-hat-keine-ruh-schneller-bauen-fuer-die-truppe-kabinett-bringt-neue-gesetze-fuer-die-bundeswehr-auf-den-weg/",
-      "engagement": 0,
-      "ts": "Wed, 01 Jul 2026 13:37:15 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Mehr deutsches (und niederländisches) Engagement an der NATO-Ostflanke – und eine US-Zusage",
-      "url": "https://augengeradeaus.net/2026/06/mehr-deutsches-und-niederlaendisches-engagement-an-der-nato-ostflanke-und-eine-us-zusage/",
-      "engagement": 0,
-      "ts": "Tue, 30 Jun 2026 12:59:21 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Fürs Protokoll: Deutsche Patriot-Stationierung in der Türkei begonnen",
-      "url": "https://augengeradeaus.net/2026/06/fuers-protokoll-deutsche-patriot-stationierung-der-der-tuerkei-begonnen/",
-      "engagement": 0,
-      "ts": "Fri, 26 Jun 2026 09:07:45 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Erste Zahlen zum „Neuen Wehrdienst“: Die Interpretationen beginnen",
-      "url": "https://augengeradeaus.net/2026/06/erste-zahlen-zum-neuen-wehrdienst-die-interpretationen-beginnen/",
-      "engagement": 0,
-      "ts": "Wed, 24 Jun 2026 20:48:43 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bundeswehr Journal",
-      "author": "Bundeswehr Journal",
-      "text": "D-LBO: Minister will Beschleunigung der Serienintegration",
-      "url": "https://www.bundeswehr-journal.de/2026/d-lbo-minister-will-beschleunigung-der-serienintegration/",
-      "engagement": 0,
-      "ts": "Tue, 07 Jul 2026 21:12:37 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bundeswehr Journal",
-      "author": "Bundeswehr Journal",
-      "text": "NATO-Gipfel in Ankara: Ausblick und Umfrage",
-      "url": "https://www.bundeswehr-journal.de/2026/nato-gipfel-in-ankara-ausblick-und-umfrage/",
-      "engagement": 0,
-      "ts": "Mon, 06 Jul 2026 21:30:01 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Heute diskutieren die Nutzer von sozialen Medien vor allem über die geplante Wehrpflicht, den Irankrieg und die Rolle der Bundeswehr im Weltraum. Der Bundesminister der Verteidigung Boris Pistorius ist ein zentrales Thema.",
+    "summary": "Heute diskutieren die Nutzer von sozialen Medien vor allem über die Bundeswehr und ihre Wehrdienstpolitik, insbesondere im Kontext der geplanten Aufrüstung und des Wehrpflichtgesetzes. Die Diskussion ist geprägt von Kritik an der Politik des Bundesministers der Verteidigung Boris Pistorius.",
     "themes": [
       "Pistorius' Wehrdienst-Modell",
       "AfD-Faschismus-Vorwurf",
-      "Beschaffungsverzögerung und Rüstung",
-      "Irankrieg und NATO",
-      "Weltraumforschung und Satelliten"
+      "Beschaffungs-Verzögerung",
+      "Sicherheit im Weltraum",
+      "Rechtsextremismus in der Bundeswehr"
     ]
   }
 }

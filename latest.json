@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-11T03:39:19.476Z",
-  "timestamp": "11.7.2026, 05:39:19",
+  "generated": "2026-07-12T03:38:28.092Z",
+  "timestamp": "12.7.2026, 05:38:28",
   "items": [
     {
       "platform": "Bluesky",
@@ -10,9 +10,9 @@
       "url": "https://bsky.app/profile/derlaemmermann.bsky.social/post/3mlxhejvujs26",
       "engagement": 51,
       "ts": "2026-05-16T08:44:05.355Z",
-      "followers": 2507,
+      "followers": 2510,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
@@ -22,9 +22,9 @@
       "url": "https://bsky.app/profile/claudiasalowski.bsky.social/post/3mpq7mkxid22p",
       "engagement": 51,
       "ts": "2026-07-03T09:17:33.300Z",
-      "followers": 4101,
+      "followers": 4111,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
@@ -34,9 +34,21 @@
       "url": "https://bsky.app/profile/momorulez.bsky.social/post/3mpqamljxcs24",
       "engagement": 35,
       "ts": "2026-07-03T09:35:27.647Z",
-      "followers": 3173,
+      "followers": 3172,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@zeit.de",
+      "handle": "zeit.de",
+      "text": "Der Grünen-Politiker zog seine frühere Wehrdienstverweigerung zurück. Er begründet das mit der veränderten Sicherheitslage seit dem russischen Angriff auf die Ukraine.",
+      "url": "https://bsky.app/profile/zeit.de/post/3mqfcj72q7c2c",
+      "engagement": 30,
+      "ts": "2026-07-11T18:30:27.000Z",
+      "followers": 50892,
+      "isBot": false,
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -47,7 +59,7 @@
       "ts": "2026-05-22T06:15:35.000Z",
       "followers": 5636,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
@@ -57,21 +69,9 @@
       "url": "https://bsky.app/profile/gdwberlin.bsky.social/post/3mm7glqswmc2t",
       "engagement": 29,
       "ts": "2026-05-19T12:51:31.646Z",
-      "followers": 3054,
+      "followers": 3055,
       "isBot": false,
-      "sentiment": "positiv"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@keremschamberger.bsky.social",
-      "handle": "keremschamberger.bsky.social",
-      "text": "\"Als Kommunist bin ich überzeugt, dass die geplante Wehrpflicht direkt mit Kriegsvorbereitung zusammenhängt, dass Krieg seine Wurzeln im Kapitalismus hat. Deshalb habe ich auch am 8. Mai, dem Tag der Befreiung, beim Schulstreik gegen Wehrpflicht mitdemonstriert.\"",
-      "url": "https://bsky.app/profile/keremschamberger.bsky.social/post/3mpfr34kun227",
-      "engagement": 27,
-      "ts": "2026-06-29T05:30:38.012Z",
-      "followers": 5614,
-      "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
@@ -81,33 +81,9 @@
       "url": "https://bsky.app/profile/derlaemmermann.bsky.social/post/3mnyyrtanjk2p",
       "engagement": 23,
       "ts": "2026-06-11T10:18:47.958Z",
-      "followers": 2507,
+      "followers": 2510,
       "isBot": false,
-      "sentiment": "negativ"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@luftwaffe.bundeswehr.de",
-      "handle": "luftwaffe.bundeswehr.de",
-      "text": "🇩🇪🇱🇹 Der litauische Chief of Defence besuchte uns heute gemeinsam mit Generalleutnant Neumann in Laage.\nUnsere Soldatinnen und Soldaten präsentierten dabei die Fähigkeiten zur Drohnenabwehr.\n\n(Foto: Bundeswehr/ Falk)",
-      "url": "https://bsky.app/profile/luftwaffe.bundeswehr.de/post/3mqcmjscev22k",
-      "engagement": 19,
-      "ts": "2026-07-10T16:56:34.250Z",
-      "followers": 3351,
-      "isBot": false,
-      "sentiment": "positiv"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@zeit.de",
-      "handle": "zeit.de",
-      "text": "Erstmals muss ein Jahrgang Stellung beziehen: Wehrdienst ja oder nein? Neun junge Männer erklären, warum sie sich wohl gegen die Bundeswehr entscheiden.",
-      "url": "https://bsky.app/profile/zeit.de/post/3mpe2l2wbhc2a",
-      "engagement": 13,
-      "ts": "2026-06-28T13:02:05.000Z",
-      "followers": 50881,
-      "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
@@ -117,9 +93,9 @@
       "url": "https://bsky.app/profile/baks.bund.de/post/3mpikzwsboc2b",
       "engagement": 9,
       "ts": "2026-06-30T08:20:35.173Z",
-      "followers": 3251,
+      "followers": 3254,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
@@ -129,9 +105,9 @@
       "url": "https://bsky.app/profile/celsuscassius.bsky.social/post/3mpuvc2yx5225",
       "engagement": 8,
       "ts": "2026-07-05T05:56:02.301Z",
-      "followers": 3790,
+      "followers": 3791,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
@@ -141,9 +117,9 @@
       "url": "https://bsky.app/profile/ahaachja.bsky.social/post/3mph4imwbmc2c",
       "engagement": 8,
       "ts": "2026-06-29T18:27:42.270Z",
-      "followers": 11509,
+      "followers": 11563,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -154,19 +130,7 @@
       "ts": "2026-07-08T16:31:03.000Z",
       "followers": 85505,
       "isBot": false,
-      "sentiment": "positiv"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@zeit.de",
-      "handle": "zeit.de",
-      "text": "Deutschland beendet seine Präsenz im Feldlager von Erbil. Militärberater der Bundeswehr sollen im Irak dennoch weiter kurdische Sicherheitskräfte unterstützen.",
-      "url": "https://bsky.app/profile/zeit.de/post/3mqcayyfazc2v",
-      "engagement": 7,
-      "ts": "2026-07-10T13:18:25.000Z",
-      "followers": 50881,
-      "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
@@ -176,9 +140,9 @@
       "url": "https://bsky.app/profile/baks.bund.de/post/3moxarjlxxc2y",
       "engagement": 7,
       "ts": "2026-06-23T11:01:39.928Z",
-      "followers": 3251,
+      "followers": 3254,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -189,7 +153,7 @@
       "ts": "2026-07-09T05:26:24.000Z",
       "followers": 85505,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -200,7 +164,7 @@
       "ts": "2024-07-03T09:11:36.066Z",
       "followers": 1037,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -211,7 +175,7 @@
       "ts": "2026-07-01T16:01:02.000Z",
       "followers": 92299,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -222,7 +186,7 @@
       "ts": "2026-04-27T01:15:03.000Z",
       "followers": 92299,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -233,7 +197,7 @@
       "ts": "2026-04-08T06:07:03.000Z",
       "followers": 92299,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
@@ -244,7 +208,7 @@
       "ts": "2025-06-25T05:46:16.370Z",
       "followers": 2131,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -255,7 +219,7 @@
       "ts": "2026-05-08T16:16:03.000Z",
       "followers": 92299,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -266,7 +230,7 @@
       "ts": "2023-03-15T08:37:47.596Z",
       "followers": 2131,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "negativ"
     },
     {
       "platform": "Mastodon",
@@ -277,7 +241,7 @@
       "ts": "2026-05-07T08:04:02.000Z",
       "followers": 92299,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -321,7 +285,7 @@
       "ts": "2026-06-01T16:49:03.000Z",
       "followers": 92299,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -332,19 +296,7 @@
       "ts": "2026-05-30T11:03:02.000Z",
       "followers": 92299,
       "isBot": false,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@antennedowideit.bsky.social",
-      "handle": "antennedowideit.bsky.social",
-      "text": "🔴 Kampfdrohnen, Jets, Panzer, KI-Systeme: Alle zentralen Rüstungsprojekte laufen über das Beschaffungsamt der Bundeswehr in Koblenz. \n\nDie Behörde wird gerade grundlegend umgebaut. Nach CORRECTIV-Informationen sollen die Maßnahmen Ende 2027 abgeschlossen sein.",
-      "url": "https://bsky.app/profile/antennedowideit.bsky.social/post/3mqc3tubox22z",
-      "engagement": 2,
-      "ts": "2026-07-10T11:57:58.275Z",
-      "followers": 6955,
-      "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
@@ -354,18 +306,7 @@
       "url": "https://bsky.app/profile/ahaachja.bsky.social/post/3mph4erpjnc2c",
       "engagement": 2,
       "ts": "2026-06-29T18:25:33.072Z",
-      "followers": 11509,
-      "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Mastodon",
-      "author": "@doener@social.tchncs.de",
-      "text": "# Bundeswehr https://www. linkedin.com/posts/michel-kar% C3%A4nke-352a65a7_bundeswehr-sap-projekt-go-live-verschoben-share-7477347124532219906-Gj99/",
-      "url": "https://social.tchncs.de/@doener/116840023688007595",
-      "engagement": 2,
-      "ts": "2026-06-30T16:34:35.000Z",
-      "followers": 2718,
+      "followers": 11563,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -537,6 +478,16 @@
     },
     {
       "platform": "Reddit r/de",
+      "author": "u/the_real_lucia",
+      "text": "Personalprobleme der Bundeswehr: Wer soll denn die Panzer künftig fahren?",
+      "url": "https://www.reddit.com/r/de/comments/1utjocd/personalprobleme_der_bundeswehr_wer_soll_denn_die/",
+      "engagement": 0,
+      "ts": "2026-07-11T13:07:36+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Reddit r/de",
       "author": "u/ColdFemboi",
       "text": "Beschaffung der Bundeswehr: Jahre für einen Panzer, Jahrzehnte für einen Jet",
       "url": "https://www.reddit.com/r/de/comments/1uqpka2/beschaffung_der_bundeswehr_jahre_für_einen_panzer/",
@@ -672,16 +623,6 @@
       "url": "https://www.reddit.com/r/de/comments/1t5yk8z/mehr_als_jeder_vierte_ignoriert/",
       "engagement": 0,
       "ts": "2026-05-07T03:12:07+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Reddit r/de",
-      "author": "u/WestAcceptable1155",
-      "text": "Fragebogen zum Wehrdienst: Schon 200.000 junge Menschen haben Post von der Bundeswehr bekommen",
-      "url": "https://www.reddit.com/r/de/comments/1t2fo0z/fragebogen_zum_wehrdienst_schon_200000_junge/",
-      "engagement": 0,
-      "ts": "2026-05-03T08:23:17+00:00",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -864,16 +805,64 @@
       "ts": "Wed, 01 Jul 2026 16:36:51 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Reserve hat keine Ruh, schneller bauen für die Truppe: Kabinett bringt neue Gesetze für die Bundeswehr auf den Weg",
+      "url": "https://augengeradeaus.net/2026/07/reserve-hat-keine-ruh-schneller-bauen-fuer-die-truppe-kabinett-bringt-neue-gesetze-fuer-die-bundeswehr-auf-den-weg/",
+      "engagement": 0,
+      "ts": "Wed, 01 Jul 2026 13:37:15 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Mehr deutsches (und niederländisches) Engagement an der NATO-Ostflanke – und eine US-Zusage",
+      "url": "https://augengeradeaus.net/2026/06/mehr-deutsches-und-niederlaendisches-engagement-an-der-nato-ostflanke-und-eine-us-zusage/",
+      "engagement": 0,
+      "ts": "Tue, 30 Jun 2026 12:59:21 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bundeswehr Journal",
+      "author": "Bundeswehr Journal",
+      "text": "Beschaffungsamt bestellt laserbasiertes Marine-Waffensystem",
+      "url": "https://www.bundeswehr-journal.de/2026/beschaffungsamt-bestellt-laserbasiertes-marine-waffensystem/",
+      "engagement": 0,
+      "ts": "Thu, 09 Jul 2026 13:00:51 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bundeswehr Journal",
+      "author": "Bundeswehr Journal",
+      "text": "D-LBO: Minister will Beschleunigung der Serienintegration",
+      "url": "https://www.bundeswehr-journal.de/2026/d-lbo-minister-will-beschleunigung-der-serienintegration/",
+      "engagement": 0,
+      "ts": "Wed, 08 Jul 2026 21:12:37 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bundeswehr Journal",
+      "author": "Bundeswehr Journal",
+      "text": "MCD Elektronik entwickelte Testsystem im Kundenauftrag",
+      "url": "https://www.bundeswehr-journal.de/2026/mcd-elektronik-entwickelte-testsystem-im-kundenauftrag/",
+      "engagement": 0,
+      "ts": "Tue, 07 Jul 2026 21:00:36 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Heute diskutieren die sozialen Medien um die Bundeswehr und ihre Politik, insbesondere um den Wehrdienst und die Rüstung. Der Bundesminister der Verteidigung Boris Pistorius ist Gegenstand von Kritik und Kontroversen.",
+    "summary": "Heute diskutiert der Bundesminister der Verteidigung Boris Pistorius über die Aufrüstung und die NATO, während es zu Protesten gegen die Wehrpflicht und Verdachtsmeldungen bei der Bundeswehr kommt.",
     "themes": [
       "Pistorius' Wehrdienst-Modell",
       "AfD-Faschismus-Vorwurf",
-      "Beschaffungsverzögerung",
-      "Rechtsextremismus in der Bundeswehr",
-      "Wehrpflicht"
+      "Beschaffungsverzögerung des Spock-Projekts"
     ]
   }
 }

@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T03:38:28.092Z",
-  "timestamp": "12.7.2026, 05:38:28",
+  "generated": "2026-07-13T03:38:48.008Z",
+  "timestamp": "13.7.2026, 05:38:48",
   "items": [
     {
       "platform": "Bluesky",
@@ -22,7 +22,7 @@
       "url": "https://bsky.app/profile/claudiasalowski.bsky.social/post/3mpq7mkxid22p",
       "engagement": 51,
       "ts": "2026-07-03T09:17:33.300Z",
-      "followers": 4111,
+      "followers": 4114,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -34,7 +34,7 @@
       "url": "https://bsky.app/profile/momorulez.bsky.social/post/3mpqamljxcs24",
       "engagement": 35,
       "ts": "2026-07-03T09:35:27.647Z",
-      "followers": 3172,
+      "followers": 3173,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -44,9 +44,21 @@
       "handle": "zeit.de",
       "text": "Der Grünen-Politiker zog seine frühere Wehrdienstverweigerung zurück. Er begründet das mit der veränderten Sicherheitslage seit dem russischen Angriff auf die Ukraine.",
       "url": "https://bsky.app/profile/zeit.de/post/3mqfcj72q7c2c",
-      "engagement": 30,
+      "engagement": 34,
       "ts": "2026-07-11T18:30:27.000Z",
-      "followers": 50892,
+      "followers": 50904,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@stbimbam.eurosky.social",
+      "handle": "stbimbam.eurosky.social",
+      "text": "Bei Migration schön klüngeln und beim Thema Bundeswehr geht euch der Aesch auf Grundeis?",
+      "url": "https://bsky.app/profile/stbimbam.eurosky.social/post/3mqhah4y2ss2e",
+      "engagement": 30,
+      "ts": "2026-07-12T13:03:38.592Z",
+      "followers": 3335,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -57,7 +69,7 @@
       "url": "https://mastodon.social/@TwraSun/116616759568267292",
       "engagement": 30,
       "ts": "2026-05-22T06:15:35.000Z",
-      "followers": 5636,
+      "followers": 5647,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -67,9 +79,9 @@
       "handle": "gdwberlin.bsky.social",
       "text": "Heute besuchte der Bundesminister der Verteidigung Boris Pistorius das Schaudepot Reichsbanner Schwarz-Rot-Gold in der Gedenkstätte Deutscher Widerstand. Wir danken herzlich für das große Interesse! #GedenkstätteDeutscherWiderstand #ReichsbannerSchwarzRotGold #Demokratiegeschichte #Schaudepot",
       "url": "https://bsky.app/profile/gdwberlin.bsky.social/post/3mm7glqswmc2t",
-      "engagement": 29,
+      "engagement": 28,
       "ts": "2026-05-19T12:51:31.646Z",
-      "followers": 3055,
+      "followers": 3054,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -93,9 +105,9 @@
       "url": "https://bsky.app/profile/baks.bund.de/post/3mpikzwsboc2b",
       "engagement": 9,
       "ts": "2026-06-30T08:20:35.173Z",
-      "followers": 3254,
+      "followers": 3255,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Bluesky",
@@ -105,9 +117,9 @@
       "url": "https://bsky.app/profile/celsuscassius.bsky.social/post/3mpuvc2yx5225",
       "engagement": 8,
       "ts": "2026-07-05T05:56:02.301Z",
-      "followers": 3791,
+      "followers": 3792,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Bluesky",
@@ -117,7 +129,7 @@
       "url": "https://bsky.app/profile/ahaachja.bsky.social/post/3mph4imwbmc2c",
       "engagement": 8,
       "ts": "2026-06-29T18:27:42.270Z",
-      "followers": 11563,
+      "followers": 11607,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -130,7 +142,7 @@
       "ts": "2026-07-08T16:31:03.000Z",
       "followers": 85505,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Bluesky",
@@ -140,9 +152,9 @@
       "url": "https://bsky.app/profile/baks.bund.de/post/3moxarjlxxc2y",
       "engagement": 7,
       "ts": "2026-06-23T11:01:39.928Z",
-      "followers": 3254,
+      "followers": 3255,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -153,7 +165,7 @@
       "ts": "2026-07-09T05:26:24.000Z",
       "followers": 85505,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -164,7 +176,7 @@
       "ts": "2024-07-03T09:11:36.066Z",
       "followers": 1037,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
@@ -197,7 +209,7 @@
       "ts": "2026-04-08T06:07:03.000Z",
       "followers": 92299,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -206,7 +218,7 @@
       "url": "https://social.bund.de/@Cyberagentur/114742419545368735",
       "engagement": 5,
       "ts": "2025-06-25T05:46:16.370Z",
-      "followers": 2131,
+      "followers": 2130,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -219,7 +231,19 @@
       "ts": "2026-05-08T16:16:03.000Z",
       "followers": 92299,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@peterunfried.bsky.social",
+      "handle": "peterunfried.bsky.social",
+      "text": "\"Da sagt mein Cousin voll GenZ-mäßig: „Warum sollte ich mir für dieses Land die Bundeswehr antun?“\nUnser Onkel hat neuerdings ein Poster von Alice W. im Wohnzimmer. Er knurrt: „Niemand von diesen Jungen will mehr sein Vaterland verteidigen.“\n\n@chicaruthless.bsky.social für @tazfuturzwei.bsky.social",
+      "url": "https://bsky.app/profile/peterunfried.bsky.social/post/3mqh7ltg3hs2z",
+      "engagement": 4,
+      "ts": "2026-07-12T12:48:22.596Z",
+      "followers": 3293,
+      "isBot": false,
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -228,9 +252,9 @@
       "url": "https://social.bund.de/@Cyberagentur/110026389427785747",
       "engagement": 4,
       "ts": "2023-03-15T08:37:47.596Z",
-      "followers": 2131,
+      "followers": 2130,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -241,7 +265,19 @@
       "ts": "2026-05-07T08:04:02.000Z",
       "followers": 92299,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@mediengestalter.bsky.social",
+      "handle": "mediengestalter.bsky.social",
+      "text": "Die hochgerüstete Bundeswehr soll, nach den Faschos, entweder:\n\n- doitschtümelnd-revisionistisch gegen Polen o.ä. eingesetzt werden,\n\n- für die \"anglo-amerikanische  White Rasse\" (singular) bzw. moderater: für den \"anglo-amerikanischen Westen\" als Kannonenfutter gegen China o.ä. eingesetzt werden.",
+      "url": "https://bsky.app/profile/mediengestalter.bsky.social/post/3mqh4cumhec2k",
+      "engagement": 3,
+      "ts": "2026-07-12T11:49:40.638Z",
+      "followers": 10726,
+      "isBot": false,
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -252,7 +288,7 @@
       "ts": "2024-05-27T08:49:06.387Z",
       "followers": 1037,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -263,7 +299,7 @@
       "ts": "2024-05-17T08:31:50.578Z",
       "followers": 1037,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -272,9 +308,9 @@
       "url": "https://social.bund.de/@Cyberagentur/110099684039083605",
       "engagement": 3,
       "ts": "2023-03-28T07:17:34.610Z",
-      "followers": 2131,
+      "followers": 2130,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -306,7 +342,7 @@
       "url": "https://bsky.app/profile/ahaachja.bsky.social/post/3mph4erpjnc2c",
       "engagement": 2,
       "ts": "2026-06-29T18:25:33.072Z",
-      "followers": 11563,
+      "followers": 11607,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -333,29 +369,6 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "Bluesky",
-      "author": "@nicebastard.bsky.social",
-      "handle": "nicebastard.bsky.social",
-      "text": "Bundeswehr startet auf YouTube und Joyn eine Dokuserie, die echte Rekrut*innen bei ihren ersten Schritten im Wehrdienst begleitet. Die emotional aufgezogene Serie ist auf mehrere Staffeln angelegt.",
-      "url": "https://bsky.app/profile/nicebastard.bsky.social/post/3mpnwcw6abk2d",
-      "engagement": 1,
-      "ts": "2026-07-02T11:25:46.358Z",
-      "followers": 812,
-      "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Mastodon",
-      "author": "@tagesschau@ard.social",
-      "text": "Verteidigungsminister Pistorius will Bundeswehr-Reserve stärken Heute kommt das \"Reservestärkungsgesetz\" ins Kabinett. Es soll helfen, die Zahl der Reservistinnen und Reservisten zu erhöhen - auf 200.000 bis zum Jahr 2035. Kritik an Details kommt aus der Wirtschaft. Von Katrin Aue. ➡️ https://www. tagesschau.de/inland/innenpoli tik/bundeswehr-reservisten-104.html?at_medium=mastodon&at_campaign=tag",
-      "url": "https://ard.social/@tagesschau/116842892013844169",
-      "engagement": 1,
-      "ts": "2026-07-01T04:44:02.000Z",
-      "followers": 92299,
-      "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
       "platform": "Mastodon",
       "author": "@Verteidigungsministerium",
       "text": "Direktorin Döring wird neue Abteilungsleiterin für den Bereich # Personal im # BMVg . Zuletzt engagierte sie sich als Teil des Führungsteams in der Task Force Personal. Auch das Bundesamt für das # Personalmanagement der Bundeswehr bekommt eine neue Führung. Die # Pressemitteilung 👇",
@@ -373,7 +386,7 @@
       "url": "https://social.bund.de/@Cyberagentur/111346916916483457",
       "engagement": 1,
       "ts": "2023-11-03T13:45:17.996Z",
-      "followers": 2131,
+      "followers": 2130,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -422,6 +435,18 @@
       "sentiment": "neutral"
     },
     {
+      "platform": "Bluesky",
+      "author": "@frauimspiegel.bsky.social",
+      "handle": "frauimspiegel.bsky.social",
+      "text": "„Ich bin für einen allgemeinen Gesellschaftsdienst. Alle Menschen, Männer und Frauen, sollten diesen nach der Schule für sechs bis zwölf Monate leisten. Entweder bei der Bundeswehr oder bei einer Hilfsorganisation, dem Bevölkerungsschutz oder einer sozialen Einrichtung“ \n\n👍",
+      "url": "https://bsky.app/profile/frauimspiegel.bsky.social/post/3mqhcdnocls2m",
+      "engagement": 0,
+      "ts": "2026-07-12T13:37:29.364Z",
+      "followers": 126,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
       "platform": "Mastodon",
       "author": "@Verteidigungsministerium",
       "text": "„Frauen können das!“ lautete das Motto des diesjährigen # GirlsDay im # BMVg . 40 Schülerinnen haben heute Einblicke in verschiedene Berufe unserer # Bundeswehr bekommen. Seit 2015 öffnet das BMVg die Tore für interessierte junge # Frauen zwischen 15 und 17 Jahren.",
@@ -439,7 +464,7 @@
       "url": "https://mastodon.social/@fsteiner/109703454523776658",
       "engagement": 0,
       "ts": "2023-01-17T07:51:12.000Z",
-      "followers": 2049,
+      "followers": 2051,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -474,6 +499,16 @@
       "ts": "2026-04-19T11:31:04.000Z",
       "followers": 5749,
       "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Reddit r/de",
+      "author": "u/GirasoleDE",
+      "text": "Bis Ende 2027: Bundeswehr-Beschaffungsamt soll massiv umgebaut werden",
+      "url": "https://www.reddit.com/r/de/comments/1uugpfv/bis_ende_2027_bundeswehrbeschaffungsamt_soll/",
+      "engagement": 0,
+      "ts": "2026-07-12T14:16:55+00:00",
+      "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
@@ -514,7 +549,7 @@
       "engagement": 0,
       "ts": "2026-07-01T17:09:45+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Reddit r/de",
@@ -524,7 +559,7 @@
       "engagement": 0,
       "ts": "2026-06-26T12:13:04+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Reddit r/de",
@@ -534,7 +569,7 @@
       "engagement": 0,
       "ts": "2026-06-20T04:37:05+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "negativ"
     },
     {
       "platform": "Reddit r/de",
@@ -544,7 +579,7 @@
       "engagement": 0,
       "ts": "2026-06-19T18:49:13+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Reddit r/de",
@@ -554,7 +589,7 @@
       "engagement": 0,
       "ts": "2026-06-14T06:56:41+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "negativ"
     },
     {
       "platform": "Reddit r/de",
@@ -564,7 +599,7 @@
       "engagement": 0,
       "ts": "2026-06-13T22:24:35+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Reddit r/de",
@@ -574,7 +609,7 @@
       "engagement": 0,
       "ts": "2026-06-13T08:40:50+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Reddit r/de",
@@ -584,7 +619,7 @@
       "engagement": 0,
       "ts": "2026-06-01T18:44:50+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Reddit r/de",
@@ -594,7 +629,7 @@
       "engagement": 0,
       "ts": "2026-05-31T15:50:19+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Reddit r/de",
@@ -604,7 +639,7 @@
       "engagement": 0,
       "ts": "2026-05-24T07:36:17+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "negativ"
     },
     {
       "platform": "Reddit r/de",
@@ -614,17 +649,37 @@
       "engagement": 0,
       "ts": "2026-05-07T14:58:39+00:00",
       "alwaysKeep": true,
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Reddit r/bundeswehr",
+      "author": "u/Idk_what_you_mean",
+      "text": "Cat-Test",
+      "url": "https://www.reddit.com/r/bundeswehr/comments/1uun9y9/cattest/",
+      "engagement": 0,
+      "ts": "2026-07-12T18:24:07+00:00",
+      "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
-      "platform": "Reddit r/de",
-      "author": "u/WestAcceptable1155",
-      "text": "Mehr als jeder Vierte ignoriert Bundeswehr-Fragebogen",
-      "url": "https://www.reddit.com/r/de/comments/1t5yk8z/mehr_als_jeder_vierte_ignoriert/",
+      "platform": "Reddit r/bundeswehr",
+      "author": "u/Independent-You191",
+      "text": "Toxisches umfeld",
+      "url": "https://www.reddit.com/r/bundeswehr/comments/1uui92d/toxisches_umfeld/",
       "engagement": 0,
-      "ts": "2026-05-07T03:12:07+00:00",
+      "ts": "2026-07-12T15:17:41+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Reddit r/bundeswehr",
+      "author": "u/Immediate-Ice5108",
+      "text": "Reserve bei Hauptberuf in KRITIS sinnvoll?",
+      "url": "https://www.reddit.com/r/bundeswehr/comments/1uubcz5/reserve_bei_hauptberuf_in_kritis_sinnvoll/",
+      "engagement": 0,
+      "ts": "2026-07-12T10:06:11+00:00",
+      "alwaysKeep": true,
+      "sentiment": "kritisch"
     },
     {
       "platform": "Reddit r/CredibleDefense",
@@ -634,7 +689,7 @@
       "engagement": 0,
       "ts": "2025-06-26T18:51:20+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Reddit r/CredibleDefense",
@@ -644,7 +699,7 @@
       "engagement": 0,
       "ts": "2016-06-02T21:31:08+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "negativ"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -654,7 +709,7 @@
       "engagement": 0,
       "ts": "2026-07-10T20:05:53+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -674,7 +729,7 @@
       "engagement": 0,
       "ts": "2026-07-06T15:30:22+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -684,7 +739,7 @@
       "engagement": 0,
       "ts": "2026-07-03T18:25:32+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -694,7 +749,7 @@
       "engagement": 0,
       "ts": "2026-07-02T12:24:42+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -704,7 +759,7 @@
       "engagement": 0,
       "ts": "2026-07-02T11:28:10+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -714,7 +769,7 @@
       "engagement": 0,
       "ts": "2026-06-29T12:05:51+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -724,7 +779,7 @@
       "engagement": 0,
       "ts": "2026-06-25T14:11:59+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Augen geradeaus!",
@@ -805,64 +860,16 @@
       "ts": "Wed, 01 Jul 2026 16:36:51 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
-    },
-    {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Reserve hat keine Ruh, schneller bauen für die Truppe: Kabinett bringt neue Gesetze für die Bundeswehr auf den Weg",
-      "url": "https://augengeradeaus.net/2026/07/reserve-hat-keine-ruh-schneller-bauen-fuer-die-truppe-kabinett-bringt-neue-gesetze-fuer-die-bundeswehr-auf-den-weg/",
-      "engagement": 0,
-      "ts": "Wed, 01 Jul 2026 13:37:15 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Mehr deutsches (und niederländisches) Engagement an der NATO-Ostflanke – und eine US-Zusage",
-      "url": "https://augengeradeaus.net/2026/06/mehr-deutsches-und-niederlaendisches-engagement-an-der-nato-ostflanke-und-eine-us-zusage/",
-      "engagement": 0,
-      "ts": "Tue, 30 Jun 2026 12:59:21 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bundeswehr Journal",
-      "author": "Bundeswehr Journal",
-      "text": "Beschaffungsamt bestellt laserbasiertes Marine-Waffensystem",
-      "url": "https://www.bundeswehr-journal.de/2026/beschaffungsamt-bestellt-laserbasiertes-marine-waffensystem/",
-      "engagement": 0,
-      "ts": "Thu, 09 Jul 2026 13:00:51 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bundeswehr Journal",
-      "author": "Bundeswehr Journal",
-      "text": "D-LBO: Minister will Beschleunigung der Serienintegration",
-      "url": "https://www.bundeswehr-journal.de/2026/d-lbo-minister-will-beschleunigung-der-serienintegration/",
-      "engagement": 0,
-      "ts": "Wed, 08 Jul 2026 21:12:37 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bundeswehr Journal",
-      "author": "Bundeswehr Journal",
-      "text": "MCD Elektronik entwickelte Testsystem im Kundenauftrag",
-      "url": "https://www.bundeswehr-journal.de/2026/mcd-elektronik-entwickelte-testsystem-im-kundenauftrag/",
-      "engagement": 0,
-      "ts": "Tue, 07 Jul 2026 21:00:36 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Heute diskutiert der Bundesminister der Verteidigung Boris Pistorius über die Aufrüstung und die NATO, während es zu Protesten gegen die Wehrpflicht und Verdachtsmeldungen bei der Bundeswehr kommt.",
+    "summary": "Der Diskurs dominiert von Sorgen über die deutsche Aufrüstung, Wehrdienstverweigerungen und die Rolle der Bundeswehr bei der NATO.",
     "themes": [
       "Pistorius' Wehrdienst-Modell",
       "AfD-Faschismus-Vorwurf",
-      "Beschaffungsverzögerung des Spock-Projekts"
+      "Beschaffungs-Verzögerung",
+      "Rehabilitierung von Wehrdienstverweigerern",
+      "NATO-Aufrüstung"
     ]
   }
 }

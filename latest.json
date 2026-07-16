@@ -1,7 +1,31 @@
 {
-  "generated": "2026-07-15T03:38:42.163Z",
-  "timestamp": "15.7.2026, 05:38:42",
+  "generated": "2026-07-16T03:38:28.771Z",
+  "timestamp": "16.7.2026, 05:38:28",
   "items": [
+    {
+      "platform": "Bluesky",
+      "author": "@miezi-katze.bsky.social",
+      "handle": "miezi-katze.bsky.social",
+      "text": "Munitionsbelastete ehemalige Truppenübungsplätze\n\nWenn ich von Waldbränden auf solchen Gebieten lese, frage ich mich, warum die Bundeswehr, die das Spezialgerät und ausgebildete Mitarbeiter hat, nicht grossflächig für diese Aufgaben eingesetzt wird ... und ja, es kostet!\n\nwww.zeit.de/gesellschaft...",
+      "url": "https://bsky.app/profile/miezi-katze.bsky.social/post/3mqobnmbsp22r",
+      "engagement": 96,
+      "ts": "2026-07-15T08:13:47.876Z",
+      "followers": 3164,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@correctiv.org",
+      "handle": "correctiv.org",
+      "text": "Verteidigungsminister Boris #Pistorius stoppte das teuerste Marineprojekt der #Bundeswehr. Die betroffene Werft will sich nun wehren: Nach CORRECTIV-Informationen soll die geplante Schadensersatzforderung im Milliardenbereich liegen.",
+      "url": "https://bsky.app/profile/correctiv.org/post/3mqovn5hkh22c",
+      "engagement": 86,
+      "ts": "2026-07-15T14:11:27.172Z",
+      "followers": 69417,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
     {
       "platform": "Bluesky",
       "author": "@derlaemmermann.bsky.social",
@@ -10,7 +34,7 @@
       "url": "https://bsky.app/profile/derlaemmermann.bsky.social/post/3mlxhejvujs26",
       "engagement": 51,
       "ts": "2026-05-16T08:44:05.355Z",
-      "followers": 2512,
+      "followers": 2513,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -22,7 +46,7 @@
       "url": "https://bsky.app/profile/zeit.de/post/3mqfcj72q7c2c",
       "engagement": 34,
       "ts": "2026-07-11T18:30:27.000Z",
-      "followers": 50940,
+      "followers": 50956,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -57,19 +81,7 @@
       "url": "https://bsky.app/profile/derlaemmermann.bsky.social/post/3mnyyrtanjk2p",
       "engagement": 23,
       "ts": "2026-06-11T10:18:47.958Z",
-      "followers": 2512,
-      "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@michaeljungwirth.bsky.social",
-      "handle": "michaeljungwirth.bsky.social",
-      "text": "Das Bundeswehr marschiert am letzten französischen Nationalfeiertag unter Präsident Macron beim großen Aufmarsch auf den Champs-Élysées mit. Stargast war der ukrainische Präsident, das Defile stand ganz im Zeichen der europäischen Solidarität mit dem von Russland überfallen Land",
-      "url": "https://bsky.app/profile/michaeljungwirth.bsky.social/post/3mqmq6iazhk24",
-      "engagement": 12,
-      "ts": "2026-07-14T17:28:26.986Z",
-      "followers": 6385,
+      "followers": 2513,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -81,7 +93,19 @@
       "url": "https://bsky.app/profile/baks.bund.de/post/3mpikzwsboc2b",
       "engagement": 9,
       "ts": "2026-06-30T08:20:35.173Z",
-      "followers": 3258,
+      "followers": 3260,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@fellingshaeuser.bsky.social",
+      "handle": "fellingshaeuser.bsky.social",
+      "text": "Würden Die Linken zur Bundeswehr, NATO, EU und UNO stehen, wäre die SPD wahrscheinlich schon Geschichte.",
+      "url": "https://bsky.app/profile/fellingshaeuser.bsky.social/post/3mqofsngkz22o",
+      "engagement": 8,
+      "ts": "2026-07-15T09:28:11.820Z",
+      "followers": 2762,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -93,7 +117,7 @@
       "url": "https://bsky.app/profile/celsuscassius.bsky.social/post/3mpuvc2yx5225",
       "engagement": 8,
       "ts": "2026-07-05T05:56:02.301Z",
-      "followers": 3798,
+      "followers": 3800,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -105,9 +129,9 @@
       "url": "https://bsky.app/profile/ahaachja.bsky.social/post/3mph4imwbmc2c",
       "engagement": 8,
       "ts": "2026-06-29T18:27:42.270Z",
-      "followers": 11652,
+      "followers": 11654,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -116,9 +140,9 @@
       "url": "https://ard.social/@tagesschau/116916686859260487",
       "engagement": 8,
       "ts": "2026-07-14T05:31:02.000Z",
-      "followers": 92374,
+      "followers": 92390,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -127,9 +151,9 @@
       "url": "https://social.heise.de/@heiseonline/116885308288344766",
       "engagement": 8,
       "ts": "2026-07-08T16:31:03.000Z",
-      "followers": 85569,
+      "followers": 85591,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
@@ -139,9 +163,9 @@
       "url": "https://bsky.app/profile/baks.bund.de/post/3moxarjlxxc2y",
       "engagement": 7,
       "ts": "2026-06-23T11:01:39.928Z",
-      "followers": 3258,
+      "followers": 3260,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -150,9 +174,9 @@
       "url": "https://social.heise.de/@heiseonline/116888357058723022",
       "engagement": 7,
       "ts": "2026-07-09T05:26:24.000Z",
-      "followers": 85569,
+      "followers": 85591,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -163,7 +187,7 @@
       "ts": "2024-07-03T09:11:36.066Z",
       "followers": 1037,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -172,9 +196,9 @@
       "url": "https://ard.social/@tagesschau/116474020059776581",
       "engagement": 6,
       "ts": "2026-04-27T01:15:03.000Z",
-      "followers": 92374,
+      "followers": 92390,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -183,9 +207,9 @@
       "url": "https://ard.social/@tagesschau/116367584363081293",
       "engagement": 6,
       "ts": "2026-04-08T06:07:03.000Z",
-      "followers": 92374,
+      "followers": 92390,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -196,7 +220,7 @@
       "ts": "2025-06-25T05:46:16.370Z",
       "followers": 2132,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -205,9 +229,9 @@
       "url": "https://ard.social/@tagesschau/116539848348179445",
       "engagement": 5,
       "ts": "2026-05-08T16:16:03.000Z",
-      "followers": 92374,
+      "followers": 92390,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -218,7 +242,7 @@
       "ts": "2023-03-15T08:37:47.596Z",
       "followers": 2132,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -227,9 +251,21 @@
       "url": "https://ard.social/@tagesschau/116532251368745167",
       "engagement": 4,
       "ts": "2026-05-07T08:04:02.000Z",
-      "followers": 92374,
+      "followers": 92390,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@crashbug.eurosky.social",
+      "handle": "crashbug.eurosky.social",
+      "text": "Nein, dafür werden hier Hubschrauber eingesetzt. Die letzten Jahre CH 53 der Bundeswehr.",
+      "url": "https://bsky.app/profile/crashbug.eurosky.social/post/3mqojs66fms22",
+      "engagement": 3,
+      "ts": "2026-07-15T10:39:30.792Z",
+      "followers": 3769,
+      "isBot": false,
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -240,7 +276,7 @@
       "ts": "2024-05-27T08:49:06.387Z",
       "followers": 1037,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -251,7 +287,7 @@
       "ts": "2024-05-17T08:31:50.578Z",
       "followers": 1037,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
@@ -262,7 +298,7 @@
       "ts": "2023-03-28T07:17:34.610Z",
       "followers": 2132,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -271,7 +307,7 @@
       "url": "https://ard.social/@tagesschau/116675873558064545",
       "engagement": 3,
       "ts": "2026-06-01T16:49:03.000Z",
-      "followers": 92374,
+      "followers": 92390,
       "isBot": false,
       "sentiment": "kritisch"
     },
@@ -282,7 +318,19 @@
       "url": "https://ard.social/@tagesschau/116663188343976154",
       "engagement": 3,
       "ts": "2026-05-30T11:03:02.000Z",
-      "followers": 92374,
+      "followers": 92390,
+      "isBot": false,
+      "sentiment": "negativ"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@robilad.bsky.social",
+      "handle": "robilad.bsky.social",
+      "text": "„Um die fortschreitende Ausbreitung des Virus einzudämmen“ war die Begründung. Darunter fiel z.B. Geld für Bundeswehr fürs Tracing, Warn-App, Forschung an Impfstoffen und Behandlungen, Beschaffung von AK, Information der Bevölkerung, Impfkampagnen, etc.",
+      "url": "https://bsky.app/profile/robilad.bsky.social/post/3mqoejvsc4c2b",
+      "engagement": 2,
+      "ts": "2026-07-15T09:05:24.860Z",
+      "followers": 3158,
       "isBot": false,
       "sentiment": "positiv"
     },
@@ -294,9 +342,9 @@
       "url": "https://bsky.app/profile/ahaachja.bsky.social/post/3mph4erpjnc2c",
       "engagement": 2,
       "ts": "2026-06-29T18:25:33.072Z",
-      "followers": 11652,
+      "followers": 11654,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
@@ -305,21 +353,21 @@
       "url": "https://ard.social/@tagesschau/116806873395368928",
       "engagement": 2,
       "ts": "2026-06-24T20:04:02.000Z",
-      "followers": 92374,
+      "followers": 92390,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Bluesky",
-      "author": "@crashbug.eurosky.social",
-      "handle": "crashbug.eurosky.social",
-      "text": "1/2 Du nicht, die Medien veranschaulichen solche Dinge zu 90% viel zu einseitig. In dem Artikel oben wird es zumindest angekratzt. Auch Klimaschutz ist Verteidigung nach außen, die beste Studie und Prognose dazu liefert die Bundeswehr im Auftrag der Politik, und wird trotzdem Ignoriert.",
-      "url": "https://bsky.app/profile/crashbug.eurosky.social/post/3mqlv4vywps2y",
+      "author": "@tiefenkultur.bsky.social",
+      "handle": "tiefenkultur.bsky.social",
+      "text": " #Bundeswehr soll Kauf neuer #Militärtransportflugzeuge erwägen \n\nDie Bundeswehr soll den Kauf von 15 bis 20 neuen Militärtransportflugzeugen des Typs „ #A400M“ in Betracht ziehen, schreiben #MarkusFasse & #FrankSpecht\n\n( #Handelsblatt vom 14.07.2026)\nkurz.bpb.de/19oy",
+      "url": "https://bsky.app/profile/tiefenkultur.bsky.social/post/3mqogxoapws2n",
       "engagement": 1,
-      "ts": "2026-07-14T09:24:23.268Z",
-      "followers": 3769,
+      "ts": "2026-07-15T09:48:54.192Z",
+      "followers": 4978,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
@@ -372,9 +420,9 @@
       "url": "https://social.tchncs.de/@kaffeeringe/116412975762691021",
       "engagement": 1,
       "ts": "2026-04-16T06:30:41.000Z",
-      "followers": 4789,
+      "followers": 4795,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -385,19 +433,19 @@
       "ts": "2026-01-20T08:02:41.000Z",
       "followers": 12400,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Bluesky",
-      "author": "@dirkmassat.bsky.social",
-      "handle": "dirkmassat.bsky.social",
-      "text": "Erst für Bundeswehr-“Sondervermögen“ stimmen, dann auf Pazifisten machen: Linke Kriegswirtschaft\n\nInes Schwerdtner inzenierte sich als Pazifistin und beklagte, dass die Rüstungsindustrie „gepampert“ werde, während gleichzeitig Hunderttausende Arbeitsplätze bei VW gestrichen würden.",
-      "url": "https://bsky.app/profile/dirkmassat.bsky.social/post/3mqndiq7d6k2e",
+      "author": "@zeit.de",
+      "handle": "zeit.de",
+      "text": "Bei der Bundeswehr gingen im Juni mehr als 40.000 Bewerbungen ein und damit fast ein Viertel mehr als noch vor einem Jahr. Auch die Zahl der Neueinstellungen stieg.",
+      "url": "https://bsky.app/profile/zeit.de/post/3mqotvmasjy22",
       "engagement": 0,
-      "ts": "2026-07-14T23:14:11.958Z",
-      "followers": 10216,
+      "ts": "2026-07-15T12:21:22.000Z",
+      "followers": 50956,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Bluesky",
@@ -407,9 +455,9 @@
       "url": "https://bsky.app/profile/peterru.eurosky.social/post/3mqk7h4iu7k2q",
       "engagement": 0,
       "ts": "2026-07-13T17:23:43.567Z",
-      "followers": 3926,
+      "followers": 3929,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -544,7 +592,7 @@
       "engagement": 0,
       "ts": "2026-06-19T18:49:13+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -554,7 +602,7 @@
       "engagement": 0,
       "ts": "2026-06-14T06:56:41+00:00",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -564,7 +612,7 @@
       "engagement": 0,
       "ts": "2026-06-13T22:24:35+00:00",
       "alwaysKeep": true,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -574,7 +622,7 @@
       "engagement": 0,
       "ts": "2026-06-13T08:40:50+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -584,7 +632,7 @@
       "engagement": 0,
       "ts": "2026-06-01T18:44:50+00:00",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -594,7 +642,7 @@
       "engagement": 0,
       "ts": "2026-05-31T15:50:19+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -604,7 +652,7 @@
       "engagement": 0,
       "ts": "2026-05-24T07:36:17+00:00",
       "alwaysKeep": true,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -639,7 +687,27 @@
     {
       "platform": "Augen geradeaus!",
       "author": "Augen geradeaus!",
-      "text": "Scheinbarer Rekord bei Anträgen auf Kriegsdienstverweigerung: Möglich durch neues Gesetz",
+      "text": "Fürs Protokoll: Balten warnen von russischen „Provokationen“, Moskau sieht „Panikmache“",
+      "url": "https://augengeradeaus.net/2026/07/fuers-protokoll-balten-warnen-von-russischen-provokationen-moskau-sieht-panikmache/",
+      "engagement": 0,
+      "ts": "Wed, 15 Jul 2026 17:13:24 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Personalstärke Juni 2026: Rückgang um 500, Ministerium sieht Aufwuchs im Plan",
+      "url": "https://augengeradeaus.net/2026/07/personalstaerke-juni-2025-rueckgang-um-500-ministerium-sieht-aufwuchs-im-plan/",
+      "engagement": 0,
+      "ts": "Wed, 15 Jul 2026 11:09:07 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Scheinbarer Rekord bei Anträgen auf Kriegsdienstverweigerung: Möglich durch neues Gesetz (m. Nachtrag)",
       "url": "https://augengeradeaus.net/2026/07/scheinbarer-rekord-bei-antraegen-auf-kriegsdienstverweigerung-moeglich-durch-neues-gesetz/",
       "engagement": 0,
       "ts": "Tue, 14 Jul 2026 13:43:19 +0000",
@@ -717,22 +785,12 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Nah dran: Russischer U-Boot-Jäger in Sichtweite von britischem Träger",
-      "url": "https://augengeradeaus.net/2026/07/nah-dran-russischer-u-boot-jaeger-in-sichtweite-von-britischem-traeger/",
+      "platform": "Bundeswehr Journal",
+      "author": "Bundeswehr Journal",
+      "text": "Strategischer Zusammenschluss von Deutz und FFG",
+      "url": "https://www.bundeswehr-journal.de/2026/strategischer-zusammenschluss-von-deutz-und-ffg/",
       "engagement": 0,
-      "ts": "Mon, 06 Jul 2026 15:02:20 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Verteidigungshaushalt soll 2027 um fast ein Drittel steigen",
-      "url": "https://augengeradeaus.net/2026/07/verteidigungshaushalt-soll-2027-um-fast-ein-drittel-steigen/",
-      "engagement": 0,
-      "ts": "Sat, 04 Jul 2026 09:23:06 +0000",
+      "ts": "Sat, 11 Jul 2026 21:15:12 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -805,66 +863,14 @@
       "ts": "Fri, 12 Jun 2026 21:00:31 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
-    },
-    {
-      "platform": "Bundeswehr Journal",
-      "author": "Bundeswehr Journal",
-      "text": "Deutz und ARX Robotics starten „Gereon“-Produktion",
-      "url": "https://www.bundeswehr-journal.de/2026/deutz-und-arx-robotics-starten-gereon-produktion/",
-      "engagement": 0,
-      "ts": "Mon, 08 Jun 2026 21:00:36 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bundeswehr Journal",
-      "author": "Bundeswehr Journal",
-      "text": "Fragebogen: 90 Prozent der Angeschriebenen antworteten",
-      "url": "https://www.bundeswehr-journal.de/2026/fragebogen-90-prozent-der-angeschriebenen-antworteten/",
-      "engagement": 0,
-      "ts": "Sun, 07 Jun 2026 21:15:33 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bundeswehr Journal",
-      "author": "Bundeswehr Journal",
-      "text": "Den Dienst in der Bundeswehr sichtbarer würdigen",
-      "url": "https://www.bundeswehr-journal.de/2026/den-dienst-in-der-bundeswehr-sichtbarer-wuerdigen/",
-      "engagement": 0,
-      "ts": "Sat, 06 Jun 2026 21:15:18 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Erstmals Artilleriemunition aus Unterlüß für die Ukraine",
-      "url": "https://esut.de/2026/07/meldungen/72791/erstmals-artilleriemunition-aus-unterluess-fuer-die-ukraine/",
-      "engagement": 0,
-      "ts": "Tue, 14 Jul 2026 14:08:29 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "CDU-Verteidigungspolitiker Röwekamp: AfD im Bundestag auf „Höcke-Linie“",
-      "url": "https://esut.de/2026/07/fachbeitraege/72112/cdu-verteidigungspolitiker-roewekamp-afd-bundestag-hoecke/",
-      "engagement": 0,
-      "ts": "Tue, 14 Jul 2026 12:50:55 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Heute diskutieren die sozialen Medien umstrittene Aspekte der Bundeswehr und des Wehrdienstes, darunter Pistorius' Wehrdienst-Modell, die AfD-Faschismus-Vorwürfe und Beschaffungsverzögerungen.",
+    "summary": "Heute diskutieren die Beiträge um Themen wie Pistorius' Wehrdienst-Modell, die Bundeswehr und NATO, sowie Kritik an der Aufrüstung und Proteste gegen die Wehrpflicht.",
     "themes": [
       "Pistorius' Wehrdienst-Modell",
-      "AfD-Faschismus-Vorwürfe",
-      "Beschaffungsverzögerung",
-      "Kriegsdienstverweigerung",
-      "NATO und europäische Alliierte"
+      "Bundeswehr und NATO",
+      "Kritik an der Aufrüstung und Wehrpflicht"
     ]
   }
 }

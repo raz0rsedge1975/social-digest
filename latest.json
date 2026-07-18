@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T03:38:44.178Z",
-  "timestamp": "17.7.2026, 05:38:44",
+  "generated": "2026-07-18T03:38:44.901Z",
+  "timestamp": "18.7.2026, 05:38:44",
   "items": [
     {
       "platform": "Bluesky",
@@ -10,9 +10,9 @@
       "url": "https://bsky.app/profile/derlaemmermann.bsky.social/post/3mlxhejvujs26",
       "engagement": 51,
       "ts": "2026-05-16T08:44:05.355Z",
-      "followers": 2512,
+      "followers": 2513,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Bluesky",
@@ -22,7 +22,19 @@
       "url": "https://bsky.app/profile/zeit.de/post/3mqfcj72q7c2c",
       "engagement": 34,
       "ts": "2026-07-11T18:30:27.000Z",
-      "followers": 50966,
+      "followers": 50991,
+      "isBot": false,
+      "sentiment": "negativ"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@luftwaffe.bundeswehr.de",
+      "handle": "luftwaffe.bundeswehr.de",
+      "text": "Brandbekämpfung im Müritz-Nationalpark:\n\nHeute setzen wir den Einsatz fort, um die Rettungskräfte vor Ort mit unseren CH-53-Teams zu unterstützen. \nMit unseren Löschmaßnahmen versuchen wir Ortschaften, Bahnstrecken und Hochspannungsleitungen zu schützen. \n\n(📷: Bundeswehr: Mohrdieck)",
+      "url": "https://bsky.app/profile/luftwaffe.bundeswehr.de/post/3mqujv4waxc2b",
+      "engagement": 32,
+      "ts": "2026-07-17T19:57:08.557Z",
+      "followers": 3361,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -35,7 +47,7 @@
       "ts": "2026-05-22T06:15:35.000Z",
       "followers": 5647,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Bluesky",
@@ -45,9 +57,33 @@
       "url": "https://bsky.app/profile/gdwberlin.bsky.social/post/3mm7glqswmc2t",
       "engagement": 28,
       "ts": "2026-05-19T12:51:31.646Z",
-      "followers": 3056,
+      "followers": 3057,
+      "isBot": false,
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@konflikt-sicher.bsky.social",
+      "handle": "konflikt-sicher.bsky.social",
+      "text": "Die #Bundeswehr nimmt erstmals an einer französischen Nuklearübung teil, aber nur im konventionellen Bereich. Atomwaffenfähige Rafale-Jets werden nach Nörvenich verlegt. Die Kooperation soll Europas Abschreckung stärken und die nukleare Teilhabe der #NATO ergänzen.\nwww.zdfheute.de/politik/bund...",
+      "url": "https://bsky.app/profile/konflikt-sicher.bsky.social/post/3mquffj4z2s2c",
+      "engagement": 26,
+      "ts": "2026-07-17T18:36:49.535Z",
+      "followers": 9856,
       "isBot": false,
       "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@anneroth.bsky.social",
+      "handle": "anneroth.bsky.social",
+      "text": "Der komplette Bahnhof Alexanderplatz, U8, ist mit Bundeswehr-Propaganda zugekleistert.",
+      "url": "https://bsky.app/profile/anneroth.bsky.social/post/3mqu465ob622y",
+      "engagement": 23,
+      "ts": "2026-07-17T15:51:38.960Z",
+      "followers": 15202,
+      "isBot": false,
+      "sentiment": "negativ"
     },
     {
       "platform": "Bluesky",
@@ -57,9 +93,9 @@
       "url": "https://bsky.app/profile/derlaemmermann.bsky.social/post/3mnyyrtanjk2p",
       "engagement": 23,
       "ts": "2026-06-11T10:18:47.958Z",
-      "followers": 2512,
+      "followers": 2513,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Bluesky",
@@ -69,7 +105,7 @@
       "url": "https://bsky.app/profile/baks.bund.de/post/3mpikzwsboc2b",
       "engagement": 9,
       "ts": "2026-06-30T08:20:35.173Z",
-      "followers": 3261,
+      "followers": 3263,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -93,7 +129,7 @@
       "url": "https://bsky.app/profile/ahaachja.bsky.social/post/3mph4imwbmc2c",
       "engagement": 8,
       "ts": "2026-06-29T18:27:42.270Z",
-      "followers": 11662,
+      "followers": 11675,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -106,7 +142,7 @@
       "ts": "2026-07-14T05:31:02.000Z",
       "followers": 92419,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -127,9 +163,9 @@
       "url": "https://bsky.app/profile/baks.bund.de/post/3moxarjlxxc2y",
       "engagement": 7,
       "ts": "2026-06-23T11:01:39.928Z",
-      "followers": 3261,
+      "followers": 3263,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -140,7 +176,7 @@
       "ts": "2026-07-09T05:26:24.000Z",
       "followers": 85607,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -151,19 +187,7 @@
       "ts": "2024-07-03T09:11:36.066Z",
       "followers": 1037,
       "isBot": false,
-      "sentiment": "positiv"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@bjoernm.bsky.social",
-      "handle": "bjoernm.bsky.social",
-      "text": "#Bundeswehr / Heer auf WhatsApp: \n👉 „zeitweise“ Unterstellung der 🇩🇪🇫🇷Brigade unter das Multinationale Korps Nordost mit dem französischen Partner. \n👉 „Als multi-role Rear Area Task Force wird sie im rückwärtigen Raum des Multinationalen Korps Nordost eingesetzt.“",
-      "url": "https://bsky.app/profile/bjoernm.bsky.social/post/3mqrbpxj7pc2k",
-      "engagement": 6,
-      "ts": "2026-07-16T12:53:05.975Z",
-      "followers": 2844,
-      "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -185,7 +209,7 @@
       "ts": "2026-04-27T01:15:03.000Z",
       "followers": 92419,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "negativ"
     },
     {
       "platform": "Mastodon",
@@ -196,7 +220,7 @@
       "ts": "2026-04-08T06:07:03.000Z",
       "followers": 92419,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -205,9 +229,9 @@
       "url": "https://social.bund.de/@Cyberagentur/114742419545368735",
       "engagement": 5,
       "ts": "2025-06-25T05:46:16.370Z",
-      "followers": 2134,
+      "followers": 2136,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -227,7 +251,7 @@
       "url": "https://social.bund.de/@Cyberagentur/110026389427785747",
       "engagement": 4,
       "ts": "2023-03-15T08:37:47.596Z",
-      "followers": 2134,
+      "followers": 2136,
       "isBot": false,
       "sentiment": "kritisch"
     },
@@ -240,19 +264,7 @@
       "ts": "2026-05-07T08:04:02.000Z",
       "followers": 92419,
       "isBot": false,
-      "sentiment": "positiv"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@bjoernm.bsky.social",
-      "handle": "bjoernm.bsky.social",
-      "text": "👉 PGZ soll in die Lieferkette für die Produktion des gepanzerten Radtransporters „Boxer“ für die #Bundeswehr eingebunden werden\n4/5",
-      "url": "https://bsky.app/profile/bjoernm.bsky.social/post/3mqrjyy33is2k",
-      "engagement": 3,
-      "ts": "2026-07-16T15:21:18.468Z",
-      "followers": 2844,
-      "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -263,7 +275,7 @@
       "ts": "2024-05-27T08:49:06.387Z",
       "followers": 1037,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "negativ"
     },
     {
       "platform": "Mastodon",
@@ -274,7 +286,7 @@
       "ts": "2024-05-17T08:31:50.578Z",
       "followers": 1037,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
@@ -283,7 +295,7 @@
       "url": "https://social.bund.de/@Cyberagentur/110099684039083605",
       "engagement": 3,
       "ts": "2023-03-28T07:17:34.610Z",
-      "followers": 2134,
+      "followers": 2136,
       "isBot": false,
       "sentiment": "positiv"
     },
@@ -307,7 +319,7 @@
       "ts": "2026-05-30T11:03:02.000Z",
       "followers": 92419,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "positiv"
     },
     {
       "platform": "Bluesky",
@@ -317,7 +329,7 @@
       "url": "https://bsky.app/profile/ahaachja.bsky.social/post/3mph4erpjnc2c",
       "engagement": 2,
       "ts": "2026-06-29T18:25:33.072Z",
-      "followers": 11662,
+      "followers": 11675,
       "isBot": false,
       "sentiment": "positiv"
     },
@@ -329,18 +341,6 @@
       "engagement": 2,
       "ts": "2026-06-24T20:04:02.000Z",
       "followers": 92419,
-      "isBot": false,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@jens0331.bsky.social",
-      "handle": "jens0331.bsky.social",
-      "text": "Die Bundeswehr spricht hier von \"Bewässerung\", nicht vom Löschen. Das Bedeutet, das Wasser wird da abgeworfen, wo es nicht brennt. Um zu verhindern, dass sich das Feuer dahin nicht ausbreitet.\nAuch die Hubschrauber halten einen Sicherheitsabstand.",
-      "url": "https://bsky.app/profile/jens0331.bsky.social/post/3mqrbwnt6rs2d",
-      "engagement": 1,
-      "ts": "2026-07-16T12:56:50.699Z",
-      "followers": 3095,
       "isBot": false,
       "sentiment": "positiv"
     },
@@ -362,7 +362,7 @@
       "url": "https://social.bund.de/@Cyberagentur/111346916916483457",
       "engagement": 1,
       "ts": "2023-11-03T13:45:17.996Z",
-      "followers": 2134,
+      "followers": 2136,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -375,7 +375,7 @@
       "ts": "2023-07-27T08:29:08.945Z",
       "followers": 4305,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -386,7 +386,7 @@
       "ts": "2026-05-07T08:15:33.000Z",
       "followers": 13884,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "negativ"
     },
     {
       "platform": "Mastodon",
@@ -397,7 +397,7 @@
       "ts": "2026-04-16T06:30:41.000Z",
       "followers": 4795,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -418,7 +418,7 @@
       "url": "https://bsky.app/profile/peterru.eurosky.social/post/3mqk7h4iu7k2q",
       "engagement": 0,
       "ts": "2026-07-13T17:23:43.567Z",
-      "followers": 3929,
+      "followers": 3931,
       "isBot": false,
       "sentiment": "kritisch"
     },
@@ -453,7 +453,7 @@
       "ts": "2026-06-12T18:01:44.000Z",
       "followers": 2420,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -565,7 +565,7 @@
       "engagement": 0,
       "ts": "2026-06-14T06:56:41+00:00",
       "alwaysKeep": true,
-      "sentiment": "negativ"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Reddit r/de",
@@ -575,7 +575,7 @@
       "engagement": 0,
       "ts": "2026-06-13T22:24:35+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "negativ"
     },
     {
       "platform": "Reddit r/de",
@@ -595,7 +595,7 @@
       "engagement": 0,
       "ts": "2026-06-01T18:44:50+00:00",
       "alwaysKeep": true,
-      "sentiment": "negativ"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Reddit r/de",
@@ -625,7 +625,7 @@
       "engagement": 0,
       "ts": "2026-05-07T14:58:39+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/CredibleDefense",
@@ -635,7 +635,7 @@
       "engagement": 0,
       "ts": "2025-06-26T18:51:20+00:00",
       "alwaysKeep": true,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/CredibleDefense",
@@ -650,12 +650,22 @@
     {
       "platform": "YouTube (Bundeswehr)",
       "author": "Bundeswehr",
+      "text": "Der 21. Internationale Militär-Segelflugwettbewerb | Bundeswehr",
+      "url": "https://www.youtube.com/shorts/EBVL6Ws17yE",
+      "engagement": 0,
+      "ts": "2026-07-17T12:49:42+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "YouTube (Bundeswehr)",
+      "author": "Bundeswehr",
       "text": "🇱🇹 Brigade Litauen: Kinderbetreuung und Schulbildung für Bundeswehrfamilien – Folge 3 | Bundeswehr",
       "url": "https://www.youtube.com/watch?v=GNbB9lpCSIM",
       "engagement": 0,
       "ts": "2026-07-16T11:23:19+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -665,7 +675,7 @@
       "engagement": 0,
       "ts": "2026-07-13T15:26:07+00:00",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -675,7 +685,7 @@
       "engagement": 0,
       "ts": "2026-07-10T20:05:53+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -685,7 +695,7 @@
       "engagement": 0,
       "ts": "2026-07-09T12:21:22+00:00",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -705,7 +715,7 @@
       "engagement": 0,
       "ts": "2026-07-03T18:25:32+00:00",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "kritisch"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -715,15 +725,15 @@
       "engagement": 0,
       "ts": "2026-07-02T12:24:42+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
-      "platform": "YouTube (Bundeswehr)",
-      "author": "Bundeswehr",
-      "text": "🇱🇹 Brigade Litauen: Die Truppe an der NATO-Ostflanke – Folge 1 | Bundeswehr",
-      "url": "https://www.youtube.com/watch?v=s_x7dYe30xs",
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Deutsch-Französische Verteidigungskooperation: Vorsichtige Nuklear-Zusammenarbeit, MGCS geht den Weg von FCAS (Nachtrag: Pressekonferenz)",
+      "url": "https://augengeradeaus.net/2026/07/deutsch-franzoesische-verteidigungskooperation-vorsichtige-nuklear-zusammenarbeit-mgcs-geht-den-weg-von-fcas/",
       "engagement": 0,
-      "ts": "2026-07-02T11:28:10+00:00",
+      "ts": "Fri, 17 Jul 2026 15:10:23 +0000",
       "alwaysKeep": true,
       "sentiment": "kritisch"
     },
@@ -755,7 +765,7 @@
       "engagement": 0,
       "ts": "Tue, 14 Jul 2026 13:43:19 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Augen geradeaus!",
@@ -765,7 +775,7 @@
       "engagement": 0,
       "ts": "Mon, 13 Jul 2026 16:38:56 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -818,16 +828,6 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Fürs Archiv: Bundeswehr bestellt alle (bisher genehmigten) neuen Sturmgewehre",
-      "url": "https://augengeradeaus.net/2026/07/fuers-archiv-bundeswehr-bestellt-alle-bisher-genehmigten-neuen-sturmgewehre/",
-      "engagement": 0,
-      "ts": "Mon, 06 Jul 2026 17:27:55 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
       "platform": "Bundeswehr Journal",
       "author": "Bundeswehr Journal",
       "text": "Das Ruhestandsalter von Berufssoldaten steigt weiter an",
@@ -859,13 +859,13 @@
     }
   ],
   "analysis": {
-    "summary": "Heute diskutieren die Nutzer sozialer Medien über die deutsche Aufrüstung, die Wehrdienstverweigerung und die Rolle der Bundeswehr in der NATO.",
+    "summary": "Heute diskutieren die Nutzer von sozialen Medien vor allem über die Aufrüstung der Bundeswehr, Wehrdienstverweigerungen und die Rolle des Bundesministers der Verteidigung Boris Pistorius.",
     "themes": [
       "Pistorius' Wehrdienst-Modell",
       "AfD-Faschismus-Vorwurf",
-      "Beschaffungs-Verzögerung Boxer",
-      "NATO-Rolle und -75-Jahre",
-      "Cyberagentur und Wehrdienstverweigerung"
+      "Beschaffungs-Verzögerung",
+      "NATO-Ubung",
+      "Wehrpflicht"
     ]
   }
 }

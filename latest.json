@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-18T03:38:44.901Z",
-  "timestamp": "18.7.2026, 05:38:44",
+  "generated": "2026-07-19T03:38:36.249Z",
+  "timestamp": "19.7.2026, 05:38:36",
   "items": [
     {
       "platform": "Bluesky",
@@ -10,7 +10,7 @@
       "url": "https://bsky.app/profile/derlaemmermann.bsky.social/post/3mlxhejvujs26",
       "engagement": 51,
       "ts": "2026-05-16T08:44:05.355Z",
-      "followers": 2513,
+      "followers": 2514,
       "isBot": false,
       "sentiment": "kritisch"
     },
@@ -22,21 +22,9 @@
       "url": "https://bsky.app/profile/zeit.de/post/3mqfcj72q7c2c",
       "engagement": 34,
       "ts": "2026-07-11T18:30:27.000Z",
-      "followers": 50991,
+      "followers": 51012,
       "isBot": false,
       "sentiment": "negativ"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@luftwaffe.bundeswehr.de",
-      "handle": "luftwaffe.bundeswehr.de",
-      "text": "Brandbekämpfung im Müritz-Nationalpark:\n\nHeute setzen wir den Einsatz fort, um die Rettungskräfte vor Ort mit unseren CH-53-Teams zu unterstützen. \nMit unseren Löschmaßnahmen versuchen wir Ortschaften, Bahnstrecken und Hochspannungsleitungen zu schützen. \n\n(📷: Bundeswehr: Mohrdieck)",
-      "url": "https://bsky.app/profile/luftwaffe.bundeswehr.de/post/3mqujv4waxc2b",
-      "engagement": 32,
-      "ts": "2026-07-17T19:57:08.557Z",
-      "followers": 3361,
-      "isBot": false,
-      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -47,7 +35,7 @@
       "ts": "2026-05-22T06:15:35.000Z",
       "followers": 5647,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
@@ -57,33 +45,9 @@
       "url": "https://bsky.app/profile/gdwberlin.bsky.social/post/3mm7glqswmc2t",
       "engagement": 28,
       "ts": "2026-05-19T12:51:31.646Z",
-      "followers": 3057,
+      "followers": 3056,
       "isBot": false,
       "sentiment": "kritisch"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@konflikt-sicher.bsky.social",
-      "handle": "konflikt-sicher.bsky.social",
-      "text": "Die #Bundeswehr nimmt erstmals an einer französischen Nuklearübung teil, aber nur im konventionellen Bereich. Atomwaffenfähige Rafale-Jets werden nach Nörvenich verlegt. Die Kooperation soll Europas Abschreckung stärken und die nukleare Teilhabe der #NATO ergänzen.\nwww.zdfheute.de/politik/bund...",
-      "url": "https://bsky.app/profile/konflikt-sicher.bsky.social/post/3mquffj4z2s2c",
-      "engagement": 26,
-      "ts": "2026-07-17T18:36:49.535Z",
-      "followers": 9856,
-      "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@anneroth.bsky.social",
-      "handle": "anneroth.bsky.social",
-      "text": "Der komplette Bahnhof Alexanderplatz, U8, ist mit Bundeswehr-Propaganda zugekleistert.",
-      "url": "https://bsky.app/profile/anneroth.bsky.social/post/3mqu465ob622y",
-      "engagement": 23,
-      "ts": "2026-07-17T15:51:38.960Z",
-      "followers": 15202,
-      "isBot": false,
-      "sentiment": "negativ"
     },
     {
       "platform": "Bluesky",
@@ -93,7 +57,7 @@
       "url": "https://bsky.app/profile/derlaemmermann.bsky.social/post/3mnyyrtanjk2p",
       "engagement": 23,
       "ts": "2026-06-11T10:18:47.958Z",
-      "followers": 2513,
+      "followers": 2514,
       "isBot": false,
       "sentiment": "kritisch"
     },
@@ -105,9 +69,21 @@
       "url": "https://bsky.app/profile/baks.bund.de/post/3mpikzwsboc2b",
       "engagement": 9,
       "ts": "2026-06-30T08:20:35.173Z",
-      "followers": 3263,
+      "followers": 3262,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@profharleyquinn.bsky.social",
+      "handle": "profharleyquinn.bsky.social",
+      "text": "Der Waldbrand beschäftigt seit Montag Feuerwehr, Technisches Hilfswerk (THW), Bundeswehr und zahlreiche weitere Einsatzkräfte; nach Angaben der Behörden breitet er sich weiterhin aus. Das Feuer erstreckt sich mittlerweile auf eine Fläche von rund 388 Hektar und wird weiterhin aktiv bekämpft.",
+      "url": "https://bsky.app/profile/profharleyquinn.bsky.social/post/3mqw7wswfas2s",
+      "engagement": 8,
+      "ts": "2026-07-18T12:04:27.256Z",
+      "followers": 9049,
+      "isBot": false,
+      "sentiment": "kritisch"
     },
     {
       "platform": "Bluesky",
@@ -117,9 +93,9 @@
       "url": "https://bsky.app/profile/celsuscassius.bsky.social/post/3mpuvc2yx5225",
       "engagement": 8,
       "ts": "2026-07-05T05:56:02.301Z",
-      "followers": 3804,
+      "followers": 3805,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Bluesky",
@@ -129,9 +105,9 @@
       "url": "https://bsky.app/profile/ahaachja.bsky.social/post/3mph4imwbmc2c",
       "engagement": 8,
       "ts": "2026-06-29T18:27:42.270Z",
-      "followers": 11675,
+      "followers": 11747,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
@@ -142,7 +118,7 @@
       "ts": "2026-07-14T05:31:02.000Z",
       "followers": 92419,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -151,9 +127,21 @@
       "url": "https://social.heise.de/@heiseonline/116885308288344766",
       "engagement": 8,
       "ts": "2026-07-08T16:31:03.000Z",
-      "followers": 85607,
+      "followers": 85617,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@jsachse.bsky.social",
+      "handle": "jsachse.bsky.social",
+      "text": "Mögliche gesellschaftliche Protestfelder, die  sich verstärken werden, womöglich zu Wahlkampfthemen (wie Windräder, Corona & Co): \n\n👉 Rechenzentren\n👉 Bundeswehr-Standorte versus zivile Flächen & Waffenfabriken\n👉 Folgen von Hitzewellen (Wasserverbrauch bis Gesundheit)\n\nAndere Meinung? Ergänzungen?",
+      "url": "https://bsky.app/profile/jsachse.bsky.social/post/3mqx453gohs2t",
+      "engagement": 7,
+      "ts": "2026-07-18T20:29:02.276Z",
+      "followers": 7527,
+      "isBot": false,
+      "sentiment": "kritisch"
     },
     {
       "platform": "Bluesky",
@@ -163,9 +151,9 @@
       "url": "https://bsky.app/profile/baks.bund.de/post/3moxarjlxxc2y",
       "engagement": 7,
       "ts": "2026-06-23T11:01:39.928Z",
-      "followers": 3263,
+      "followers": 3262,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
@@ -174,9 +162,9 @@
       "url": "https://social.heise.de/@heiseonline/116888357058723022",
       "engagement": 7,
       "ts": "2026-07-09T05:26:24.000Z",
-      "followers": 85607,
+      "followers": 85617,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -187,7 +175,7 @@
       "ts": "2024-07-03T09:11:36.066Z",
       "followers": 1037,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
@@ -209,7 +197,7 @@
       "ts": "2026-04-27T01:15:03.000Z",
       "followers": 92419,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -220,7 +208,7 @@
       "ts": "2026-04-08T06:07:03.000Z",
       "followers": 92419,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -242,7 +230,19 @@
       "ts": "2026-05-08T16:16:03.000Z",
       "followers": 92419,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@lotta-kaa.bsky.social",
+      "handle": "lotta-kaa.bsky.social",
+      "text": "Der General, der so lange nervte, bis er gehen musste\n\nWie kein zweiter Insider kritisierte Alfons Mais Chaos und Geldvergeudung bei der Bundeswehr. Nun lässt sich rekonstruieren, wie Boris Pistorius ihn loswurde – und warum.\n\n🎁Link",
+      "url": "https://bsky.app/profile/lotta-kaa.bsky.social/post/3mqwdqgljsc2y",
+      "engagement": 4,
+      "ts": "2026-07-18T13:12:27.958Z",
+      "followers": 3812,
+      "isBot": false,
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -253,7 +253,7 @@
       "ts": "2023-03-15T08:37:47.596Z",
       "followers": 2136,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -267,6 +267,18 @@
       "sentiment": "neutral"
     },
     {
+      "platform": "Bluesky",
+      "author": "@angiestone.graysky.social",
+      "handle": "angiestone.graysky.social",
+      "text": "Auf dem Luftwaffenstützpunkt Al-Asrak (Muwaffaq Salti Air Base) sind auch Soldaten der Bundeswehr stationiert. \n👇👇👇",
+      "url": "https://bsky.app/profile/angiestone.graysky.social/post/3mqxsd54fik2d",
+      "engagement": 3,
+      "ts": "2026-07-19T03:06:07.682Z",
+      "followers": 6622,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
       "platform": "Mastodon",
       "author": "@Verteidigungsministerium",
       "text": "Leseempfehlung 📰: Zum Abschluss der Feierlichkeiten zu # 75JahreGrundgesetz informiert das # BMVg darüber, wie die Verteidigung unserer Werte # Frieden , # Freiheit und # Demokratie durch die # Bundeswehr in der Verfassung geregelt ist👇 https://www. bmvg.de/de/aktuelles/wehrverfa ssung-die-bundeswehr-im-grundgesetz-5784788",
@@ -275,7 +287,7 @@
       "ts": "2024-05-27T08:49:06.387Z",
       "followers": 1037,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -286,7 +298,7 @@
       "ts": "2024-05-17T08:31:50.578Z",
       "followers": 1037,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -297,7 +309,7 @@
       "ts": "2023-03-28T07:17:34.610Z",
       "followers": 2136,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -308,7 +320,7 @@
       "ts": "2026-06-01T16:49:03.000Z",
       "followers": 92419,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -319,7 +331,7 @@
       "ts": "2026-05-30T11:03:02.000Z",
       "followers": 92419,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
@@ -329,9 +341,9 @@
       "url": "https://bsky.app/profile/ahaachja.bsky.social/post/3mph4erpjnc2c",
       "engagement": 2,
       "ts": "2026-06-29T18:25:33.072Z",
-      "followers": 11675,
+      "followers": 11747,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -342,7 +354,7 @@
       "ts": "2026-06-24T20:04:02.000Z",
       "followers": 92419,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -353,7 +365,7 @@
       "ts": "2024-04-17T11:54:20.685Z",
       "followers": 1037,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -364,7 +376,7 @@
       "ts": "2023-11-03T13:45:17.996Z",
       "followers": 2136,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
@@ -397,7 +409,7 @@
       "ts": "2026-04-16T06:30:41.000Z",
       "followers": 4795,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -408,7 +420,7 @@
       "ts": "2026-01-20T08:02:41.000Z",
       "followers": 12400,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
@@ -420,7 +432,7 @@
       "ts": "2026-07-13T17:23:43.567Z",
       "followers": 3931,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -431,7 +443,7 @@
       "ts": "2024-04-25T14:31:28.942Z",
       "followers": 1037,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -440,9 +452,9 @@
       "url": "https://mastodon.social/@fsteiner/109703454523776658",
       "engagement": 0,
       "ts": "2023-01-17T07:51:12.000Z",
-      "followers": 2051,
+      "followers": 2052,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -453,7 +465,7 @@
       "ts": "2026-06-12T18:01:44.000Z",
       "followers": 2420,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -545,7 +557,7 @@
       "engagement": 0,
       "ts": "2026-06-20T04:37:05+00:00",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -555,7 +567,7 @@
       "engagement": 0,
       "ts": "2026-06-19T18:49:13+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -565,7 +577,7 @@
       "engagement": 0,
       "ts": "2026-06-14T06:56:41+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -575,7 +587,7 @@
       "engagement": 0,
       "ts": "2026-06-13T22:24:35+00:00",
       "alwaysKeep": true,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -585,7 +597,7 @@
       "engagement": 0,
       "ts": "2026-06-13T08:40:50+00:00",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -595,7 +607,7 @@
       "engagement": 0,
       "ts": "2026-06-01T18:44:50+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -605,7 +617,7 @@
       "engagement": 0,
       "ts": "2026-05-31T15:50:19+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -615,7 +627,7 @@
       "engagement": 0,
       "ts": "2026-05-24T07:36:17+00:00",
       "alwaysKeep": true,
-      "sentiment": "negativ"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Reddit r/de",
@@ -625,7 +637,7 @@
       "engagement": 0,
       "ts": "2026-05-07T14:58:39+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "negativ"
     },
     {
       "platform": "Reddit r/CredibleDefense",
@@ -645,7 +657,7 @@
       "engagement": 0,
       "ts": "2016-06-02T21:31:08+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -655,7 +667,7 @@
       "engagement": 0,
       "ts": "2026-07-17T12:49:42+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -665,7 +677,7 @@
       "engagement": 0,
       "ts": "2026-07-16T11:23:19+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -675,7 +687,7 @@
       "engagement": 0,
       "ts": "2026-07-13T15:26:07+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -685,7 +697,7 @@
       "engagement": 0,
       "ts": "2026-07-10T20:05:53+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -695,7 +707,7 @@
       "engagement": 0,
       "ts": "2026-07-09T12:21:22+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -725,7 +737,7 @@
       "engagement": 0,
       "ts": "2026-07-02T12:24:42+00:00",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -745,7 +757,7 @@
       "engagement": 0,
       "ts": "Wed, 15 Jul 2026 17:13:24 +0000",
       "alwaysKeep": true,
-      "sentiment": "negativ"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Augen geradeaus!",
@@ -755,7 +767,7 @@
       "engagement": 0,
       "ts": "Wed, 15 Jul 2026 11:09:07 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "negativ"
     },
     {
       "platform": "Augen geradeaus!",
@@ -846,25 +858,15 @@
       "ts": "Sat, 11 Jul 2026 21:15:12 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
-    },
-    {
-      "platform": "Bundeswehr Journal",
-      "author": "Bundeswehr Journal",
-      "text": "EVP-Chef Weber warnt vor Kontrolle der Truppe durch AfD",
-      "url": "https://www.bundeswehr-journal.de/2026/evp-chef-weber-warnt-vor-kontrolle-der-truppe-durch-afd/",
-      "engagement": 0,
-      "ts": "Fri, 10 Jul 2026 18:00:35 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Heute diskutieren die Nutzer von sozialen Medien vor allem über die Aufrüstung der Bundeswehr, Wehrdienstverweigerungen und die Rolle des Bundesministers der Verteidigung Boris Pistorius.",
+    "summary": "Der Diskurs dominiert durch die Kritik an der deutschen Aufrüstung und die Reaktionen auf die Entscheidungen des Bundesministers der Verteidigung Boris Pistorius.",
     "themes": [
       "Pistorius' Wehrdienst-Modell",
       "AfD-Faschismus-Vorwurf",
-      "Beschaffungs-Verzögerung",
-      "NATO-Ubung",
+      "Beschaffungsverzögerung",
+      "NATO-Allianz",
       "Wehrpflicht"
     ]
   }

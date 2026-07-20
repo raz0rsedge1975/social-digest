@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-19T03:38:36.249Z",
-  "timestamp": "19.7.2026, 05:38:36",
+  "generated": "2026-07-20T03:38:40.433Z",
+  "timestamp": "20.7.2026, 05:38:40",
   "items": [
     {
       "platform": "Bluesky",
@@ -10,9 +10,9 @@
       "url": "https://bsky.app/profile/derlaemmermann.bsky.social/post/3mlxhejvujs26",
       "engagement": 51,
       "ts": "2026-05-16T08:44:05.355Z",
-      "followers": 2514,
+      "followers": 2516,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
@@ -22,9 +22,9 @@
       "url": "https://bsky.app/profile/zeit.de/post/3mqfcj72q7c2c",
       "engagement": 34,
       "ts": "2026-07-11T18:30:27.000Z",
-      "followers": 51012,
+      "followers": 51031,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -39,6 +39,18 @@
     },
     {
       "platform": "Bluesky",
+      "author": "@konflikt-sicher.bsky.social",
+      "handle": "konflikt-sicher.bsky.social",
+      "text": "Die #Bundeswehr erprobt mit „Grille X4“ eine vollelektrische Rettungsdrohne für den unbemannten Verwundetentransport. Zwei Systeme sollen nun Flugtests durchlaufen. Die 750kg schwere #Drohne mit 7,8m Durchmesser transportiert Patienten (bis 138kg) bei 86 km/h max. 51km weit.\nesut.de/2026/07/meld...",
+      "url": "https://bsky.app/profile/konflikt-sicher.bsky.social/post/3mqyu63yddk2d",
+      "engagement": 29,
+      "ts": "2026-07-19T13:11:45.950Z",
+      "followers": 9855,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
       "author": "@gdwberlin.bsky.social",
       "handle": "gdwberlin.bsky.social",
       "text": "Heute besuchte der Bundesminister der Verteidigung Boris Pistorius das Schaudepot Reichsbanner Schwarz-Rot-Gold in der Gedenkstätte Deutscher Widerstand. Wir danken herzlich für das große Interesse! #GedenkstätteDeutscherWiderstand #ReichsbannerSchwarzRotGold #Demokratiegeschichte #Schaudepot",
@@ -47,7 +59,7 @@
       "ts": "2026-05-19T12:51:31.646Z",
       "followers": 3056,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
@@ -57,9 +69,21 @@
       "url": "https://bsky.app/profile/derlaemmermann.bsky.social/post/3mnyyrtanjk2p",
       "engagement": 23,
       "ts": "2026-06-11T10:18:47.958Z",
-      "followers": 2514,
+      "followers": 2516,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@profharleyquinn.bsky.social",
+      "handle": "profharleyquinn.bsky.social",
+      "text": "Rund 300 Einsatzkräfte bekämpfen weiter den Brand im Müritz-Nationalpark - heute mit Unterstützung aus Niedersachsen mit speziellen Waldbrandtanklöschfahrzeugen. \n\nSeit fast 1 Woche beschäftigt der Waldbrand im Müritz-Nationalpark  Feuerwehr, THW, Bundeswehr sowie zahlreiche weitere Einsatzkräfte.",
+      "url": "https://bsky.app/profile/profharleyquinn.bsky.social/post/3mqylcvd4ds2q",
+      "engagement": 11,
+      "ts": "2026-07-19T10:33:23.060Z",
+      "followers": 9055,
+      "isBot": false,
+      "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
@@ -69,21 +93,9 @@
       "url": "https://bsky.app/profile/baks.bund.de/post/3mpikzwsboc2b",
       "engagement": 9,
       "ts": "2026-06-30T08:20:35.173Z",
-      "followers": 3262,
+      "followers": 3264,
       "isBot": false,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@profharleyquinn.bsky.social",
-      "handle": "profharleyquinn.bsky.social",
-      "text": "Der Waldbrand beschäftigt seit Montag Feuerwehr, Technisches Hilfswerk (THW), Bundeswehr und zahlreiche weitere Einsatzkräfte; nach Angaben der Behörden breitet er sich weiterhin aus. Das Feuer erstreckt sich mittlerweile auf eine Fläche von rund 388 Hektar und wird weiterhin aktiv bekämpft.",
-      "url": "https://bsky.app/profile/profharleyquinn.bsky.social/post/3mqw7wswfas2s",
-      "engagement": 8,
-      "ts": "2026-07-18T12:04:27.256Z",
-      "followers": 9049,
-      "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
@@ -93,9 +105,9 @@
       "url": "https://bsky.app/profile/celsuscassius.bsky.social/post/3mpuvc2yx5225",
       "engagement": 8,
       "ts": "2026-07-05T05:56:02.301Z",
-      "followers": 3805,
+      "followers": 3808,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
@@ -105,9 +117,9 @@
       "url": "https://bsky.app/profile/ahaachja.bsky.social/post/3mph4imwbmc2c",
       "engagement": 8,
       "ts": "2026-06-29T18:27:42.270Z",
-      "followers": 11747,
+      "followers": 11831,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -118,7 +130,7 @@
       "ts": "2026-07-14T05:31:02.000Z",
       "followers": 92419,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -129,19 +141,7 @@
       "ts": "2026-07-08T16:31:03.000Z",
       "followers": 85617,
       "isBot": false,
-      "sentiment": "positiv"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@jsachse.bsky.social",
-      "handle": "jsachse.bsky.social",
-      "text": "Mögliche gesellschaftliche Protestfelder, die  sich verstärken werden, womöglich zu Wahlkampfthemen (wie Windräder, Corona & Co): \n\n👉 Rechenzentren\n👉 Bundeswehr-Standorte versus zivile Flächen & Waffenfabriken\n👉 Folgen von Hitzewellen (Wasserverbrauch bis Gesundheit)\n\nAndere Meinung? Ergänzungen?",
-      "url": "https://bsky.app/profile/jsachse.bsky.social/post/3mqx453gohs2t",
-      "engagement": 7,
-      "ts": "2026-07-18T20:29:02.276Z",
-      "followers": 7527,
-      "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
@@ -151,9 +151,9 @@
       "url": "https://bsky.app/profile/baks.bund.de/post/3moxarjlxxc2y",
       "engagement": 7,
       "ts": "2026-06-23T11:01:39.928Z",
-      "followers": 3262,
+      "followers": 3264,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -164,7 +164,7 @@
       "ts": "2026-07-09T05:26:24.000Z",
       "followers": 85617,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -175,7 +175,7 @@
       "ts": "2024-07-03T09:11:36.066Z",
       "followers": 1037,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -186,7 +186,7 @@
       "ts": "2026-07-01T16:01:02.000Z",
       "followers": 92419,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -217,7 +217,7 @@
       "url": "https://social.bund.de/@Cyberagentur/114742419545368735",
       "engagement": 5,
       "ts": "2025-06-25T05:46:16.370Z",
-      "followers": 2136,
+      "followers": 2137,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -233,25 +233,13 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "Bluesky",
-      "author": "@lotta-kaa.bsky.social",
-      "handle": "lotta-kaa.bsky.social",
-      "text": "Der General, der so lange nervte, bis er gehen musste\n\nWie kein zweiter Insider kritisierte Alfons Mais Chaos und Geldvergeudung bei der Bundeswehr. Nun lässt sich rekonstruieren, wie Boris Pistorius ihn loswurde – und warum.\n\n🎁Link",
-      "url": "https://bsky.app/profile/lotta-kaa.bsky.social/post/3mqwdqgljsc2y",
-      "engagement": 4,
-      "ts": "2026-07-18T13:12:27.958Z",
-      "followers": 3812,
-      "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
       "platform": "Mastodon",
       "author": "@Cyberagentur",
       "text": "Ein Band durchschnitten. Viele Kontakte im Netzwerk Cybersicherheit geknüpft. Feierliche Einweihung der neuen Büroräume der @ Cyberagentur am 14.03.2023 in Halle (Saale) mit viel Politik-Prominenz und Stakeholdern der Branche. https://www. cyberagentur.de/cyberagentur-w ichtiger-partner-fuer-die-digitale-souveraenitaet-deutschlands/ # Cybersecurity # Innovation Forschung # BMI # BMVg # Sachsen -An",
       "url": "https://social.bund.de/@Cyberagentur/110026389427785747",
       "engagement": 4,
       "ts": "2023-03-15T08:37:47.596Z",
-      "followers": 2136,
+      "followers": 2137,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -268,13 +256,13 @@
     },
     {
       "platform": "Bluesky",
-      "author": "@angiestone.graysky.social",
-      "handle": "angiestone.graysky.social",
-      "text": "Auf dem Luftwaffenstützpunkt Al-Asrak (Muwaffaq Salti Air Base) sind auch Soldaten der Bundeswehr stationiert. \n👇👇👇",
-      "url": "https://bsky.app/profile/angiestone.graysky.social/post/3mqxsd54fik2d",
+      "author": "@zeit.de",
+      "handle": "zeit.de",
+      "text": "Die für die Sicherung von Flughäfen und Energieanlagen zuständige Division soll wachsen. In den kommenden zehn Jahren plant die Bundeswehr eine Verdopplung ihrer Stärke.",
+      "url": "https://bsky.app/profile/zeit.de/post/3mqzxky62el2a",
       "engagement": 3,
-      "ts": "2026-07-19T03:06:07.682Z",
-      "followers": 6622,
+      "ts": "2026-07-19T23:43:57.000Z",
+      "followers": 51031,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -298,7 +286,7 @@
       "ts": "2024-05-17T08:31:50.578Z",
       "followers": 1037,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
@@ -307,9 +295,9 @@
       "url": "https://social.bund.de/@Cyberagentur/110099684039083605",
       "engagement": 3,
       "ts": "2023-03-28T07:17:34.610Z",
-      "followers": 2136,
+      "followers": 2137,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
@@ -320,7 +308,7 @@
       "ts": "2026-06-01T16:49:03.000Z",
       "followers": 92419,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -331,7 +319,19 @@
       "ts": "2026-05-30T11:03:02.000Z",
       "followers": 92419,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "negativ"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@hunteress.eurosky.social",
+      "handle": "hunteress.eurosky.social",
+      "text": "Das stimmt. Und die Bundeswehr schummelt sich auch no... Moment, war die nicht grad auf der NordCon?\nEgal.",
+      "url": "https://bsky.app/profile/hunteress.eurosky.social/post/3mqz7ordwec2u",
+      "engagement": 2,
+      "ts": "2026-07-19T16:37:56.380Z",
+      "followers": 2588,
+      "isBot": false,
+      "sentiment": "positiv"
     },
     {
       "platform": "Bluesky",
@@ -341,9 +341,9 @@
       "url": "https://bsky.app/profile/ahaachja.bsky.social/post/3mph4erpjnc2c",
       "engagement": 2,
       "ts": "2026-06-29T18:25:33.072Z",
-      "followers": 11747,
+      "followers": 11831,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
@@ -353,6 +353,30 @@
       "engagement": 2,
       "ts": "2026-06-24T20:04:02.000Z",
       "followers": 92419,
+      "isBot": false,
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@chickenlady.bsky.social",
+      "handle": "chickenlady.bsky.social",
+      "text": "Sollte es nicht.sind microdicks.\nDie selbst Angst vor der Welt haben.. \nEs steht schon alles in d EU Charta, aber es wird nicht immer implementiert:\nNach Frauenfeindlichkeit beim Vorstellungsgespräch testen.\nEin probates Mittel. \nBisher kenne ich es bei meinem Arbeitgeber und bei d Bundeswehr🇩🇪",
+      "url": "https://bsky.app/profile/chickenlady.bsky.social/post/3mqzhfctp6k2k",
+      "engagement": 1,
+      "ts": "2026-07-19T18:55:49.113Z",
+      "followers": 13530,
+      "isBot": false,
+      "sentiment": "negativ"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@schoefaz.eurosky.social",
+      "handle": "schoefaz.eurosky.social",
+      "text": "Unter \"bei uns läuft doch alles gut\" könnte man natürlich auch fragen, was zum Teufel die Amis geritten hat Gladio in die Nato zu integrieren oder, weniger kriminell, wofür wir eine uns eine Bundeswehr gönnen? Uns kann doch gar nichts passieren, nur Freunde um uns herum. Ja, gut, Putin...",
+      "url": "https://bsky.app/profile/schoefaz.eurosky.social/post/3mqyezh4ges2a",
+      "engagement": 1,
+      "ts": "2026-07-19T08:40:43.720Z",
+      "followers": 374,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -374,9 +398,9 @@
       "url": "https://social.bund.de/@Cyberagentur/111346916916483457",
       "engagement": 1,
       "ts": "2023-11-03T13:45:17.996Z",
-      "followers": 2136,
+      "followers": 2137,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -387,7 +411,7 @@
       "ts": "2023-07-27T08:29:08.945Z",
       "followers": 4305,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -398,7 +422,7 @@
       "ts": "2026-05-07T08:15:33.000Z",
       "followers": 13884,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -409,7 +433,7 @@
       "ts": "2026-04-16T06:30:41.000Z",
       "followers": 4795,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -430,7 +454,7 @@
       "url": "https://bsky.app/profile/peterru.eurosky.social/post/3mqk7h4iu7k2q",
       "engagement": 0,
       "ts": "2026-07-13T17:23:43.567Z",
-      "followers": 3931,
+      "followers": 3930,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -485,7 +509,7 @@
       "url": "https://mastodontech.de/@Sicherheitspod/116431143859322603",
       "engagement": 0,
       "ts": "2026-04-19T11:31:04.000Z",
-      "followers": 5749,
+      "followers": 5750,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -627,7 +651,7 @@
       "engagement": 0,
       "ts": "2026-05-24T07:36:17+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -637,7 +661,7 @@
       "engagement": 0,
       "ts": "2026-05-07T14:58:39+00:00",
       "alwaysKeep": true,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/CredibleDefense",
@@ -657,7 +681,7 @@
       "engagement": 0,
       "ts": "2016-06-02T21:31:08+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -667,7 +691,7 @@
       "engagement": 0,
       "ts": "2026-07-17T12:49:42+00:00",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -677,7 +701,7 @@
       "engagement": 0,
       "ts": "2026-07-16T11:23:19+00:00",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -687,7 +711,7 @@
       "engagement": 0,
       "ts": "2026-07-13T15:26:07+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -697,7 +721,7 @@
       "engagement": 0,
       "ts": "2026-07-10T20:05:53+00:00",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -707,7 +731,7 @@
       "engagement": 0,
       "ts": "2026-07-09T12:21:22+00:00",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -717,7 +741,7 @@
       "engagement": 0,
       "ts": "2026-07-06T15:30:22+00:00",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -727,7 +751,7 @@
       "engagement": 0,
       "ts": "2026-07-03T18:25:32+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -742,12 +766,22 @@
     {
       "platform": "Augen geradeaus!",
       "author": "Augen geradeaus!",
+      "text": "Sicherheitshalber der Podcast Spezial: ***8. Geburtstag*** Abstieg ins Archiv und Hörerfragen",
+      "url": "https://augengeradeaus.net/2026/07/sicherheitshalber-der-podcast-spezial-8-geburtstag-abstieg-ins-archiv-und-hoererfragen/",
+      "engagement": 0,
+      "ts": "Sun, 19 Jul 2026 13:28:45 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
       "text": "Deutsch-Französische Verteidigungskooperation: Vorsichtige Nuklear-Zusammenarbeit, MGCS geht den Weg von FCAS (Nachtrag: Pressekonferenz)",
       "url": "https://augengeradeaus.net/2026/07/deutsch-franzoesische-verteidigungskooperation-vorsichtige-nuklear-zusammenarbeit-mgcs-geht-den-weg-von-fcas/",
       "engagement": 0,
       "ts": "Fri, 17 Jul 2026 15:10:23 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -757,7 +791,7 @@
       "engagement": 0,
       "ts": "Wed, 15 Jul 2026 17:13:24 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -767,7 +801,7 @@
       "engagement": 0,
       "ts": "Wed, 15 Jul 2026 11:09:07 +0000",
       "alwaysKeep": true,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -777,7 +811,7 @@
       "engagement": 0,
       "ts": "Tue, 14 Jul 2026 13:43:19 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -828,46 +862,16 @@
       "ts": "Thu, 09 Jul 2026 10:58:23 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
-    },
-    {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Neue beste Freunde: U-Boote für Kanada, Weltraumbahnhof für deutsche Firma",
-      "url": "https://augengeradeaus.net/2026/07/neue-beste-freunde-u-boote-fuer-kanada-weltraumbahnhof-fuer-deutsche-firma/",
-      "engagement": 0,
-      "ts": "Wed, 08 Jul 2026 07:15:14 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bundeswehr Journal",
-      "author": "Bundeswehr Journal",
-      "text": "Das Ruhestandsalter von Berufssoldaten steigt weiter an",
-      "url": "https://www.bundeswehr-journal.de/2026/das-ruhestandsalter-von-berufssoldaten-steigt-weiter-an/",
-      "engagement": 0,
-      "ts": "Wed, 15 Jul 2026 21:00:53 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bundeswehr Journal",
-      "author": "Bundeswehr Journal",
-      "text": "Strategischer Zusammenschluss von Deutz und FFG",
-      "url": "https://www.bundeswehr-journal.de/2026/strategischer-zusammenschluss-von-deutz-und-ffg/",
-      "engagement": 0,
-      "ts": "Sat, 11 Jul 2026 21:15:12 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Der Diskurs dominiert durch die Kritik an der deutschen Aufrüstung und die Reaktionen auf die Entscheidungen des Bundesministers der Verteidigung Boris Pistorius.",
+    "summary": "Heute diskutieren die sozialen Medien vor allem über die Aufrüstung der Bundeswehr, die Kritik an Boris Pistorius' Wehrdienst-Modell und die zunehmende Zahl von Kriegsdienstverweigerungen.",
     "themes": [
       "Pistorius' Wehrdienst-Modell",
       "AfD-Faschismus-Vorwurf",
-      "Beschaffungsverzögerung",
-      "NATO-Allianz",
-      "Wehrpflicht"
+      "Beschaffungs-Verzögerung 'Grille X4'",
+      "Rechtsextremismus in der Bundeswehr",
+      "Wehrpflicht und Kriegsdienstverweigerungen"
     ]
   }
 }

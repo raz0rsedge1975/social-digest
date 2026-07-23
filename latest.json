@@ -1,65 +1,53 @@
 {
-  "generated": "2026-07-22T03:34:36.500Z",
-  "timestamp": "22.7.2026, 05:34:36",
+  "generated": "2026-07-23T03:34:23.780Z",
+  "timestamp": "23.7.2026, 05:34:23",
   "items": [
-    {
-      "platform": "Bluesky",
-      "author": "@derloeffelbein.bsky.social",
-      "handle": "derloeffelbein.bsky.social",
-      "text": "deutsche eltern wenn ihre kinder ballerspiele spielen: GEWALTVERHERRLICHEND!!! MEIN KIND LERNT SINNLOSES TÖTEN ALS SPIEL!!! EINE GEFAHR FÜR UNS ALLE!!!\n\ndeutsche eltern wenn ihre kinder in der bundeswehr unironisch töten lernen: endlich wird das vaterland verteidigt wir sind so stolz",
-      "url": "https://bsky.app/profile/derloeffelbein.bsky.social/post/3mr5fsy5vsk2c",
-      "engagement": 218,
-      "ts": "2026-07-21T08:38:19.146Z",
-      "followers": 3968,
-      "isBot": false,
-      "sentiment": "kritisch"
-    },
     {
       "platform": "Mastodon",
       "author": "@thw",
       "text": "Das Feuer im # muritznationalpark in # mecklenburgvorpommern breitet sich nicht weiter aus. Mittlerweile durften auch die Bewohnerinnen und Bewohner in ihre Häuser zurückkehren. Allerdings ist der Einsatz wegen der unsicheren Wetterlage noch nicht ganz abgeschlossen. Bisher haben sich bereits 174 ehrenamtliche Kräfte aus 27 # THW -Ortsverbänden eingebracht. Sie arbeiteten Hand in Hand mit # Feuerw",
       "url": "https://social.bund.de/@thw/116958103190857711",
-      "engagement": 47,
+      "engagement": 53,
       "ts": "2026-07-21T13:03:45.741Z",
-      "followers": 6265,
+      "followers": 6266,
       "isBot": false,
       "sentiment": "positiv"
     },
     {
       "platform": "Bluesky",
-      "author": "@opfuekdo.bundeswehr.de",
-      "handle": "opfuekdo.bundeswehr.de",
-      "text": "Am 21. Juli gedenkt das Operative Führungskommando der Bundeswehr Generalmajor Henning von Tresckow. Er gehörte zu den prägenden Persönlichkeiten des militärischen Widerstands gegen das NS-Regime. Sein Todestag ist seit 1992 Teil der Erinnerungskultur in der nach ihm benannten Kaserne.",
-      "url": "https://bsky.app/profile/opfuekdo.bundeswehr.de/post/3mr5wq6v4sk2v",
-      "engagement": 14,
-      "ts": "2026-07-21T13:40:59.140Z",
-      "followers": 2956,
-      "isBot": false,
-      "sentiment": "negativ"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@loyalmagazin.bsky.social",
-      "handle": "loyalmagazin.bsky.social",
-      "text": "👉Vor 70 Jahren trat das #Wehrpflichtgesetz in Kraft. Gut ein halbes Jahr nach Aufstellung der Bundeswehr stimmten 269 Abgeordnete des Bundestages am 7. Juli 1956 nach einer langen und kontroversen Debatte für die Einführung der Wehrpflicht. 166 waren dagegen, 20 enthielten sich. \n🧵1/2",
-      "url": "https://bsky.app/profile/loyalmagazin.bsky.social/post/3mr577vffwc2n",
-      "engagement": 5,
-      "ts": "2026-07-21T06:40:16.259Z",
-      "followers": 806,
+      "author": "@silosa.bsky.social",
+      "handle": "silosa.bsky.social",
+      "text": "Warum der Bundeswehr noch immer Frauen fehlen\n\nWarum? Weil Frauen intelligenter sind ‼️✊❤️✊\n\nwww.dw.com/de/warum-der...",
+      "url": "https://bsky.app/profile/silosa.bsky.social/post/3mranfpu6sc2e",
+      "engagement": 18,
+      "ts": "2026-07-22T15:32:03.379Z",
+      "followers": 4086,
       "isBot": false,
       "sentiment": "kritisch"
     },
     {
       "platform": "Bluesky",
-      "author": "@peterru.eurosky.social",
-      "handle": "peterru.eurosky.social",
-      "text": "Bundeswehr \n\nRekrutierung auf der Videospielmesse\n\nHunderttausende besuchen jährlich die weltgrößte Videospielmesse in Köln. Die Bundeswehr investiert stetig mehr in die eigene Präsenz auf der Gamescom.\n20.07.2026 | nd-aktuell.de\n\nwww.nd-aktuell.de/artikel/1201...",
-      "url": "https://bsky.app/profile/peterru.eurosky.social/post/3mr5xtte4nk2n",
-      "engagement": 1,
-      "ts": "2026-07-21T14:00:55.015Z",
-      "followers": 3933,
+      "author": "@bjoernm.bsky.social",
+      "handle": "bjoernm.bsky.social",
+      "text": "Im Dezember 2025 bei den 🇩🇪🇵🇱 Regierungskonsultationen angekündigt; nun geht es los: Pioniere der #Bundeswehr bauen am polnischen Abschnitt der Abwehranlage #Ostschild gegen Russland mit.\n\nwww.presseportal.de/pm/179237/63...",
+      "url": "https://bsky.app/profile/bjoernm.bsky.social/post/3mraidc5es22n",
+      "engagement": 13,
+      "ts": "2026-07-22T14:01:13.183Z",
+      "followers": 2848,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "negativ"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@opfuekdo.bundeswehr.de",
+      "handle": "opfuekdo.bundeswehr.de",
+      "text": "Die Bundeswehr unterstützt auf Einladung Polens bei „Eastern Shield“. Das nationale Programm wird die polnischen Landesgrenzen zu Russland und Belarus durch den Bau eines Grenzwalls schützen und so die Sicherheit Polens und der verbündeten Nationen stärken.",
+      "url": "https://bsky.app/profile/opfuekdo.bundeswehr.de/post/3mrabdlgnb22t",
+      "engagement": 11,
+      "ts": "2026-07-22T11:56:06.731Z",
+      "followers": 2956,
+      "isBot": false,
+      "sentiment": "kritisch"
     },
     {
       "platform": "Bluesky",
@@ -71,31 +59,19 @@
       "ts": "2026-07-21T14:40:10.822+02:00",
       "followers": 4893,
       "isBot": false,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@derloeffelbein.bsky.social",
-      "handle": "derloeffelbein.bsky.social",
-      "text": "also in meinem post gehts darum dass sich die bürgerliche mitte sehr gern auf moral panics einlässt (ballerspiele machen unsere kinder zu gewalttätigen killern) aber wenn die bundeswehr im echten leben in schulen geht um die kinder zu gewalttätigen killern auszubilden ist das okay und patriotisch",
-      "url": "https://bsky.app/profile/derloeffelbein.bsky.social/post/3mr6n424pkc2n",
-      "engagement": 0,
-      "ts": "2026-07-21T20:21:19.126Z",
-      "followers": 3968,
-      "isBot": false,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@reservistenverband.bsky.social",
-      "handle": "reservistenverband.bsky.social",
-      "text": "Rund 230 Rekrutinnen und Rekruten der Bundeswehr haben gestern, am 20. Juli, bei einem feierlichen Appell im Bendlerblock gelobt, die Werte und Normen der freiheitlich-demokratischen Grundordnung zu achten und zu verteidigen. (📸: Bundeswehr/Rolf Klatt) www.reservistenverband.de/magazin-die-...",
-      "url": "https://bsky.app/profile/reservistenverband.bsky.social/post/3mr5svwdxck27",
-      "engagement": 0,
-      "ts": "2026-07-21T12:32:36.553Z",
-      "followers": 550,
-      "isBot": false,
       "sentiment": "positiv"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@dirkmassat.bsky.social",
+      "handle": "dirkmassat.bsky.social",
+      "text": "Kriegsvorbereitung in Deutschland\n\nLaut #Pistorius sollen viele hartarbeitende Automechaniker zu Panzermechanikern bei der Bundeswehr umgeschult werden.\n\nWas sagen die Autobauer selbst dazu? Das hatten wir alles schon zwei Mal. Jedes Mal ist es schief gegangen.",
+      "url": "https://bsky.app/profile/dirkmassat.bsky.social/post/3mrb7hagahc2p",
+      "engagement": 0,
+      "ts": "2026-07-22T20:55:01.658Z",
+      "followers": 10276,
+      "isBot": false,
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -106,7 +82,7 @@
       "ts": "2026-07-21T10:56:18.000Z",
       "followers": 9575,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -116,7 +92,7 @@
       "engagement": 0,
       "ts": "2026-07-21T14:30:11+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -141,6 +117,16 @@
     {
       "platform": "Augen geradeaus!",
       "author": "Augen geradeaus!",
+      "text": "Fürs Protokoll: Deutsche Pioniere bauen Sperren für den Suwalki-Korridor",
+      "url": "https://augengeradeaus.net/2026/07/fuers-protokoll-deutsche-pioniere-bauen-sperren-fuer-den-suwalki-korridor/",
+      "engagement": 0,
+      "ts": "Wed, 22 Jul 2026 14:36:30 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
       "text": "Sicherheitshalber der Podcast Spezial: ***8. Geburtstag*** Abstieg ins Archiv und Hörerfragen",
       "url": "https://augengeradeaus.net/2026/07/sicherheitshalber-der-podcast-spezial-8-geburtstag-abstieg-ins-archiv-und-hoererfragen/",
       "engagement": 0,
@@ -159,32 +145,62 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Fürs Protokoll: Balten warnen von russischen „Provokationen“, Moskau sieht „Panikmache“",
-      "url": "https://augengeradeaus.net/2026/07/fuers-protokoll-balten-warnen-von-russischen-provokationen-moskau-sieht-panikmache/",
-      "engagement": 0,
-      "ts": "Wed, 15 Jul 2026 17:13:24 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Personalstärke Juni 2026: Rückgang um 500, Ministerium sieht Aufwuchs im Plan",
-      "url": "https://augengeradeaus.net/2026/07/personalstaerke-juni-2025-rueckgang-um-500-ministerium-sieht-aufwuchs-im-plan/",
-      "engagement": 0,
-      "ts": "Wed, 15 Jul 2026 11:09:07 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
       "platform": "Bundeswehr Journal",
       "author": "Bundeswehr Journal",
-      "text": "Das Ruhestandsalter von Berufssoldaten steigt weiter an",
-      "url": "https://www.bundeswehr-journal.de/2026/das-ruhestandsalter-von-berufssoldaten-steigt-weiter-an/",
+      "text": "Thales liefert Optronik-Systeme für Programm „IdZ-ES“",
+      "url": "https://www.bundeswehr-journal.de/2026/thales-liefert-optronik-systeme-fuer-programm-idz-es/",
       "engagement": 0,
-      "ts": "Wed, 15 Jul 2026 21:00:53 +0000",
+      "ts": "Thu, 16 Jul 2026 21:00:06 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Hensoldt gehört zum deutschen MQ-28 Ghost Bat-Industrieteam",
+      "url": "https://esut.de/2026/07/meldungen/72987/hensoldt-gehoert-zum-deutschen-mq-28-ghost-bat-industrieteam/",
+      "engagement": 0,
+      "ts": "Wed, 22 Jul 2026 11:51:36 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "NATO-Ostflanke: Wie die Battlegroup im Baltikum aufwachsen will",
+      "url": "https://esut.de/2026/07/fachbeitraege/72080/nato-ostflanke-battlegroup-baltikum-litauen/",
+      "engagement": 0,
+      "ts": "Wed, 22 Jul 2026 09:03:47 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Defence-Tech: Bundesregierung fördert erstmals Rüstungs-Start-ups",
+      "url": "https://esut.de/2026/07/meldungen/72983/defence-tech-bundesregierung-start-ups/",
+      "engagement": 0,
+      "ts": "Wed, 22 Jul 2026 08:45:27 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Belgien stellt Fregattenprogramm mit den Niederlanden infrage",
+      "url": "https://esut.de/2026/07/meldungen/72991/belgien-stellt-fregattenprogramm-mit-den-niederlanden-infrage/",
+      "engagement": 0,
+      "ts": "Wed, 22 Jul 2026 08:21:01 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Lockheed Martin stellt den kostengünstigen Abfangflugkörper PAC-3 ACE vor",
+      "url": "https://esut.de/2026/07/meldungen/72978/lockheed-martin-stellt-den-kostenguenstigen-abfangflugkoerper-pac-3-ace-vor/",
+      "engagement": 0,
+      "ts": "Wed, 22 Jul 2026 08:04:35 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -199,62 +215,24 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Thales baut seine industrielle Präsenz in Deutschland aus",
-      "url": "https://esut.de/2026/07/meldungen/72953/thales-baut-seine-industrielle-praesenz-in-deutschland-aus/",
+      "platform": "Spiegel Politik",
+      "author": "Spiegel Politik",
+      "text": "Bundeswehr: Von der Ukraine könnten die Deutschen viel lernen. Wenn sie denn vor Ort wären",
+      "url": "https://www.spiegel.de/politik/deutschland/bundeswehr-von-der-ukraine-koennten-die-deutschen-viel-lernen-wenn-sie-denn-vor-ort-waeren-a-4c0a3b8e-3458-4a54-83e7-9389ee459540#ref=rss",
       "engagement": 0,
-      "ts": "Tue, 21 Jul 2026 13:05:07 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Zeitenwende im Atlantik: Portugal bekundet Interesse an drei FREMM Evo",
-      "url": "https://esut.de/2026/07/meldungen/72947/zeitenwende-im-atlantik-portugal-bekundet-interesse-an-drei-fremm-evo/",
-      "engagement": 0,
-      "ts": "Tue, 21 Jul 2026 12:46:20 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Konsortium EuroMIDS: Kommunikationsterminals für europäische Kampfflugzeuge",
-      "url": "https://esut.de/2026/07/meldungen/72943/konsortium-euromids-kommunikationsterminals-fuer-europaeische-kampfflugzeuge/",
-      "engagement": 0,
-      "ts": "Tue, 21 Jul 2026 11:12:28 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Thales und Destinus schließen Partnerschaft für Luftverteidigung und Drohnenabwehr",
-      "url": "https://esut.de/2026/07/meldungen/72939/thales-und-destinus-schliessen-partnerschaft-fuer-luftverteidigung-und-drohnenabwehr/",
-      "engagement": 0,
-      "ts": "Tue, 21 Jul 2026 11:03:28 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Partnerschaft: Daimler Truck, Soframe und Lambert Defence für Belgiens Militärlogistik",
-      "url": "https://esut.de/2026/07/meldungen/72933/partnerschaft-daimler-truck-soframe-und-lambert-defence-fuer-belgiens-militaerlogistik/",
-      "engagement": 0,
-      "ts": "Tue, 21 Jul 2026 06:07:22 +0000",
+      "ts": "Wed, 22 Jul 2026 17:41:00 +0200",
       "alwaysKeep": true,
       "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Heute im Fokus: Die Bundeswehr präsentiert sich auf der Videospielmesse und rekrutiert junge Soldaten, während die Debatte um die Moralpanik bei Ballerspielen und die Sicherheit im Muritz-Nationalpark auf social-Media-Plattformen geführt wird.",
+    "summary": "Der Diskurs des Tages dominiert durch die Debatte über die Rolle der Frauen in der Bundeswehr und die Kriegsvorbereitung in Deutschland. Darüber hinaus werden Themen wie die Verteidigungskooperation mit Polen, die Beschaffungsverzögerung im Rahmen des KNDS-Projekts und die Förderung von Rüstungs-Start-ups durch die Bundesregierung.",
     "themes": [
-      "Rekrutierung der Bundeswehr auf der Videospielmesse",
-      "Moralpanik bei Ballerspielen",
-      "Sicherheit im Muritz-Nationalpark"
+      "Pistorius' Wehrdienst-Modell",
+      "Kriegsvorbereitung in Deutschland",
+      "Deutsche-Pioniere bauen Sperren für den Suwalki-Korridor",
+      "Verteidigungskooperation mit Polen",
+      "Beschaffungsverzögerung KNDS-Projekt"
     ]
   }
 }

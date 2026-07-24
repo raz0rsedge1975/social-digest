@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-23T03:34:23.780Z",
-  "timestamp": "23.7.2026, 05:34:23",
+  "generated": "2026-07-24T03:34:16.156Z",
+  "timestamp": "24.7.2026, 05:34:16",
   "items": [
     {
       "platform": "Mastodon",
@@ -15,39 +15,27 @@
     },
     {
       "platform": "Bluesky",
-      "author": "@silosa.bsky.social",
-      "handle": "silosa.bsky.social",
-      "text": "Warum der Bundeswehr noch immer Frauen fehlen\n\nWarum? Weil Frauen intelligenter sind ‼️✊❤️✊\n\nwww.dw.com/de/warum-der...",
-      "url": "https://bsky.app/profile/silosa.bsky.social/post/3mranfpu6sc2e",
-      "engagement": 18,
-      "ts": "2026-07-22T15:32:03.379Z",
-      "followers": 4086,
+      "author": "@wirtschaftswoche.bsky.social",
+      "handle": "wirtschaftswoche.bsky.social",
+      "text": "Der Ukraine-Krieg zeigt die Bedeutung von Drohnen. Verteidigungsminister Pistorius sieht Deutschland bei dem Thema in Europa an der Spitze.",
+      "url": "https://bsky.app/profile/wirtschaftswoche.bsky.social/post/3mrd43ovre62c",
+      "engagement": 6,
+      "ts": "2026-07-23T17:00:12.188+02:00",
+      "followers": 4898,
       "isBot": false,
       "sentiment": "kritisch"
     },
     {
       "platform": "Bluesky",
-      "author": "@bjoernm.bsky.social",
-      "handle": "bjoernm.bsky.social",
-      "text": "Im Dezember 2025 bei den 🇩🇪🇵🇱 Regierungskonsultationen angekündigt; nun geht es los: Pioniere der #Bundeswehr bauen am polnischen Abschnitt der Abwehranlage #Ostschild gegen Russland mit.\n\nwww.presseportal.de/pm/179237/63...",
-      "url": "https://bsky.app/profile/bjoernm.bsky.social/post/3mraidc5es22n",
-      "engagement": 13,
-      "ts": "2026-07-22T14:01:13.183Z",
-      "followers": 2848,
+      "author": "@reservistenverband.bsky.social",
+      "handle": "reservistenverband.bsky.social",
+      "text": "Sommerreise: Verteidigungsminister Boris Pistorius hat gestern das #Heimatschutz|regiment 5 in Thüringen besucht. (📸: Bundeswehr; Ränder erweitert mit Adobe AI) www.reservistenverband.de/magazin-die-...",
+      "url": "https://bsky.app/profile/reservistenverband.bsky.social/post/3mrcioloa6c2l",
+      "engagement": 2,
+      "ts": "2026-07-23T09:12:51.749Z",
+      "followers": 550,
       "isBot": false,
-      "sentiment": "negativ"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@opfuekdo.bundeswehr.de",
-      "handle": "opfuekdo.bundeswehr.de",
-      "text": "Die Bundeswehr unterstützt auf Einladung Polens bei „Eastern Shield“. Das nationale Programm wird die polnischen Landesgrenzen zu Russland und Belarus durch den Bau eines Grenzwalls schützen und so die Sicherheit Polens und der verbündeten Nationen stärken.",
-      "url": "https://bsky.app/profile/opfuekdo.bundeswehr.de/post/3mrabdlgnb22t",
-      "engagement": 11,
-      "ts": "2026-07-22T11:56:06.731Z",
-      "followers": 2956,
-      "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "positiv"
     },
     {
       "platform": "Bluesky",
@@ -57,21 +45,9 @@
       "url": "https://bsky.app/profile/wirtschaftswoche.bsky.social/post/3mr5tdhyfcf2k",
       "engagement": 1,
       "ts": "2026-07-21T14:40:10.822+02:00",
-      "followers": 4893,
+      "followers": 4898,
       "isBot": false,
-      "sentiment": "positiv"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@dirkmassat.bsky.social",
-      "handle": "dirkmassat.bsky.social",
-      "text": "Kriegsvorbereitung in Deutschland\n\nLaut #Pistorius sollen viele hartarbeitende Automechaniker zu Panzermechanikern bei der Bundeswehr umgeschult werden.\n\nWas sagen die Autobauer selbst dazu? Das hatten wir alles schon zwei Mal. Jedes Mal ist es schief gegangen.",
-      "url": "https://bsky.app/profile/dirkmassat.bsky.social/post/3mrb7hagahc2p",
-      "engagement": 0,
-      "ts": "2026-07-22T20:55:01.658Z",
-      "followers": 10276,
-      "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "negativ"
     },
     {
       "platform": "Mastodon",
@@ -87,12 +63,22 @@
     {
       "platform": "YouTube (Bundeswehr)",
       "author": "Bundeswehr",
+      "text": "🇱🇹 Brigade Litauen: Das Leben hinter der Großübung Freedom Shield – Folge 4",
+      "url": "https://www.youtube.com/watch?v=5NtL5UmYWyo",
+      "engagement": 0,
+      "ts": "2026-07-23T14:21:29+00:00",
+      "alwaysKeep": true,
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "YouTube (Bundeswehr)",
+      "author": "Bundeswehr",
       "text": "Kaserne von innen: Die Stube I Bundeswehr",
       "url": "https://www.youtube.com/watch?v=rs0vLI5ZB58",
       "engagement": 0,
       "ts": "2026-07-21T14:30:11+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "positiv"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -105,19 +91,29 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "YouTube (Bundeswehr)",
-      "author": "Bundeswehr",
-      "text": "🇱🇹 Brigade Litauen: Kinderbetreuung und Schulbildung für Bundeswehrfamilien – Folge 3 | Bundeswehr",
-      "url": "https://www.youtube.com/watch?v=GNbB9lpCSIM",
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Vorerst kein Einsatz vor Iran: Fulda und Mosel zurück ins Mittelmeer",
+      "url": "https://augengeradeaus.net/2026/07/vorerst-kein-einsatz-vor-iran-fulda-und-mosel-zurueck-ins-mittelmeer/",
       "engagement": 0,
-      "ts": "2026-07-16T11:23:19+00:00",
+      "ts": "Thu, 23 Jul 2026 18:51:04 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
       "author": "Augen geradeaus!",
-      "text": "Fürs Protokoll: Deutsche Pioniere bauen Sperren für den Suwalki-Korridor",
+      "text": "Kommentarpause und ein bisschen Sommerpause",
+      "url": "https://augengeradeaus.net/2026/07/kommentarpause-und-ein-bisschen-sommerpause/",
+      "engagement": 0,
+      "ts": "Thu, 23 Jul 2026 05:21:22 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Fürs Protokoll: Deutsche Pioniere bauen Sperren für den Suwalki-Korridor (Nachtrag)",
       "url": "https://augengeradeaus.net/2026/07/fuers-protokoll-deutsche-pioniere-bauen-sperren-fuer-den-suwalki-korridor/",
       "engagement": 0,
       "ts": "Wed, 22 Jul 2026 14:36:30 +0000",
@@ -145,12 +141,32 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "Bundeswehr Journal",
-      "author": "Bundeswehr Journal",
-      "text": "Thales liefert Optronik-Systeme für Programm „IdZ-ES“",
-      "url": "https://www.bundeswehr-journal.de/2026/thales-liefert-optronik-systeme-fuer-programm-idz-es/",
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Raumfahrt-Start-up: Wie Isar Aerospace den Gründergeist beflügelt",
+      "url": "https://esut.de/2026/07/fachbeitraege/73010/raumfahrt-start-up-wie-isar-aerospace-den-gruendergeist-befluegelt/",
       "engagement": 0,
-      "ts": "Thu, 16 Jul 2026 21:00:06 +0000",
+      "ts": "Thu, 23 Jul 2026 08:39:53 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Farnborough Airshow 2026: Reiser liefert Flugsimulatoren für die Pilotenausbildung der Marine",
+      "url": "https://esut.de/2026/07/meldungen/73067/reiser-liefert-flugsimulatoren-fuer-die-pilotenausbildung-der-marine/",
+      "engagement": 0,
+      "ts": "Thu, 23 Jul 2026 08:08:18 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Lufthansa Technik Defense: Instandhaltung der CH-47F",
+      "url": "https://esut.de/2026/07/meldungen/73049/lufthansa-technik-defense-instandhaltung-der-schwerlasthubschrauber-ch-47f-der-bundeswehr/",
+      "engagement": 0,
+      "ts": "Thu, 23 Jul 2026 06:40:12 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -185,54 +201,22 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Belgien stellt Fregattenprogramm mit den Niederlanden infrage",
-      "url": "https://esut.de/2026/07/meldungen/72991/belgien-stellt-fregattenprogramm-mit-den-niederlanden-infrage/",
-      "engagement": 0,
-      "ts": "Wed, 22 Jul 2026 08:21:01 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Lockheed Martin stellt den kostengünstigen Abfangflugkörper PAC-3 ACE vor",
-      "url": "https://esut.de/2026/07/meldungen/72978/lockheed-martin-stellt-den-kostenguenstigen-abfangflugkoerper-pac-3-ace-vor/",
-      "engagement": 0,
-      "ts": "Wed, 22 Jul 2026 08:04:35 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Der 20. Juli 1944: Das Gedenken an das Hitler-Attentat ist hochaktuell",
-      "url": "https://esut.de/2026/07/fachbeitraege/72954/der-20-juli-1944-das-gedenken-an-das-hitler-attentat-ist-hochaktuell/",
-      "engagement": 0,
-      "ts": "Tue, 21 Jul 2026 13:38:37 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
       "platform": "Spiegel Politik",
       "author": "Spiegel Politik",
-      "text": "Bundeswehr: Von der Ukraine könnten die Deutschen viel lernen. Wenn sie denn vor Ort wären",
-      "url": "https://www.spiegel.de/politik/deutschland/bundeswehr-von-der-ukraine-koennten-die-deutschen-viel-lernen-wenn-sie-denn-vor-ort-waeren-a-4c0a3b8e-3458-4a54-83e7-9389ee459540#ref=rss",
+      "text": "Bundeswehr: Boris Pistorius zieht Kriegsschiffe aus dem Roten Meer zurück",
+      "url": "https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-zieht-kriegsschiffe-aus-dem-roten-meer-zurueck-a-1938e5e5-bc2b-4f3b-baf2-a273d70c28fe#ref=rss",
       "engagement": 0,
-      "ts": "Wed, 22 Jul 2026 17:41:00 +0200",
+      "ts": "Thu, 23 Jul 2026 19:16:00 +0200",
       "alwaysKeep": true,
       "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Der Diskurs des Tages dominiert durch die Debatte über die Rolle der Frauen in der Bundeswehr und die Kriegsvorbereitung in Deutschland. Darüber hinaus werden Themen wie die Verteidigungskooperation mit Polen, die Beschaffungsverzögerung im Rahmen des KNDS-Projekts und die Förderung von Rüstungs-Start-ups durch die Bundesregierung.",
+    "summary": "Der Ukraine-Krieg und die Bedeutung von Drohnen sind im Fokus, während Verteidigungsminister Pistorius sich auf Heimatschutz und Beschaffungen konzentriert. Die Bundeswehr plant eine neue Großübung.",
     "themes": [
       "Pistorius' Wehrdienst-Modell",
-      "Kriegsvorbereitung in Deutschland",
-      "Deutsche-Pioniere bauen Sperren für den Suwalki-Korridor",
-      "Verteidigungskooperation mit Polen",
-      "Beschaffungsverzögerung KNDS-Projekt"
+      "Beschaffungsverzögerung KNDS",
+      "Internationale Militär-Segelflugwettbewerb"
     ]
   }
 }

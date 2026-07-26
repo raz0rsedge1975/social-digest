@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-25T03:34:38.405Z",
-  "timestamp": "25.7.2026, 05:34:38",
+  "generated": "2026-07-26T03:34:29.019Z",
+  "timestamp": "26.7.2026, 05:34:29",
   "items": [
     {
       "platform": "Mastodon",
@@ -9,45 +9,9 @@
       "url": "https://social.bund.de/@thw/116958103190857711",
       "engagement": 53,
       "ts": "2026-07-21T13:03:45.741Z",
-      "followers": 6273,
+      "followers": 6271,
       "isBot": false,
       "sentiment": "positiv"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@luftwaffe.bundeswehr.de",
-      "handle": "luftwaffe.bundeswehr.de",
-      "text": "Ausbildung verbindet ! 🇩🇪🤝🇬🇭\n\nUnsere Objektschutzkräfte unterstützen die \r\nEuropäische Sicherheits- und\r\nVerteidigungsinitiative am Golf von Guinea und\r\nbilden die ghanaische Luftwaffe in Accra aus.\r\nNach dem Prinzip 'Train-the-Trainer' werden\r\nFähigkeiten nachhaltig aufgebaut.\r\n(📷: Bundeswehr/ Heyn, Hartl)",
-      "url": "https://bsky.app/profile/luftwaffe.bundeswehr.de/post/3mrfbrf2yrc2h",
-      "engagement": 20,
-      "ts": "2026-07-24T11:47:08.493Z",
-      "followers": 3364,
-      "isBot": false,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@wochendaemmerung.bsky.social",
-      "handle": "wochendaemmerung.bsky.social",
-      "text": "Neue Folge! In der @stephananpalagan.bsky.social erzählt, wie die 1990er Jahre in Deutschland - Asylkompromiss, rassistische Gewalt und \"Kinder statt Inder\" - ihn geprägt haben. Und warum er sich jetzt zur Reserve bei der Bundeswehr gemeldet hat. \nMit @holgi.bsky.social & @diekadda.bsky.social",
-      "url": "https://bsky.app/profile/wochendaemmerung.bsky.social/post/3mrfjjtjjg22t",
-      "engagement": 15,
-      "ts": "2026-07-24T14:06:05.167Z",
-      "followers": 2228,
-      "isBot": false,
-      "sentiment": "negativ"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@merledieperle.bsky.social",
-      "handle": "merledieperle.bsky.social",
-      "text": "Wenn die von der Bundeswehr weiter in Zügen Alkohol trinken dürfen, dann bekommt Herr Pistolius reichlich Zulauf!\n\n;-)",
-      "url": "https://bsky.app/profile/merledieperle.bsky.social/post/3mrfo7xp2322s",
-      "engagement": 8,
-      "ts": "2026-07-24T15:30:02.708Z",
-      "followers": 2310,
-      "isBot": false,
-      "sentiment": "kritisch"
     },
     {
       "platform": "Bluesky",
@@ -57,9 +21,9 @@
       "url": "https://bsky.app/profile/wirtschaftswoche.bsky.social/post/3mrd43ovre62c",
       "engagement": 7,
       "ts": "2026-07-23T17:00:12.188+02:00",
-      "followers": 4897,
+      "followers": 4898,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -70,7 +34,19 @@
       "ts": "2026-07-24T12:54:02.000Z",
       "followers": 92575,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@jens0331.bsky.social",
+      "handle": "jens0331.bsky.social",
+      "text": "Wenn die Bundeswehr tatsächlich 20 neue 400M kaufen sollte, dann bitte mit den Containern des Waldbrandlöschsystems.\nwww.faz.net/aktuell/tech...",
+      "url": "https://bsky.app/profile/jens0331.bsky.social/post/3mrimdkmffs2r",
+      "engagement": 2,
+      "ts": "2026-07-25T19:34:14.939Z",
+      "followers": 3115,
+      "isBot": false,
+      "sentiment": "negativ"
     },
     {
       "platform": "Bluesky",
@@ -80,21 +56,9 @@
       "url": "https://bsky.app/profile/wirtschaftswoche.bsky.social/post/3mr5tdhyfcf2k",
       "engagement": 1,
       "ts": "2026-07-21T14:40:10.822+02:00",
-      "followers": 4897,
+      "followers": 4898,
       "isBot": false,
-      "sentiment": "positiv"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@christl.bsky.social",
-      "handle": "christl.bsky.social",
-      "text": "Naaaaa, welche Kommune macht sich gerne zum Ziel? \n\n#Raketen #Bundeswehr",
-      "url": "https://bsky.app/profile/christl.bsky.social/post/3mrg3haknjk2h",
-      "engagement": 0,
-      "ts": "2026-07-24T19:26:45.526Z",
-      "followers": 2310,
-      "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -115,7 +79,7 @@
       "engagement": 0,
       "ts": "2026-07-23T14:21:29+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "positiv"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -130,12 +94,22 @@
     {
       "platform": "Augen geradeaus!",
       "author": "Augen geradeaus!",
+      "text": "Rumänien schießt erneut Drohne über NATO-Territorium ab",
+      "url": "https://augengeradeaus.net/2026/07/rumaenien-schiesst-erneut-drohne-ueber-nato-territorium-ab/",
+      "engagement": 0,
+      "ts": "Sat, 25 Jul 2026 08:06:59 +0000",
+      "alwaysKeep": true,
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
       "text": "Fürs Protokoll: Neuer Kommandeur für US-Landstreikräfte in Europa – mit einem Stern weniger",
       "url": "https://augengeradeaus.net/2026/07/fuers-protokoll-neuer-kommandeur-fuer-us-landstreikraefte-in-europa-mit-einem-stern-weniger/",
       "engagement": 0,
       "ts": "Fri, 24 Jul 2026 19:54:20 +0000",
       "alwaysKeep": true,
-      "sentiment": "negativ"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Augen geradeaus!",
@@ -145,7 +119,7 @@
       "engagement": 0,
       "ts": "Fri, 24 Jul 2026 17:27:15 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "negativ"
     },
     {
       "platform": "Augen geradeaus!",
@@ -185,7 +159,7 @@
       "engagement": 0,
       "ts": "Wed, 22 Jul 2026 14:36:30 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Augen geradeaus!",
@@ -214,6 +188,26 @@
       "url": "https://www.bundeswehr-journal.de/2026/hensoldt-tritt-dem-industrieteam-mq-28-ghost-bat-bei/",
       "engagement": 0,
       "ts": "Mon, 20 Jul 2026 16:45:03 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Erster Freiflug-Testschuss einer elektromagnetischen Railgun beim ISL",
+      "url": "https://esut.de/2026/07/meldungen/73097/erster-freiflug-testschuss-einer-elektromagnetischen-railgun-beim-isl/",
+      "engagement": 0,
+      "ts": "Sat, 25 Jul 2026 12:54:34 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Boeing MQ-28 „Ghost Bat“: Debüt in Farnborough",
+      "url": "https://esut.de/2026/07/meldungen/73093/boeing-mq-28-ghost-bat-debuet-in-farnborough/",
+      "engagement": 0,
+      "ts": "Sat, 25 Jul 2026 12:41:43 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -256,34 +250,14 @@
       "ts": "Fri, 24 Jul 2026 06:24:19 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Rheinmetall-Pulverfabrik: Grundsteinlegung in Aschau am Inn",
-      "url": "https://esut.de/2026/07/meldungen/73075/rheinmetall-pulverfabrik-grundsteinlegung-in-aschau-am-inn/",
-      "engagement": 0,
-      "ts": "Fri, 24 Jul 2026 06:17:20 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Raumfahrt-Start-up: Wie Isar Aerospace den Gründergeist beflügelt",
-      "url": "https://esut.de/2026/07/fachbeitraege/73010/raumfahrt-start-up-wie-isar-aerospace-den-gruendergeist-befluegelt/",
-      "engagement": 0,
-      "ts": "Thu, 23 Jul 2026 08:39:53 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Heute im Fokus: Die Bundeswehr plant eine neue Alkoholpolitik, die Asylkompromisse der 1990er Jahre wieder aufgreift und Deutschland seine Einflussnahme am Panzerbauer KNDS sichert. Darüber hinaus gibt es Berichte über den Einsatz von Drohnen im Ukraine-Krieg und die Grundsteinlegung einer neuen Rheinmetall-Pulverfabrik.",
+    "summary": "Der Ukraine-Krieg und die Rolle der Drohnen im Verteidigungsministerium sind dominierende Themen, während die Bundeswehr ihre Präsenz auf dem Kontinent festigt.",
     "themes": [
       "Pistorius' Wehrdienst-Modell",
-      "Asylkompromiss der 1990er Jahre",
-      "Deutschlands Einflussnahme am KNDS"
+      "Beschaffungsverzögerung 400M-Geschütze",
+      "NATO-Territoriumsüberschreitung durch Rumänien"
     ]
   }
 }

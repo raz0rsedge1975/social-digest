@@ -1,7 +1,19 @@
 {
-  "generated": "2026-07-27T03:34:47.954Z",
-  "timestamp": "27.7.2026, 05:34:47",
+  "generated": "2026-07-28T03:34:32.179Z",
+  "timestamp": "28.7.2026, 05:34:32",
   "items": [
+    {
+      "platform": "Bluesky",
+      "author": "@umweltministerium.de",
+      "handle": "umweltministerium.de",
+      "text": "\"Die Bundeswehr unterstützt seit heute im Kampf gegen die Waldbrände in Südfrankreich. Hitze, Dürre & Waldbrände werden uns auch in Zukunft massiv fordern. Die beste Vorsorge ist & bleibt wirksamer Klimaschutz. Klimaschutz ist immer der Schutz von Menschen & ihrer Heimat.\" - Umweltminister Schneider",
+      "url": "https://bsky.app/profile/umweltministerium.de/post/3mrn6dltg522r",
+      "engagement": 63,
+      "ts": "2026-07-27T15:07:02.519Z",
+      "followers": 10847,
+      "isBot": false,
+      "sentiment": "positiv"
+    },
     {
       "platform": "Mastodon",
       "author": "@thw",
@@ -9,21 +21,21 @@
       "url": "https://social.bund.de/@thw/116958103190857711",
       "engagement": 55,
       "ts": "2026-07-21T13:03:45.741Z",
-      "followers": 6271,
+      "followers": 6270,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Bluesky",
-      "author": "@ukrainki.bsky.social",
-      "handle": "ukrainki.bsky.social",
-      "text": "www.zeit.de/politik/ausl...\nWas fordert er genau und von wem? Wer ist sein Ansprechpartner?\nEin CSU Politiker fordert Rüstungsabkommen mit der 🇺🇦 als 'Dividende'. Dh Die 🇺🇦 soll eine verbindliche Gegenleistung an die Bundeswehr 'liefern'.\nKann man das auch anders formulieren? /Ch",
-      "url": "https://bsky.app/profile/ukrainki.bsky.social/post/3mrkgxi3l2c2k",
-      "engagement": 11,
-      "ts": "2026-07-26T13:03:20.391Z",
-      "followers": 5883,
+      "author": "@profharleyquinn.bsky.social",
+      "handle": "profharleyquinn.bsky.social",
+      "text": "Auf Anfrage der französischen Behörden innerhalb des EU-Katastrophenschutzverfahrens hat die Bundeswehr umgehend geeignete Kapazitäten zur Unterstützung der Brandbekämpfung identifiziert und in Einsatzbereitschaft versetzt.\n\nAktuell sind zwei Transporthubschrauber vom Typ CH-53 aus dem ⤵️",
+      "url": "https://bsky.app/profile/profharleyquinn.bsky.social/post/3mrnqttfodk2e",
+      "engagement": 14,
+      "ts": "2026-07-27T20:38:14.686Z",
+      "followers": 9095,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
@@ -33,33 +45,21 @@
       "url": "https://bsky.app/profile/wirtschaftswoche.bsky.social/post/3mrd43ovre62c",
       "engagement": 7,
       "ts": "2026-07-23T17:00:12.188+02:00",
-      "followers": 4900,
+      "followers": 4901,
       "isBot": false,
       "sentiment": "negativ"
     },
     {
       "platform": "Bluesky",
-      "author": "@tierverliebt.bsky.social",
-      "handle": "tierverliebt.bsky.social",
-      "text": "Ich finde es immer noch ungeheuerlich,dass es nicht bereits vergangene Woche im Bundestag eine Krisensitzung gab,wo besprochen wurde, inwieweit unsere Bundeswehr und THW helfen kann.\n\nWenn es bei uns brennt, werden wir auch keine Hilfe bekommen, zu Recht",
-      "url": "https://bsky.app/profile/tierverliebt.bsky.social/post/3mrlhq7mquk2n",
-      "engagement": 4,
-      "ts": "2026-07-26T22:49:50.130Z",
-      "followers": 3345,
+      "author": "@umweltministerium.de",
+      "handle": "umweltministerium.de",
+      "text": "Mehr Details gibt’s auf den Seiten des Verteidigungsministeriums www.bmvg.de/de/presse/bu...",
+      "url": "https://bsky.app/profile/umweltministerium.de/post/3mrn6qggp622x",
+      "engagement": 6,
+      "ts": "2026-07-27T15:14:13.073Z",
+      "followers": 10847,
       "isBot": false,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@simonhammann.bsky.social",
-      "handle": "simonhammann.bsky.social",
-      "text": "Warum heißt es eigentlich Bundeswehr und nicht Weaponized Incompetence?",
-      "url": "https://bsky.app/profile/simonhammann.bsky.social/post/3mrkm2nrpqk2n",
-      "engagement": 4,
-      "ts": "2026-07-26T14:34:35.745Z",
-      "followers": 2825,
-      "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
@@ -70,19 +70,19 @@
       "ts": "2026-07-24T12:54:02.000Z",
       "followers": 92575,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Bluesky",
-      "author": "@zeit.de",
-      "handle": "zeit.de",
-      "text": "Fünf Soldaten der Bundeswehr wird vorgeworfen, bei der Evakuierung des Flughafens in Kabul gestohlen zu haben. Die Ermittlungen dauern an.",
-      "url": "https://bsky.app/profile/zeit.de/post/3mrk4hepy7m2t",
-      "engagement": 3,
-      "ts": "2026-07-26T09:13:48.000Z",
-      "followers": 51118,
+      "author": "@sanneru.bsky.social",
+      "handle": "sanneru.bsky.social",
+      "text": "About 40 Bundeswehr soldiers were sent by the German government as helpers.\nA peculiarity of this hot summer, which is rich in catastrophic superlatives, is that the largest and most dangerous fires do not rage in sparsely populated regions. \n11/",
+      "url": "https://bsky.app/profile/sanneru.bsky.social/post/3mrniktxg6s2w",
+      "engagement": 1,
+      "ts": "2026-07-27T18:10:03.344Z",
+      "followers": 8149,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Bluesky",
@@ -92,9 +92,21 @@
       "url": "https://bsky.app/profile/wirtschaftswoche.bsky.social/post/3mr5tdhyfcf2k",
       "engagement": 1,
       "ts": "2026-07-21T14:40:10.822+02:00",
-      "followers": 4900,
+      "followers": 4901,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "negativ"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@umweltministerium.de",
+      "handle": "umweltministerium.de",
+      "text": "www.bmvg.de/de/presse/bu...",
+      "url": "https://bsky.app/profile/umweltministerium.de/post/3mrn7atvjf22x",
+      "engagement": 0,
+      "ts": "2026-07-27T15:23:24.060Z",
+      "followers": 10847,
+      "isBot": false,
+      "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
@@ -105,77 +117,17 @@
       "ts": "2026-07-21T10:56:18.000Z",
       "followers": 9596,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
-      "platform": "Reddit r/bundeswehr",
-      "author": "u/Dangerous-Day-2943",
-      "text": "Umgangston in der Bundeswehr?",
-      "url": "https://www.reddit.com/r/bundeswehr/comments/1v7jign/umgangston_in_der_bundeswehr/",
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Bundeswehr schickt Hubschrauber für Löscheinsatz nach Frankreich",
+      "url": "https://augengeradeaus.net/2026/07/bundeswehr-schickt-hubschrauber-fuer-loescheinsatz-nach-frankreich/",
       "engagement": 0,
-      "ts": "2026-07-26T23:22:36+00:00",
+      "ts": "Mon, 27 Jul 2026 10:25:54 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Reddit r/bundeswehr",
-      "author": "u/Vandalo16ger",
-      "text": "Kennt jemand die Bildermappe „Der Marineoffizier“?",
-      "url": "https://www.reddit.com/r/bundeswehr/comments/1v7hcnm/kennt_jemand_die_bildermappe_der_marineoffizier/",
-      "engagement": 0,
-      "ts": "2026-07-26T21:53:33+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Reddit r/bundeswehr",
-      "author": "u/Dominic_2508",
-      "text": "Luftwaffe Bordtechniker ohne zivile Anerkennung – Übergang in die freie Wirtschaft mit BFD?",
-      "url": "https://www.reddit.com/r/bundeswehr/comments/1v7apsm/luftwaffe_bordtechniker_ohne_zivile_anerkennung/",
-      "engagement": 0,
-      "ts": "2026-07-26T17:45:21+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Reddit r/bundeswehr",
-      "author": "u/DEU_Hornblower",
-      "text": "Tja: Ermittlungen gegen Bundeswehr-Elitekämpfer wegen Diebstahls",
-      "url": "https://www.reddit.com/r/bundeswehr/comments/1v72p1u/tja_ermittlungen_gegen_bundeswehrelitekämpfer/",
-      "engagement": 0,
-      "ts": "2026-07-26T12:35:10+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Reddit r/bundeswehr",
-      "author": "u/kvrlaa",
-      "text": "Stipendium für technische Studiengänge | Erfahrungen?",
-      "url": "https://www.reddit.com/r/bundeswehr/comments/1v6x5ne/stipendium_für_technische_studiengänge_erfahrungen/",
-      "engagement": 0,
-      "ts": "2026-07-26T07:42:48+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "YouTube (Bundeswehr)",
-      "author": "Bundeswehr",
-      "text": "🇱🇹 Brigade Litauen: Das Leben hinter der Großübung Freedom Shield – Folge 4",
-      "url": "https://www.youtube.com/watch?v=5NtL5UmYWyo",
-      "engagement": 0,
-      "ts": "2026-07-23T14:21:29+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "YouTube (Bundeswehr)",
-      "author": "Bundeswehr",
-      "text": "Kaserne von innen: Die Stube I Bundeswehr",
-      "url": "https://www.youtube.com/watch?v=rs0vLI5ZB58",
-      "engagement": 0,
-      "ts": "2026-07-21T14:30:11+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Augen geradeaus!",
@@ -185,7 +137,7 @@
       "engagement": 0,
       "ts": "Sun, 26 Jul 2026 09:33:23 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "negativ"
     },
     {
       "platform": "Augen geradeaus!",
@@ -195,7 +147,7 @@
       "engagement": 0,
       "ts": "Sat, 25 Jul 2026 08:06:59 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Augen geradeaus!",
@@ -205,7 +157,7 @@
       "engagement": 0,
       "ts": "Fri, 24 Jul 2026 19:54:20 +0000",
       "alwaysKeep": true,
-      "sentiment": "negativ"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Augen geradeaus!",
@@ -225,7 +177,7 @@
       "engagement": 0,
       "ts": "Fri, 24 Jul 2026 11:03:15 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -235,7 +187,7 @@
       "engagement": 0,
       "ts": "Thu, 23 Jul 2026 18:51:04 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -245,7 +197,7 @@
       "engagement": 0,
       "ts": "Thu, 23 Jul 2026 05:21:22 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -268,12 +220,42 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "Bundeswehr Journal",
-      "author": "Bundeswehr Journal",
-      "text": "Hensoldt tritt dem Industrieteam „MQ-28 Ghost Bat“ bei",
-      "url": "https://www.bundeswehr-journal.de/2026/hensoldt-tritt-dem-industrieteam-mq-28-ghost-bat-bei/",
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Damen modernisiert vier Schiffe der Royal Bahamas Defence Force",
+      "url": "https://esut.de/2026/07/meldungen/73131/damen-modernisiert-vier-schiffe-der-royal-bahamas-defence-force/",
       "engagement": 0,
-      "ts": "Mon, 20 Jul 2026 16:45:03 +0000",
+      "ts": "Mon, 27 Jul 2026 13:22:26 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Klasse F 126: Die Fregatte, die nie schwamm",
+      "url": "https://esut.de/2026/07/fachbeitraege/72994/f-126-fregatte-deutsche-marine/",
+      "engagement": 0,
+      "ts": "Mon, 27 Jul 2026 10:00:55 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Deep Precision Strike Waffen – Was sie leisten sollen und was sie leisten können",
+      "url": "https://esut.de/2026/07/fachbeitraege/69300/deep-precision-strike-waffen-was-sie-leisten-sollen-und-was-sie-leisten-koennen/",
+      "engagement": 0,
+      "ts": "Mon, 27 Jul 2026 09:52:08 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "INS Drakon an Israel übergeben",
+      "url": "https://esut.de/2026/07/meldungen/73104/ins-drakon-an-israel-uebergeben/",
+      "engagement": 0,
+      "ts": "Mon, 27 Jul 2026 08:49:48 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -296,54 +278,14 @@
       "ts": "Sat, 25 Jul 2026 12:41:43 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "9.500 Shpak-FPV-Drohnen an die Ukraine ausgeliefert",
-      "url": "https://esut.de/2026/07/fachbeitraege/72118/hilfe-fuer-die-ukraine-9-500-shpak-fpv-drohnen/",
-      "engagement": 0,
-      "ts": "Fri, 24 Jul 2026 13:00:56 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Eröffnung des neuen Hensoldt-Campus in Oberkochen",
-      "url": "https://esut.de/2026/07/meldungen/73089/eroeffnung-des-neuen-hensoldt-campus-in-oberkochen/",
-      "engagement": 0,
-      "ts": "Fri, 24 Jul 2026 09:56:02 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Farnborough Airshow 2026: Britisches Collaborative Combat Aircraft (CCA) vorgestellt",
-      "url": "https://esut.de/2026/07/meldungen/73085/farnborough-airshow-2026-britisches-collaborative-combat-aircraft-cca-vorgestellt/",
-      "engagement": 0,
-      "ts": "Fri, 24 Jul 2026 09:47:29 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Allison Transmission liefert Vollautomatikgetriebe für Bundeswehr Eagle",
-      "url": "https://esut.de/2026/07/meldungen/73080/allison-transmission-liefert-vollautomatikgetriebe-fuer-bis-zu-5-000-eagle-der-bundeswehr/",
-      "engagement": 0,
-      "ts": "Fri, 24 Jul 2026 06:24:19 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Der Ukraine-Krieg und die Rolle der Drohnen im Verteidigungskontext sind wieder zentral, während die Bundeswehr über weitere Skandale und Verzögerungen in der Beschaffung und den Umgang mit Soldaten diskutiert wird.",
+    "summary": "Die Bundeswehr ist im Einsatz in Südfrankreich und unterstützt die französische Behörde bei der Bekämpfung von Waldbränden. Darüber hinaus gibt es Berichte über Drohnen-Abschüsse über Rumänien und eine neue Kommandeurin für US-Landstreikräfte in Europa.",
     "themes": [
       "Pistorius' Wehrdienst-Modell",
-      "Beschaffungsverzögerung KNDS",
-      "Ukraine-Krieg und Drohnen"
+      "Drohnen-Abschüsse über Rumänien",
+      "Neuer Kommandeur für US-Landstreikräfte in Europa"
     ]
   }
 }

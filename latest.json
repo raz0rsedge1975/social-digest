@@ -1,16 +1,76 @@
 {
-  "generated": "2026-07-30T03:33:47.945Z",
-  "timestamp": "30.7.2026, 05:33:47",
+  "generated": "2026-07-31T03:34:35.644Z",
+  "timestamp": "31.7.2026, 05:34:35",
   "items": [
     {
       "platform": "Bluesky",
-      "author": "@wirtschaftswoche.bsky.social",
-      "handle": "wirtschaftswoche.bsky.social",
-      "text": "Der Ukraine-Krieg zeigt die Bedeutung von Drohnen. Verteidigungsminister Pistorius sieht Deutschland bei dem Thema in Europa an der Spitze.",
-      "url": "https://bsky.app/profile/wirtschaftswoche.bsky.social/post/3mrd43ovre62c",
-      "engagement": 7,
-      "ts": "2026-07-23T17:00:12.188+02:00",
-      "followers": 4907,
+      "author": "@omasgegenrechtsle.bsky.social",
+      "handle": "omasgegenrechtsle.bsky.social",
+      "text": "Möglicher Sturz von Bundeskanzler Merz? Auch innerhalb der Bundeswehr wächst die Kritik an seiner Politik\n\nDie Kritik an Bundeskanzler Friedrich Merz wächst. Nicht nur Teile der Bevölkerung und Mitglieder der CDU äußern zunehmend Zweifel an seiner Politik – auch aus Reihen der\n1/",
+      "url": "https://bsky.app/profile/omasgegenrechtsle.bsky.social/post/3mrukluueck2n",
+      "engagement": 61,
+      "ts": "2026-07-30T13:35:03.498Z",
+      "followers": 9512,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@seltsames.bsky.social",
+      "handle": "seltsames.bsky.social",
+      "text": "Kumpel gerade: \"Alter, auf Inster, schon gesehen!? Selbst bei der #Bundeswehr labern sie heute alte linke Zeckenscheisse gegen #Merz!\"\n\n\"Hasi, früher nannten wir das #Grundgesetz!\"",
+      "url": "https://bsky.app/profile/seltsames.bsky.social/post/3mrut57yex22b",
+      "engagement": 32,
+      "ts": "2026-07-30T16:07:55.524Z",
+      "followers": 2801,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@omasgegenrechtsle.bsky.social",
+      "handle": "omasgegenrechtsle.bsky.social",
+      "text": "sicherheitspolitische Debatte derzeit geführt wird. Gleichzeitig werfen sie die Frage auf, ob die wachsende Kritik an Merz – sowohl innerhalb seiner Partei als auch in Teilen der Bevölkerung – politische Konsequenzen für seine Kanzlerschaft haben könnte\n\n#bundeswehr #merz\n4/Ende",
+      "url": "https://bsky.app/profile/omasgegenrechtsle.bsky.social/post/3mrukmr6ldc2n",
+      "engagement": 22,
+      "ts": "2026-07-30T13:35:33.194Z",
+      "followers": 9512,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@omasgegenrechtsle.bsky.social",
+      "handle": "omasgegenrechtsle.bsky.social",
+      "text": "Bundeswehr werden kritische Stimmen laut.\n\nBesonders für Diskussion sorgt eine Aussage, in der Merz vorgeworfen wird, Verstöße gegen das Völkerrecht zu relativieren, wenn es politisch opportun erscheint. In diesem Zusammenhang erklärte Navid Kermani RekrutInnen der Bundeswehr,\n2/",
+      "url": "https://bsky.app/profile/omasgegenrechtsle.bsky.social/post/3mrukma3hjc2n",
+      "engagement": 18,
+      "ts": "2026-07-30T13:35:15.266Z",
+      "followers": 9512,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@loyalmagazin.bsky.social",
+      "handle": "loyalmagazin.bsky.social",
+      "text": "7/7 Heute erhebt sie ihre Stimme: als\nVorständin bei Terre des Femmes klärt sie über #Genitalverstümmelung und #Zwangsehen auf, schreibt Bücher, promoviert und ist Mutter. „Ich will nie wieder stumm sein.\" Dass sie ihren Weg gefunden hat, verdankt sie auch der Bundeswehr, sagt sie.",
+      "url": "https://bsky.app/profile/loyalmagazin.bsky.social/post/3mrueegdxwf2o",
+      "engagement": 10,
+      "ts": "2026-07-30T11:43:27.138Z",
+      "followers": 812,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@loyalmagazin.bsky.social",
+      "handle": "loyalmagazin.bsky.social",
+      "text": "4/7 zur #Erzieherin und bricht den Kontakt zur Familie ab – ein großer Schritt in einer Kultur, in der Familie alles ist. 2012 geht sie zur #Bundeswehr. „Ich wollte mich für Frieden und Freiheit einsetzen.\" Ausgerechnet die Grundausbildung empfindet sie als „geradezu angenehm\" – verglichen mit ihrer",
+      "url": "https://bsky.app/profile/loyalmagazin.bsky.social/post/3mrueegdwx32o",
+      "engagement": 8,
+      "ts": "2026-07-30T11:43:27.135Z",
+      "followers": 812,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -32,6 +92,46 @@
       "url": "https://www.reddit.com/r/de/comments/1v9u1uu/bundeswehr_will_waffensysteme_mit_ki_aufrüsten/",
       "engagement": 0,
       "ts": "2026-07-29T11:56:13+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "YouTube (Bundeswehr)",
+      "author": "Bundeswehr",
+      "text": "#shorts: Unterstützung im Kampf gegen Brände in Frankreich - Tag 2 | Bundeswehr",
+      "url": "https://www.youtube.com/shorts/KCrfN9yMYmY",
+      "engagement": 0,
+      "ts": "2026-07-30T14:59:46+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "YouTube (Bundeswehr)",
+      "author": "Bundeswehr",
+      "text": "#shorts: Unterstützung im Kampf gegen Brände in Frankreich | Bundeswehr",
+      "url": "https://www.youtube.com/shorts/azy0fO-Gg9k",
+      "engagement": 0,
+      "ts": "2026-07-29T10:44:30+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "YouTube (Bundeswehr)",
+      "author": "Bundeswehr",
+      "text": "Pistole P12: Die lautlose Waffe der Fernspäher | Bundeswehr",
+      "url": "https://www.youtube.com/watch?v=8cbW6yP92nA",
+      "engagement": 0,
+      "ts": "2026-07-28T15:02:31+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "SommerpausenSammler: Patriot-Mangel, Einschlag in Polen, Plan gegen befürchtete AfD-Blockade",
+      "url": "https://augengeradeaus.net/2026/07/sommerpausensammler-patriot-mangel-einschlag-in-polen-plan-gegen-befuerchtete-afd-blockade/",
+      "engagement": 0,
+      "ts": "Thu, 30 Jul 2026 19:17:20 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -96,32 +196,52 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Vorerst kein Einsatz vor Iran: Fulda und Mosel zurück ins Mittelmeer",
-      "url": "https://augengeradeaus.net/2026/07/vorerst-kein-einsatz-vor-iran-fulda-und-mosel-zurueck-ins-mittelmeer/",
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "VINCORION meldet Aufträge im Wert von mehr als 100 Millionen Euro",
+      "url": "https://esut.de/2026/07/meldungen/73223/vincorion-meldet-auftraege-im-wert-von-mehr-als-100-millionen-euro/",
       "engagement": 0,
-      "ts": "Thu, 23 Jul 2026 18:51:04 +0000",
+      "ts": "Thu, 30 Jul 2026 13:51:00 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Kommentarpause und ein bisschen Sommerpause",
-      "url": "https://augengeradeaus.net/2026/07/kommentarpause-und-ein-bisschen-sommerpause/",
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "CSG führt Plattform für digitales Luftraummanagement ein",
+      "url": "https://esut.de/2026/07/meldungen/73219/csg-fuehrt-plattform-fuer-digitales-luftraummanagement-ein/",
       "engagement": 0,
-      "ts": "Thu, 23 Jul 2026 05:21:22 +0000",
+      "ts": "Thu, 30 Jul 2026 13:45:10 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
-      "platform": "Bundeswehr Journal",
-      "author": "Bundeswehr Journal",
-      "text": "Grundsteinlegung für Rheinmetall-Pulverfabrik in Aschau",
-      "url": "https://www.bundeswehr-journal.de/2026/grundsteinlegung-fuer-rheinmetall-pulverfabrik-in-aschau/",
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Deutsche Eurofighter über Australien",
+      "url": "https://esut.de/2026/07/meldungen/73214/deutsche-eurofighter-ueber-australien/",
       "engagement": 0,
-      "ts": "Thu, 23 Jul 2026 21:16:54 +0000",
+      "ts": "Thu, 30 Jul 2026 07:38:30 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Agon erhält 30 Millionen US-Dollar für militärische KI-Plattform",
+      "url": "https://esut.de/2026/07/meldungen/73209/agon-erhaelt-30-millionen-us-dollar-fuer-militaerische-ki-trainingsplattform/",
+      "engagement": 0,
+      "ts": "Thu, 30 Jul 2026 07:28:32 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Ralph Petersen übernimmt Geschäftsführung von CustomCells",
+      "url": "https://esut.de/2026/07/meldungen/73205/ralph-petersen-uebernimmt-geschaeftsfuehrung-von-customcells/",
+      "engagement": 0,
+      "ts": "Thu, 30 Jul 2026 06:56:08 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -136,62 +256,22 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "60 Jahre MTG Marinetechnik: Unabhängige Beratung für die Marine",
-      "url": "https://esut.de/2026/07/meldungen/73178/60-jahre-mtg-marinetechnik-unabhaengige-beratung-fuer-die-marine/",
+      "platform": "Welt Topnews",
+      "author": "Welt Topnews",
+      "text": "Hilfe im Wahlkampf – Schulze lässt Hallervorden über Merz und „Kriegsminister“ Pistorius singen",
+      "url": "https://www.welt.de/politik/deutschland/article6a6c0756dd06dd5ef2e40023/sachsen-anhalt-schulze-laesst-hallervorden-ueber-merz-und-kriegsminister-pistorius-singen.html",
       "engagement": 0,
-      "ts": "Wed, 29 Jul 2026 12:43:41 +0000",
+      "ts": "Fri, 31 Jul 2026 03:20:46 GMT",
       "alwaysKeep": true,
       "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "„Grand Quadriga 2026“: So übt Deutschland die Verlegung der Allied Reaction Force",
-      "url": "https://esut.de/2026/07/fachbeitraege/72098/grand-quadriga-2026-deutschland-verlegung-allied-reaction-force/",
-      "engagement": 0,
-      "ts": "Wed, 29 Jul 2026 09:51:26 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Eviden und Thales stärken satellitengestützte Navigation der französischen Streitkräfte",
-      "url": "https://esut.de/2026/07/meldungen/73151/eviden-und-thales-staerken-satellitengestuetzte-navigation-der-franzoesischen-streitkraefte/",
-      "engagement": 0,
-      "ts": "Wed, 29 Jul 2026 08:55:47 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "THEON baut KI- und Drohnengeschäft aus",
-      "url": "https://esut.de/2026/07/meldungen/73149/theon-baut-ki-und-drohnengeschaeft-aus/",
-      "engagement": 0,
-      "ts": "Wed, 29 Jul 2026 08:11:36 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Hightech für Europas Verteidigung: Entwicklung unter Zeitdruck",
-      "url": "https://esut.de/2026/07/meldungen/73144/hightech-fuer-europas-verteidigung-entwicklung-unter-zeitdruck/",
-      "engagement": 0,
-      "ts": "Wed, 29 Jul 2026 07:54:50 +0000",
-      "alwaysKeep": true,
-      "sentiment": "kritisch"
     }
   ],
   "analysis": {
-    "summary": "Der Ukraine-Krieg und die Bedeutung von Drohnen sind im Fokus, während die Bundeswehr verschiedene Maßnahmen und Entwicklungen vorantreibt.",
+    "summary": "Heute diskutiert der Bundeswehr-Diskurs um die Kritik an Bundeskanzler Merzes Politik, die auch innerhalb der Bundeswehr wachsende Kritik auslöst. Darüber hinaus werden Themen wie die Sicherheitspolitik, die Rolle von Frauen in der Bundeswehr und die Beschaffungsverzögerung im Zusammenhang mit Waffensystemen mit KI im Fokus.",
     "themes": [
-      "Pistorius' Wehrdienst-Modell",
-      "Drohnenkrieg in Rumänien",
-      "Bundeswehr-Entwicklung: Hubschrauber für Löscheinsatz und neue Kommandeur für US-Landstreikräfte"
+      "Kritik an Merzes Politik",
+      "Sicherheitspolitik und -debatte",
+      "Beschaffungsverzögerung Waffensysteme mit KI"
     ]
   }
 }

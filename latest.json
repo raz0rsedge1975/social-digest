@@ -1,30 +1,30 @@
 {
-  "generated": "2026-08-04T03:33:39.501Z",
-  "timestamp": "4.8.2026, 05:33:39",
+  "generated": "2026-08-05T03:33:49.443Z",
+  "timestamp": "5.8.2026, 05:33:49",
   "items": [
     {
       "platform": "Bluesky",
-      "author": "@bjoernm.bsky.social",
-      "handle": "bjoernm.bsky.social",
-      "text": "👉 Selten forsche Vorankündigung für deutsche Verhältnisse: „Das zukünftige European Space Component Command, eingebettet in das #Weltraumkommando der Bundeswehr, ist offen für polnische Beteiligung (…)“\n3/3",
-      "url": "https://bsky.app/profile/bjoernm.bsky.social/post/3ms7b3bi7u22n",
-      "engagement": 5,
-      "ts": "2026-08-03T19:43:57.287Z",
-      "followers": 2861,
+      "author": "@midgard.bsky.social",
+      "handle": "midgard.bsky.social",
+      "text": "Übrigens wird auf der gamescom die Halle für Ausbildung dieses Jahr so gut wie komplett von Bundeswehr, Thyssenkrupp und Rheinmetall bespielt. 🫠🫠🫠",
+      "url": "https://bsky.app/profile/midgard.bsky.social/post/3msbntedzec2h",
+      "engagement": 2,
+      "ts": "2026-08-04T18:37:32.445Z",
+      "followers": 292,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Bluesky",
-      "author": "@gruftelguste.bsky.social",
-      "handle": "gruftelguste.bsky.social",
-      "text": "Bundeswehr-Redner WARNT Soldaten Vor AfD-Regierung Und KRITISIERT Merz!\n\nwww.youtube.com/watch?v=R2Yu...",
-      "url": "https://bsky.app/profile/gruftelguste.bsky.social/post/3ms727po4ck2b",
-      "engagement": 3,
-      "ts": "2026-08-03T17:41:12.650Z",
-      "followers": 18036,
+      "author": "@cwmo.bsky.social",
+      "handle": "cwmo.bsky.social",
+      "text": "Sondervermögen? Wir reden hier von einem Kernhaushalt von 109 Milliarden im EP 14 für 2027. Auch vor der Zeitenwende waren es im Jahr 50 Milliarden. Wie viel Geld braucht es noch, um das organisatorische Chaos der Bundeswehr auszugleichen?",
+      "url": "https://bsky.app/profile/cwmo.bsky.social/post/3msahwu55gs2k",
+      "engagement": 1,
+      "ts": "2026-08-04T07:19:27.472Z",
+      "followers": 4200,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -35,7 +35,7 @@
       "ts": "2026-08-03T16:26:02.000Z",
       "followers": 92777,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "negativ"
     },
     {
       "platform": "Reddit r/de",
@@ -45,35 +45,65 @@
       "engagement": 0,
       "ts": "2026-07-29T11:56:13+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
-      "platform": "Reddit r/bundeswehr",
-      "author": "u/sh1bumi",
-      "text": "Frage zu Palästina Bundeswehr Patch",
-      "url": "https://www.reddit.com/r/bundeswehr/comments/1veda6y/frage_zu_palästina_bundeswehr_patch/",
+      "platform": "YouTube (Bundeswehr)",
+      "author": "Bundeswehr",
+      "text": "Nicht nur Marschmusik: Die Big Band der Bundeswehr spielt „My Way“ | Bundeswehr",
+      "url": "https://www.youtube.com/watch?v=ehPXzL9tNB8",
       "engagement": 0,
-      "ts": "2026-08-03T13:21:36+00:00",
+      "ts": "2026-08-04T13:32:48+00:00",
+      "alwaysKeep": true,
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "YouTube (Bundeswehr)",
+      "author": "Bundeswehr",
+      "text": "Materiallager Zeithain: Geprüft für die Truppe | Bundeswehr",
+      "url": "https://www.youtube.com/watch?v=0nzkipFJXq4",
+      "engagement": 0,
+      "ts": "2026-07-31T10:36:08+00:00",
+      "alwaysKeep": true,
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "YouTube (Bundeswehr)",
+      "author": "Bundeswehr",
+      "text": "#shorts: Als Bordtechniker beim Kampf gegen Brände in Frankreich | Bundeswehr",
+      "url": "https://www.youtube.com/shorts/iCcq6GiIx88",
+      "engagement": 0,
+      "ts": "2026-07-31T07:55:04+00:00",
+      "alwaysKeep": true,
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "YouTube (Bundeswehr)",
+      "author": "Bundeswehr",
+      "text": "#shorts: Unterstützung im Kampf gegen Brände in Frankreich - Tag 2 | Bundeswehr",
+      "url": "https://www.youtube.com/shorts/KCrfN9yMYmY",
+      "engagement": 0,
+      "ts": "2026-07-30T14:59:46+00:00",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
-      "platform": "Reddit r/bundeswehr",
-      "author": "u/Top_Hamster1843",
-      "text": "Bedeutung Studium allgemein und für BS im Speziellen",
-      "url": "https://www.reddit.com/r/bundeswehr/comments/1vdw42x/bedeutung_studium_allgemein_und_für_bs_im/",
+      "platform": "YouTube (Bundeswehr)",
+      "author": "Bundeswehr",
+      "text": "#shorts: Unterstützung im Kampf gegen Brände in Frankreich | Bundeswehr",
+      "url": "https://www.youtube.com/shorts/azy0fO-Gg9k",
       "engagement": 0,
-      "ts": "2026-08-02T22:51:45+00:00",
+      "ts": "2026-07-29T10:44:30+00:00",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
-      "platform": "Reddit r/bundeswehr",
-      "author": "u/DEU_Hornblower",
-      "text": "Randnotiz: Bundeswehr-Fahrlehrer verliert dienstliche Fahrlehrerlaubnis wegen Reichsbürger-Äußerungen",
-      "url": "https://www.reddit.com/r/bundeswehr/comments/1vdqkhz/randnotiz_bundeswehrfahrlehrer_verliert/",
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Jetzt richtig Urlaub.",
+      "url": "https://augengeradeaus.net/2026/08/jetzt-richtig-urlaub/",
       "engagement": 0,
-      "ts": "2026-08-02T19:07:27+00:00",
+      "ts": "Tue, 04 Aug 2026 05:00:21 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -100,90 +130,70 @@
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "USA setzen auf Drohnen aus der Ukraine",
-      "url": "https://esut.de/2026/08/fachbeitraege/73281/usa-setzen-auf-drohnen-ukraine/",
+      "text": "GMF 140: Gegenentwurf zur F127 oder strategisches Signal?",
+      "url": "https://esut.de/2026/08/meldungen/73301/gmf-140-gegenentwurf-zur-f127-oder-strategisches-signal/",
       "engagement": 0,
-      "ts": "Mon, 03 Aug 2026 16:13:25 +0000",
+      "ts": "Tue, 04 Aug 2026 21:00:44 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "F126: Das Ende eines Milliardenprojekts",
-      "url": "https://esut.de/2026/08/fachbeitraege/72996/f126-das-ende-eines-milliardenprojekts/",
+      "text": "750 neue Mannschaftlastwagen für das THW",
+      "url": "https://esut.de/2026/08/meldungen/73326/750-neue-mannschaftlastwagen-fuer-das-thw/",
       "engagement": 0,
-      "ts": "Mon, 03 Aug 2026 09:06:43 +0000",
+      "ts": "Tue, 04 Aug 2026 21:00:08 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Wie es nach der F126 weitergehen soll",
-      "url": "https://esut.de/2026/08/fachbeitraege/72998/wie-es-nach-der-f126-weitergehen-soll/",
+      "text": "Türkei rüstet auf: Neue Raketen sorgen für Unruhe",
+      "url": "https://esut.de/2026/08/fachbeitraege/73334/tuerkei-ruestet-neue-raketen/",
       "engagement": 0,
-      "ts": "Mon, 03 Aug 2026 09:05:51 +0000",
+      "ts": "Tue, 04 Aug 2026 15:49:55 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Rheinmetall stellt neue Fregatte GMF140 vor",
-      "url": "https://esut.de/2026/08/meldungen/73276/rheinmetall-stellt-neue-fregatte-gmf140-vor/",
+      "text": "Leopard 2-Montage- und Wartungszentrum in Litauen",
+      "url": "https://esut.de/2026/08/meldungen/73320/leopard-2-zentrum-in-litauen/",
       "engagement": 0,
-      "ts": "Mon, 03 Aug 2026 09:04:56 +0000",
+      "ts": "Tue, 04 Aug 2026 13:48:26 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Beleuchtung für militärische Infrastruktur",
-      "url": "https://esut.de/2026/08/meldungen/73252/beleuchtung-fuer-militaerische-infrastruktur/",
+      "text": "250 Jahre USA – Von der Unabhängigkeitserklärung zur globalen Führungsmacht",
+      "url": "https://esut.de/2026/08/fachbeitraege/72114/250-jahre-usa-von-der-unabhaengigkeitserklaerung-zur-globalen-fuehrungsmacht/",
       "engagement": 0,
-      "ts": "Sat, 01 Aug 2026 08:19:44 +0000",
+      "ts": "Tue, 04 Aug 2026 12:42:28 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Drohnenkäfig für die Universität der Bundeswehr München",
-      "url": "https://esut.de/2026/08/meldungen/73249/drohnenkaefig-fuer-die-universitaet-der-bundeswehr-muenchen/",
+      "text": "Neues Hensoldt-Entwicklungszentrum in Leinfelden",
+      "url": "https://esut.de/2026/08/meldungen/73305/hensoldt-entwicklung-leinfelden/",
       "engagement": 0,
-      "ts": "Sat, 01 Aug 2026 08:03:44 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Tagesschau Alle Meldungen",
-      "author": "Tagesschau Alle Meldungen",
-      "text": "Medienbericht: Bundesregierung erarbeitet Pläne für Zivildienst",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/zivildienst-112.html",
-      "engagement": 0,
-      "ts": "Tue, 04 Aug 2026 04:59:49 +0200",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Tagesschau Alle Meldungen",
-      "author": "Tagesschau Alle Meldungen",
-      "text": "Elf statt vier Monate: In Dänemark startet verlängerte Wehrpflicht",
-      "url": "https://www.tagesschau.de/ausland/europa/daenemark-wehrdienst-100.html",
-      "engagement": 0,
-      "ts": "Mon, 03 Aug 2026 18:25:40 +0200",
+      "ts": "Tue, 04 Aug 2026 12:30:54 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Der Diskurs des Tages dominiert durch die Debatte um die Zukunft der Bundeswehr, insbesondere im Hinblick auf die European Space Component Command und die mögliche Verlängerung der Wehrpflicht in Dänemark. Darüber hinaus wird das Thema der AfD-Faschismus-Vorwürfe weiter diskutiert.",
+    "summary": "Die Bundeswehr präpariert sich auf die gamescom und den neuen Kernhaushalt, während Themen wie Wehrpflicht, Waffensysteme und Materiallager im Fokus stehen.",
     "themes": [
-      "European Space Component Command",
+      "Bundeswehr bei der gamescom",
       "Wehrpflicht in Dänemark",
-      "AfD-Faschismus-Vorwürfe"
+      "KI-aufgerüstete Waffensysteme"
     ]
   }
 }

@@ -1,28 +1,52 @@
 {
-  "generated": "2026-08-05T03:33:49.443Z",
-  "timestamp": "5.8.2026, 05:33:49",
+  "generated": "2026-08-06T03:34:28.519Z",
+  "timestamp": "6.8.2026, 05:34:28",
   "items": [
     {
       "platform": "Bluesky",
-      "author": "@midgard.bsky.social",
-      "handle": "midgard.bsky.social",
-      "text": "Übrigens wird auf der gamescom die Halle für Ausbildung dieses Jahr so gut wie komplett von Bundeswehr, Thyssenkrupp und Rheinmetall bespielt. 🫠🫠🫠",
-      "url": "https://bsky.app/profile/midgard.bsky.social/post/3msbntedzec2h",
-      "engagement": 2,
-      "ts": "2026-08-04T18:37:32.445Z",
-      "followers": 292,
+      "author": "@ahaachja.bsky.social",
+      "handle": "ahaachja.bsky.social",
+      "text": "#MerzKannEsNicht! #ReicheAuchNicht! #MerzMussWeg! \n   🤬 #SpahnMussWeg! 🤬 \n\n#Bauern, #Landwirte, #Forst #THW #Bundeswehr, \n( #SPD Helmut #Schmidt ), alles, was gerade schweres Gerät \nzu Hause stehen hat ... #NOTSTAND, möchten bitte \nhelfen, beim AUSBUDDELN!! \n\n- NUR KEINE #CYBERTRUCKS - \n\n5/",
+      "url": "https://bsky.app/profile/ahaachja.bsky.social/post/3msdwkhq2522u",
+      "engagement": 4,
+      "ts": "2026-08-05T16:18:57.145Z",
+      "followers": 12566,
+      "isBot": false,
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@ahaachja.bsky.social",
+      "handle": "ahaachja.bsky.social",
+      "text": "@gruene-bundestag.de bundestag.de @silviamarton.tooting.ch.ap.brid.gy \n@gruene.at , @vonderleyen.ec.europa.eu #MerzKannEsNicht!\n#ReicheAuchNicht! #MerzMussWeg! #Bauern, #Landwirte, #Forst #THW #Bundeswehr, ( #SPD Helmut #Schmidt) \n 🇩🇪 #BW 🇩🇪 f. #Equipment #Ortung, ... \n3/",
+      "url": "https://bsky.app/profile/ahaachja.bsky.social/post/3msdvlx2yi22u",
+      "engagement": 4,
+      "ts": "2026-08-05T16:01:53.044Z",
+      "followers": 12566,
       "isBot": false,
       "sentiment": "positiv"
     },
     {
       "platform": "Bluesky",
-      "author": "@cwmo.bsky.social",
-      "handle": "cwmo.bsky.social",
-      "text": "Sondervermögen? Wir reden hier von einem Kernhaushalt von 109 Milliarden im EP 14 für 2027. Auch vor der Zeitenwende waren es im Jahr 50 Milliarden. Wie viel Geld braucht es noch, um das organisatorische Chaos der Bundeswehr auszugleichen?",
-      "url": "https://bsky.app/profile/cwmo.bsky.social/post/3msahwu55gs2k",
-      "engagement": 1,
-      "ts": "2026-08-04T07:19:27.472Z",
-      "followers": 4200,
+      "author": "@matthias-warkus.de",
+      "handle": "matthias-warkus.de",
+      "text": "(Klar muss die Bundeswehr kein Produkt vermarkten. Ich erinnere mich noch, in der Schule haben wir zu Zeiten der Postprivatisierung darüber geflachst, als nächstes wäre dann die Bundeswehr dran. Deutsche Wehr AG, »Kaufen Sie die Aktie Oliv«)",
+      "url": "https://bsky.app/profile/matthias-warkus.de/post/3msduz3feg22t",
+      "engagement": 4,
+      "ts": "2026-08-05T15:51:20.049Z",
+      "followers": 2868,
+      "isBot": false,
+      "sentiment": "negativ"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@matthias-warkus.de",
+      "handle": "matthias-warkus.de",
+      "text": "Es gibt seit Jahrzehnten immer wieder Content über Rekrut*innen bei der Bundeswehr, oft eigenproduziert, aber nicht immer, ich habe da auch keinen Überblick. Persönliche Empfehlung ist das hier",
+      "url": "https://bsky.app/profile/matthias-warkus.de/post/3msdujazsqk2t",
+      "engagement": 3,
+      "ts": "2026-08-05T15:42:29.091Z",
+      "followers": 2868,
       "isBot": false,
       "sentiment": "kritisch"
     },
@@ -35,17 +59,7 @@
       "ts": "2026-08-03T16:26:02.000Z",
       "followers": 92777,
       "isBot": false,
-      "sentiment": "negativ"
-    },
-    {
-      "platform": "Reddit r/de",
-      "author": "u/EdwardDrinkerCope-",
-      "text": "Bundeswehr will Waffensysteme mit KI aufrüsten können",
-      "url": "https://www.reddit.com/r/de/comments/1v9u1uu/bundeswehr_will_waffensysteme_mit_ki_aufrüsten/",
-      "engagement": 0,
-      "ts": "2026-07-29T11:56:13+00:00",
-      "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -55,7 +69,7 @@
       "engagement": 0,
       "ts": "2026-08-04T13:32:48+00:00",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -65,7 +79,7 @@
       "engagement": 0,
       "ts": "2026-07-31T10:36:08+00:00",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -75,7 +89,7 @@
       "engagement": 0,
       "ts": "2026-07-31T07:55:04+00:00",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -84,16 +98,6 @@
       "url": "https://www.youtube.com/shorts/KCrfN9yMYmY",
       "engagement": 0,
       "ts": "2026-07-30T14:59:46+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "YouTube (Bundeswehr)",
-      "author": "Bundeswehr",
-      "text": "#shorts: Unterstützung im Kampf gegen Brände in Frankreich | Bundeswehr",
-      "url": "https://www.youtube.com/shorts/azy0fO-Gg9k",
-      "engagement": 0,
-      "ts": "2026-07-29T10:44:30+00:00",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -130,70 +134,101 @@
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "GMF 140: Gegenentwurf zur F127 oder strategisches Signal?",
-      "url": "https://esut.de/2026/08/meldungen/73301/gmf-140-gegenentwurf-zur-f127-oder-strategisches-signal/",
+      "text": "Entwicklung USV für niederländische U-Boot-Jagd-Fregatten",
+      "url": "https://esut.de/2026/08/meldungen/73387/entwicklung-usv-u-boot-jagd-nl/",
       "engagement": 0,
-      "ts": "Tue, 04 Aug 2026 21:00:44 +0000",
+      "ts": "Wed, 05 Aug 2026 20:00:44 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "750 neue Mannschaftlastwagen für das THW",
-      "url": "https://esut.de/2026/08/meldungen/73326/750-neue-mannschaftlastwagen-fuer-das-thw/",
+      "text": "Bundeswehr hat Interesse an Elbits Sigma-Artillerie",
+      "url": "https://esut.de/2026/08/meldungen/73396/bundeswehr-sigma-artillerie/",
       "engagement": 0,
-      "ts": "Tue, 04 Aug 2026 21:00:08 +0000",
+      "ts": "Wed, 05 Aug 2026 16:17:07 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Türkei rüstet auf: Neue Raketen sorgen für Unruhe",
-      "url": "https://esut.de/2026/08/fachbeitraege/73334/tuerkei-ruestet-neue-raketen/",
+      "text": "Vom Leopard 2 zum MGCS",
+      "url": "https://esut.de/2026/08/fachbeitraege/73000/vom-leopard-2-zum-mgcs-2/",
       "engagement": 0,
-      "ts": "Tue, 04 Aug 2026 15:49:55 +0000",
+      "ts": "Wed, 05 Aug 2026 11:58:00 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Leopard 2-Montage- und Wartungszentrum in Litauen",
-      "url": "https://esut.de/2026/08/meldungen/73320/leopard-2-zentrum-in-litauen/",
+      "text": "Hensoldt liefert 50 Sätze Ausrüstung für JFST abgesessen",
+      "url": "https://esut.de/2026/08/meldungen/73338/hensoldt-50-saetze-jfst-abgesessen/",
       "engagement": 0,
-      "ts": "Tue, 04 Aug 2026 13:48:26 +0000",
+      "ts": "Wed, 05 Aug 2026 11:22:25 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "250 Jahre USA – Von der Unabhängigkeitserklärung zur globalen Führungsmacht",
-      "url": "https://esut.de/2026/08/fachbeitraege/72114/250-jahre-usa-von-der-unabhaengigkeitserklaerung-zur-globalen-fuehrungsmacht/",
+      "text": "Bundeswehr bestellt 149 mobile Rettungsstationen",
+      "url": "https://esut.de/2026/08/meldungen/73345/bundeswehr-149-rettungsstationen/",
       "engagement": 0,
-      "ts": "Tue, 04 Aug 2026 12:42:28 +0000",
+      "ts": "Wed, 05 Aug 2026 10:55:52 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Neues Hensoldt-Entwicklungszentrum in Leinfelden",
-      "url": "https://esut.de/2026/08/meldungen/73305/hensoldt-entwicklung-leinfelden/",
+      "text": "Rohde & Schwarz liefert HF-Kommunikation Series4100 an Kanada",
+      "url": "https://esut.de/2026/08/meldungen/73350/rohde-schwarz-series4100-an-kanada/",
       "engagement": 0,
-      "ts": "Tue, 04 Aug 2026 12:30:54 +0000",
+      "ts": "Wed, 05 Aug 2026 10:36:42 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Tagesschau Alle Meldungen",
+      "author": "Tagesschau Alle Meldungen",
+      "text": "Sondervermögen - wo das Geld verbaut wird",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/sondervermoegen-investitionen-umsetzung-100.html",
+      "engagement": 0,
+      "ts": "Thu, 06 Aug 2026 05:04:41 +0200",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Spiegel Politik",
+      "author": "Spiegel Politik",
+      "text": "Allgemeine Wehrpflicht: So könnte ein neuer Zivildienst aussehen",
+      "url": "https://www.spiegel.de/politik/allgemeine-wehrpflicht-so-koennte-ein-neuer-zivildienst-aussehen-a-a075c048-9218-47e2-a835-4a02fce16903#ref=rss",
+      "engagement": 0,
+      "ts": "Wed, 5 Aug 2026 20:01:00 +0200",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Spiegel Politik",
+      "author": "Spiegel Politik",
+      "text": "Zivildienst: Sozialverbände stellen Forderungen für mögliche Wiedereinführung",
+      "url": "https://www.spiegel.de/politik/deutschland/zivildienst-sozialverbaende-stellen-forderungen-fuer-moegliche-wiedereinfuehrung-a-9e72abdf-a1c9-4940-ad8c-26122727c109#ref=rss",
+      "engagement": 0,
+      "ts": "Wed, 5 Aug 2026 09:31:00 +0200",
       "alwaysKeep": true,
       "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Die Bundeswehr präpariert sich auf die gamescom und den neuen Kernhaushalt, während Themen wie Wehrpflicht, Waffensysteme und Materiallager im Fokus stehen.",
+    "summary": "Der Diskurs dominiert von Kritik an der Bundeswehr und ihrer Führung, sowie von Debatten über die Wehrpflicht und die Rolle der Bundeswehr im internationalen Kontext.",
     "themes": [
-      "Bundeswehr bei der gamescom",
-      "Wehrpflicht in Dänemark",
-      "KI-aufgerüstete Waffensysteme"
+      "[Bluesky] #MerzKannEsNicht! #ReicheAuchNicht! #MerzMussWeg! • [Bluesky] (Klar muss die Bundeswehr kein Produkt vermarkten. Ich erinnere mich noch, in der Schule haben wir zu Zeiten d",
+      "[Mastodon] Elf statt vier Monate: In Dänemark startet verlängerte Wehrpflicht Angesichts des Ukraine-Kriegs und der Trump",
+      "Es gibt seit Jahrzehnten immer wieder Content über Rekrut*innen bei der Bundeswehr, oft eigenproduziert, aber • [YouTube (Bundeswehr)] #shorts: Als Bordtechniker beim Kampf gegen Brände in Frankreich | Bundeswehr",
+      "Hensoldt liefert 50 Sätze Ausrüstung für JFST abgesessen"
     ]
   }
 }

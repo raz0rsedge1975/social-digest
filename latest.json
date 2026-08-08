@@ -1,40 +1,37 @@
 {
-  "generated": "2026-08-07T03:33:18.424Z",
-  "timestamp": "7.8.2026, 05:33:18",
+  "generated": "2026-08-08T03:33:41.024Z",
+  "timestamp": "8.8.2026, 05:33:41",
   "items": [
     {
-      "platform": "Bluesky",
-      "author": "@luftwaffe.bundeswehr.de",
-      "handle": "luftwaffe.bundeswehr.de",
-      "text": "Was macht Pitch Black 2026 so besonders? Unser neues Video nimmt zur Übung nach Australien mit. 🇦🇺\n\n👉 www.youtube.com/watch?v=qjB1...\n\n(Video: Bundeswehr)",
-      "url": "https://bsky.app/profile/luftwaffe.bundeswehr.de/post/3msgbsocq322f",
-      "engagement": 21,
-      "ts": "2026-08-06T14:45:43.124Z",
-      "followers": 3405,
+      "platform": "Mastodon",
+      "author": "@tagesschau@ard.social",
+      "text": "Verdächtiger Drohnenflug über \"Patriot-Werft\" In Mechernich befindet sich ein wichtiger Bundeswehrstandort: Dort werden \"Patriot\"-Flugabwehrsysteme repariert. Nach Informationen von WDR, NDR und SZ soll es dort in der Nacht Drohnenüberflüge über der Kaserne gegeben haben. ➡️ https://www. tagesschau.de/investigativ/dro hnenueberfluge-100.html?at_medium=mastodon&at_campaign=tagesschau.de # Drohne # ",
+      "url": "https://ard.social/@tagesschau/117054831483496735",
+      "engagement": 3,
+      "ts": "2026-08-07T15:03:02.000Z",
+      "followers": 92913,
       "isBot": false,
       "sentiment": "neutral"
     },
     {
-      "platform": "Bluesky",
-      "author": "@ahaachja.bsky.social",
-      "handle": "ahaachja.bsky.social",
-      "text": "#Klima #Hitzeschutzplan - #Ungehalten - \n\n#Klimaschutz und #Hitzeschutz \ngehören ins #GG #Grundgesetz. \n\n⚠️ 12.000 #Hitze #Tote sind zu viel! ⚠️\n\n#MerzKannEsnicht #MerzWillEsNicht #MerzMussWeg\n#Pistorius soll die Millionen Kilometer #Drainage von der #Bundeswehr ausbuddeln lassen! Bester Plan. Los!!!",
-      "url": "https://bsky.app/profile/ahaachja.bsky.social/post/3msh5zc4lm22t",
-      "engagement": 1,
-      "ts": "2026-08-06T23:10:29.948Z",
-      "followers": 12633,
+      "platform": "Mastodon",
+      "author": "@ct_Magazin@social.heise.de",
+      "text": "heise+ | Wie autonome Drohnen künftig Giftdämpfe und Gefahrstoffe finden und erkennen Bei Havarien spüren Rover und Drohnen künftig Gefahrstoffe und Giftwolken auf. DLR-Forscher demonstrierten ferngesteuerte und autonome Systeme für den Einsatz. https://www. heise.de/hintergrund/Wie-auton ome-Drohnen-kuenftig-Giftdaempfe-und-Gefahrstoffe-finden-und-erkennen-11347497.html?wt_mc=sm.red.ho.mastodon.m",
+      "url": "https://social.heise.de/@ct_Magazin/117052472267363700",
+      "engagement": 3,
+      "ts": "2026-08-07T05:03:03.000Z",
+      "followers": 14435,
       "isBot": false,
       "sentiment": "neutral"
     },
     {
-      "platform": "Bluesky",
-      "author": "@miezi-katze.bsky.social",
-      "handle": "miezi-katze.bsky.social",
-      "text": "Es war doch vor einiger Zeit die Rede davon, dass auch die Polizei ausgestattet wird, weil die Bundeswehr nicht überall präsent sein kann.",
-      "url": "https://bsky.app/profile/miezi-katze.bsky.social/post/3msgrebumok2u",
-      "engagement": 1,
-      "ts": "2026-08-06T19:24:00.187Z",
-      "followers": 3359,
+      "platform": "Mastodon",
+      "author": "@heiseonline@social.heise.de",
+      "text": "Im Tiefflug übers Meer: So spüren Öljäger Umweltsünder auf Mit Radar und Kameras suchen Marineflieger täglich nach Verschmutzungen auf Nord- und Ostsee. Wie funktioniert diese Überwachung und was bewirkt sie? https://www. heise.de/hintergrund/Im-Tieffl ug-uebers-Meer-So-spueren-Oeljaeger-Umweltsuender-auf-11402653.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraege.md_beitraege&utm_source=mastodon",
+      "url": "https://social.heise.de/@heiseonline/117052629535570652",
+      "engagement": 2,
+      "ts": "2026-08-07T05:43:03.000Z",
+      "followers": 85916,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -47,6 +44,26 @@
       "ts": "2026-08-03T16:26:02.000Z",
       "followers": 92913,
       "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "YouTube (Bundeswehr)",
+      "author": "Bundeswehr",
+      "text": "Pitch Black 2026: Gemeinsam am Himmel über Down Under | Bundeswehr",
+      "url": "https://www.youtube.com/watch?v=qjB1hdWfjLw",
+      "engagement": 0,
+      "ts": "2026-08-06T14:25:14+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "YouTube (Bundeswehr)",
+      "author": "Bundeswehr",
+      "text": "Nicht nur Marschmusik: Die Big Band der Bundeswehr spielt „My Way“ | Bundeswehr",
+      "url": "https://www.youtube.com/watch?v=ehPXzL9tNB8",
+      "engagement": 0,
+      "ts": "2026-08-04T13:32:48+00:00",
+      "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
@@ -70,6 +87,66 @@
       "sentiment": "neutral"
     },
     {
+      "platform": "Bundeswehr Journal",
+      "author": "Bundeswehr Journal",
+      "text": "„JFST abgesessen“: Hensoldt mit Serienproduktion beauftragt",
+      "url": "https://www.bundeswehr-journal.de/2026/jfst-abgesessen-hensoldt-mit-serienproduktion-beauftragt/",
+      "engagement": 0,
+      "ts": "Fri, 07 Aug 2026 22:39:02 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Fahrzeugdurchleuchtungsanlagen für Israel",
+      "url": "https://esut.de/2026/08/meldungen/73515/fahrzeugdurchleuchtungsanlagen-isr/",
+      "engagement": 0,
+      "ts": "Fri, 07 Aug 2026 13:57:59 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "EMIDS: Neuer Meilenstein für europäische Militärkommunikation",
+      "url": "https://esut.de/2026/08/meldungen/73454/emids-neue-militaerkommunikation/",
+      "engagement": 0,
+      "ts": "Fri, 07 Aug 2026 11:31:37 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Airbus mit solider Geschäftsentwicklung im 1. Halbjahr 2026",
+      "url": "https://esut.de/2026/08/meldungen/73467/airbus-geschaeftsentwicklung-2026/",
+      "engagement": 0,
+      "ts": "Fri, 07 Aug 2026 10:14:27 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "ZANATTA: Zwischen Sichtbarkeit und Vorbehalt",
+      "url": "https://esut.de/2026/08/fachbeitraege/73008/zanatta-zwischen-sichtbarkeit-und-vorbehalt/",
+      "engagement": 0,
+      "ts": "Fri, 07 Aug 2026 08:42:16 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Golf, Rotmeer, Mittelmeer – Ein Krisenraum, drei Etiketten",
+      "url": "https://esut.de/2026/08/meldungen/73428/golf-rotmeer-mittelmeer-krisenraum/",
+      "engagement": 0,
+      "ts": "Fri, 07 Aug 2026 06:00:38 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
       "text": "Verwaltungseinheit Hormus? Der neue Regime-Gedanke der Meerenge",
@@ -78,64 +155,14 @@
       "ts": "Thu, 06 Aug 2026 17:00:35 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "MTU Aero Engines wächst weiter",
-      "url": "https://esut.de/2026/08/meldungen/73435/mtu-aero-engines-waechst-weiter/",
-      "engagement": 0,
-      "ts": "Thu, 06 Aug 2026 16:00:53 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Iran versteckt erste russische Su-35 in Bunkern",
-      "url": "https://esut.de/2026/08/meldungen/73449/iran-russische-su-35-bunkern/",
-      "engagement": 0,
-      "ts": "Thu, 06 Aug 2026 15:26:12 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Russische Drohnen greifen deutschen Bulker „Emil“ an",
-      "url": "https://esut.de/2026/08/meldungen/73440/russische-drohnen-greifen-deutschen-bulker-emil-an/",
-      "engagement": 0,
-      "ts": "Thu, 06 Aug 2026 13:55:59 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Rheinmetall 2026 auf starkem Wachstumskurs",
-      "url": "https://esut.de/2026/08/meldungen/73422/rheinmetall-starker-wachstumskurs/",
-      "engagement": 0,
-      "ts": "Thu, 06 Aug 2026 12:04:11 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Lehren aus dem Iran: Israel testet neue Arrow-Raketenabwehr",
-      "url": "https://esut.de/2026/08/meldungen/73413/iran-israel-neue-arrow-raketen/",
-      "engagement": 0,
-      "ts": "Thu, 06 Aug 2026 08:52:30 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Der Diskurs dominiert heute den Fokus auf die Bundeswehr und ihre Ausstattung, insbesondere im Hinblick auf Klimaschutz und Hitzeschutz. Die Debatte um die Wehrpflicht in Dänemark und die Auswirkungen des Ukraine-Kriegs auf die Bundeswehr sind ebenfalls im Mittelpunkt.",
+    "summary": "Heute im Fokus: Autonome Drohnen, Wehrpflicht und Militärtechnologie. Die Bundeswehr diskutiert über die Zukunft der autonomen Drohnen, die mögliche Verlängerung der Wehrpflicht in Dänemark und die Entwicklung neuer Militärtechnologien.",
     "themes": [
-      "Klimaschutz und Hitzeschutz in der Bundeswehr",
+      "Autonome Drohnen",
       "Wehrpflicht in Dänemark",
-      "Ukraine-Krieg und seine Auswirkungen auf die Bundeswehr"
+      "Militärtechnologie: Radar, Kameras und Big Band"
     ]
   }
 }

@@ -1,7 +1,31 @@
 {
-  "generated": "2026-08-08T03:33:41.024Z",
-  "timestamp": "8.8.2026, 05:33:41",
+  "generated": "2026-08-09T03:33:54.686Z",
+  "timestamp": "9.8.2026, 05:33:54",
   "items": [
+    {
+      "platform": "Bluesky",
+      "author": "@sarahkirchberger.bsky.social",
+      "handle": "sarahkirchberger.bsky.social",
+      "text": "‼️“Drohnen über einer Bundeswehr-Werkstatt für „Patriot“-Raketen: Am wohl einzigen Standort dieser Art in Europa kreisten in der Nacht zum Freitag 6 mal unbekannte Flugobjekte – sogar noch, als bereits die Polizei vor Ort war – und das, nur 2 Tage nach der Sprengstoff-Drohne am Leipziger Flughafen!”",
+      "url": "https://bsky.app/profile/sarahkirchberger.bsky.social/post/3mslipgw2jk2f",
+      "engagement": 44,
+      "ts": "2026-08-08T16:32:29.588Z",
+      "followers": 3159,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@christl.bsky.social",
+      "handle": "christl.bsky.social",
+      "text": "Währenddessen in #Mechernich, Herzstück der #Bundeswehr -Logistik #Patriots\n\n„Diese Drohnen haben eine Spannweite von rund 3,8 Metern und bis zu 400 Kilometer Reichweite. Sie können eine Geschwindigkeit von bis zu 150 km/h erreichen. Zudem können sie mehr als zehn Kilogramm Last tragen.“",
+      "url": "https://bsky.app/profile/christl.bsky.social/post/3mskt2oxbec25",
+      "engagement": 3,
+      "ts": "2026-08-08T10:05:04.798Z",
+      "followers": 2325,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
     {
       "platform": "Mastodon",
       "author": "@tagesschau@ard.social",
@@ -9,7 +33,7 @@
       "url": "https://ard.social/@tagesschau/117054831483496735",
       "engagement": 3,
       "ts": "2026-08-07T15:03:02.000Z",
-      "followers": 92913,
+      "followers": 92951,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -42,7 +66,7 @@
       "url": "https://ard.social/@tagesschau/117032508595635263",
       "engagement": 1,
       "ts": "2026-08-03T16:26:02.000Z",
-      "followers": 92913,
+      "followers": 92951,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -89,12 +113,72 @@
     {
       "platform": "Bundeswehr Journal",
       "author": "Bundeswehr Journal",
+      "text": "Architekturbüro Sauerbruch Hutton soll BMVg erweitern",
+      "url": "https://www.bundeswehr-journal.de/2026/architekturbuero-sauerbruch-hutton-soll-bmvg-erweitern/",
+      "engagement": 0,
+      "ts": "Tue, 04 Aug 2026 21:00:41 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bundeswehr Journal",
+      "author": "Bundeswehr Journal",
       "text": "„JFST abgesessen“: Hensoldt mit Serienproduktion beauftragt",
       "url": "https://www.bundeswehr-journal.de/2026/jfst-abgesessen-hensoldt-mit-serienproduktion-beauftragt/",
       "engagement": 0,
-      "ts": "Fri, 07 Aug 2026 22:39:02 +0000",
+      "ts": "Mon, 03 Aug 2026 21:30:02 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Der Irankrieg und die Straße von Hormus",
+      "url": "https://esut.de/2026/08/fachbeitraege/international-fachbeitraege/73032/irankrieg-strasse-von-hormus/",
+      "engagement": 0,
+      "ts": "Sat, 08 Aug 2026 15:00:30 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Gereon demonstriert Einsatzreife bei U.S. Army-Großübung",
+      "url": "https://esut.de/2026/08/meldungen/73492/gereon-einsatzreife-bei-us-army/",
+      "engagement": 0,
+      "ts": "Sat, 08 Aug 2026 13:00:04 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Blick nach Amerika",
+      "url": "https://esut.de/2026/08/fachbeitraege/73024/blick-nach-amerika-43/",
+      "engagement": 0,
+      "ts": "Sat, 08 Aug 2026 09:49:28 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "CSG treibt globale Expansion und Innovation voran",
+      "url": "https://esut.de/2026/08/meldungen/73525/csg-globale-expansion-innovation/",
+      "engagement": 0,
+      "ts": "Sat, 08 Aug 2026 09:00:43 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Flat-Racks mit 60-Metertonnen-Schwerlastkran",
+      "url": "https://esut.de/2026/08/meldungen/73459/60-metertonnen-schwerlastkran/",
+      "engagement": 0,
+      "ts": "Sat, 08 Aug 2026 06:00:53 +0000",
+      "alwaysKeep": true,
+      "sentiment": "positiv"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
@@ -104,65 +188,15 @@
       "engagement": 0,
       "ts": "Fri, 07 Aug 2026 13:57:59 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "EMIDS: Neuer Meilenstein für europäische Militärkommunikation",
-      "url": "https://esut.de/2026/08/meldungen/73454/emids-neue-militaerkommunikation/",
-      "engagement": 0,
-      "ts": "Fri, 07 Aug 2026 11:31:37 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Airbus mit solider Geschäftsentwicklung im 1. Halbjahr 2026",
-      "url": "https://esut.de/2026/08/meldungen/73467/airbus-geschaeftsentwicklung-2026/",
-      "engagement": 0,
-      "ts": "Fri, 07 Aug 2026 10:14:27 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "ZANATTA: Zwischen Sichtbarkeit und Vorbehalt",
-      "url": "https://esut.de/2026/08/fachbeitraege/73008/zanatta-zwischen-sichtbarkeit-und-vorbehalt/",
-      "engagement": 0,
-      "ts": "Fri, 07 Aug 2026 08:42:16 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Golf, Rotmeer, Mittelmeer – Ein Krisenraum, drei Etiketten",
-      "url": "https://esut.de/2026/08/meldungen/73428/golf-rotmeer-mittelmeer-krisenraum/",
-      "engagement": 0,
-      "ts": "Fri, 07 Aug 2026 06:00:38 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Verwaltungseinheit Hormus? Der neue Regime-Gedanke der Meerenge",
-      "url": "https://esut.de/2026/08/meldungen/73431/der-regime-gedanke-von-hormus/",
-      "engagement": 0,
-      "ts": "Thu, 06 Aug 2026 17:00:35 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     }
   ],
   "analysis": {
-    "summary": "Heute im Fokus: Autonome Drohnen, Wehrpflicht und Militärtechnologie. Die Bundeswehr diskutiert über die Zukunft der autonomen Drohnen, die mögliche Verlängerung der Wehrpflicht in Dänemark und die Entwicklung neuer Militärtechnologien.",
+    "summary": "Die Diskussion um die Bundeswehr und ihre Ausrüstung dominiert den Diskurs, wobei Drohnen und Patriot-Raketen im Fokus stehen. Auch die Wehrdienst-Modell und die Beschaffungsverzögerungen sind aktuell.",
     "themes": [
-      "Autonome Drohnen",
-      "Wehrpflicht in Dänemark",
-      "Militärtechnologie: Radar, Kameras und Big Band"
+      "Patriot-Raketen und Drohnen",
+      "Wehrdienst-Modell in Dänemark",
+      "Beschaffungsverzögerung bei der Bundeswehr"
     ]
   }
 }

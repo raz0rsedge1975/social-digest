@@ -1,28 +1,52 @@
 {
-  "generated": "2026-08-09T03:33:54.686Z",
-  "timestamp": "9.8.2026, 05:33:54",
+  "generated": "2026-08-10T03:34:30.955Z",
+  "timestamp": "10.8.2026, 05:34:30",
   "items": [
     {
       "platform": "Bluesky",
-      "author": "@sarahkirchberger.bsky.social",
-      "handle": "sarahkirchberger.bsky.social",
-      "text": "‼️“Drohnen über einer Bundeswehr-Werkstatt für „Patriot“-Raketen: Am wohl einzigen Standort dieser Art in Europa kreisten in der Nacht zum Freitag 6 mal unbekannte Flugobjekte – sogar noch, als bereits die Polizei vor Ort war – und das, nur 2 Tage nach der Sprengstoff-Drohne am Leipziger Flughafen!”",
-      "url": "https://bsky.app/profile/sarahkirchberger.bsky.social/post/3mslipgw2jk2f",
-      "engagement": 44,
-      "ts": "2026-08-08T16:32:29.588Z",
-      "followers": 3159,
+      "author": "@miezi-katze.bsky.social",
+      "handle": "miezi-katze.bsky.social",
+      "text": "Bundes- oder Landespolizei, Bundeswehr ... sie alle werden ins Spiel gebracht, aber wo bleibt deren Einsatz? Werden sie an diesen hochmodernen Abwehrwaffen trainiert oder scheitert es schon bei dem Geld, um sie anzuschaffen?\n\nInnenminister Dobrindt ereifert sich derweil daran, die Grenzen wegen\n\n/4",
+      "url": "https://bsky.app/profile/miezi-katze.bsky.social/post/3msnjr5iknl2a",
+      "engagement": 36,
+      "ts": "2026-08-09T11:56:39.970Z",
+      "followers": 3369,
+      "isBot": false,
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@bjoernm.bsky.social",
+      "handle": "bjoernm.bsky.social",
+      "text": "Das wäre auch für die #Bundeswehr überlegenswert:\n\nwww.stripes.com/branches/arm...",
+      "url": "https://bsky.app/profile/bjoernm.bsky.social/post/3mso4ns4b322g",
+      "engagement": 4,
+      "ts": "2026-08-09T17:34:48.532Z",
+      "followers": 2863,
       "isBot": false,
       "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
-      "author": "@christl.bsky.social",
-      "handle": "christl.bsky.social",
-      "text": "Währenddessen in #Mechernich, Herzstück der #Bundeswehr -Logistik #Patriots\n\n„Diese Drohnen haben eine Spannweite von rund 3,8 Metern und bis zu 400 Kilometer Reichweite. Sie können eine Geschwindigkeit von bis zu 150 km/h erreichen. Zudem können sie mehr als zehn Kilogramm Last tragen.“",
-      "url": "https://bsky.app/profile/christl.bsky.social/post/3mskt2oxbec25",
+      "author": "@ustinoff.eurosky.social",
+      "handle": "ustinoff.eurosky.social",
+      "text": "Eine ganze Reihe militärischer Systeme und Komponenten von Elbit werden in den NATO Staaten und auch in der Bundeswehr verwendet. \nDen Beschluss zu Verhandlungen mit Elbit hat der Stadtrat Sangerhausen gefasst, unterstützt vom Landkreis. BSW und Teile der Linkspartei sind dagegen.",
+      "url": "https://bsky.app/profile/ustinoff.eurosky.social/post/3msnw5c2dmk26",
+      "engagement": 4,
+      "ts": "2026-08-09T15:38:12.370Z",
+      "followers": 3312,
+      "isBot": false,
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@angiestone.graysky.social",
+      "handle": "angiestone.graysky.social",
+      "text": "Just made a compilation of some pictures out of a video of Luftwaffe called \"Airpower\". I must admit,I am in favor of support of tanks and other stuff, ugly/dirty landing and - which I absolutely love - helicopter division of Bundeswehr. \n\nwww.youtube.com/watch?v=sdNO...",
+      "url": "https://bsky.app/profile/angiestone.graysky.social/post/3msngvflofc2h",
       "engagement": 3,
-      "ts": "2026-08-08T10:05:04.798Z",
-      "followers": 2325,
+      "ts": "2026-08-09T11:05:21.494Z",
+      "followers": 6670,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -35,7 +59,7 @@
       "ts": "2026-08-07T15:03:02.000Z",
       "followers": 92951,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -46,7 +70,7 @@
       "ts": "2026-08-07T05:03:03.000Z",
       "followers": 14435,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -55,9 +79,21 @@
       "url": "https://social.heise.de/@heiseonline/117052629535570652",
       "engagement": 2,
       "ts": "2026-08-07T05:43:03.000Z",
-      "followers": 85916,
+      "followers": 85957,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@magicelectric.bsky.social",
+      "handle": "magicelectric.bsky.social",
+      "text": "Gerade gelernt, dass das lediglich ein Drohnen-Info-Zentrum ist, ein runder Tisch, wo 16 Landespolizeien, die Bundespolizei, das BKA und die Bundeswehr sich auf Stand bringen.\n\nDie entwickeln keine Technologien und schiessen auch keine Drohnen ab.",
+      "url": "https://bsky.app/profile/magicelectric.bsky.social/post/3msnm36qb6s2s",
+      "engagement": 1,
+      "ts": "2026-08-09T12:38:04.367Z",
+      "followers": 3641,
+      "isBot": false,
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -113,6 +149,16 @@
     {
       "platform": "Bundeswehr Journal",
       "author": "Bundeswehr Journal",
+      "text": "Schutz heimischer Meeressäuger bei einer Minensprengung",
+      "url": "https://www.bundeswehr-journal.de/2026/schutz-heimischer-meeressaeuger-bei-einer-minensprengung/",
+      "engagement": 0,
+      "ts": "Wed, 05 Aug 2026 21:00:19 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bundeswehr Journal",
+      "author": "Bundeswehr Journal",
       "text": "Architekturbüro Sauerbruch Hutton soll BMVg erweitern",
       "url": "https://www.bundeswehr-journal.de/2026/architekturbuero-sauerbruch-hutton-soll-bmvg-erweitern/",
       "engagement": 0,
@@ -127,6 +173,36 @@
       "url": "https://www.bundeswehr-journal.de/2026/jfst-abgesessen-hensoldt-mit-serienproduktion-beauftragt/",
       "engagement": 0,
       "ts": "Mon, 03 Aug 2026 21:30:02 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Frankreichs Nuklearschirm wird europäischer",
+      "url": "https://esut.de/2026/08/fachbeitraege/international-fachbeitraege/73028/frankreichs-nuklearschirm/",
+      "engagement": 0,
+      "ts": "Sun, 09 Aug 2026 12:40:13 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Mobile Luftraumüberwachung bei Großmanöver in Australien",
+      "url": "https://esut.de/2026/08/meldungen/73462/luftraumueberwachung-australien/",
+      "engagement": 0,
+      "ts": "Sun, 09 Aug 2026 09:00:25 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Zweistelliges Wachstum für Deutz im 1. Halbjahr",
+      "url": "https://esut.de/2026/08/meldungen/73518/wachstum-deutz-1-halbjahr/",
+      "engagement": 0,
+      "ts": "Sun, 09 Aug 2026 05:00:16 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -161,42 +237,44 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "CSG treibt globale Expansion und Innovation voran",
-      "url": "https://esut.de/2026/08/meldungen/73525/csg-globale-expansion-innovation/",
+      "platform": "Spiegel Politik",
+      "author": "Spiegel Politik",
+      "text": "Drohnen in Deutschland: Wie gut das Land gegen Attacken aus der Luft gerüstet ist",
+      "url": "https://www.spiegel.de/politik/deutschland/drohnen-in-deutschland-wie-gut-das-land-gegen-attacken-aus-der-luft-geruestet-ist-a-7db6dc14-4804-467d-9b5c-6b13903b47e1#ref=rss",
       "engagement": 0,
-      "ts": "Sat, 08 Aug 2026 09:00:43 +0000",
+      "ts": "Sun, 9 Aug 2026 18:29:00 +0200",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Flat-Racks mit 60-Metertonnen-Schwerlastkran",
-      "url": "https://esut.de/2026/08/meldungen/73459/60-metertonnen-schwerlastkran/",
+      "platform": "Spiegel Politik",
+      "author": "Spiegel Politik",
+      "text": "Mechernich: Drohnen über Bundeswehrstandort in NRW gesichtet",
+      "url": "https://www.spiegel.de/politik/deutschland/drohnen-ueber-bundeswehrstandort-in-nrw-gesichtet-a-546020f5-1828-49b9-84f6-ed3e47ee8e98#ref=rss",
       "engagement": 0,
-      "ts": "Sat, 08 Aug 2026 06:00:53 +0000",
+      "ts": "Sun, 9 Aug 2026 11:42:00 +0200",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Fahrzeugdurchleuchtungsanlagen für Israel",
-      "url": "https://esut.de/2026/08/meldungen/73515/fahrzeugdurchleuchtungsanlagen-isr/",
+      "platform": "Welt Topnews",
+      "author": "Welt Topnews",
+      "text": "Top-Ökonom wirft Verteidigungsminister Pistorius falsche Investitionen vor",
+      "url": "https://www.welt.de/politik/deutschland/article6a78fa190e3689919ec760fa/boris-pistorius-top-oekonom-wirft-verteidigungsminister-falsche-investitionen-vor.html",
       "engagement": 0,
-      "ts": "Fri, 07 Aug 2026 13:57:59 +0000",
+      "ts": "Sun, 09 Aug 2026 23:30:14 GMT",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Die Diskussion um die Bundeswehr und ihre Ausrüstung dominiert den Diskurs, wobei Drohnen und Patriot-Raketen im Fokus stehen. Auch die Wehrdienst-Modell und die Beschaffungsverzögerungen sind aktuell.",
+    "summary": "Der Diskurs des Tages dominiert durch die Debatte um die Bundeswehr und ihre Rolle in der internationalen Sicherheit, sowie durch die Diskussion über die Wehrdienst-Modell und die Beschaffungsverzögerungen innerhalb der Bundeswehr.",
     "themes": [
-      "Patriot-Raketen und Drohnen",
-      "Wehrdienst-Modell in Dänemark",
-      "Beschaffungsverzögerung bei der Bundeswehr"
+      "Patriot-Werft-Drohnen",
+      "Wehrdienst-Modell Dänemark",
+      "Beschaffungsverzögerung Elbit",
+      "NATO-Ausgaben",
+      "Deutsch-polnisches Verteidigungsabkommen"
     ]
   }
 }

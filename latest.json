@@ -1,7 +1,31 @@
 {
-  "generated": "2026-08-13T03:34:42.041Z",
-  "timestamp": "13.8.2026, 05:34:42",
+  "generated": "2026-08-14T03:35:08.331Z",
+  "timestamp": "14.8.2026, 05:35:08",
   "items": [
+    {
+      "platform": "Bluesky",
+      "author": "@wiegold.de",
+      "handle": "wiegold.de",
+      "text": "Die neuen Leitlinien der #Bundeswehr für den Einsatz von Künstlicher Intelligenz #KI #AI  gibt es jetzt auch in einer öffentlichen Fassung – nachzulesen hier:",
+      "url": "https://bsky.app/profile/wiegold.de/post/3msxuhgq76c2h",
+      "engagement": 60,
+      "ts": "2026-08-13T14:34:42.726Z",
+      "followers": 15777,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@luftwaffe.bundeswehr.de",
+      "handle": "luftwaffe.bundeswehr.de",
+      "text": "Unser A400M ist vielseitig unterwegs: \nEr transportiert Personal und Material, kann andere Luftfahrzeuge in der Luft betanken und als fliegende Intensivstation eingesetzt werden. Ein echtes Multitalent. ✈️\n\n(Video: Bundeswehr)",
+      "url": "https://bsky.app/profile/luftwaffe.bundeswehr.de/post/3msvptk26hc2x",
+      "engagement": 45,
+      "ts": "2026-08-12T18:06:40.665Z",
+      "followers": 3417,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
     {
       "platform": "Bluesky",
       "author": "@herrseidel.bsky.social",
@@ -10,21 +34,9 @@
       "url": "https://bsky.app/profile/herrseidel.bsky.social/post/3msqb6ulewk23",
       "engagement": 34,
       "ts": "2026-08-10T14:01:15.995Z",
-      "followers": 4087,
+      "followers": 4102,
       "isBot": false,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@luftwaffe.bundeswehr.de",
-      "handle": "luftwaffe.bundeswehr.de",
-      "text": "Unser A400M ist vielseitig unterwegs: \nEr transportiert Personal und Material, kann andere Luftfahrzeuge in der Luft betanken und als fliegende Intensivstation eingesetzt werden. Ein echtes Multitalent. ✈️\n\n(Video: Bundeswehr)",
-      "url": "https://bsky.app/profile/luftwaffe.bundeswehr.de/post/3msvptk26hc2x",
-      "engagement": 33,
-      "ts": "2026-08-12T18:06:40.665Z",
-      "followers": 3415,
-      "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
@@ -34,9 +46,9 @@
       "url": "https://bsky.app/profile/nmschuessler.bsky.social/post/3mspenn6m6s22",
       "engagement": 28,
       "ts": "2026-08-10T05:30:33.039Z",
-      "followers": 3127,
+      "followers": 3128,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -47,7 +59,19 @@
       "ts": "2026-08-10T08:22:02.000Z",
       "followers": 93039,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@jpschnitzler.net",
+      "handle": "jpschnitzler.net",
+      "text": "In der Ukraine bekommt man eine Ahnung wie Kriege in Zukunft geführt werden. Ich frage mich, ob das Sondervermögen für die Bundeswehr richtig investiert wird?",
+      "url": "https://bsky.app/profile/jpschnitzler.net/post/3msvz2cfwls2o",
+      "engagement": 4,
+      "ts": "2026-08-12T20:51:31.215Z",
+      "followers": 3220,
+      "isBot": false,
+      "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
@@ -57,33 +81,9 @@
       "url": "https://bsky.app/profile/alterebin.bsky.social/post/3msvlufjt6k23",
       "engagement": 4,
       "ts": "2026-08-12T16:55:34.523Z",
-      "followers": 2872,
+      "followers": 2870,
       "isBot": false,
-      "sentiment": "positiv"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@jpschnitzler.net",
-      "handle": "jpschnitzler.net",
-      "text": "In der Ukraine bekommt man eine Ahnung wie Kriege in Zukunft geführt werden. Ich frage mich, ob das Sondervermögen für die Bundeswehr richtig investiert wird?",
-      "url": "https://bsky.app/profile/jpschnitzler.net/post/3msvz2cfwls2o",
-      "engagement": 3,
-      "ts": "2026-08-12T20:51:31.215Z",
-      "followers": 3217,
-      "isBot": false,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@loyalmagazin.bsky.social",
-      "handle": "loyalmagazin.bsky.social",
-      "text": "3/9 Alexandra Dejonckheere weiß schon mit 3 Jahren, dass sie Ärztin werden will, mit 10 weiß sie, dass sie zur Bundeswehr will. Ihre erste Bewerbung dort mit 16 Jahren wird abgelehnt – sie ist noch zu jung. Ein Jahr später klappt es. Mit 18 beginnt sie ihr #Medizinstudium bei der Bundeswehr.👉",
-      "url": "https://bsky.app/profile/loyalmagazin.bsky.social/post/3msunu2j3sc2f",
-      "engagement": 3,
-      "ts": "2026-08-12T07:58:28.483Z",
-      "followers": 821,
-      "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -114,7 +114,7 @@
       "url": "https://social.heise.de/@ct_Magazin/117052472267363700",
       "engagement": 3,
       "ts": "2026-08-07T05:03:03.000Z",
-      "followers": 14462,
+      "followers": 14469,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -125,7 +125,7 @@
       "url": "https://social.heise.de/@heiseonline/117074948492612546",
       "engagement": 2,
       "ts": "2026-08-11T04:19:03.000Z",
-      "followers": 86011,
+      "followers": 86026,
       "isBot": false,
       "sentiment": "kritisch"
     },
@@ -136,7 +136,7 @@
       "url": "https://social.heise.de/@heiseonline/117072101608995634",
       "engagement": 2,
       "ts": "2026-08-10T16:15:03.000Z",
-      "followers": 86011,
+      "followers": 86026,
       "isBot": false,
       "sentiment": "negativ"
     },
@@ -147,7 +147,19 @@
       "url": "https://social.heise.de/@heiseonline/117052629535570652",
       "engagement": 2,
       "ts": "2026-08-07T05:43:03.000Z",
-      "followers": 86011,
+      "followers": 86026,
+      "isBot": false,
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@tiefenkultur.bsky.social",
+      "handle": "tiefenkultur.bsky.social",
+      "text": " 4. Militär und bewaffnete Konflikte \n\n #Bundeswehr meldet #Hunderte #mutmaßliche #Drohnenüberflüge \n\nkurz.bpb.de/19yj",
+      "url": "https://bsky.app/profile/tiefenkultur.bsky.social/post/3msxb4ynefc2i",
+      "engagement": 1,
+      "ts": "2026-08-13T08:48:33.501Z",
+      "followers": 5585,
       "isBot": false,
       "sentiment": "kritisch"
     },
@@ -159,7 +171,7 @@
       "engagement": 0,
       "ts": "2026-08-11T09:18:47+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Reddit r/de",
@@ -172,82 +184,122 @@
       "sentiment": "kritisch"
     },
     {
-      "platform": "Bundeswehr Journal",
-      "author": "Bundeswehr Journal",
-      "text": "Über das Sondervermögen für die Bundeswehr",
-      "url": "https://www.bundeswehr-journal.de/2026/ueber-das-sondervermoegen-fuer-die-bundeswehr/",
+      "platform": "YouTube (Bundeswehr)",
+      "author": "Bundeswehr",
+      "text": "Panzergrenadiere im Angriff: Häuserkampf und Kampfgraben | Bundeswehr",
+      "url": "https://www.youtube.com/watch?v=S07fabmo8zM",
       "engagement": 0,
-      "ts": "Thu, 06 Aug 2026 21:00:44 +0000",
+      "ts": "2026-08-12T15:31:36+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "YouTube (Bundeswehr)",
+      "author": "Bundeswehr",
+      "text": "#shorts: Mörserzug bei Cold Fire 2026 | Bundeswehr",
+      "url": "https://www.youtube.com/shorts/LstQZL1v6vg",
+      "engagement": 0,
+      "ts": "2026-08-12T10:02:55+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "YouTube (Bundeswehr)",
+      "author": "Bundeswehr",
+      "text": "#shorts: Panzergrenadiere bei Cold Fire 2026 | Bundeswehr",
+      "url": "https://www.youtube.com/shorts/SHcYtjXu3Lw",
+      "engagement": 0,
+      "ts": "2026-08-11T15:13:58+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Künstliche Intelligenz (KI) in der Bundeswehr: Konzeption jetzt in öffentlicher Fassung",
+      "url": "https://augengeradeaus.net/2026/08/kuenstliche-intelligenz-ki-in-der-bundeswehr-konzeption-jetzt-in-oeffentlicher-fassung/",
+      "engagement": 0,
+      "ts": "Thu, 13 Aug 2026 14:32:33 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Und schon wieder zurück…",
+      "url": "https://augengeradeaus.net/2026/08/und-schon-wieder-zurueck/",
+      "engagement": 0,
+      "ts": "Thu, 13 Aug 2026 14:31:53 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Mobilfunk statt Fernsteuerung: Der neue Drohnen-Terror",
-      "url": "https://esut.de/2026/08/meldungen/73715/mobilfunk-der-neue-drohnen-terror/",
+      "text": "Exklusiv: ES&T sieht Israels geheimen Drohnenjäger",
+      "url": "https://esut.de/2026/08/meldungen/73756/israels-geheimer-drohnenjaeger/",
       "engagement": 0,
-      "ts": "Wed, 12 Aug 2026 17:40:31 +0000",
+      "ts": "Thu, 13 Aug 2026 16:18:35 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Thales liefert Minerva-Wärmebild-Kameras an das U.S. Marine Corps",
-      "url": "https://esut.de/2026/08/meldungen/land/73637/thales-minerva-waermebild/",
+      "text": "CSG liefert Fahrgestelle für Polens Waran- und Heron-Flotte",
+      "url": "https://esut.de/2026/08/meldungen/land/73759/csg-waran-heron-flotte/",
       "engagement": 0,
-      "ts": "Wed, 12 Aug 2026 17:19:12 +0000",
+      "ts": "Thu, 13 Aug 2026 15:36:51 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Northrop Grumman präsentiert Luftverteidigungssystem Raid Hunter",
-      "url": "https://esut.de/2026/08/allgemein/73642/northrop-grumman-raid-hunter/",
+      "text": "Jahrestag Bau der Berliner Mauer: gebaut 1961, gefallen 1989",
+      "url": "https://esut.de/2026/08/meldungen/73743/jahrestag-berliner-mauer-1961/",
       "engagement": 0,
-      "ts": "Wed, 12 Aug 2026 16:18:19 +0000",
+      "ts": "Thu, 13 Aug 2026 13:28:16 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Bundeskartellamt genehmigt CSG-Einstieg bei 4iG-Töchtern",
-      "url": "https://esut.de/2026/08/allgemein/73667/csg-einstieg-4ig-toechtern/",
+      "text": "Der Preis von Russlands Raketenboom",
+      "url": "https://esut.de/2026/08/meldungen/73768/der-preis-russlands-raketenboom/",
       "engagement": 0,
-      "ts": "Wed, 12 Aug 2026 15:15:46 +0000",
+      "ts": "Thu, 13 Aug 2026 13:05:34 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "UniBw München: MBA-Vertiefung „Defence and Security Management“",
-      "url": "https://esut.de/2026/08/meldungen/streitkraefte/73683/unibw-muenchen/",
+      "text": "Polnische Marine tauft erste „Miecznik“-Fregatte",
+      "url": "https://esut.de/2026/08/meldungen/featured/73727/polnische-miecznik-fregatte/",
       "engagement": 0,
-      "ts": "Wed, 12 Aug 2026 14:45:52 +0000",
+      "ts": "Thu, 13 Aug 2026 10:43:52 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Multifunktionsflugzeug Do228 NXT erhält TrakkaCam TC-375",
-      "url": "https://esut.de/2026/08/meldungen/luft/73674/do228-nxt-trakkacam-tc-375/",
+      "text": "Rheinmetall testet FV-014 aus Containerized Missile Launcher",
+      "url": "https://esut.de/2026/08/meldungen/land/73721/rheinmetall-fv-014-missile/",
       "engagement": 0,
-      "ts": "Wed, 12 Aug 2026 14:14:56 +0000",
+      "ts": "Thu, 13 Aug 2026 10:41:59 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Der Diskurs dominiert heute die Bundeswehr und ihre Rolle in der internationalen Sicherheit, insbesondere im Kontext von Drohnen und KI. Die Debatte um die Zukunft der Bundeswehr und ihre Ausstattung mit fortschrittlichen Technologien wie KI und Drohnen ist voranschreitend.",
+    "summary": "Der Diskurs des Tages dominiert durch die Diskussion um Künstliche Intelligenz (KI) in der Bundeswehr, Drohnenüberflüge und die Sicherheit im Zusammenhang mit dem Ukraine-Konflikt.",
     "themes": [
       "Pistorius' Wehrdienst-Modell",
-      "Drohnen und KI in der Bundeswehr",
-      "Beschaffungsverzögerungen und -kosten"
+      "Drohnenüberflüge in Deutschland",
+      "Künstliche Intelligenz (KI) in der Bundeswehr"
     ]
   }
 }

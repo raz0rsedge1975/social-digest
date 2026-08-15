@@ -1,31 +1,7 @@
 {
-  "generated": "2026-08-14T03:35:08.331Z",
-  "timestamp": "14.8.2026, 05:35:08",
+  "generated": "2026-08-15T03:34:20.016Z",
+  "timestamp": "15.8.2026, 05:34:20",
   "items": [
-    {
-      "platform": "Bluesky",
-      "author": "@wiegold.de",
-      "handle": "wiegold.de",
-      "text": "Die neuen Leitlinien der #Bundeswehr für den Einsatz von Künstlicher Intelligenz #KI #AI  gibt es jetzt auch in einer öffentlichen Fassung – nachzulesen hier:",
-      "url": "https://bsky.app/profile/wiegold.de/post/3msxuhgq76c2h",
-      "engagement": 60,
-      "ts": "2026-08-13T14:34:42.726Z",
-      "followers": 15777,
-      "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@luftwaffe.bundeswehr.de",
-      "handle": "luftwaffe.bundeswehr.de",
-      "text": "Unser A400M ist vielseitig unterwegs: \nEr transportiert Personal und Material, kann andere Luftfahrzeuge in der Luft betanken und als fliegende Intensivstation eingesetzt werden. Ein echtes Multitalent. ✈️\n\n(Video: Bundeswehr)",
-      "url": "https://bsky.app/profile/luftwaffe.bundeswehr.de/post/3msvptk26hc2x",
-      "engagement": 45,
-      "ts": "2026-08-12T18:06:40.665Z",
-      "followers": 3417,
-      "isBot": false,
-      "sentiment": "neutral"
-    },
     {
       "platform": "Bluesky",
       "author": "@herrseidel.bsky.social",
@@ -34,9 +10,9 @@
       "url": "https://bsky.app/profile/herrseidel.bsky.social/post/3msqb6ulewk23",
       "engagement": 34,
       "ts": "2026-08-10T14:01:15.995Z",
-      "followers": 4102,
+      "followers": 4117,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Bluesky",
@@ -46,7 +22,19 @@
       "url": "https://bsky.app/profile/nmschuessler.bsky.social/post/3mspenn6m6s22",
       "engagement": 28,
       "ts": "2026-08-10T05:30:33.039Z",
-      "followers": 3128,
+      "followers": 3132,
+      "isBot": false,
+      "sentiment": "negativ"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@profharleyquinn.bsky.social",
+      "handle": "profharleyquinn.bsky.social",
+      "text": "Bei Hürtgenwald (Kreis Düren) brennt der Wald. Ein Ortsteil wurde evakuiert. Feuerwehren, Löschhubschrauber, Polizei und die Bundeswehr sind im Einsatz. Auch Bauern helfen. \n\n Und es wird immer dramatischer: Inzwischen brennen mehr als 300 Hektar, der kleine Ortsteil Gey wurde evakuiert.",
+      "url": "https://bsky.app/profile/profharleyquinn.bsky.social/post/3mt3aphwlas2e",
+      "engagement": 13,
+      "ts": "2026-08-14T22:51:56.535Z",
+      "followers": 9240,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -57,33 +45,9 @@
       "url": "https://ard.social/@tagesschau/117070241627727765",
       "engagement": 6,
       "ts": "2026-08-10T08:22:02.000Z",
-      "followers": 93039,
+      "followers": 93101,
       "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@jpschnitzler.net",
-      "handle": "jpschnitzler.net",
-      "text": "In der Ukraine bekommt man eine Ahnung wie Kriege in Zukunft geführt werden. Ich frage mich, ob das Sondervermögen für die Bundeswehr richtig investiert wird?",
-      "url": "https://bsky.app/profile/jpschnitzler.net/post/3msvz2cfwls2o",
-      "engagement": 4,
-      "ts": "2026-08-12T20:51:31.215Z",
-      "followers": 3220,
-      "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@alterebin.bsky.social",
-      "handle": "alterebin.bsky.social",
-      "text": "Als ich zuletzt ein Dreiviertel Jahr arbeitslos war, war ich quasi täglich im Freibad und bin zum Ende der Saison 3 km am Stück geschwommen. Kuriose Wege haben mich dann statt zivil zur Bundeswehr zum aktuellen Arbeitgeber geführt 🤷🏻‍♀️\nIch bin daher ganz sicher, dass deine Tür da draußen ist.",
-      "url": "https://bsky.app/profile/alterebin.bsky.social/post/3msvlufjt6k23",
-      "engagement": 4,
-      "ts": "2026-08-12T16:55:34.523Z",
-      "followers": 2870,
-      "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -92,31 +56,9 @@
       "url": "https://ard.social/@tagesschau/117081570182655314",
       "engagement": 3,
       "ts": "2026-08-12T08:23:02.000Z",
-      "followers": 93039,
+      "followers": 93101,
       "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Mastodon",
-      "author": "@tagesschau@ard.social",
-      "text": "Verdächtiger Drohnenflug über \"Patriot-Werft\" In Mechernich befindet sich ein wichtiger Bundeswehrstandort: Dort werden \"Patriot\"-Flugabwehrsysteme repariert. Nach Informationen von WDR, NDR und SZ soll es dort in der Nacht Drohnenüberflüge über der Kaserne gegeben haben. ➡️ https://www. tagesschau.de/investigativ/dro hnenueberfluge-100.html?at_medium=mastodon&at_campaign=tagesschau.de # Drohne # ",
-      "url": "https://ard.social/@tagesschau/117054831483496735",
-      "engagement": 3,
-      "ts": "2026-08-07T15:03:02.000Z",
-      "followers": 93039,
-      "isBot": false,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Mastodon",
-      "author": "@ct_Magazin@social.heise.de",
-      "text": "heise+ | Wie autonome Drohnen künftig Giftdämpfe und Gefahrstoffe finden und erkennen Bei Havarien spüren Rover und Drohnen künftig Gefahrstoffe und Giftwolken auf. DLR-Forscher demonstrierten ferngesteuerte und autonome Systeme für den Einsatz. https://www. heise.de/hintergrund/Wie-auton ome-Drohnen-kuenftig-Giftdaempfe-und-Gefahrstoffe-finden-und-erkennen-11347497.html?wt_mc=sm.red.ho.mastodon.m",
-      "url": "https://social.heise.de/@ct_Magazin/117052472267363700",
-      "engagement": 3,
-      "ts": "2026-08-07T05:03:03.000Z",
-      "followers": 14469,
-      "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "negativ"
     },
     {
       "platform": "Mastodon",
@@ -125,9 +67,9 @@
       "url": "https://social.heise.de/@heiseonline/117074948492612546",
       "engagement": 2,
       "ts": "2026-08-11T04:19:03.000Z",
-      "followers": 86026,
+      "followers": 86043,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -136,30 +78,7 @@
       "url": "https://social.heise.de/@heiseonline/117072101608995634",
       "engagement": 2,
       "ts": "2026-08-10T16:15:03.000Z",
-      "followers": 86026,
-      "isBot": false,
-      "sentiment": "negativ"
-    },
-    {
-      "platform": "Mastodon",
-      "author": "@heiseonline@social.heise.de",
-      "text": "Im Tiefflug übers Meer: So spüren Öljäger Umweltsünder auf Mit Radar und Kameras suchen Marineflieger täglich nach Verschmutzungen auf Nord- und Ostsee. Wie funktioniert diese Überwachung und was bewirkt sie? https://www. heise.de/hintergrund/Im-Tieffl ug-uebers-Meer-So-spueren-Oeljaeger-Umweltsuender-auf-11402653.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraege.md_beitraege&utm_source=mastodon",
-      "url": "https://social.heise.de/@heiseonline/117052629535570652",
-      "engagement": 2,
-      "ts": "2026-08-07T05:43:03.000Z",
-      "followers": 86026,
-      "isBot": false,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@tiefenkultur.bsky.social",
-      "handle": "tiefenkultur.bsky.social",
-      "text": " 4. Militär und bewaffnete Konflikte \n\n #Bundeswehr meldet #Hunderte #mutmaßliche #Drohnenüberflüge \n\nkurz.bpb.de/19yj",
-      "url": "https://bsky.app/profile/tiefenkultur.bsky.social/post/3msxb4ynefc2i",
-      "engagement": 1,
-      "ts": "2026-08-13T08:48:33.501Z",
-      "followers": 5585,
+      "followers": 86043,
       "isBot": false,
       "sentiment": "kritisch"
     },
@@ -171,7 +90,7 @@
       "engagement": 0,
       "ts": "2026-08-11T09:18:47+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "negativ"
     },
     {
       "platform": "Reddit r/de",
@@ -181,7 +100,17 @@
       "engagement": 0,
       "ts": "2026-08-10T06:52:32+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "YouTube (Bundeswehr)",
+      "author": "Bundeswehr",
+      "text": "Mörser und Luftnahunterstützung für Panzergrenadiere: Gemeinsam im Einsatz | Bundeswehr",
+      "url": "https://www.youtube.com/watch?v=Y28wh7CBGko",
+      "engagement": 0,
+      "ts": "2026-08-14T12:14:44+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -234,6 +163,46 @@
       "sentiment": "neutral"
     },
     {
+      "platform": "Bundeswehr Journal",
+      "author": "Bundeswehr Journal",
+      "text": "„Einige Hundert Drohnen“ über Bundeswehr-Gelände",
+      "url": "https://www.bundeswehr-journal.de/2026/einige-hundert-drohnen-ueber-bundeswehr-gelaende/",
+      "engagement": 0,
+      "ts": "Wed, 12 Aug 2026 18:00:05 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "MASS: Dänemark beschafft Rheinmetall-Täuschkörpersystem",
+      "url": "https://esut.de/2026/08/meldungen/73801/mass-rheinmetall/",
+      "engagement": 0,
+      "ts": "Fri, 14 Aug 2026 19:00:18 +0000",
+      "alwaysKeep": true,
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Neuer Polizeihubschrauber H145 D3",
+      "url": "https://esut.de/2026/08/meldungen/73776/neuer-polizeihubschrauber-h145-d3/",
+      "engagement": 0,
+      "ts": "Fri, 14 Aug 2026 07:04:17 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Von Istanbul nach Bagdad: Die Rückkehr der Hedschasbahn",
+      "url": "https://esut.de/2026/08/meldungen/73034/rueckkehr-der-hedschasbahn/",
+      "engagement": 0,
+      "ts": "Fri, 14 Aug 2026 05:50:46 +0000",
+      "alwaysKeep": true,
+      "sentiment": "kritisch"
+    },
+    {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
       "text": "Exklusiv: ES&T sieht Israels geheimen Drohnenjäger",
@@ -241,7 +210,7 @@
       "engagement": 0,
       "ts": "Thu, 13 Aug 2026 16:18:35 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "negativ"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
@@ -251,7 +220,7 @@
       "engagement": 0,
       "ts": "Thu, 13 Aug 2026 15:36:51 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
@@ -261,44 +230,14 @@
       "engagement": 0,
       "ts": "Thu, 13 Aug 2026 13:28:16 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Der Preis von Russlands Raketenboom",
-      "url": "https://esut.de/2026/08/meldungen/73768/der-preis-russlands-raketenboom/",
-      "engagement": 0,
-      "ts": "Thu, 13 Aug 2026 13:05:34 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Polnische Marine tauft erste „Miecznik“-Fregatte",
-      "url": "https://esut.de/2026/08/meldungen/featured/73727/polnische-miecznik-fregatte/",
-      "engagement": 0,
-      "ts": "Thu, 13 Aug 2026 10:43:52 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Rheinmetall testet FV-014 aus Containerized Missile Launcher",
-      "url": "https://esut.de/2026/08/meldungen/land/73721/rheinmetall-fv-014-missile/",
-      "engagement": 0,
-      "ts": "Thu, 13 Aug 2026 10:41:59 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     }
   ],
   "analysis": {
-    "summary": "Der Diskurs des Tages dominiert durch die Diskussion um Künstliche Intelligenz (KI) in der Bundeswehr, Drohnenüberflüge und die Sicherheit im Zusammenhang mit dem Ukraine-Konflikt.",
+    "summary": "Der Diskurs des Tages wird von der Debatte über die Bundeswehr und ihre Rüstungsausgaben dominiert, wobei auch Themen wie Drohnen und KI im Mittelpunkt stehen.",
     "themes": [
       "Pistorius' Wehrdienst-Modell",
-      "Drohnenüberflüge in Deutschland",
+      "Drohnen in der Nähe von Bundeswehr-Gelände",
       "Künstliche Intelligenz (KI) in der Bundeswehr"
     ]
   }

@@ -1,7 +1,19 @@
 {
-  "generated": "2026-08-15T03:34:20.016Z",
-  "timestamp": "15.8.2026, 05:34:20",
+  "generated": "2026-08-16T03:35:10.595Z",
+  "timestamp": "16.8.2026, 05:35:10",
   "items": [
+    {
+      "platform": "Bluesky",
+      "author": "@luftwaffe.bundeswehr.de",
+      "handle": "luftwaffe.bundeswehr.de",
+      "text": "🇵🇱 Pozdrowienia z Polski!\n\nHeute wird in Polen der Tag der Streitkräfte gefeiert – und wir sind dabei! Mit zwei Eurofightern und einem A400M ist auch die Luftwaffe bei den Feierlichkeiten vertreten. ✈️\n\nHerzlichen Glückwunsch zum Święto Wojska Polskiego! 🇵🇱🤝🇩🇪\n\n(📹: Bundeswehr)",
+      "url": "https://bsky.app/profile/luftwaffe.bundeswehr.de/post/3mt5bjlusds2j",
+      "engagement": 86,
+      "ts": "2026-08-15T18:11:52.563Z",
+      "followers": 3421,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
     {
       "platform": "Bluesky",
       "author": "@herrseidel.bsky.social",
@@ -10,9 +22,9 @@
       "url": "https://bsky.app/profile/herrseidel.bsky.social/post/3msqb6ulewk23",
       "engagement": 34,
       "ts": "2026-08-10T14:01:15.995Z",
-      "followers": 4117,
+      "followers": 4221,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
@@ -22,19 +34,30 @@
       "url": "https://bsky.app/profile/nmschuessler.bsky.social/post/3mspenn6m6s22",
       "engagement": 28,
       "ts": "2026-08-10T05:30:33.039Z",
-      "followers": 3132,
+      "followers": 3135,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Mastodon",
+      "author": "@BlumeEvolution@digitalcourage.social",
+      "text": "Guten Morgen - Tässle Kaffee ☕️? Auch Deutschland leidet zunehmend unter der noch immer verbreiteten Fehlannahme, es sei „zu teuer“, die globale Erhitzung zu bremsen. Die über Jahrzehnte externalisierten Kosten schlagen zunehmend auf Menschen & Mitwelt zurück. „Hunderte Feuerwehrkräfte kämpfen auch in der Nacht weiter gegen den großen Waldbrand im Hürtgenwald in der Eifel. Die Feuerwehr stelle sic",
+      "url": "https://digitalcourage.social/@BlumeEvolution/117097824090357023",
+      "engagement": 26,
+      "ts": "2026-08-15T05:16:37.000Z",
+      "followers": 3547,
+      "isBot": false,
+      "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
-      "author": "@profharleyquinn.bsky.social",
-      "handle": "profharleyquinn.bsky.social",
-      "text": "Bei Hürtgenwald (Kreis Düren) brennt der Wald. Ein Ortsteil wurde evakuiert. Feuerwehren, Löschhubschrauber, Polizei und die Bundeswehr sind im Einsatz. Auch Bauern helfen. \n\n Und es wird immer dramatischer: Inzwischen brennen mehr als 300 Hektar, der kleine Ortsteil Gey wurde evakuiert.",
-      "url": "https://bsky.app/profile/profharleyquinn.bsky.social/post/3mt3aphwlas2e",
+      "author": "@ahaachja.bsky.social",
+      "handle": "ahaachja.bsky.social",
+      "text": "Es wird ☀️ #Sommer ☀️ draußen 🌡️ ☀️ \n\n#Hitzeschutzplan J / N ? \n\n#Bundeswehr- Panzer schlagen Schneisen,\n#Hubschrauber löschen von morgens bis abends,\n#Landwirte helfen den #Feuerwehren beim Löschen.  \n\n#Zitat #CDU #CSU Führer F. #Merz: \n „Es ist eben nicht so, dass morgen die Welt untergeht“",
+      "url": "https://bsky.app/profile/ahaachja.bsky.social/post/3mt5c7274c22l",
       "engagement": 13,
-      "ts": "2026-08-14T22:51:56.535Z",
-      "followers": 9240,
+      "ts": "2026-08-15T18:23:52.225Z",
+      "followers": 13057,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -47,7 +70,19 @@
       "ts": "2026-08-10T08:22:02.000Z",
       "followers": 93101,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@ahaachja.bsky.social",
+      "handle": "ahaachja.bsky.social",
+      "text": "C'est l'☀️ #été ☀️ dehors 🌡️ ☀️\n\n#Plan de protection contre la chaleur O / N ?\n\nLes chars de la #Bundeswehr ouvrent des brèches,\nles #hélicoptères arrosent du matin au soir,\nles #agriculteurs aident les #pompiers à éteindre les incendies. \n\n#Citation du dirigeant de la #CDU #CSU, F. #Merz :  \n\n1/",
+      "url": "https://bsky.app/profile/ahaachja.bsky.social/post/3mt5cgpzxkc2l",
+      "engagement": 4,
+      "ts": "2026-08-15T18:28:10.006Z",
+      "followers": 13057,
+      "isBot": false,
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -58,7 +93,19 @@
       "ts": "2026-08-12T08:23:02.000Z",
       "followers": 93101,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@ahaachja.bsky.social",
+      "handle": "ahaachja.bsky.social",
+      "text": "#Blues It’s getting ☀️ #summer ☀️ outside 🌡️ ☀️\n\n#HeatProtectionPlan Y / N?\n\n#Bundeswehr tanks are clearing paths,\n#helicopters are fighting fires from morning to night,\n#farmers are helping the #fire departments put out the fires.\n\n#Quote #CDU #CSU leader F. #Merz: ...\n\n1/",
+      "url": "https://bsky.app/profile/ahaachja.bsky.social/post/3mt5cvypyk22l",
+      "engagement": 2,
+      "ts": "2026-08-15T18:36:42.433Z",
+      "followers": 13057,
+      "isBot": false,
+      "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
@@ -67,9 +114,9 @@
       "url": "https://social.heise.de/@heiseonline/117074948492612546",
       "engagement": 2,
       "ts": "2026-08-11T04:19:03.000Z",
-      "followers": 86043,
+      "followers": 86057,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -78,8 +125,29 @@
       "url": "https://social.heise.de/@heiseonline/117072101608995634",
       "engagement": 2,
       "ts": "2026-08-10T16:15:03.000Z",
-      "followers": 86043,
+      "followers": 86057,
       "isBot": false,
+      "sentiment": "negativ"
+    },
+    {
+      "platform": "Mastodon",
+      "author": "@tagesschau@ard.social",
+      "text": "Bundeswehr unterstützt UN-Einsatz in Haiti mit Lufttransport Vergangenes Jahr wurde ein UN-Einsatz in Haiti beschlossen - das Ziel: die Bekämpfung krimineller Banden, die weite Teile des Landes kontrollieren. Nun soll die Bundeswehr der Mission aus der Luft bei der Verlegung von Ausrüstung helfen. ➡️ https://www. tagesschau.de/ausland/bundeswe hr-haiti-100.html?at_medium=mastodon&at_campaign=tages",
+      "url": "https://ard.social/@tagesschau/117101101187339821",
+      "engagement": 0,
+      "ts": "2026-08-15T19:10:02.000Z",
+      "followers": 93101,
+      "isBot": false,
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "Reddit r/de",
+      "author": "u/GirasoleDE",
+      "text": "Riskante Grauzone: Bundeswehr schafft Einfallstor für chinesische Spionage | Die Bundeswehr trainiert mit chinesischen Drohnen. Ihre Beschaffung ist voller Widersprüche: Nach CORRECTIV-Recherchen gelangte die Technik trotz bekannter Risiken und anderslautender Weisungen in die Truppe.",
+      "url": "https://www.reddit.com/r/de/comments/1vpan39/riskante_grauzone_bundeswehr_schafft_einfallstor/",
+      "engagement": 0,
+      "ts": "2026-08-15T18:43:05+00:00",
+      "alwaysKeep": true,
       "sentiment": "kritisch"
     },
     {
@@ -90,7 +158,7 @@
       "engagement": 0,
       "ts": "2026-08-11T09:18:47+00:00",
       "alwaysKeep": true,
-      "sentiment": "negativ"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Reddit r/de",
@@ -100,7 +168,7 @@
       "engagement": 0,
       "ts": "2026-08-10T06:52:32+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -175,6 +243,26 @@
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
+      "text": "Kodiak Container-Werfer absolviert ersten scharfen Starttest",
+      "url": "https://esut.de/2026/08/meldungen/73807/kodiak-container-werfer-starttest/",
+      "engagement": 0,
+      "ts": "Sat, 15 Aug 2026 09:00:40 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Australien und UK intensivieren Radar-Zusammenarbeit",
+      "url": "https://esut.de/2026/08/meldungen/73785/australien-uk-radar-zusammenarbeit/",
+      "engagement": 0,
+      "ts": "Sat, 15 Aug 2026 05:05:23 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
       "text": "MASS: Dänemark beschafft Rheinmetall-Täuschkörpersystem",
       "url": "https://esut.de/2026/08/meldungen/73801/mass-rheinmetall/",
       "engagement": 0,
@@ -213,32 +301,22 @@
       "sentiment": "negativ"
     },
     {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "CSG liefert Fahrgestelle für Polens Waran- und Heron-Flotte",
-      "url": "https://esut.de/2026/08/meldungen/land/73759/csg-waran-heron-flotte/",
+      "platform": "Tagesschau Alle Meldungen",
+      "author": "Tagesschau Alle Meldungen",
+      "text": "Bundeswehr unterstützt UN-Einsatz in Haiti mit Lufttransport",
+      "url": "https://www.tagesschau.de/ausland/bundeswehr-haiti-100.html",
       "engagement": 0,
-      "ts": "Thu, 13 Aug 2026 15:36:51 +0000",
-      "alwaysKeep": true,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Jahrestag Bau der Berliner Mauer: gebaut 1961, gefallen 1989",
-      "url": "https://esut.de/2026/08/meldungen/73743/jahrestag-berliner-mauer-1961/",
-      "engagement": 0,
-      "ts": "Thu, 13 Aug 2026 13:28:16 +0000",
+      "ts": "Sat, 15 Aug 2026 21:09:14 +0200",
       "alwaysKeep": true,
       "sentiment": "positiv"
     }
   ],
   "analysis": {
-    "summary": "Der Diskurs des Tages wird von der Debatte über die Bundeswehr und ihre Rüstungsausgaben dominiert, wobei auch Themen wie Drohnen und KI im Mittelpunkt stehen.",
+    "summary": "Der Diskurs des Tages dominiert die Diskussion um die Bundeswehr und ihre Verteidigung gegenüber Drohnen und anderen Bedrohungen. Die Sicherheit der Bundeswehr wird auch im Kontext von Pistorius' Wehrdienst-Modell und Beschaffungsverzögerungen thematisiert.",
     "themes": [
       "Pistorius' Wehrdienst-Modell",
-      "Drohnen in der Nähe von Bundeswehr-Gelände",
-      "Künstliche Intelligenz (KI) in der Bundeswehr"
+      "Drohnenabwehr",
+      "Beschaffungsverzögerung"
     ]
   }
 }

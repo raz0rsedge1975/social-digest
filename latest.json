@@ -1,43 +1,7 @@
 {
-  "generated": "2026-08-16T03:35:10.595Z",
-  "timestamp": "16.8.2026, 05:35:10",
+  "generated": "2026-08-17T03:34:26.540Z",
+  "timestamp": "17.8.2026, 05:34:26",
   "items": [
-    {
-      "platform": "Bluesky",
-      "author": "@luftwaffe.bundeswehr.de",
-      "handle": "luftwaffe.bundeswehr.de",
-      "text": "🇵🇱 Pozdrowienia z Polski!\n\nHeute wird in Polen der Tag der Streitkräfte gefeiert – und wir sind dabei! Mit zwei Eurofightern und einem A400M ist auch die Luftwaffe bei den Feierlichkeiten vertreten. ✈️\n\nHerzlichen Glückwunsch zum Święto Wojska Polskiego! 🇵🇱🤝🇩🇪\n\n(📹: Bundeswehr)",
-      "url": "https://bsky.app/profile/luftwaffe.bundeswehr.de/post/3mt5bjlusds2j",
-      "engagement": 86,
-      "ts": "2026-08-15T18:11:52.563Z",
-      "followers": 3421,
-      "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@herrseidel.bsky.social",
-      "handle": "herrseidel.bsky.social",
-      "text": "Top-Ökonom warnt vor verpuffenden Rüstungsmilliarden - KI, Drohnen und Robotik? PAPPERLAPAPP! Es geht nichts über eine zünftige Kavallerieattacke und ein Zeppelin-Geschwader! #Rüstung #Pistorius\n\nwww.zdfheute.de/politik/deut...",
-      "url": "https://bsky.app/profile/herrseidel.bsky.social/post/3msqb6ulewk23",
-      "engagement": 34,
-      "ts": "2026-08-10T14:01:15.995Z",
-      "followers": 4221,
-      "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@nmschuessler.bsky.social",
-      "handle": "nmschuessler.bsky.social",
-      "text": "Pistorius galt als einer der wenigen Lichtblicke dieser Regierung. Doch auch dort, wo Milliarden für Sicherheit ausgegeben werden, stellt sich die Frage: Wird wirklich strategisch investiert – oder nur möglichst schnell möglichst viel Geld ausgegeben? www.spiegel.de/wirtschaft/v...",
-      "url": "https://bsky.app/profile/nmschuessler.bsky.social/post/3mspenn6m6s22",
-      "engagement": 28,
-      "ts": "2026-08-10T05:30:33.039Z",
-      "followers": 3135,
-      "isBot": false,
-      "sentiment": "neutral"
-    },
     {
       "platform": "Mastodon",
       "author": "@BlumeEvolution@digitalcourage.social",
@@ -45,21 +9,9 @@
       "url": "https://digitalcourage.social/@BlumeEvolution/117097824090357023",
       "engagement": 26,
       "ts": "2026-08-15T05:16:37.000Z",
-      "followers": 3547,
+      "followers": 3549,
       "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@ahaachja.bsky.social",
-      "handle": "ahaachja.bsky.social",
-      "text": "Es wird ☀️ #Sommer ☀️ draußen 🌡️ ☀️ \n\n#Hitzeschutzplan J / N ? \n\n#Bundeswehr- Panzer schlagen Schneisen,\n#Hubschrauber löschen von morgens bis abends,\n#Landwirte helfen den #Feuerwehren beim Löschen.  \n\n#Zitat #CDU #CSU Führer F. #Merz: \n „Es ist eben nicht so, dass morgen die Welt untergeht“",
-      "url": "https://bsky.app/profile/ahaachja.bsky.social/post/3mt5c7274c22l",
-      "engagement": 13,
-      "ts": "2026-08-15T18:23:52.225Z",
-      "followers": 13057,
-      "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -70,19 +22,7 @@
       "ts": "2026-08-10T08:22:02.000Z",
       "followers": 93101,
       "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@ahaachja.bsky.social",
-      "handle": "ahaachja.bsky.social",
-      "text": "C'est l'☀️ #été ☀️ dehors 🌡️ ☀️\n\n#Plan de protection contre la chaleur O / N ?\n\nLes chars de la #Bundeswehr ouvrent des brèches,\nles #hélicoptères arrosent du matin au soir,\nles #agriculteurs aident les #pompiers à éteindre les incendies. \n\n#Citation du dirigeant de la #CDU #CSU, F. #Merz :  \n\n1/",
-      "url": "https://bsky.app/profile/ahaachja.bsky.social/post/3mt5cgpzxkc2l",
-      "engagement": 4,
-      "ts": "2026-08-15T18:28:10.006Z",
-      "followers": 13057,
-      "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "negativ"
     },
     {
       "platform": "Mastodon",
@@ -94,18 +34,6 @@
       "followers": 93101,
       "isBot": false,
       "sentiment": "neutral"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@ahaachja.bsky.social",
-      "handle": "ahaachja.bsky.social",
-      "text": "#Blues It’s getting ☀️ #summer ☀️ outside 🌡️ ☀️\n\n#HeatProtectionPlan Y / N?\n\n#Bundeswehr tanks are clearing paths,\n#helicopters are fighting fires from morning to night,\n#farmers are helping the #fire departments put out the fires.\n\n#Quote #CDU #CSU leader F. #Merz: ...\n\n1/",
-      "url": "https://bsky.app/profile/ahaachja.bsky.social/post/3mt5cvypyk22l",
-      "engagement": 2,
-      "ts": "2026-08-15T18:36:42.433Z",
-      "followers": 13057,
-      "isBot": false,
-      "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
@@ -158,7 +86,7 @@
       "engagement": 0,
       "ts": "2026-08-11T09:18:47+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "negativ"
     },
     {
       "platform": "Reddit r/de",
@@ -178,7 +106,7 @@
       "engagement": 0,
       "ts": "2026-08-14T12:14:44+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -188,7 +116,7 @@
       "engagement": 0,
       "ts": "2026-08-12T15:31:36+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -198,7 +126,7 @@
       "engagement": 0,
       "ts": "2026-08-12T10:02:55+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -208,7 +136,7 @@
       "engagement": 0,
       "ts": "2026-08-11T15:13:58+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Augen geradeaus!",
@@ -218,7 +146,7 @@
       "engagement": 0,
       "ts": "Thu, 13 Aug 2026 14:32:33 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Augen geradeaus!",
@@ -233,12 +161,42 @@
     {
       "platform": "Bundeswehr Journal",
       "author": "Bundeswehr Journal",
+      "text": "Rund 100 Rüstungsprojekte in der zweiten Jahreshälfte 2026",
+      "url": "https://www.bundeswehr-journal.de/2026/rund-100-ruestungsprojekte-in-der-zweiten-jahreshaelfte-2026/",
+      "engagement": 0,
+      "ts": "Sun, 16 Aug 2026 21:00:33 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bundeswehr Journal",
+      "author": "Bundeswehr Journal",
       "text": "„Einige Hundert Drohnen“ über Bundeswehr-Gelände",
       "url": "https://www.bundeswehr-journal.de/2026/einige-hundert-drohnen-ueber-bundeswehr-gelaende/",
       "engagement": 0,
       "ts": "Wed, 12 Aug 2026 18:00:05 +0000",
       "alwaysKeep": true,
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Rheinmetall-Kompetenzzentrum für Landautonomie in Großbritannien",
+      "url": "https://esut.de/2026/08/meldungen/73811/rheinmetall-kompetenzzentrum/",
+      "engagement": 0,
+      "ts": "Sun, 16 Aug 2026 09:00:27 +0000",
+      "alwaysKeep": true,
       "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "MEKO A-200 DEU und U212CD – TKMS im Aufwind",
+      "url": "https://esut.de/2026/08/meldungen/73794/tkms-prognose-marine-2026/",
+      "engagement": 0,
+      "ts": "Sun, 16 Aug 2026 05:05:37 +0000",
+      "alwaysKeep": true,
+      "sentiment": "positiv"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
@@ -248,7 +206,7 @@
       "engagement": 0,
       "ts": "Sat, 15 Aug 2026 09:00:40 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
@@ -258,7 +216,7 @@
       "engagement": 0,
       "ts": "Sat, 15 Aug 2026 05:05:23 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "negativ"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
@@ -268,7 +226,7 @@
       "engagement": 0,
       "ts": "Fri, 14 Aug 2026 19:00:18 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "kritisch"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
@@ -278,45 +236,15 @@
       "engagement": 0,
       "ts": "Fri, 14 Aug 2026 07:04:17 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Von Istanbul nach Bagdad: Die Rückkehr der Hedschasbahn",
-      "url": "https://esut.de/2026/08/meldungen/73034/rueckkehr-der-hedschasbahn/",
-      "engagement": 0,
-      "ts": "Fri, 14 Aug 2026 05:50:46 +0000",
-      "alwaysKeep": true,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Exklusiv: ES&T sieht Israels geheimen Drohnenjäger",
-      "url": "https://esut.de/2026/08/meldungen/73756/israels-geheimer-drohnenjaeger/",
-      "engagement": 0,
-      "ts": "Thu, 13 Aug 2026 16:18:35 +0000",
-      "alwaysKeep": true,
-      "sentiment": "negativ"
-    },
-    {
-      "platform": "Tagesschau Alle Meldungen",
-      "author": "Tagesschau Alle Meldungen",
-      "text": "Bundeswehr unterstützt UN-Einsatz in Haiti mit Lufttransport",
-      "url": "https://www.tagesschau.de/ausland/bundeswehr-haiti-100.html",
-      "engagement": 0,
-      "ts": "Sat, 15 Aug 2026 21:09:14 +0200",
-      "alwaysKeep": true,
       "sentiment": "positiv"
     }
   ],
   "analysis": {
-    "summary": "Der Diskurs des Tages dominiert die Diskussion um die Bundeswehr und ihre Verteidigung gegenüber Drohnen und anderen Bedrohungen. Die Sicherheit der Bundeswehr wird auch im Kontext von Pistorius' Wehrdienst-Modell und Beschaffungsverzögerungen thematisiert.",
+    "summary": "Der Diskurs wird von der Debatte über die Drohnenabwehr und der Sicherheit dominiert, wobei auch Themen wie KI-Technologie und Rüstungsprojekte im Mittelpunkt stehen.",
     "themes": [
-      "Pistorius' Wehrdienst-Modell",
-      "Drohnenabwehr",
-      "Beschaffungsverzögerung"
+      "Drohnenabwehr: Bundespolizei soll mehr können",
+      "Künstliche Intelligenz in der Bundeswehr: Konzeption jetzt in öffentlicher Fassung",
+      "Rüstungsprojekte: 100 Rüstungsprojekte in der zweiten Jahreshälfte 2026"
     ]
   }
 }

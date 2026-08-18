@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-17T03:34:26.540Z",
-  "timestamp": "17.8.2026, 05:34:26",
+  "generated": "2026-08-18T03:33:57.433Z",
+  "timestamp": "18.8.2026, 05:33:57",
   "items": [
     {
       "platform": "Mastodon",
@@ -9,20 +9,9 @@
       "url": "https://digitalcourage.social/@BlumeEvolution/117097824090357023",
       "engagement": 26,
       "ts": "2026-08-15T05:16:37.000Z",
-      "followers": 3549,
+      "followers": 3550,
       "isBot": false,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Mastodon",
-      "author": "@tagesschau@ard.social",
-      "text": "IfW-Präsident wirft Pistorius falsche Investitionen in Bundeswehr vor Der Verteidigungsminister muss sich erneut Kritik stellen, er investiere zu sehr in veraltete Technik. Es brauche Waffensysteme der Zukunft statt noch mehr Panzer und Fregatten, fordert IfW-Präsident Schularick. ➡️ https://www. tagesschau.de/inland/innenpoli tik/kritik-schularick-pistorius-waffen-bundeswehr-100.html?at_medium=ma",
-      "url": "https://ard.social/@tagesschau/117070241627727765",
-      "engagement": 6,
-      "ts": "2026-08-10T08:22:02.000Z",
-      "followers": 93101,
-      "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
@@ -33,7 +22,7 @@
       "ts": "2026-08-12T08:23:02.000Z",
       "followers": 93101,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -44,18 +33,18 @@
       "ts": "2026-08-11T04:19:03.000Z",
       "followers": 86057,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "negativ"
     },
     {
       "platform": "Mastodon",
-      "author": "@heiseonline@social.heise.de",
-      "text": "Debatte um Drohnenabwehr: Bundespolizei soll mehr können Nach dem versuchten Drohnenanschlag auf dem Leipziger Flughafen wächst der politische Druck. Innenminister Dobrindt reagiert mit mehr Abwehreinheiten. https://www. heise.de/news/Debatte-um-Drohn enabwehr-Bundespolizei-soll-mehr-koennen-11409300.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraege.md_beitraege&utm_source=mastodon # Bundeswehr ",
-      "url": "https://social.heise.de/@heiseonline/117072101608995634",
-      "engagement": 2,
-      "ts": "2026-08-10T16:15:03.000Z",
-      "followers": 86057,
+      "author": "@tagesschau@ard.social",
+      "text": "Bundeswehr erreicht Personalziel für das Jahr 2026 Die Bundeswehr soll wachsen - und bisher scheint das auf freiwilliger Basis zu gelingen: Das Personalziel für 2026 ist erreicht. Während viele junge Männer den Fragebogen zum neuen Wehrdienst beantworten, sind es nur wenige Frauen. ➡️ https://www. tagesschau.de/inland/innenpoli tik/bundeswehr-personalziel-100.html?at_medium=mastodon&at_campaign=ta",
+      "url": "https://ard.social/@tagesschau/117111022042993575",
+      "engagement": 1,
+      "ts": "2026-08-17T13:13:02.000Z",
+      "followers": 93101,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -89,54 +78,14 @@
       "sentiment": "negativ"
     },
     {
-      "platform": "Reddit r/de",
-      "author": "u/zeit",
-      "text": "Hybride Kriegsführung: Daniel Günther fordert Bundeswehr an Flughäfen zum Schutz vor Drohnen",
-      "url": "https://www.reddit.com/r/de/comments/1vkdfgl/hybride_kriegsführung_daniel_günther_fordert/",
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Personalstärke Juli 2026: Höchster Stand seit 2013, Ministerium sieht sich im Zielkorridor",
+      "url": "https://augengeradeaus.net/2026/08/personalstaerke-juli-2026-hoechster-stand-seit-2013-ministerium-sieht-sich-im-zielkorridor/",
       "engagement": 0,
-      "ts": "2026-08-10T06:52:32+00:00",
+      "ts": "Mon, 17 Aug 2026 12:22:00 +0000",
       "alwaysKeep": true,
       "sentiment": "positiv"
-    },
-    {
-      "platform": "YouTube (Bundeswehr)",
-      "author": "Bundeswehr",
-      "text": "Mörser und Luftnahunterstützung für Panzergrenadiere: Gemeinsam im Einsatz | Bundeswehr",
-      "url": "https://www.youtube.com/watch?v=Y28wh7CBGko",
-      "engagement": 0,
-      "ts": "2026-08-14T12:14:44+00:00",
-      "alwaysKeep": true,
-      "sentiment": "positiv"
-    },
-    {
-      "platform": "YouTube (Bundeswehr)",
-      "author": "Bundeswehr",
-      "text": "Panzergrenadiere im Angriff: Häuserkampf und Kampfgraben | Bundeswehr",
-      "url": "https://www.youtube.com/watch?v=S07fabmo8zM",
-      "engagement": 0,
-      "ts": "2026-08-12T15:31:36+00:00",
-      "alwaysKeep": true,
-      "sentiment": "positiv"
-    },
-    {
-      "platform": "YouTube (Bundeswehr)",
-      "author": "Bundeswehr",
-      "text": "#shorts: Mörserzug bei Cold Fire 2026 | Bundeswehr",
-      "url": "https://www.youtube.com/shorts/LstQZL1v6vg",
-      "engagement": 0,
-      "ts": "2026-08-12T10:02:55+00:00",
-      "alwaysKeep": true,
-      "sentiment": "positiv"
-    },
-    {
-      "platform": "YouTube (Bundeswehr)",
-      "author": "Bundeswehr",
-      "text": "#shorts: Panzergrenadiere bei Cold Fire 2026 | Bundeswehr",
-      "url": "https://www.youtube.com/shorts/SHcYtjXu3Lw",
-      "engagement": 0,
-      "ts": "2026-08-11T15:13:58+00:00",
-      "alwaysKeep": true,
-      "sentiment": "kritisch"
     },
     {
       "platform": "Augen geradeaus!",
@@ -146,7 +95,7 @@
       "engagement": 0,
       "ts": "Thu, 13 Aug 2026 14:32:33 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -176,7 +125,47 @@
       "engagement": 0,
       "ts": "Wed, 12 Aug 2026 18:00:05 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Tahr – Allianz für Bundeswehr-Luftlandefahrzeug",
+      "url": "https://esut.de/2026/08/meldungen/73837/bundeswehr-luftlandefahrzeugs-tahr/",
+      "engagement": 0,
+      "ts": "Mon, 17 Aug 2026 17:10:35 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Fraunhofer FKIE: Doppelspitze mit Christoph Igel",
+      "url": "https://esut.de/2026/08/meldungen/73825/fkie-doppelspitze-christoph-igel/",
+      "engagement": 0,
+      "ts": "Mon, 17 Aug 2026 12:40:48 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "IRIS2: Start-up schlägt Airbus bei Milliardenauftrag",
+      "url": "https://esut.de/2026/08/meldungen/73829/iris2-start-up-airbus-milliarden/",
+      "engagement": 0,
+      "ts": "Mon, 17 Aug 2026 11:53:36 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "165 mobile Rettungsstationen für die Bundeswehr",
+      "url": "https://esut.de/2026/08/meldungen/73820/165-rettungsstationen-bundeswehr/",
+      "engagement": 0,
+      "ts": "Mon, 17 Aug 2026 09:47:15 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
@@ -196,55 +185,15 @@
       "engagement": 0,
       "ts": "Sun, 16 Aug 2026 05:05:37 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Kodiak Container-Werfer absolviert ersten scharfen Starttest",
-      "url": "https://esut.de/2026/08/meldungen/73807/kodiak-container-werfer-starttest/",
-      "engagement": 0,
-      "ts": "Sat, 15 Aug 2026 09:00:40 +0000",
-      "alwaysKeep": true,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Australien und UK intensivieren Radar-Zusammenarbeit",
-      "url": "https://esut.de/2026/08/meldungen/73785/australien-uk-radar-zusammenarbeit/",
-      "engagement": 0,
-      "ts": "Sat, 15 Aug 2026 05:05:23 +0000",
-      "alwaysKeep": true,
-      "sentiment": "negativ"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "MASS: Dänemark beschafft Rheinmetall-Täuschkörpersystem",
-      "url": "https://esut.de/2026/08/meldungen/73801/mass-rheinmetall/",
-      "engagement": 0,
-      "ts": "Fri, 14 Aug 2026 19:00:18 +0000",
-      "alwaysKeep": true,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Neuer Polizeihubschrauber H145 D3",
-      "url": "https://esut.de/2026/08/meldungen/73776/neuer-polizeihubschrauber-h145-d3/",
-      "engagement": 0,
-      "ts": "Fri, 14 Aug 2026 07:04:17 +0000",
-      "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Der Diskurs wird von der Debatte über die Drohnenabwehr und der Sicherheit dominiert, wobei auch Themen wie KI-Technologie und Rüstungsprojekte im Mittelpunkt stehen.",
+    "summary": "Die Bundeswehr ist im Fokus, insbesondere auf die Themen Drohnen, Personalstärke und KI-Integration.",
     "themes": [
-      "Drohnenabwehr: Bundespolizei soll mehr können",
-      "Künstliche Intelligenz in der Bundeswehr: Konzeption jetzt in öffentlicher Fassung",
-      "Rüstungsprojekte: 100 Rüstungsprojekte in der zweiten Jahreshälfte 2026"
+      "Drohnen: Die Bundeswehr meldet Hunderte Drohnensichtungen in vergangenen Jahren",
+      "Personalstärke: Die Bundeswehr erreicht Personalziel für das Jahr 2026 mit höchstem Stand seit 2013",
+      "KI-Integration: Konzeption für die KI-Integration in der Bundeswehr nun in öffentlicher Fassung"
     ]
   }
 }

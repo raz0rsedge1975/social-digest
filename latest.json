@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-18T03:33:57.433Z",
-  "timestamp": "18.8.2026, 05:33:57",
+  "generated": "2026-08-19T03:34:09.353Z",
+  "timestamp": "19.8.2026, 05:34:09",
   "items": [
     {
       "platform": "Mastodon",
@@ -9,7 +9,7 @@
       "url": "https://digitalcourage.social/@BlumeEvolution/117097824090357023",
       "engagement": 26,
       "ts": "2026-08-15T05:16:37.000Z",
-      "followers": 3550,
+      "followers": 3555,
       "isBot": false,
       "sentiment": "positiv"
     },
@@ -27,11 +27,11 @@
     {
       "platform": "Mastodon",
       "author": "@heiseonline@social.heise.de",
-      "text": "Dienstag: Alternativer App-Store bei Google Play, Meta mit offenem KI-Modell Google fügt sich US-Justiz + Meta veröffentlicht Muse Glimmer + Bezos vor Einstieg bei Liverpool + Drohenabwehr wird ausgebaut + Zwist um Huawei in Argentinien https://www. heise.de/news/Dienstag-Alterna tiver-App-Store-bei-Google-Play-Meta-mit-offenem-KI-Modell-11409448.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraege",
-      "url": "https://social.heise.de/@heiseonline/117074948492612546",
-      "engagement": 2,
-      "ts": "2026-08-11T04:19:03.000Z",
-      "followers": 86057,
+      "text": "Sicherheit vor Drohnenangriffen: DLR-Forschungszentrum nimmt Arbeit auf Eine Sprengstoffdrohne am Flughafen Leipzig/Halle hat die Gefahr deutlich gemacht. In Sachsen-Anhalt soll nun für mehr Drohnensicherheit geforscht werden. https://www. heise.de/news/Sicherheit-vor-D rohnenangriffen-DLR-Forschungszentrum-nimmt-Arbeit-auf-11416801.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraege.md_beitraege&",
+      "url": "https://social.heise.de/@heiseonline/117115028985830564",
+      "engagement": 1,
+      "ts": "2026-08-18T06:12:03.000Z",
+      "followers": 86090,
       "isBot": false,
       "sentiment": "negativ"
     },
@@ -68,14 +68,64 @@
       "sentiment": "kritisch"
     },
     {
-      "platform": "Reddit r/de",
-      "author": "u/PoroBraum",
-      "text": "Vor­zei­ge­soldat zurecht aus der Bun­des­wehr geworfen // Er galt als \"unangefochtene Nummer eins\" und trug das Ehrenkreuz in Silber. Doch wegen Holocaust-Verharmlosung sowie rassistischen und antisemitischen Äußerungen muss ein Soldat die Bundeswehr verlassen, bestätigte nun das BVerwG.",
-      "url": "https://www.reddit.com/r/de/comments/1vlcgqi/vorzeigesoldat_zurecht_aus_der_bundeswehr/",
+      "platform": "Reddit r/bundeswehr",
+      "author": "u/Impressive-Bar-9527",
+      "text": "Insolvenz und Berufssoldat werden",
+      "url": "https://www.reddit.com/r/bundeswehr/comments/1vru8ih/insolvenz_und_berufssoldat_werden/",
       "engagement": 0,
-      "ts": "2026-08-11T09:18:47+00:00",
+      "ts": "2026-08-18T16:30:23+00:00",
       "alwaysKeep": true,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Reddit r/bundeswehr",
+      "author": "u/Away-Gift5543",
+      "text": "Hosengröße",
+      "url": "https://www.reddit.com/r/bundeswehr/comments/1vrlq30/hosengröße/",
+      "engagement": 0,
+      "ts": "2026-08-18T10:50:32+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Reddit r/bundeswehr",
+      "author": "u/G3genwind",
+      "text": "186.700 Soldaten: Bundeswehr erreicht Personalziel",
+      "url": "https://www.reddit.com/r/bundeswehr/comments/1vqw5im/186700_soldaten_bundeswehr_erreicht_personalziel/",
+      "engagement": 0,
+      "ts": "2026-08-17T15:52:29+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Reddit r/bundeswehr",
+      "author": "u/Upper-Camp7211",
+      "text": "Musterung T4 Einstufung anfechten",
+      "url": "https://www.reddit.com/r/bundeswehr/comments/1vqt54c/musterung_t4_einstufung_anfechten/",
+      "engagement": 0,
+      "ts": "2026-08-17T13:59:34+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Reddit r/bundeswehr",
+      "author": "u/DEU_Hornblower",
+      "text": "Läuft bei uns: Personalstärke Juli 2026: Höchster Stand seit 2013, Ministerium sieht sich im Zielkorridor",
+      "url": "https://www.reddit.com/r/bundeswehr/comments/1vqt0zm/läuft_bei_uns_personalstärke_juli_2026_höchster/",
+      "engagement": 0,
+      "ts": "2026-08-17T13:55:04+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Sicherheitshalber der Podcast #110: Wirtschaft, Wissenschaft, Waffen: KI bedeutet Macht! | Schraubt Putin am Risiko?",
+      "url": "https://augengeradeaus.net/2026/08/sicherheitshalber-der-podcast-110-wirtschaft-wissenschaft-waffen-ki-bedeutet-macht-schraubt-putin-am-risiko/",
+      "engagement": 0,
+      "ts": "Tue, 18 Aug 2026 09:50:07 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -85,7 +135,7 @@
       "engagement": 0,
       "ts": "Mon, 17 Aug 2026 12:22:00 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -130,70 +180,70 @@
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
+      "text": "Die ersten Bilder der deutschen F-35",
+      "url": "https://esut.de/2026/08/meldungen/73871/erste-bilder-der-deutschen-f-35/",
+      "engagement": 0,
+      "ts": "Tue, 18 Aug 2026 19:58:20 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Deutsches Technologiezentrum für Drohnensicherheit eröffnet",
+      "url": "https://esut.de/2026/08/meldungen/73854/technologie-drohnensicherheit/",
+      "engagement": 0,
+      "ts": "Tue, 18 Aug 2026 18:03:21 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Luftschlag in Syrien: Israels Botschaft an die Türkei",
+      "url": "https://esut.de/2026/08/meldungen/73860/luftschlag-syrien-israel-tuerkei/",
+      "engagement": 0,
+      "ts": "Tue, 18 Aug 2026 12:43:30 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Der Dead-Man Switch der Digitalen Souveränität",
+      "url": "https://esut.de/2026/08/fachbeitraege/73002/der-dead-man-switch-der-digitalen-souveraenitaet/",
+      "engagement": 0,
+      "ts": "Tue, 18 Aug 2026 08:18:02 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Finland Model: Trumps Strategiepapier für die U.S. Navy",
+      "url": "https://esut.de/2026/08/meldungen/73842/trumps-strategiepapier-u-s-navy/",
+      "engagement": 0,
+      "ts": "Tue, 18 Aug 2026 08:04:52 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
       "text": "Tahr – Allianz für Bundeswehr-Luftlandefahrzeug",
       "url": "https://esut.de/2026/08/meldungen/73837/bundeswehr-luftlandefahrzeugs-tahr/",
       "engagement": 0,
       "ts": "Mon, 17 Aug 2026 17:10:35 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Fraunhofer FKIE: Doppelspitze mit Christoph Igel",
-      "url": "https://esut.de/2026/08/meldungen/73825/fkie-doppelspitze-christoph-igel/",
-      "engagement": 0,
-      "ts": "Mon, 17 Aug 2026 12:40:48 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "IRIS2: Start-up schlägt Airbus bei Milliardenauftrag",
-      "url": "https://esut.de/2026/08/meldungen/73829/iris2-start-up-airbus-milliarden/",
-      "engagement": 0,
-      "ts": "Mon, 17 Aug 2026 11:53:36 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "165 mobile Rettungsstationen für die Bundeswehr",
-      "url": "https://esut.de/2026/08/meldungen/73820/165-rettungsstationen-bundeswehr/",
-      "engagement": 0,
-      "ts": "Mon, 17 Aug 2026 09:47:15 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Rheinmetall-Kompetenzzentrum für Landautonomie in Großbritannien",
-      "url": "https://esut.de/2026/08/meldungen/73811/rheinmetall-kompetenzzentrum/",
-      "engagement": 0,
-      "ts": "Sun, 16 Aug 2026 09:00:27 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "MEKO A-200 DEU und U212CD – TKMS im Aufwind",
-      "url": "https://esut.de/2026/08/meldungen/73794/tkms-prognose-marine-2026/",
-      "engagement": 0,
-      "ts": "Sun, 16 Aug 2026 05:05:37 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Die Bundeswehr ist im Fokus, insbesondere auf die Themen Drohnen, Personalstärke und KI-Integration.",
+    "summary": "Die Bundeswehr diskutiert umfangreich über Sicherheit und Modernisierung, insbesondere im Hinblick auf Drohnen und KI.",
     "themes": [
-      "Drohnen: Die Bundeswehr meldet Hunderte Drohnensichtungen in vergangenen Jahren",
-      "Personalstärke: Die Bundeswehr erreicht Personalziel für das Jahr 2026 mit höchstem Stand seit 2013",
-      "KI-Integration: Konzeption für die KI-Integration in der Bundeswehr nun in öffentlicher Fassung"
+      "Drohnenangriffe und -sichtungen",
+      "Künstliche Intelligenz (KI) in der Bundeswehr",
+      "Personalstärke und Zielkorridor"
     ]
   }
 }

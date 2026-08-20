@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-19T03:34:09.353Z",
-  "timestamp": "19.8.2026, 05:34:09",
+  "generated": "2026-08-20T03:34:02.814Z",
+  "timestamp": "20.8.2026, 05:34:02",
   "items": [
     {
       "platform": "Mastodon",
@@ -9,31 +9,20 @@
       "url": "https://digitalcourage.social/@BlumeEvolution/117097824090357023",
       "engagement": 26,
       "ts": "2026-08-15T05:16:37.000Z",
-      "followers": 3555,
+      "followers": 3563,
       "isBot": false,
-      "sentiment": "positiv"
-    },
-    {
-      "platform": "Mastodon",
-      "author": "@tagesschau@ard.social",
-      "text": "Bundeswehr meldet Hunderte Drohnensichtungen in vergangenen Jahren Drohnensichtungen in der Nähe von Bundeswehr-Standorten sind längst keine Einzelfälle mehr. Die Bundeswehr spricht von mehreren hundert sicherheitsrelevanten Zwischenfällen mit Drohnen in den vergangenen Jahren. ➡️ https://www. tagesschau.de/inland/bundesweh r-drohnenueberfluege-100.html?at_medium=mastodon&at_campaign=tagesschau.de",
-      "url": "https://ard.social/@tagesschau/117081570182655314",
-      "engagement": 3,
-      "ts": "2026-08-12T08:23:02.000Z",
-      "followers": 93101,
-      "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
       "author": "@heiseonline@social.heise.de",
       "text": "Sicherheit vor Drohnenangriffen: DLR-Forschungszentrum nimmt Arbeit auf Eine Sprengstoffdrohne am Flughafen Leipzig/Halle hat die Gefahr deutlich gemacht. In Sachsen-Anhalt soll nun für mehr Drohnensicherheit geforscht werden. https://www. heise.de/news/Sicherheit-vor-D rohnenangriffen-DLR-Forschungszentrum-nimmt-Arbeit-auf-11416801.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraege.md_beitraege&",
       "url": "https://social.heise.de/@heiseonline/117115028985830564",
-      "engagement": 1,
+      "engagement": 8,
       "ts": "2026-08-18T06:12:03.000Z",
-      "followers": 86090,
+      "followers": 86106,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -42,9 +31,9 @@
       "url": "https://ard.social/@tagesschau/117111022042993575",
       "engagement": 1,
       "ts": "2026-08-17T13:13:02.000Z",
-      "followers": 93101,
+      "followers": 93187,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -53,9 +42,19 @@
       "url": "https://ard.social/@tagesschau/117101101187339821",
       "engagement": 0,
       "ts": "2026-08-15T19:10:02.000Z",
-      "followers": 93101,
+      "followers": 93187,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Reddit r/de",
+      "author": "u/PoroBraum",
+      "text": "Bundeswehr-Flugbereitschaft: Hälfte der Regierungsflüge hebt ohne Passagiere ab",
+      "url": "https://www.reddit.com/r/de/comments/1vsj96y/bundeswehrflugbereitschaft_hälfte_der/",
+      "engagement": 0,
+      "ts": "2026-08-19T11:04:39+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -64,56 +63,6 @@
       "url": "https://www.reddit.com/r/de/comments/1vpan39/riskante_grauzone_bundeswehr_schafft_einfallstor/",
       "engagement": 0,
       "ts": "2026-08-15T18:43:05+00:00",
-      "alwaysKeep": true,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Reddit r/bundeswehr",
-      "author": "u/Impressive-Bar-9527",
-      "text": "Insolvenz und Berufssoldat werden",
-      "url": "https://www.reddit.com/r/bundeswehr/comments/1vru8ih/insolvenz_und_berufssoldat_werden/",
-      "engagement": 0,
-      "ts": "2026-08-18T16:30:23+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Reddit r/bundeswehr",
-      "author": "u/Away-Gift5543",
-      "text": "Hosengröße",
-      "url": "https://www.reddit.com/r/bundeswehr/comments/1vrlq30/hosengröße/",
-      "engagement": 0,
-      "ts": "2026-08-18T10:50:32+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Reddit r/bundeswehr",
-      "author": "u/G3genwind",
-      "text": "186.700 Soldaten: Bundeswehr erreicht Personalziel",
-      "url": "https://www.reddit.com/r/bundeswehr/comments/1vqw5im/186700_soldaten_bundeswehr_erreicht_personalziel/",
-      "engagement": 0,
-      "ts": "2026-08-17T15:52:29+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Reddit r/bundeswehr",
-      "author": "u/Upper-Camp7211",
-      "text": "Musterung T4 Einstufung anfechten",
-      "url": "https://www.reddit.com/r/bundeswehr/comments/1vqt54c/musterung_t4_einstufung_anfechten/",
-      "engagement": 0,
-      "ts": "2026-08-17T13:59:34+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Reddit r/bundeswehr",
-      "author": "u/DEU_Hornblower",
-      "text": "Läuft bei uns: Personalstärke Juli 2026: Höchster Stand seit 2013, Ministerium sieht sich im Zielkorridor",
-      "url": "https://www.reddit.com/r/bundeswehr/comments/1vqt0zm/läuft_bei_uns_personalstärke_juli_2026_höchster/",
-      "engagement": 0,
-      "ts": "2026-08-17T13:55:04+00:00",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -160,6 +109,16 @@
     {
       "platform": "Bundeswehr Journal",
       "author": "Bundeswehr Journal",
+      "text": "Strategische Kooperationsvereinbarung von FTS und SIMA",
+      "url": "https://www.bundeswehr-journal.de/2026/strategische-kooperationsvereinbarung-von-fts-und-sima/",
+      "engagement": 0,
+      "ts": "Mon, 17 Aug 2026 21:00:07 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bundeswehr Journal",
+      "author": "Bundeswehr Journal",
       "text": "Rund 100 Rüstungsprojekte in der zweiten Jahreshälfte 2026",
       "url": "https://www.bundeswehr-journal.de/2026/rund-100-ruestungsprojekte-in-der-zweiten-jahreshaelfte-2026/",
       "engagement": 0,
@@ -168,12 +127,42 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "Bundeswehr Journal",
-      "author": "Bundeswehr Journal",
-      "text": "„Einige Hundert Drohnen“ über Bundeswehr-Gelände",
-      "url": "https://www.bundeswehr-journal.de/2026/einige-hundert-drohnen-ueber-bundeswehr-gelaende/",
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Iran plante Angriffe auf Militärziele in Europa",
+      "url": "https://esut.de/2026/08/meldungen/73920/iran-angriffe-militaerziele-europa/",
       "engagement": 0,
-      "ts": "Wed, 12 Aug 2026 18:00:05 +0000",
+      "ts": "Wed, 19 Aug 2026 14:36:49 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Rheinmetalls Skynex Luftverteidigung erhält neue Fähigkeiten",
+      "url": "https://esut.de/2026/08/meldungen/73912/rheinmetall-skynex-hensoldt-neu/",
+      "engagement": 0,
+      "ts": "Wed, 19 Aug 2026 13:24:38 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Anschütz und Teledyne SevenCs kooperieren für S-100-Standard",
+      "url": "https://esut.de/2026/08/meldungen/73894/anschuetz-teledyne-sevencs-s-100/",
+      "engagement": 0,
+      "ts": "Wed, 19 Aug 2026 10:06:33 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Mehler Systems übernimmt Mehrheit an Craig Ballistics",
+      "url": "https://esut.de/2026/08/meldungen/73864/mehler-systems-craig-ballistics/",
+      "engagement": 0,
+      "ts": "Wed, 19 Aug 2026 05:10:12 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -198,52 +187,22 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Luftschlag in Syrien: Israels Botschaft an die Türkei",
-      "url": "https://esut.de/2026/08/meldungen/73860/luftschlag-syrien-israel-tuerkei/",
+      "platform": "Spiegel Politik",
+      "author": "Spiegel Politik",
+      "text": "Verteidigung: Moritz Schularick fordert Armee der Zukunft statt teurer Alttechnik",
+      "url": "https://www.spiegel.de/politik/deutschland/verteidigung-moritz-schularick-fordert-armee-der-zukunft-statt-teurer-alttechnik-a-e6c3f28a-8cdf-4ace-8eab-d7271db232c8#ref=rss",
       "engagement": 0,
-      "ts": "Tue, 18 Aug 2026 12:43:30 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Der Dead-Man Switch der Digitalen Souveränität",
-      "url": "https://esut.de/2026/08/fachbeitraege/73002/der-dead-man-switch-der-digitalen-souveraenitaet/",
-      "engagement": 0,
-      "ts": "Tue, 18 Aug 2026 08:18:02 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Finland Model: Trumps Strategiepapier für die U.S. Navy",
-      "url": "https://esut.de/2026/08/meldungen/73842/trumps-strategiepapier-u-s-navy/",
-      "engagement": 0,
-      "ts": "Tue, 18 Aug 2026 08:04:52 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Tahr – Allianz für Bundeswehr-Luftlandefahrzeug",
-      "url": "https://esut.de/2026/08/meldungen/73837/bundeswehr-luftlandefahrzeugs-tahr/",
-      "engagement": 0,
-      "ts": "Mon, 17 Aug 2026 17:10:35 +0000",
+      "ts": "Wed, 19 Aug 2026 17:34:00 +0200",
       "alwaysKeep": true,
       "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Die Bundeswehr diskutiert umfangreich über Sicherheit und Modernisierung, insbesondere im Hinblick auf Drohnen und KI.",
+    "summary": "Die Bundeswehr plant eine Erhöhung der Personalstärke, die Forschungszentrum DLR arbeitet an der Sicherheit vor Drohnenangriffen und die Bundeswehr unterstützt den UN-Einsatz in Haiti. Gleichzeitig gibt es Berichte über die Häufigkeit von Regierungsflügen ohne Passagiere abzuheben.",
     "themes": [
-      "Drohnenangriffe und -sichtungen",
-      "Künstliche Intelligenz (KI) in der Bundeswehr",
-      "Personalstärke und Zielkorridor"
+      "Personalstärke",
+      "Sicherheit vor Drohnenangriffen",
+      "UN-Einsatz in Haiti und Regierungsflüge ohne Passagiere"
     ]
   }
 }

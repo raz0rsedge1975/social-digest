@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-20T03:34:02.814Z",
-  "timestamp": "20.8.2026, 05:34:02",
+  "generated": "2026-08-21T03:33:54.715Z",
+  "timestamp": "21.8.2026, 05:33:54",
   "items": [
     {
       "platform": "Mastodon",
@@ -9,7 +9,7 @@
       "url": "https://digitalcourage.social/@BlumeEvolution/117097824090357023",
       "engagement": 26,
       "ts": "2026-08-15T05:16:37.000Z",
-      "followers": 3563,
+      "followers": 3570,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -22,7 +22,7 @@
       "ts": "2026-08-18T06:12:03.000Z",
       "followers": 86106,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -33,7 +33,7 @@
       "ts": "2026-08-17T13:13:02.000Z",
       "followers": 93187,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
@@ -44,7 +44,7 @@
       "ts": "2026-08-15T19:10:02.000Z",
       "followers": 93187,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Reddit r/de",
@@ -63,6 +63,26 @@
       "url": "https://www.reddit.com/r/de/comments/1vpan39/riskante_grauzone_bundeswehr_schafft_einfallstor/",
       "engagement": 0,
       "ts": "2026-08-15T18:43:05+00:00",
+      "alwaysKeep": true,
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Rumänien: (Russische) Drohnen ohne Ende im NATO-Mitgliedsland",
+      "url": "https://augengeradeaus.net/2026/08/rumaenien-russische-drohnen-ohne-ende-im-nato-mitgliedsland/",
+      "engagement": 0,
+      "ts": "Thu, 20 Aug 2026 14:56:33 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Viel los vor Kaliningrad",
+      "url": "https://augengeradeaus.net/2026/08/viel-los-vor-kaliningrad/",
+      "engagement": 0,
+      "ts": "Thu, 20 Aug 2026 10:02:47 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -83,26 +103,6 @@
       "url": "https://augengeradeaus.net/2026/08/personalstaerke-juli-2026-hoechster-stand-seit-2013-ministerium-sieht-sich-im-zielkorridor/",
       "engagement": 0,
       "ts": "Mon, 17 Aug 2026 12:22:00 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Künstliche Intelligenz (KI) in der Bundeswehr: Konzeption jetzt in öffentlicher Fassung",
-      "url": "https://augengeradeaus.net/2026/08/kuenstliche-intelligenz-ki-in-der-bundeswehr-konzeption-jetzt-in-oeffentlicher-fassung/",
-      "engagement": 0,
-      "ts": "Thu, 13 Aug 2026 14:32:33 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Und schon wieder zurück…",
-      "url": "https://augengeradeaus.net/2026/08/und-schon-wieder-zurueck/",
-      "engagement": 0,
-      "ts": "Thu, 13 Aug 2026 14:31:53 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -129,80 +129,70 @@
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Iran plante Angriffe auf Militärziele in Europa",
-      "url": "https://esut.de/2026/08/meldungen/73920/iran-angriffe-militaerziele-europa/",
+      "text": "Der Kampfpanzer stirbt nicht – er wird neu erfunden",
+      "url": "https://esut.de/2026/08/meldungen/73967/der-kampfpanzer-stirbt-nicht-neu/",
       "engagement": 0,
-      "ts": "Wed, 19 Aug 2026 14:36:49 +0000",
+      "ts": "Thu, 20 Aug 2026 13:21:57 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Rheinmetalls Skynex Luftverteidigung erhält neue Fähigkeiten",
-      "url": "https://esut.de/2026/08/meldungen/73912/rheinmetall-skynex-hensoldt-neu/",
+      "text": "Private, mobile 5G Bubble mit Toughbook",
+      "url": "https://esut.de/2026/08/meldungen/73955/private-mobile-5g-bubble-toughbook/",
       "engagement": 0,
-      "ts": "Wed, 19 Aug 2026 13:24:38 +0000",
+      "ts": "Thu, 20 Aug 2026 13:00:17 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Anschütz und Teledyne SevenCs kooperieren für S-100-Standard",
-      "url": "https://esut.de/2026/08/meldungen/73894/anschuetz-teledyne-sevencs-s-100/",
+      "text": "System Development Lab von Airbus im Praxistest",
+      "url": "https://esut.de/2026/08/meldungen/73935/system-development-lab-airbus/",
       "engagement": 0,
-      "ts": "Wed, 19 Aug 2026 10:06:33 +0000",
+      "ts": "Thu, 20 Aug 2026 12:25:44 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Mehler Systems übernimmt Mehrheit an Craig Ballistics",
-      "url": "https://esut.de/2026/08/meldungen/73864/mehler-systems-craig-ballistics/",
+      "text": "Seetaube: Bundeswehr tauft erste maritime Aufklärungsdrohne",
+      "url": "https://esut.de/2026/08/meldungen/73949/seetaube-bundeswehr-maritim-drohne/",
       "engagement": 0,
-      "ts": "Wed, 19 Aug 2026 05:10:12 +0000",
+      "ts": "Thu, 20 Aug 2026 11:21:32 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Die ersten Bilder der deutschen F-35",
-      "url": "https://esut.de/2026/08/meldungen/73871/erste-bilder-der-deutschen-f-35/",
+      "text": "Nachtsichtgeräte: IEA MIL-OPTICS mit Low Light Innovations",
+      "url": "https://esut.de/2026/08/meldungen/73927/nachtsichtgeraet-iea-mil-optics/",
       "engagement": 0,
-      "ts": "Tue, 18 Aug 2026 19:58:20 +0000",
+      "ts": "Thu, 20 Aug 2026 09:56:47 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Deutsches Technologiezentrum für Drohnensicherheit eröffnet",
-      "url": "https://esut.de/2026/08/meldungen/73854/technologie-drohnensicherheit/",
+      "text": "Israels neue Präzisionsbomben nach JDAM-Vorbild",
+      "url": "https://esut.de/2026/08/meldungen/73941/israel-praezisionsbomben-jdam/",
       "engagement": 0,
-      "ts": "Tue, 18 Aug 2026 18:03:21 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Spiegel Politik",
-      "author": "Spiegel Politik",
-      "text": "Verteidigung: Moritz Schularick fordert Armee der Zukunft statt teurer Alttechnik",
-      "url": "https://www.spiegel.de/politik/deutschland/verteidigung-moritz-schularick-fordert-armee-der-zukunft-statt-teurer-alttechnik-a-e6c3f28a-8cdf-4ace-8eab-d7271db232c8#ref=rss",
-      "engagement": 0,
-      "ts": "Wed, 19 Aug 2026 17:34:00 +0200",
+      "ts": "Thu, 20 Aug 2026 08:50:22 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Die Bundeswehr plant eine Erhöhung der Personalstärke, die Forschungszentrum DLR arbeitet an der Sicherheit vor Drohnenangriffen und die Bundeswehr unterstützt den UN-Einsatz in Haiti. Gleichzeitig gibt es Berichte über die Häufigkeit von Regierungsflügen ohne Passagiere abzuheben.",
+    "summary": "Die Bundeswehr plant eine Erhöhung der Personalstärke, die Forschungszentrum DLR arbeitet an der Sicherheit vor Drohnenangriffen und es gibt Berichte über chinesische Spionage in Rumänien.",
     "themes": [
       "Personalstärke",
-      "Sicherheit vor Drohnenangriffen",
-      "UN-Einsatz in Haiti und Regierungsflüge ohne Passagiere"
+      "Drohnenangriffe",
+      "Chinesische Spionage"
     ]
   }
 }

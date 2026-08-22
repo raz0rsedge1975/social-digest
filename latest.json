@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-21T03:33:54.715Z",
-  "timestamp": "21.8.2026, 05:33:54",
+  "generated": "2026-08-22T03:34:05.803Z",
+  "timestamp": "22.8.2026, 05:34:05",
   "items": [
     {
       "platform": "Mastodon",
@@ -11,7 +11,7 @@
       "ts": "2026-08-15T05:16:37.000Z",
       "followers": 3570,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -20,9 +20,20 @@
       "url": "https://social.heise.de/@heiseonline/117115028985830564",
       "engagement": 8,
       "ts": "2026-08-18T06:12:03.000Z",
-      "followers": 86106,
+      "followers": 86135,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "Mastodon",
+      "author": "@tagesschau@ard.social",
+      "text": "NATO-Ostflanke: Auch deutsche Soldaten bauen Polens \"Ostschild\" Mit Panzergräben und Betonigeln befestigt Polen seine Grenzen. Auch deutsche Soldaten helfen beim Bau des \"Ostschilds\". Das Projekt soll die Verteidigung an der NATO-Ostflanke stärken. Von Palina Milling ➡️ https://www. tagesschau.de/ausland/europa/p olen-nato-ostflanke-eastern-shield-100.html?at_medium=mastodon&at_campaign=tagesschau",
+      "url": "https://ard.social/@tagesschau/117132192847346341",
+      "engagement": 2,
+      "ts": "2026-08-21T06:57:03.000Z",
+      "followers": 93229,
+      "isBot": false,
+      "sentiment": "negativ"
     },
     {
       "platform": "Mastodon",
@@ -31,9 +42,9 @@
       "url": "https://ard.social/@tagesschau/117111022042993575",
       "engagement": 1,
       "ts": "2026-08-17T13:13:02.000Z",
-      "followers": 93187,
+      "followers": 93229,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -42,9 +53,9 @@
       "url": "https://ard.social/@tagesschau/117101101187339821",
       "engagement": 0,
       "ts": "2026-08-15T19:10:02.000Z",
-      "followers": 93187,
+      "followers": 93229,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "positiv"
     },
     {
       "platform": "Reddit r/de",
@@ -54,7 +65,7 @@
       "engagement": 0,
       "ts": "2026-08-19T11:04:39+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Reddit r/de",
@@ -129,6 +140,46 @@
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
+      "text": "Ukraine als Testlabor für Nordkoreas KN-30 Raketen",
+      "url": "https://esut.de/2026/08/meldungen/74005/ukraine-nordkorea-kn-30-raketen/",
+      "engagement": 0,
+      "ts": "Fri, 21 Aug 2026 18:10:53 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Täuschung des Gegners auf dem gläsernen Gefechtsfeld",
+      "url": "https://esut.de/2026/08/fachbeitraege/73006/taeuschung-glaesernes-gefecht/",
+      "engagement": 0,
+      "ts": "Fri, 21 Aug 2026 13:05:52 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Honold baut GDELS-Zentrum in Memmingen",
+      "url": "https://esut.de/2026/08/meldungen/73981/honold-gdels-zentrum-memmingen/",
+      "engagement": 0,
+      "ts": "Fri, 21 Aug 2026 09:53:36 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Australiens Fokus auf die Collins-U-Boote",
+      "url": "https://esut.de/2026/08/meldungen/73959/collins-u-boote-australien/",
+      "engagement": 0,
+      "ts": "Fri, 21 Aug 2026 05:00:47 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
       "text": "Der Kampfpanzer stirbt nicht – er wird neu erfunden",
       "url": "https://esut.de/2026/08/meldungen/73967/der-kampfpanzer-stirbt-nicht-neu/",
       "engagement": 0,
@@ -147,52 +198,22 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "System Development Lab von Airbus im Praxistest",
-      "url": "https://esut.de/2026/08/meldungen/73935/system-development-lab-airbus/",
+      "platform": "Welt Topnews",
+      "author": "Welt Topnews",
+      "text": "Leitung von Militärzeitung wegen „Ungehorsams“ gefeuert – Reporterin spricht von „Schande“",
+      "url": "https://www.welt.de/politik/ausland/article6a88fb87c3692834ff6d8ec8/usa-leitung-von-militaerzeitung-wegen-ungehorsams-gefeuert-reporterin-spricht-von-schande.html",
       "engagement": 0,
-      "ts": "Thu, 20 Aug 2026 12:25:44 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Seetaube: Bundeswehr tauft erste maritime Aufklärungsdrohne",
-      "url": "https://esut.de/2026/08/meldungen/73949/seetaube-bundeswehr-maritim-drohne/",
-      "engagement": 0,
-      "ts": "Thu, 20 Aug 2026 11:21:32 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Nachtsichtgeräte: IEA MIL-OPTICS mit Low Light Innovations",
-      "url": "https://esut.de/2026/08/meldungen/73927/nachtsichtgeraet-iea-mil-optics/",
-      "engagement": 0,
-      "ts": "Thu, 20 Aug 2026 09:56:47 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Israels neue Präzisionsbomben nach JDAM-Vorbild",
-      "url": "https://esut.de/2026/08/meldungen/73941/israel-praezisionsbomben-jdam/",
-      "engagement": 0,
-      "ts": "Thu, 20 Aug 2026 08:50:22 +0000",
+      "ts": "Sat, 22 Aug 2026 01:57:30 GMT",
       "alwaysKeep": true,
       "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Die Bundeswehr plant eine Erhöhung der Personalstärke, die Forschungszentrum DLR arbeitet an der Sicherheit vor Drohnenangriffen und es gibt Berichte über chinesische Spionage in Rumänien.",
+    "summary": "Die Bundeswehr wird weiterhin im Fokus der Diskussion stehen, insbesondere im Hinblick auf die Sicherheit und den Ausbau der Streitkräfte. Die Diskussion um die NATO-Ostflanke und die Rolle Deutschlands in dieser Region ist ebenfalls aktuell. Darüber hinaus werden Themen wie die Privatisierung von Militärtechnologie und die Rolle der Bundeswehr bei internationalen Einsätzen im Fokus stehen.",
     "themes": [
-      "Personalstärke",
-      "Drohnenangriffe",
-      "Chinesische Spionage"
+      "NATO-Ostflanke",
+      "Bundeswehr-Ausbau",
+      "Privatisierung von Militärtechnologie"
     ]
   }
 }

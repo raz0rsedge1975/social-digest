@@ -1,18 +1,7 @@
 {
-  "generated": "2026-08-22T03:34:05.803Z",
-  "timestamp": "22.8.2026, 05:34:05",
+  "generated": "2026-08-23T03:34:04.283Z",
+  "timestamp": "23.8.2026, 05:34:04",
   "items": [
-    {
-      "platform": "Mastodon",
-      "author": "@BlumeEvolution@digitalcourage.social",
-      "text": "Guten Morgen - Tässle Kaffee ☕️? Auch Deutschland leidet zunehmend unter der noch immer verbreiteten Fehlannahme, es sei „zu teuer“, die globale Erhitzung zu bremsen. Die über Jahrzehnte externalisierten Kosten schlagen zunehmend auf Menschen & Mitwelt zurück. „Hunderte Feuerwehrkräfte kämpfen auch in der Nacht weiter gegen den großen Waldbrand im Hürtgenwald in der Eifel. Die Feuerwehr stelle sic",
-      "url": "https://digitalcourage.social/@BlumeEvolution/117097824090357023",
-      "engagement": 26,
-      "ts": "2026-08-15T05:16:37.000Z",
-      "followers": 3570,
-      "isBot": false,
-      "sentiment": "kritisch"
-    },
     {
       "platform": "Mastodon",
       "author": "@heiseonline@social.heise.de",
@@ -20,9 +9,9 @@
       "url": "https://social.heise.de/@heiseonline/117115028985830564",
       "engagement": 8,
       "ts": "2026-08-18T06:12:03.000Z",
-      "followers": 86135,
+      "followers": 86158,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -33,7 +22,7 @@
       "ts": "2026-08-21T06:57:03.000Z",
       "followers": 93229,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -42,17 +31,6 @@
       "url": "https://ard.social/@tagesschau/117111022042993575",
       "engagement": 1,
       "ts": "2026-08-17T13:13:02.000Z",
-      "followers": 93229,
-      "isBot": false,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Mastodon",
-      "author": "@tagesschau@ard.social",
-      "text": "Bundeswehr unterstützt UN-Einsatz in Haiti mit Lufttransport Vergangenes Jahr wurde ein UN-Einsatz in Haiti beschlossen - das Ziel: die Bekämpfung krimineller Banden, die weite Teile des Landes kontrollieren. Nun soll die Bundeswehr der Mission aus der Luft bei der Verlegung von Ausrüstung helfen. ➡️ https://www. tagesschau.de/ausland/bundeswe hr-haiti-100.html?at_medium=mastodon&at_campaign=tages",
-      "url": "https://ard.social/@tagesschau/117101101187339821",
-      "engagement": 0,
-      "ts": "2026-08-15T19:10:02.000Z",
       "followers": 93229,
       "isBot": false,
       "sentiment": "positiv"
@@ -65,17 +43,47 @@
       "engagement": 0,
       "ts": "2026-08-19T11:04:39+00:00",
       "alwaysKeep": true,
+      "sentiment": "negativ"
+    },
+    {
+      "platform": "YouTube (Bundeswehr)",
+      "author": "Bundeswehr",
+      "text": "Schiffstaucher-Training auf der Ostsee Teil 2 | Bundeswehr",
+      "url": "https://www.youtube.com/watch?v=DwggW9L37Ik",
+      "engagement": 0,
+      "ts": "2026-08-21T10:55:55+00:00",
+      "alwaysKeep": true,
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "YouTube (Bundeswehr)",
+      "author": "Bundeswehr",
+      "text": "Deutsche Pioniere bei Eastern Shield #bundeswehr #military #nato",
+      "url": "https://www.youtube.com/shorts/nH8NQPleZfI",
+      "engagement": 0,
+      "ts": "2026-08-20T15:51:02+00:00",
+      "alwaysKeep": true,
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "YouTube (Bundeswehr)",
+      "author": "Bundeswehr",
+      "text": "EASTERN SHIELD: Europas neue Verteidigungslinie an Polens Grenzen | Bundeswehr",
+      "url": "https://www.youtube.com/watch?v=VP9cDgX8UuM",
+      "engagement": 0,
+      "ts": "2026-08-20T14:33:33+00:00",
+      "alwaysKeep": true,
       "sentiment": "kritisch"
     },
     {
-      "platform": "Reddit r/de",
-      "author": "u/GirasoleDE",
-      "text": "Riskante Grauzone: Bundeswehr schafft Einfallstor für chinesische Spionage | Die Bundeswehr trainiert mit chinesischen Drohnen. Ihre Beschaffung ist voller Widersprüche: Nach CORRECTIV-Recherchen gelangte die Technik trotz bekannter Risiken und anderslautender Weisungen in die Truppe.",
-      "url": "https://www.reddit.com/r/de/comments/1vpan39/riskante_grauzone_bundeswehr_schafft_einfallstor/",
+      "platform": "YouTube (Bundeswehr)",
+      "author": "Bundeswehr",
+      "text": "Schiffstaucher-Training auf der Ostsee Teil 1 | Bundeswehr",
+      "url": "https://www.youtube.com/watch?v=vy0_l2rTBco",
       "engagement": 0,
-      "ts": "2026-08-15T18:43:05+00:00",
+      "ts": "2026-08-18T12:24:16+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "positiv"
     },
     {
       "platform": "Augen geradeaus!",
@@ -140,6 +148,36 @@
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
+      "text": "Russlands Terror: „Ein Auto kann fahren, drei Autos sind ein Ziel“",
+      "url": "https://esut.de/2026/08/meldungen/74014/russlands-terror-auto-fahren-ziel/",
+      "engagement": 0,
+      "ts": "Sat, 22 Aug 2026 19:28:12 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Analyse der nordeuropäischen Verteidigung und Resilienz",
+      "url": "https://esut.de/2026/08/fachbeitraege/73014/nordeuropa-verteidigung-model/",
+      "engagement": 0,
+      "ts": "Sat, 22 Aug 2026 09:00:00 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Reserve gesucht – Bürokratie gefunden",
+      "url": "https://esut.de/2026/08/fachbeitraege/73016/aufwuchs-der-reserve-stockt/",
+      "engagement": 0,
+      "ts": "Sat, 22 Aug 2026 05:00:52 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
       "text": "Ukraine als Testlabor für Nordkoreas KN-30 Raketen",
       "url": "https://esut.de/2026/08/meldungen/74005/ukraine-nordkorea-kn-30-raketen/",
       "engagement": 0,
@@ -168,52 +206,32 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Australiens Fokus auf die Collins-U-Boote",
-      "url": "https://esut.de/2026/08/meldungen/73959/collins-u-boote-australien/",
+      "platform": "Spiegel Politik",
+      "author": "Spiegel Politik",
+      "text": "Waffen für die Bundeswehr - Jens Plötner: »Das läuft leider nicht so wie bei Ikea«",
+      "url": "https://www.spiegel.de/politik/deutschland/waffen-fuer-die-bundeswehr-jens-ploetner-das-laeuft-leider-nicht-so-wie-bei-ikea-a-670f224f-8a19-4941-9968-ee6ebc3e984e#ref=rss",
       "engagement": 0,
-      "ts": "Fri, 21 Aug 2026 05:00:47 +0000",
+      "ts": "Sat, 22 Aug 2026 17:23:00 +0200",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Der Kampfpanzer stirbt nicht – er wird neu erfunden",
-      "url": "https://esut.de/2026/08/meldungen/73967/der-kampfpanzer-stirbt-nicht-neu/",
+      "platform": "Spiegel Politik",
+      "author": "Spiegel Politik",
+      "text": "News: Friedrich Merz, Alexander Dobrindt, Jens Plötner, Wehrressort, Caroline Wahl plaudert über Geld",
+      "url": "https://www.spiegel.de/politik/deutschland/news-friedrich-merz-im-huertgenwald-alexander-dobrindt-jens-ploetner-wehrressort-caroline-wahl-plaudert-ueber-geld-a-98d11cb9-fccd-462a-b8fa-55e2a19f4c4a#ref=rss",
       "engagement": 0,
-      "ts": "Thu, 20 Aug 2026 13:21:57 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Private, mobile 5G Bubble mit Toughbook",
-      "url": "https://esut.de/2026/08/meldungen/73955/private-mobile-5g-bubble-toughbook/",
-      "engagement": 0,
-      "ts": "Thu, 20 Aug 2026 13:00:17 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Welt Topnews",
-      "author": "Welt Topnews",
-      "text": "Leitung von Militärzeitung wegen „Ungehorsams“ gefeuert – Reporterin spricht von „Schande“",
-      "url": "https://www.welt.de/politik/ausland/article6a88fb87c3692834ff6d8ec8/usa-leitung-von-militaerzeitung-wegen-ungehorsams-gefeuert-reporterin-spricht-von-schande.html",
-      "engagement": 0,
-      "ts": "Sat, 22 Aug 2026 01:57:30 GMT",
+      "ts": "Sat, 22 Aug 2026 06:48:00 +0200",
       "alwaysKeep": true,
       "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Die Bundeswehr wird weiterhin im Fokus der Diskussion stehen, insbesondere im Hinblick auf die Sicherheit und den Ausbau der Streitkräfte. Die Diskussion um die NATO-Ostflanke und die Rolle Deutschlands in dieser Region ist ebenfalls aktuell. Darüber hinaus werden Themen wie die Privatisierung von Militärtechnologie und die Rolle der Bundeswehr bei internationalen Einsätzen im Fokus stehen.",
+    "summary": "Die Diskussion um die Sicherheit vor Drohnenangriffen und die NATO-Ostflanke dominieren den Bundeswehr-Diskurs. Darüber hinaus wird das Personalziel für 2026 und die Beschaffungs-Verzögerung von Waffen thematisiert.",
     "themes": [
+      "Drohnenangriffe",
       "NATO-Ostflanke",
-      "Bundeswehr-Ausbau",
-      "Privatisierung von Militärtechnologie"
+      "Personalziel 2026"
     ]
   }
 }

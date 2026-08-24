@@ -1,7 +1,43 @@
 {
-  "generated": "2026-08-23T03:34:04.283Z",
-  "timestamp": "23.8.2026, 05:34:04",
+  "generated": "2026-08-24T03:34:33.324Z",
+  "timestamp": "24.8.2026, 05:34:33",
   "items": [
+    {
+      "platform": "Bluesky",
+      "author": "@luftwaffe.bundeswehr.de",
+      "handle": "luftwaffe.bundeswehr.de",
+      "text": "Jubilee Air Show in Schweden! 🇩🇪🤝🇸🇪\n\nAuf der Malmen Air Base in Linköping wird das 100-jährige Bestehen der Swedish Air Force gefeiert. ✈️\nAuch wir sind mit mehreren Maschinen vor Ort – gemeinsam mit unseren internationalen Partnern. 🇸🇪\n\n(📸: Bundeswehr)",
+      "url": "https://bsky.app/profile/luftwaffe.bundeswehr.de/post/3mtox666r4s2y",
+      "engagement": 54,
+      "ts": "2026-08-22T18:54:26.982Z",
+      "followers": 3431,
+      "isBot": false,
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@alexmirdoch.bsky.social",
+      "handle": "alexmirdoch.bsky.social",
+      "text": "glaub die bundeswehr vermisst mehr oder",
+      "url": "https://bsky.app/profile/alexmirdoch.bsky.social/post/3mtqifwx2as2y",
+      "engagement": 11,
+      "ts": "2026-08-23T09:35:41.176Z",
+      "followers": 2965,
+      "isBot": false,
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@cpunktkpunkt.bsky.social",
+      "handle": "cpunktkpunkt.bsky.social",
+      "text": "3/3 wo es gerade brennt, wenn nötig, die Bundeswehr hilft. \n\nEr denkt aber, ein Tweet bei X sei genug. Seine größte Schwäche ist seine fehlende Sensibilität für die Botschaften, die er aussendet - selbst wenn er nichts sagt und tut. Wie schon wegen der tausenden Hitzetoten.",
+      "url": "https://bsky.app/profile/cpunktkpunkt.bsky.social/post/3mtpfbjrtcs2d",
+      "engagement": 10,
+      "ts": "2026-08-22T23:06:51.828Z",
+      "followers": 2087,
+      "isBot": false,
+      "sentiment": "negativ"
+    },
     {
       "platform": "Mastodon",
       "author": "@heiseonline@social.heise.de",
@@ -11,7 +47,7 @@
       "ts": "2026-08-18T06:12:03.000Z",
       "followers": 86158,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -22,7 +58,7 @@
       "ts": "2026-08-21T06:57:03.000Z",
       "followers": 93229,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
@@ -32,6 +68,18 @@
       "engagement": 1,
       "ts": "2026-08-17T13:13:02.000Z",
       "followers": 93229,
+      "isBot": false,
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@immidereinzige.bsky.social",
+      "handle": "immidereinzige.bsky.social",
+      "text": "#NAFO #NAFOfellas\n\nBei Kaliningrad\nBundeswehr unterstützt Polen beim Ausbau von Grenzbefestigungen\nntv, 20.08.2026\n\nwww.n-tv.de/politik/Pion...",
+      "url": "https://bsky.app/profile/immidereinzige.bsky.social/post/3mts6wumbtc2r",
+      "engagement": 0,
+      "ts": "2026-08-24T01:51:31.202Z",
+      "followers": 2979,
       "isBot": false,
       "sentiment": "positiv"
     },
@@ -43,7 +91,7 @@
       "engagement": 0,
       "ts": "2026-08-19T11:04:39+00:00",
       "alwaysKeep": true,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -53,7 +101,7 @@
       "engagement": 0,
       "ts": "2026-08-21T10:55:55+00:00",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -63,7 +111,7 @@
       "engagement": 0,
       "ts": "2026-08-20T15:51:02+00:00",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -73,7 +121,7 @@
       "engagement": 0,
       "ts": "2026-08-20T14:33:33+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -83,7 +131,7 @@
       "engagement": 0,
       "ts": "2026-08-18T12:24:16+00:00",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -136,12 +184,22 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "Bundeswehr Journal",
-      "author": "Bundeswehr Journal",
-      "text": "Rund 100 Rüstungsprojekte in der zweiten Jahreshälfte 2026",
-      "url": "https://www.bundeswehr-journal.de/2026/rund-100-ruestungsprojekte-in-der-zweiten-jahreshaelfte-2026/",
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Geheimer US-Korridor durch die Straße von Hormus",
+      "url": "https://esut.de/2026/08/meldungen/74019/geheim-us-korridor-strasse-hormus/",
       "engagement": 0,
-      "ts": "Sun, 16 Aug 2026 21:00:33 +0000",
+      "ts": "Sun, 23 Aug 2026 14:30:59 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Gegen den D-Day: Neues US-Konzept zur Abwehr amphibischer Invasionen",
+      "url": "https://esut.de/2026/08/fachbeitraege/73018/d-day-us-abwehr-invasionen/",
+      "engagement": 0,
+      "ts": "Sun, 23 Aug 2026 05:00:18 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -186,26 +244,6 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Täuschung des Gegners auf dem gläsernen Gefechtsfeld",
-      "url": "https://esut.de/2026/08/fachbeitraege/73006/taeuschung-glaesernes-gefecht/",
-      "engagement": 0,
-      "ts": "Fri, 21 Aug 2026 13:05:52 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Honold baut GDELS-Zentrum in Memmingen",
-      "url": "https://esut.de/2026/08/meldungen/73981/honold-gdels-zentrum-memmingen/",
-      "engagement": 0,
-      "ts": "Fri, 21 Aug 2026 09:53:36 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
       "platform": "Spiegel Politik",
       "author": "Spiegel Politik",
       "text": "Waffen für die Bundeswehr - Jens Plötner: »Das läuft leider nicht so wie bei Ikea«",
@@ -216,22 +254,22 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "Spiegel Politik",
-      "author": "Spiegel Politik",
-      "text": "News: Friedrich Merz, Alexander Dobrindt, Jens Plötner, Wehrressort, Caroline Wahl plaudert über Geld",
-      "url": "https://www.spiegel.de/politik/deutschland/news-friedrich-merz-im-huertgenwald-alexander-dobrindt-jens-ploetner-wehrressort-caroline-wahl-plaudert-ueber-geld-a-98d11cb9-fccd-462a-b8fa-55e2a19f4c4a#ref=rss",
+      "platform": "Welt Topnews",
+      "author": "Welt Topnews",
+      "text": "„Schluss mit zukunftsfeindlicher Politik“ – SPD-Spitze attackiert Gegner von „Sondervermögen“",
+      "url": "https://www.welt.de/politik/deutschland/article6a8b6ff0511d4fd3bc4e1814/spd-praesidium-attackiert-gegner-von-sondervermoegen-schluss-mit-zukunftsfeindlicher-politik.html",
       "engagement": 0,
-      "ts": "Sat, 22 Aug 2026 06:48:00 +0200",
+      "ts": "Sun, 23 Aug 2026 22:24:49 GMT",
       "alwaysKeep": true,
       "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Die Diskussion um die Sicherheit vor Drohnenangriffen und die NATO-Ostflanke dominieren den Bundeswehr-Diskurs. Darüber hinaus wird das Personalziel für 2026 und die Beschaffungs-Verzögerung von Waffen thematisiert.",
+    "summary": "Heute im Fokus: Die Bundeswehr ist auf verschiedenen Ebenen aktiv, von der Sicherheit vor Drohnenangriffen bis hin zum Ausbau des Ostens und der Personalstärke. Der Diskurs dreht sich um die Verteidigungslinie in Europa, die Ausbildung und den Einsatz der Bundeswehr, sowie um politische Entscheidungen und -konflikte.",
     "themes": [
-      "Drohnenangriffe",
-      "NATO-Ostflanke",
-      "Personalziel 2026"
+      "Sicherheit vor Drohnenangriffen",
+      "Ausbau des Ostens und Eastern Shield",
+      "Personalstärke und -ziel für 2026"
     ]
   }
 }

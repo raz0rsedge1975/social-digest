@@ -1,42 +1,18 @@
 {
-  "generated": "2026-08-24T03:34:33.324Z",
-  "timestamp": "24.8.2026, 05:34:33",
+  "generated": "2026-08-25T03:33:36.041Z",
+  "timestamp": "25.8.2026, 05:33:36",
   "items": [
     {
       "platform": "Bluesky",
-      "author": "@luftwaffe.bundeswehr.de",
-      "handle": "luftwaffe.bundeswehr.de",
-      "text": "Jubilee Air Show in Schweden! 🇩🇪🤝🇸🇪\n\nAuf der Malmen Air Base in Linköping wird das 100-jährige Bestehen der Swedish Air Force gefeiert. ✈️\nAuch wir sind mit mehreren Maschinen vor Ort – gemeinsam mit unseren internationalen Partnern. 🇸🇪\n\n(📸: Bundeswehr)",
-      "url": "https://bsky.app/profile/luftwaffe.bundeswehr.de/post/3mtox666r4s2y",
-      "engagement": 54,
-      "ts": "2026-08-22T18:54:26.982Z",
-      "followers": 3431,
+      "author": "@claudiasalowski.bsky.social",
+      "handle": "claudiasalowski.bsky.social",
+      "text": "Mein Freund Manu Stark hat ne ziemlich coole Doku über Drohnen bei der Bundeswehr gemacht und dafür u.a. mit @drfranksauer.bsky.social gedreht. Anschauen!\n\nwww.ardmediathek.de/video/auf-sp...",
+      "url": "https://bsky.app/profile/claudiasalowski.bsky.social/post/3mttt4pctjk2y",
+      "engagement": 25,
+      "ts": "2026-08-24T17:25:21.556Z",
+      "followers": 4280,
       "isBot": false,
       "sentiment": "positiv"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@alexmirdoch.bsky.social",
-      "handle": "alexmirdoch.bsky.social",
-      "text": "glaub die bundeswehr vermisst mehr oder",
-      "url": "https://bsky.app/profile/alexmirdoch.bsky.social/post/3mtqifwx2as2y",
-      "engagement": 11,
-      "ts": "2026-08-23T09:35:41.176Z",
-      "followers": 2965,
-      "isBot": false,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@cpunktkpunkt.bsky.social",
-      "handle": "cpunktkpunkt.bsky.social",
-      "text": "3/3 wo es gerade brennt, wenn nötig, die Bundeswehr hilft. \n\nEr denkt aber, ein Tweet bei X sei genug. Seine größte Schwäche ist seine fehlende Sensibilität für die Botschaften, die er aussendet - selbst wenn er nichts sagt und tut. Wie schon wegen der tausenden Hitzetoten.",
-      "url": "https://bsky.app/profile/cpunktkpunkt.bsky.social/post/3mtpfbjrtcs2d",
-      "engagement": 10,
-      "ts": "2026-08-22T23:06:51.828Z",
-      "followers": 2087,
-      "isBot": false,
-      "sentiment": "negativ"
     },
     {
       "platform": "Mastodon",
@@ -50,23 +26,24 @@
       "sentiment": "kritisch"
     },
     {
+      "platform": "Bluesky",
+      "author": "@idw-online.de",
+      "handle": "idw-online.de",
+      "text": "Ostdeutsche in Spitzenpositionen: Leichter Anstieg, aber Unterrepräsentation hält an\nDer Anteil Ostdeutscher in den Spitzenpositionen von Unternehmen, bei der Bundeswehr, in der Justiz und anderen Sektoren liegt seit Jahrzehnten deutlich unter...\nweiterlesen",
+      "url": "https://bsky.app/profile/idw-online.de/post/3mtsrwdhjlj2k",
+      "engagement": 3,
+      "ts": "2026-08-24T09:31:14+02:00",
+      "followers": 4257,
+      "isBot": false,
+      "sentiment": "negativ"
+    },
+    {
       "platform": "Mastodon",
       "author": "@tagesschau@ard.social",
       "text": "NATO-Ostflanke: Auch deutsche Soldaten bauen Polens \"Ostschild\" Mit Panzergräben und Betonigeln befestigt Polen seine Grenzen. Auch deutsche Soldaten helfen beim Bau des \"Ostschilds\". Das Projekt soll die Verteidigung an der NATO-Ostflanke stärken. Von Palina Milling ➡️ https://www. tagesschau.de/ausland/europa/p olen-nato-ostflanke-eastern-shield-100.html?at_medium=mastodon&at_campaign=tagesschau",
       "url": "https://ard.social/@tagesschau/117132192847346341",
       "engagement": 2,
       "ts": "2026-08-21T06:57:03.000Z",
-      "followers": 93229,
-      "isBot": false,
-      "sentiment": "positiv"
-    },
-    {
-      "platform": "Mastodon",
-      "author": "@tagesschau@ard.social",
-      "text": "Bundeswehr erreicht Personalziel für das Jahr 2026 Die Bundeswehr soll wachsen - und bisher scheint das auf freiwilliger Basis zu gelingen: Das Personalziel für 2026 ist erreicht. Während viele junge Männer den Fragebogen zum neuen Wehrdienst beantworten, sind es nur wenige Frauen. ➡️ https://www. tagesschau.de/inland/innenpoli tik/bundeswehr-personalziel-100.html?at_medium=mastodon&at_campaign=ta",
-      "url": "https://ard.social/@tagesschau/117111022042993575",
-      "engagement": 1,
-      "ts": "2026-08-17T13:13:02.000Z",
       "followers": 93229,
       "isBot": false,
       "sentiment": "kritisch"
@@ -81,7 +58,7 @@
       "ts": "2026-08-24T01:51:31.202Z",
       "followers": 2979,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Reddit r/de",
@@ -91,47 +68,7 @@
       "engagement": 0,
       "ts": "2026-08-19T11:04:39+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "YouTube (Bundeswehr)",
-      "author": "Bundeswehr",
-      "text": "Schiffstaucher-Training auf der Ostsee Teil 2 | Bundeswehr",
-      "url": "https://www.youtube.com/watch?v=DwggW9L37Ik",
-      "engagement": 0,
-      "ts": "2026-08-21T10:55:55+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "YouTube (Bundeswehr)",
-      "author": "Bundeswehr",
-      "text": "Deutsche Pioniere bei Eastern Shield #bundeswehr #military #nato",
-      "url": "https://www.youtube.com/shorts/nH8NQPleZfI",
-      "engagement": 0,
-      "ts": "2026-08-20T15:51:02+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "YouTube (Bundeswehr)",
-      "author": "Bundeswehr",
-      "text": "EASTERN SHIELD: Europas neue Verteidigungslinie an Polens Grenzen | Bundeswehr",
-      "url": "https://www.youtube.com/watch?v=VP9cDgX8UuM",
-      "engagement": 0,
-      "ts": "2026-08-20T14:33:33+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "YouTube (Bundeswehr)",
-      "author": "Bundeswehr",
-      "text": "Schiffstaucher-Training auf der Ostsee Teil 1 | Bundeswehr",
-      "url": "https://www.youtube.com/watch?v=vy0_l2rTBco",
-      "engagement": 0,
-      "ts": "2026-08-18T12:24:16+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Augen geradeaus!",
@@ -141,7 +78,7 @@
       "engagement": 0,
       "ts": "Thu, 20 Aug 2026 14:56:33 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Augen geradeaus!",
@@ -151,7 +88,7 @@
       "engagement": 0,
       "ts": "Thu, 20 Aug 2026 10:02:47 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Augen geradeaus!",
@@ -164,22 +101,32 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Personalstärke Juli 2026: Höchster Stand seit 2013, Ministerium sieht sich im Zielkorridor",
-      "url": "https://augengeradeaus.net/2026/08/personalstaerke-juli-2026-hoechster-stand-seit-2013-ministerium-sieht-sich-im-zielkorridor/",
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Patria und General Cherry kooperieren bei Drohnenproduktion",
+      "url": "https://esut.de/2026/08/meldungen/74022/patria-und-general-cherry-kooperieren-bei-drohnenproduktion/",
       "engagement": 0,
-      "ts": "Mon, 17 Aug 2026 12:22:00 +0000",
+      "ts": "Mon, 24 Aug 2026 21:00:01 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
-      "platform": "Bundeswehr Journal",
-      "author": "Bundeswehr Journal",
-      "text": "Strategische Kooperationsvereinbarung von FTS und SIMA",
-      "url": "https://www.bundeswehr-journal.de/2026/strategische-kooperationsvereinbarung-von-fts-und-sima/",
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "NATO: Der Wettlauf der Hubschrauber-Konzepte beginnt",
+      "url": "https://esut.de/2026/08/meldungen/luft/74035/nato-hubschrauber-nh90/",
       "engagement": 0,
-      "ts": "Mon, 17 Aug 2026 21:00:07 +0000",
+      "ts": "Mon, 24 Aug 2026 10:54:46 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "China schickt erstmals J-16-Kampfjets nach Afrika",
+      "url": "https://esut.de/2026/08/meldungen/74029/china-erst-j-16-kampfjet-afrika/",
+      "engagement": 0,
+      "ts": "Mon, 24 Aug 2026 09:45:18 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -212,64 +159,14 @@
       "ts": "Sat, 22 Aug 2026 19:28:12 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Analyse der nordeuropäischen Verteidigung und Resilienz",
-      "url": "https://esut.de/2026/08/fachbeitraege/73014/nordeuropa-verteidigung-model/",
-      "engagement": 0,
-      "ts": "Sat, 22 Aug 2026 09:00:00 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Reserve gesucht – Bürokratie gefunden",
-      "url": "https://esut.de/2026/08/fachbeitraege/73016/aufwuchs-der-reserve-stockt/",
-      "engagement": 0,
-      "ts": "Sat, 22 Aug 2026 05:00:52 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Ukraine als Testlabor für Nordkoreas KN-30 Raketen",
-      "url": "https://esut.de/2026/08/meldungen/74005/ukraine-nordkorea-kn-30-raketen/",
-      "engagement": 0,
-      "ts": "Fri, 21 Aug 2026 18:10:53 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Spiegel Politik",
-      "author": "Spiegel Politik",
-      "text": "Waffen für die Bundeswehr - Jens Plötner: »Das läuft leider nicht so wie bei Ikea«",
-      "url": "https://www.spiegel.de/politik/deutschland/waffen-fuer-die-bundeswehr-jens-ploetner-das-laeuft-leider-nicht-so-wie-bei-ikea-a-670f224f-8a19-4941-9968-ee6ebc3e984e#ref=rss",
-      "engagement": 0,
-      "ts": "Sat, 22 Aug 2026 17:23:00 +0200",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Welt Topnews",
-      "author": "Welt Topnews",
-      "text": "„Schluss mit zukunftsfeindlicher Politik“ – SPD-Spitze attackiert Gegner von „Sondervermögen“",
-      "url": "https://www.welt.de/politik/deutschland/article6a8b6ff0511d4fd3bc4e1814/spd-praesidium-attackiert-gegner-von-sondervermoegen-schluss-mit-zukunftsfeindlicher-politik.html",
-      "engagement": 0,
-      "ts": "Sun, 23 Aug 2026 22:24:49 GMT",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Heute im Fokus: Die Bundeswehr ist auf verschiedenen Ebenen aktiv, von der Sicherheit vor Drohnenangriffen bis hin zum Ausbau des Ostens und der Personalstärke. Der Diskurs dreht sich um die Verteidigungslinie in Europa, die Ausbildung und den Einsatz der Bundeswehr, sowie um politische Entscheidungen und -konflikte.",
+    "summary": "Der Diskurs des Tages dominiert durch die Sicherheitsfragen im Zusammenhang mit Drohnen und der NATO, sowie die Ausbau von Grenzbefestigungen an der Ostflanke.",
     "themes": [
-      "Sicherheit vor Drohnenangriffen",
-      "Ausbau des Ostens und Eastern Shield",
-      "Personalstärke und -ziel für 2026"
+      "Drohnen-Sicherheit",
+      "NATO-Ostflanke",
+      "Grenzbefestigungen"
     ]
   }
 }

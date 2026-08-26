@@ -1,42 +1,7 @@
 {
-  "generated": "2026-08-25T03:33:36.041Z",
-  "timestamp": "25.8.2026, 05:33:36",
+  "generated": "2026-08-26T03:33:02.178Z",
+  "timestamp": "26.8.2026, 05:33:02",
   "items": [
-    {
-      "platform": "Bluesky",
-      "author": "@claudiasalowski.bsky.social",
-      "handle": "claudiasalowski.bsky.social",
-      "text": "Mein Freund Manu Stark hat ne ziemlich coole Doku über Drohnen bei der Bundeswehr gemacht und dafür u.a. mit @drfranksauer.bsky.social gedreht. Anschauen!\n\nwww.ardmediathek.de/video/auf-sp...",
-      "url": "https://bsky.app/profile/claudiasalowski.bsky.social/post/3mttt4pctjk2y",
-      "engagement": 25,
-      "ts": "2026-08-24T17:25:21.556Z",
-      "followers": 4280,
-      "isBot": false,
-      "sentiment": "positiv"
-    },
-    {
-      "platform": "Mastodon",
-      "author": "@heiseonline@social.heise.de",
-      "text": "Sicherheit vor Drohnenangriffen: DLR-Forschungszentrum nimmt Arbeit auf Eine Sprengstoffdrohne am Flughafen Leipzig/Halle hat die Gefahr deutlich gemacht. In Sachsen-Anhalt soll nun für mehr Drohnensicherheit geforscht werden. https://www. heise.de/news/Sicherheit-vor-D rohnenangriffen-DLR-Forschungszentrum-nimmt-Arbeit-auf-11416801.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraege.md_beitraege&",
-      "url": "https://social.heise.de/@heiseonline/117115028985830564",
-      "engagement": 8,
-      "ts": "2026-08-18T06:12:03.000Z",
-      "followers": 86158,
-      "isBot": false,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@idw-online.de",
-      "handle": "idw-online.de",
-      "text": "Ostdeutsche in Spitzenpositionen: Leichter Anstieg, aber Unterrepräsentation hält an\nDer Anteil Ostdeutscher in den Spitzenpositionen von Unternehmen, bei der Bundeswehr, in der Justiz und anderen Sektoren liegt seit Jahrzehnten deutlich unter...\nweiterlesen",
-      "url": "https://bsky.app/profile/idw-online.de/post/3mtsrwdhjlj2k",
-      "engagement": 3,
-      "ts": "2026-08-24T09:31:14+02:00",
-      "followers": 4257,
-      "isBot": false,
-      "sentiment": "negativ"
-    },
     {
       "platform": "Mastodon",
       "author": "@tagesschau@ard.social",
@@ -46,19 +11,7 @@
       "ts": "2026-08-21T06:57:03.000Z",
       "followers": 93229,
       "isBot": false,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@immidereinzige.bsky.social",
-      "handle": "immidereinzige.bsky.social",
-      "text": "#NAFO #NAFOfellas\n\nBei Kaliningrad\nBundeswehr unterstützt Polen beim Ausbau von Grenzbefestigungen\nntv, 20.08.2026\n\nwww.n-tv.de/politik/Pion...",
-      "url": "https://bsky.app/profile/immidereinzige.bsky.social/post/3mts6wumbtc2r",
-      "engagement": 0,
-      "ts": "2026-08-24T01:51:31.202Z",
-      "followers": 2979,
-      "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -68,7 +21,17 @@
       "engagement": 0,
       "ts": "2026-08-19T11:04:39+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "UN und Rotes Kreuz dringen auf Regeln für autonome Waffensysteme",
+      "url": "https://augengeradeaus.net/2026/08/un-und-rotes-kreuz-dringen-auf-regeln-fuer-autonome-waffensysteme/",
+      "engagement": 0,
+      "ts": "Tue, 25 Aug 2026 09:21:13 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -78,7 +41,7 @@
       "engagement": 0,
       "ts": "Thu, 20 Aug 2026 14:56:33 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -88,15 +51,45 @@
       "engagement": 0,
       "ts": "Thu, 20 Aug 2026 10:02:47 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Sicherheitshalber der Podcast #110: Wirtschaft, Wissenschaft, Waffen: KI bedeutet Macht! | Schraubt Putin am Risiko?",
-      "url": "https://augengeradeaus.net/2026/08/sicherheitshalber-der-podcast-110-wirtschaft-wissenschaft-waffen-ki-bedeutet-macht-schraubt-putin-am-risiko/",
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "U-Boot „Chabarowsk“ in See – Russlands neues Poseidon-Programm",
+      "url": "https://esut.de/2026/08/meldungen/74076/chabarowsk-ussland-poseidon-u-boot/",
       "engagement": 0,
-      "ts": "Tue, 18 Aug 2026 09:50:07 +0000",
+      "ts": "Tue, 25 Aug 2026 16:16:26 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Militärparade der Ukraine – Der Krieg der Roboter",
+      "url": "https://esut.de/2026/08/meldungen/74081/parade-ukraine-krieg-roboter/",
+      "engagement": 0,
+      "ts": "Tue, 25 Aug 2026 11:43:19 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Luftverteidigung: Geheime Kooperation für Taiwans T-Dome",
+      "url": "https://esut.de/2026/08/meldungen/74067/luftverteidigung-taiwan-t-dome/",
+      "engagement": 0,
+      "ts": "Tue, 25 Aug 2026 08:55:24 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Norwegen steigt in die CAVS-Beschaffung ein",
+      "url": "https://esut.de/2026/08/meldungen/74059/norwegen-cavs-beschaffung-ein/",
+      "engagement": 0,
+      "ts": "Tue, 25 Aug 2026 08:33:49 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -119,54 +112,15 @@
       "ts": "Mon, 24 Aug 2026 10:54:46 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "China schickt erstmals J-16-Kampfjets nach Afrika",
-      "url": "https://esut.de/2026/08/meldungen/74029/china-erst-j-16-kampfjet-afrika/",
-      "engagement": 0,
-      "ts": "Mon, 24 Aug 2026 09:45:18 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Geheimer US-Korridor durch die Straße von Hormus",
-      "url": "https://esut.de/2026/08/meldungen/74019/geheim-us-korridor-strasse-hormus/",
-      "engagement": 0,
-      "ts": "Sun, 23 Aug 2026 14:30:59 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Gegen den D-Day: Neues US-Konzept zur Abwehr amphibischer Invasionen",
-      "url": "https://esut.de/2026/08/fachbeitraege/73018/d-day-us-abwehr-invasionen/",
-      "engagement": 0,
-      "ts": "Sun, 23 Aug 2026 05:00:18 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Russlands Terror: „Ein Auto kann fahren, drei Autos sind ein Ziel“",
-      "url": "https://esut.de/2026/08/meldungen/74014/russlands-terror-auto-fahren-ziel/",
-      "engagement": 0,
-      "ts": "Sat, 22 Aug 2026 19:28:12 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Der Diskurs des Tages dominiert durch die Sicherheitsfragen im Zusammenhang mit Drohnen und der NATO, sowie die Ausbau von Grenzbefestigungen an der Ostflanke.",
+    "summary": "Die Diskussion um die NATO-Ostflanke und die deutsche Beteiligung an der Polen-Verteidigung, sowie die Besorgnisse über autonome Waffensysteme und russische Drohnen in Europa.",
     "themes": [
-      "Drohnen-Sicherheit",
-      "NATO-Ostflanke",
-      "Grenzbefestigungen"
+      "NATO-Ostflanke: Deutsche Soldaten bauen Polens 'Ostschild'",
+      "Autonome Waffensysteme: UN und Rotes Kreuz dringen auf Regeln",
+      "Russische Drohnen: Rumänien ist 'Drohnen-Hellstand' im NATO-Mitgliedsland",
+      "U-Boot-Chabarowsk: Russlands neues Poseidon-Programm wird in See gebracht"
     ]
   }
 }

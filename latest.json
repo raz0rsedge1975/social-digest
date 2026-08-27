@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-26T03:33:02.178Z",
-  "timestamp": "26.8.2026, 05:33:02",
+  "generated": "2026-08-27T03:33:32.017Z",
+  "timestamp": "27.8.2026, 05:33:32",
   "items": [
     {
       "platform": "Mastodon",
@@ -9,17 +9,67 @@
       "url": "https://ard.social/@tagesschau/117132192847346341",
       "engagement": 2,
       "ts": "2026-08-21T06:57:03.000Z",
-      "followers": 93229,
+      "followers": 93308,
       "isBot": false,
       "sentiment": "neutral"
     },
     {
-      "platform": "Reddit r/de",
-      "author": "u/PoroBraum",
-      "text": "Bundeswehr-Flugbereitschaft: Hälfte der Regierungsflüge hebt ohne Passagiere ab",
-      "url": "https://www.reddit.com/r/de/comments/1vsj96y/bundeswehrflugbereitschaft_hälfte_der/",
+      "platform": "YouTube (Bundeswehr)",
+      "author": "Bundeswehr",
+      "text": "Marinemusikkorps Kiel – „Anchors Aweigh“ | Bundeswehr",
+      "url": "https://www.youtube.com/watch?v=qp9VTluw9Us",
       "engagement": 0,
-      "ts": "2026-08-19T11:04:39+00:00",
+      "ts": "2026-08-26T16:00:09+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "YouTube (Bundeswehr)",
+      "author": "Bundeswehr",
+      "text": "Schiffstaucher-Training auf der Ostsee Teil 2 | Bundeswehr",
+      "url": "https://www.youtube.com/watch?v=DwggW9L37Ik",
+      "engagement": 0,
+      "ts": "2026-08-21T10:55:55+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "YouTube (Bundeswehr)",
+      "author": "Bundeswehr",
+      "text": "Deutsche Pioniere bei Eastern Shield #bundeswehr #military #nato",
+      "url": "https://www.youtube.com/shorts/nH8NQPleZfI",
+      "engagement": 0,
+      "ts": "2026-08-20T15:51:02+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "YouTube (Bundeswehr)",
+      "author": "Bundeswehr",
+      "text": "EASTERN SHIELD: Europas neue Verteidigungslinie an Polens Grenzen | Bundeswehr",
+      "url": "https://www.youtube.com/watch?v=VP9cDgX8UuM",
+      "engagement": 0,
+      "ts": "2026-08-20T14:33:33+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Zunehmend Cyber-Angriffe ausländischer Dienste auf deutsche Unternehmen",
+      "url": "https://augengeradeaus.net/2026/08/zunehmend-cyber-angriffe-auslaendischer-dienste-auf-deutsche-unternehmen/",
+      "engagement": 0,
+      "ts": "Wed, 26 Aug 2026 11:54:43 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "DroneWatch: Loitering Munition für den Nahbereich",
+      "url": "https://augengeradeaus.net/2026/08/dronewatch-loitering-munition-fuer-den-nahbereich/",
+      "engagement": 0,
+      "ts": "Wed, 26 Aug 2026 07:00:15 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -54,73 +104,82 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "U-Boot „Chabarowsk“ in See – Russlands neues Poseidon-Programm",
-      "url": "https://esut.de/2026/08/meldungen/74076/chabarowsk-ussland-poseidon-u-boot/",
+      "platform": "Bundeswehr Journal",
+      "author": "Bundeswehr Journal",
+      "text": "Lufthansa Aviation Training bildet Nachwuchspiloten aus",
+      "url": "https://www.bundeswehr-journal.de/2026/lufthansa-aviation-training-bildet-nachwuchspiloten-aus/",
       "engagement": 0,
-      "ts": "Tue, 25 Aug 2026 16:16:26 +0000",
+      "ts": "Wed, 26 Aug 2026 21:00:15 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Militärparade der Ukraine – Der Krieg der Roboter",
-      "url": "https://esut.de/2026/08/meldungen/74081/parade-ukraine-krieg-roboter/",
+      "text": "Schweres Berge-/Schleppfahrzeug für das italienische Heer",
+      "url": "https://esut.de/2026/08/meldungen/74104/berge-schleppfahrzeug-italien-heer/",
       "engagement": 0,
-      "ts": "Tue, 25 Aug 2026 11:43:19 +0000",
+      "ts": "Wed, 26 Aug 2026 18:00:53 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Luftverteidigung: Geheime Kooperation für Taiwans T-Dome",
-      "url": "https://esut.de/2026/08/meldungen/74067/luftverteidigung-taiwan-t-dome/",
+      "text": "Lufthansa Aviation Training schult angehende Jetpiloten der Bundeswehr",
+      "url": "https://esut.de/2026/08/meldungen/74183/lufthansa-jetpiloten-bundeswehr/",
       "engagement": 0,
-      "ts": "Tue, 25 Aug 2026 08:55:24 +0000",
+      "ts": "Wed, 26 Aug 2026 15:28:08 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Norwegen steigt in die CAVS-Beschaffung ein",
-      "url": "https://esut.de/2026/08/meldungen/74059/norwegen-cavs-beschaffung-ein/",
+      "text": "Präzision und Masse – Russlands neue Art der Kriegsführung",
+      "url": "https://esut.de/2026/08/meldungen/74179/praezision-masse-russland-krieg/",
       "engagement": 0,
-      "ts": "Tue, 25 Aug 2026 08:33:49 +0000",
+      "ts": "Wed, 26 Aug 2026 12:12:27 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Patria und General Cherry kooperieren bei Drohnenproduktion",
-      "url": "https://esut.de/2026/08/meldungen/74022/patria-und-general-cherry-kooperieren-bei-drohnenproduktion/",
+      "text": "DAMALS I Die Entwicklungsgeschichte des Zerstörers",
+      "url": "https://esut.de/2026/08/meldungen/74056/damals-entwicklung-zerstoerer/",
       "engagement": 0,
-      "ts": "Mon, 24 Aug 2026 21:00:01 +0000",
+      "ts": "Wed, 26 Aug 2026 11:00:18 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "NATO: Der Wettlauf der Hubschrauber-Konzepte beginnt",
-      "url": "https://esut.de/2026/08/meldungen/luft/74035/nato-hubschrauber-nh90/",
+      "text": "Rheinmetall baut erstes G-CAP-Camp in Litauen",
+      "url": "https://esut.de/2026/08/meldungen/74109/rheinmetall-g-cap-camp-in-litauen/",
       "engagement": 0,
-      "ts": "Mon, 24 Aug 2026 10:54:46 +0000",
+      "ts": "Wed, 26 Aug 2026 09:20:25 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Neues Programm zur U-Boot Abwehr der Royal Navy",
+      "url": "https://esut.de/2026/08/fachbeitraege/74069/u-boot-abwehr-royal-navy/",
+      "engagement": 0,
+      "ts": "Wed, 26 Aug 2026 05:00:24 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Die Diskussion um die NATO-Ostflanke und die deutsche Beteiligung an der Polen-Verteidigung, sowie die Besorgnisse über autonome Waffensysteme und russische Drohnen in Europa.",
+    "summary": "Die Bundeswehr präsentiert sich im Fokus der Öffentlichkeit, insbesondere durch die Vorbereitung auf den Eastern Shield und die Ausbildung von Soldaten. Gleichzeitig werden Cyber-Angriffe und die Entwicklung neuer Waffensysteme diskutiert.",
     "themes": [
-      "NATO-Ostflanke: Deutsche Soldaten bauen Polens 'Ostschild'",
-      "Autonome Waffensysteme: UN und Rotes Kreuz dringen auf Regeln",
-      "Russische Drohnen: Rumänien ist 'Drohnen-Hellstand' im NATO-Mitgliedsland",
-      "U-Boot-Chabarowsk: Russlands neues Poseidon-Programm wird in See gebracht"
+      "Eastern Shield",
+      "Cyber-Sicherheit",
+      "Autonome Waffensysteme"
     ]
   }
 }

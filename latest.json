@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-27T03:33:32.017Z",
-  "timestamp": "27.8.2026, 05:33:32",
+  "generated": "2026-08-28T03:33:14.762Z",
+  "timestamp": "28.8.2026, 05:33:14",
   "items": [
     {
       "platform": "Mastodon",
@@ -9,48 +9,8 @@
       "url": "https://ard.social/@tagesschau/117132192847346341",
       "engagement": 2,
       "ts": "2026-08-21T06:57:03.000Z",
-      "followers": 93308,
+      "followers": 93342,
       "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "YouTube (Bundeswehr)",
-      "author": "Bundeswehr",
-      "text": "Marinemusikkorps Kiel – „Anchors Aweigh“ | Bundeswehr",
-      "url": "https://www.youtube.com/watch?v=qp9VTluw9Us",
-      "engagement": 0,
-      "ts": "2026-08-26T16:00:09+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "YouTube (Bundeswehr)",
-      "author": "Bundeswehr",
-      "text": "Schiffstaucher-Training auf der Ostsee Teil 2 | Bundeswehr",
-      "url": "https://www.youtube.com/watch?v=DwggW9L37Ik",
-      "engagement": 0,
-      "ts": "2026-08-21T10:55:55+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "YouTube (Bundeswehr)",
-      "author": "Bundeswehr",
-      "text": "Deutsche Pioniere bei Eastern Shield #bundeswehr #military #nato",
-      "url": "https://www.youtube.com/shorts/nH8NQPleZfI",
-      "engagement": 0,
-      "ts": "2026-08-20T15:51:02+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "YouTube (Bundeswehr)",
-      "author": "Bundeswehr",
-      "text": "EASTERN SHIELD: Europas neue Verteidigungslinie an Polens Grenzen | Bundeswehr",
-      "url": "https://www.youtube.com/watch?v=VP9cDgX8UuM",
-      "engagement": 0,
-      "ts": "2026-08-20T14:33:33+00:00",
-      "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
@@ -84,26 +44,6 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Rumänien: (Russische) Drohnen ohne Ende im NATO-Mitgliedsland",
-      "url": "https://augengeradeaus.net/2026/08/rumaenien-russische-drohnen-ohne-ende-im-nato-mitgliedsland/",
-      "engagement": 0,
-      "ts": "Thu, 20 Aug 2026 14:56:33 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Viel los vor Kaliningrad",
-      "url": "https://augengeradeaus.net/2026/08/viel-los-vor-kaliningrad/",
-      "engagement": 0,
-      "ts": "Thu, 20 Aug 2026 10:02:47 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
       "platform": "Bundeswehr Journal",
       "author": "Bundeswehr Journal",
       "text": "Lufthansa Aviation Training bildet Nachwuchspiloten aus",
@@ -116,68 +56,78 @@
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Schweres Berge-/Schleppfahrzeug für das italienische Heer",
-      "url": "https://esut.de/2026/08/meldungen/74104/berge-schleppfahrzeug-italien-heer/",
+      "text": "„Jede Einheit ein Drohnenträger“ – Inspekteur Marine zieht Bilanz",
+      "url": "https://esut.de/2026/08/meldungen/74325/drohnentraeger-inspekteur-marine/",
       "engagement": 0,
-      "ts": "Wed, 26 Aug 2026 18:00:53 +0000",
+      "ts": "Thu, 27 Aug 2026 17:46:45 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Lufthansa Aviation Training schult angehende Jetpiloten der Bundeswehr",
-      "url": "https://esut.de/2026/08/meldungen/74183/lufthansa-jetpiloten-bundeswehr/",
+      "text": "Seeminen bei Hormus – Die Minenjagd wird unbemannt",
+      "url": "https://esut.de/2026/08/meldungen/74316/seeminen-hormus-minenjagd-usv/",
       "engagement": 0,
-      "ts": "Wed, 26 Aug 2026 15:28:08 +0000",
+      "ts": "Thu, 27 Aug 2026 16:21:02 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Präzision und Masse – Russlands neue Art der Kriegsführung",
-      "url": "https://esut.de/2026/08/meldungen/74179/praezision-masse-russland-krieg/",
+      "text": "Global 6000 für Bundeswehr-Aufklärung PEGASUS",
+      "url": "https://esut.de/2026/08/meldungen/74229/global-6000-bundeswehr-pegasus/",
       "engagement": 0,
-      "ts": "Wed, 26 Aug 2026 12:12:27 +0000",
+      "ts": "Thu, 27 Aug 2026 12:30:30 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "DAMALS I Die Entwicklungsgeschichte des Zerstörers",
-      "url": "https://esut.de/2026/08/meldungen/74056/damals-entwicklung-zerstoerer/",
+      "text": "Seemacht unter Zeitdruck: Analyse im MS&D Magazine 2026",
+      "url": "https://esut.de/2026/08/meldungen/74256/seemacht-zeit-msd-magazine-2026/",
       "engagement": 0,
-      "ts": "Wed, 26 Aug 2026 11:00:18 +0000",
+      "ts": "Thu, 27 Aug 2026 12:00:42 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Rheinmetall baut erstes G-CAP-Camp in Litauen",
-      "url": "https://esut.de/2026/08/meldungen/74109/rheinmetall-g-cap-camp-in-litauen/",
+      "text": "Japan lenkt Radpanzer in Finnland: Fernsteuerung über 7.800 km",
+      "url": "https://esut.de/2026/08/meldungen/74222/patria-japan-finland-amv-radpanzer/",
       "engagement": 0,
-      "ts": "Wed, 26 Aug 2026 09:20:25 +0000",
+      "ts": "Thu, 27 Aug 2026 11:00:23 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Neues Programm zur U-Boot Abwehr der Royal Navy",
-      "url": "https://esut.de/2026/08/fachbeitraege/74069/u-boot-abwehr-royal-navy/",
+      "text": "EGV Berlin startet heute zum 6-monatigen NATO-Einsatz",
+      "url": "https://esut.de/2026/08/meldungen/74218/egv-berlin-heute-6-monate-nato/",
       "engagement": 0,
-      "ts": "Wed, 26 Aug 2026 05:00:24 +0000",
+      "ts": "Thu, 27 Aug 2026 08:54:56 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Spiegel Politik",
+      "author": "Spiegel Politik",
+      "text": "Aufrüstung: Deutschland im Rüstungsrausch – wird das Geld sinnvoll genutzt?",
+      "url": "https://www.spiegel.de/politik/deutschland/aufruestung-deutschland-im-ruestungsrausch-wird-das-geld-sinnvoll-genutzt-a-e71ac0d9-d0e8-4776-ae6c-08fba3c5452f#ref=rss",
+      "engagement": 0,
+      "ts": "Thu, 27 Aug 2026 14:06:00 +0200",
       "alwaysKeep": true,
       "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Die Bundeswehr präsentiert sich im Fokus der Öffentlichkeit, insbesondere durch die Vorbereitung auf den Eastern Shield und die Ausbildung von Soldaten. Gleichzeitig werden Cyber-Angriffe und die Entwicklung neuer Waffensysteme diskutiert.",
+    "summary": "Die Diskussion um die NATO-Ostflanke und die Beteiligung deutscher Soldaten an der Polen-Verteidigung, sowie die zunehmenden Cyber-Angriffe auf deutsche Unternehmen und die Debatte über autonome Waffensysteme, dominieren den Bundeswehr-Diskurs in sozialen Medien heute.",
     "themes": [
-      "Eastern Shield",
+      "NATO-Ostflanke",
       "Cyber-Sicherheit",
       "Autonome Waffensysteme"
     ]

@@ -1,18 +1,7 @@
 {
-  "generated": "2026-08-28T03:33:14.762Z",
-  "timestamp": "28.8.2026, 05:33:14",
+  "generated": "2026-08-29T03:33:01.148Z",
+  "timestamp": "29.8.2026, 05:33:01",
   "items": [
-    {
-      "platform": "Mastodon",
-      "author": "@tagesschau@ard.social",
-      "text": "NATO-Ostflanke: Auch deutsche Soldaten bauen Polens \"Ostschild\" Mit Panzergräben und Betonigeln befestigt Polen seine Grenzen. Auch deutsche Soldaten helfen beim Bau des \"Ostschilds\". Das Projekt soll die Verteidigung an der NATO-Ostflanke stärken. Von Palina Milling ➡️ https://www. tagesschau.de/ausland/europa/p olen-nato-ostflanke-eastern-shield-100.html?at_medium=mastodon&at_campaign=tagesschau",
-      "url": "https://ard.social/@tagesschau/117132192847346341",
-      "engagement": 2,
-      "ts": "2026-08-21T06:57:03.000Z",
-      "followers": 93342,
-      "isBot": false,
-      "sentiment": "neutral"
-    },
     {
       "platform": "Augen geradeaus!",
       "author": "Augen geradeaus!",
@@ -56,80 +45,82 @@
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "„Jede Einheit ein Drohnenträger“ – Inspekteur Marine zieht Bilanz",
-      "url": "https://esut.de/2026/08/meldungen/74325/drohnentraeger-inspekteur-marine/",
+      "text": "Quantums Abfangdrohne STRILA zerstört Jet-Shahed",
+      "url": "https://esut.de/2026/08/meldungen/74377/quantum-abfangdrohne-strila-shahed/",
       "engagement": 0,
-      "ts": "Thu, 27 Aug 2026 17:46:45 +0000",
+      "ts": "Fri, 28 Aug 2026 14:59:53 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Seeminen bei Hormus – Die Minenjagd wird unbemannt",
-      "url": "https://esut.de/2026/08/meldungen/74316/seeminen-hormus-minenjagd-usv/",
+      "text": "Hybride Angriffe: Kriege und Krisen machen keine Sommerpause",
+      "url": "https://esut.de/2026/08/fachbeitraege/74113/hybride-angriffe-kriege-krisen/",
       "engagement": 0,
-      "ts": "Thu, 27 Aug 2026 16:21:02 +0000",
+      "ts": "Fri, 28 Aug 2026 13:00:17 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Global 6000 für Bundeswehr-Aufklärung PEGASUS",
-      "url": "https://esut.de/2026/08/meldungen/74229/global-6000-bundeswehr-pegasus/",
+      "text": "DAMALS I Tauchfähige Panzer – Der Anfang einer bedeutsamen Entwicklung?",
+      "url": "https://esut.de/2026/08/meldungen/74268/tauchfaehige-panzer-entwicklung/",
       "engagement": 0,
-      "ts": "Thu, 27 Aug 2026 12:30:30 +0000",
+      "ts": "Fri, 28 Aug 2026 11:00:24 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Seemacht unter Zeitdruck: Analyse im MS&D Magazine 2026",
-      "url": "https://esut.de/2026/08/meldungen/74256/seemacht-zeit-msd-magazine-2026/",
+      "text": "Indra macht die Panzerung von Kampffahrzeugen transparent",
+      "url": "https://esut.de/2026/08/meldungen/74336/indra-transparente-panzerung/",
       "engagement": 0,
-      "ts": "Thu, 27 Aug 2026 12:00:42 +0000",
+      "ts": "Fri, 28 Aug 2026 10:00:51 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Japan lenkt Radpanzer in Finnland: Fernsteuerung über 7.800 km",
-      "url": "https://esut.de/2026/08/meldungen/74222/patria-japan-finland-amv-radpanzer/",
+      "text": "MS&D 2026: Inspekteur der Marine Jan Christian Kaack hält Abschiedsrede",
+      "url": "https://esut.de/2026/08/meldungen/74243/msd-2026-inspekteur-marine-kaack/",
       "engagement": 0,
-      "ts": "Thu, 27 Aug 2026 11:00:23 +0000",
+      "ts": "Fri, 28 Aug 2026 09:26:55 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "EGV Berlin startet heute zum 6-monatigen NATO-Einsatz",
-      "url": "https://esut.de/2026/08/meldungen/74218/egv-berlin-heute-6-monate-nato/",
+      "text": "Rheinmetall baut neuen Defence-Hub am Flughafen Kassel",
+      "url": "https://esut.de/2026/08/meldungen/74331/rheinmetall-hub-flughafen-kassel/",
       "engagement": 0,
-      "ts": "Thu, 27 Aug 2026 08:54:56 +0000",
+      "ts": "Fri, 28 Aug 2026 07:55:05 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "Spiegel Politik",
       "author": "Spiegel Politik",
-      "text": "Aufrüstung: Deutschland im Rüstungsrausch – wird das Geld sinnvoll genutzt?",
-      "url": "https://www.spiegel.de/politik/deutschland/aufruestung-deutschland-im-ruestungsrausch-wird-das-geld-sinnvoll-genutzt-a-e71ac0d9-d0e8-4776-ae6c-08fba3c5452f#ref=rss",
+      "text": "AfD: Boris Pistorius und Cem Özdemir fordern Verbotsverfahren",
+      "url": "https://www.spiegel.de/politik/afd-boris-pistorius-und-cem-oezdemir-fordern-verbotsverfahren-a-7c800989-85d0-40b1-a00c-4c94845b53be#ref=rss",
       "engagement": 0,
-      "ts": "Thu, 27 Aug 2026 14:06:00 +0200",
+      "ts": "Fri, 28 Aug 2026 15:58:00 +0200",
       "alwaysKeep": true,
       "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Die Diskussion um die NATO-Ostflanke und die Beteiligung deutscher Soldaten an der Polen-Verteidigung, sowie die zunehmenden Cyber-Angriffe auf deutsche Unternehmen und die Debatte über autonome Waffensysteme, dominieren den Bundeswehr-Diskurs in sozialen Medien heute.",
+    "summary": "Heute diskutieren die sozialen Medien und Militärblogs über zunehmende Cyber-Angriffe, autonome Waffensysteme und Hybride Angriffe. Die Bundeswehr ist im Fokus, insbesondere bei der Beschaffung neuer Technologien wie der Abfangdrohne STRILA.",
     "themes": [
-      "NATO-Ostflanke",
-      "Cyber-Sicherheit",
-      "Autonome Waffensysteme"
+      "Zunehmende Cyber-Angriffe auf deutsche Unternehmen",
+      "Regeln für autonome Waffensysteme durch UN und Rotes Kreuz",
+      "Hybride Angriffe: Kriege und Krisen machen keine Sommerpause",
+      "Beschaffungsverzögerung der Abfangdrohne STRILA",
+      "AfD-Faschismus-Vorwurf von Boris Pistorius und Cem Özdemir"
     ]
   }
 }

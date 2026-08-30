@@ -1,7 +1,39 @@
 {
-  "generated": "2026-08-29T03:33:01.148Z",
-  "timestamp": "29.8.2026, 05:33:01",
+  "generated": "2026-08-30T03:33:23.396Z",
+  "timestamp": "30.8.2026, 05:33:23",
   "items": [
+    {
+      "platform": "Bluesky",
+      "author": "@rastadler.bsky.social",
+      "handle": "rastadler.bsky.social",
+      "text": "Diese Bundesregierung ist moralisch komplett bankrott. Zuerst verteidigt die Bundeswehr die Demokratie am Hindukusch und jetzt kuschelt der Protofaschist Dobrindt mit den Taliban, um rechtswidrig Menschen in einen Unrechtsstaat abzuschieben.  www.tagesschau.de/inland/innen...",
+      "url": "https://bsky.app/profile/rastadler.bsky.social/post/3muak4r26nk2t",
+      "engagement": 320,
+      "ts": "2026-08-29T18:48:56.295Z",
+      "followers": 6955,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "YouTube (Bundeswehr)",
+      "author": "Bundeswehr",
+      "text": "Marinemusikkorps Kiel – „Anchors Aweigh“ | Bundeswehr",
+      "url": "https://www.youtube.com/watch?v=qp9VTluw9Us",
+      "engagement": 0,
+      "ts": "2026-08-26T16:00:09+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Demnächst: günstige Tomahawk-Variante aus Leipzig?",
+      "url": "https://augengeradeaus.net/2026/08/demnaechst-guenstige-tomahawk-variante-aus-leipzig/",
+      "engagement": 0,
+      "ts": "Sat, 29 Aug 2026 11:16:36 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
     {
       "platform": "Augen geradeaus!",
       "author": "Augen geradeaus!",
@@ -39,6 +71,16 @@
       "url": "https://www.bundeswehr-journal.de/2026/lufthansa-aviation-training-bildet-nachwuchspiloten-aus/",
       "engagement": 0,
       "ts": "Wed, 26 Aug 2026 21:00:15 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Der deutsche Milliardenplan fürs Militär: Die drei großen Risiken",
+      "url": "https://esut.de/2026/08/fachbeitraege/74147/milliarden-militaer-risiken/",
+      "engagement": 0,
+      "ts": "Sat, 29 Aug 2026 05:42:04 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -93,16 +135,6 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Rheinmetall baut neuen Defence-Hub am Flughafen Kassel",
-      "url": "https://esut.de/2026/08/meldungen/74331/rheinmetall-hub-flughafen-kassel/",
-      "engagement": 0,
-      "ts": "Fri, 28 Aug 2026 07:55:05 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
       "platform": "Spiegel Politik",
       "author": "Spiegel Politik",
       "text": "AfD: Boris Pistorius und Cem Özdemir fordern Verbotsverfahren",
@@ -114,13 +146,13 @@
     }
   ],
   "analysis": {
-    "summary": "Heute diskutieren die sozialen Medien und Militärblogs über zunehmende Cyber-Angriffe, autonome Waffensysteme und Hybride Angriffe. Die Bundeswehr ist im Fokus, insbesondere bei der Beschaffung neuer Technologien wie der Abfangdrohne STRILA.",
+    "summary": "Heute diskutieren die sozialen Medien umstrittene Entscheidungen der Bundesregierung und die Rolle der Bundeswehr in der internationalen Sicherheit. Die AfD fordert ein Verbotsverfahren, während die Bundeswehr neue Technologien wie autonome Waffensysteme und Drohnen entwickelt.",
     "themes": [
-      "Zunehmende Cyber-Angriffe auf deutsche Unternehmen",
-      "Regeln für autonome Waffensysteme durch UN und Rotes Kreuz",
-      "Hybride Angriffe: Kriege und Krisen machen keine Sommerpause",
-      "Beschaffungsverzögerung der Abfangdrohne STRILA",
-      "AfD-Faschismus-Vorwurf von Boris Pistorius und Cem Özdemir"
+      "Pistorius' Wehrdienst-Modell",
+      "AfD-Faschismus-Vorwurf",
+      "Beschaffungs-Verzögerung Tomahawk-Variante",
+      "UN Regeln für autonome Waffensysteme",
+      "Hybride Angriffe und Kriege"
     ]
   }
 }

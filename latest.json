@@ -1,17 +1,7 @@
 {
-  "generated": "2026-08-31T03:33:11.970Z",
-  "timestamp": "31.8.2026, 05:33:11",
+  "generated": "2026-09-01T03:36:50.189Z",
+  "timestamp": "1.9.2026, 05:36:50",
   "items": [
-    {
-      "platform": "YouTube (Bundeswehr)",
-      "author": "Bundeswehr",
-      "text": "Marinemusikkorps Kiel – „Anchors Aweigh“ | Bundeswehr",
-      "url": "https://www.youtube.com/watch?v=qp9VTluw9Us",
-      "engagement": 0,
-      "ts": "2026-08-26T16:00:09+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
     {
       "platform": "Augen geradeaus!",
       "author": "Augen geradeaus!",
@@ -65,70 +55,66 @@
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Krieg in der Ukraine: Putins Russland handelt wie zu Sowjetzeiten",
-      "url": "https://esut.de/2026/08/fachbeitraege/74157/ukraine-krieg-putin-russland/",
+      "text": "SMM: SCILT NAVAL schützt Schiffe vor Drohnen",
+      "url": "https://esut.de/2026/08/meldungen/74406/smm-scilt-naval-schiffe-drohnen/",
       "engagement": 0,
-      "ts": "Sun, 30 Aug 2026 05:01:10 +0000",
+      "ts": "Mon, 31 Aug 2026 18:00:57 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Der deutsche Milliardenplan fürs Militär: Die drei großen Risiken",
-      "url": "https://esut.de/2026/08/fachbeitraege/74147/milliarden-militaer-risiken/",
+      "text": "Codename Eiger: Schweiz plant zivil-militärisches Drohnenzentrum",
+      "url": "https://esut.de/2026/08/meldungen/74411/schweiz-drohnenzentrum-eiger/",
       "engagement": 0,
-      "ts": "Sat, 29 Aug 2026 05:42:04 +0000",
+      "ts": "Mon, 31 Aug 2026 16:25:45 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Quantums Abfangdrohne STRILA zerstört Jet-Shahed",
-      "url": "https://esut.de/2026/08/meldungen/74377/quantum-abfangdrohne-strila-shahed/",
+      "text": "DAMALS I Künstliche Intelligenz: Begriffe und militärische Einsatz",
+      "url": "https://esut.de/2026/08/meldungen/74199/damals-ki-kuenstliche-intelligenz/",
       "engagement": 0,
-      "ts": "Fri, 28 Aug 2026 14:59:53 +0000",
+      "ts": "Mon, 31 Aug 2026 11:00:25 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Hybride Angriffe: Kriege und Krisen machen keine Sommerpause",
-      "url": "https://esut.de/2026/08/fachbeitraege/74113/hybride-angriffe-kriege-krisen/",
+      "text": "Startschuss für Achilles Shield: Griechenlands neue Luftverteidigung",
+      "url": "https://esut.de/2026/08/meldungen/74397/start-achilles-shield-griechenland/",
       "engagement": 0,
-      "ts": "Fri, 28 Aug 2026 13:00:17 +0000",
+      "ts": "Mon, 31 Aug 2026 10:24:22 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "DAMALS I Tauchfähige Panzer – Der Anfang einer bedeutsamen Entwicklung?",
-      "url": "https://esut.de/2026/08/meldungen/74268/tauchfaehige-panzer-entwicklung/",
+      "text": "ALHO wird Partner der Bundeswehr für Bauprogramm G-CAP Inland",
+      "url": "https://esut.de/2026/08/meldungen/74389/alho-bundeswehr-g-cap-inland/",
       "engagement": 0,
-      "ts": "Fri, 28 Aug 2026 11:00:24 +0000",
+      "ts": "Mon, 31 Aug 2026 09:11:19 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Indra macht die Panzerung von Kampffahrzeugen transparent",
-      "url": "https://esut.de/2026/08/meldungen/74336/indra-transparente-panzerung/",
+      "text": "DVD 2026: Liebherr-Bergefahrzeug MLTB 1025 4.1",
+      "url": "https://esut.de/2026/08/meldungen/74383/liebherr-bergefahrzeug-mltb-1025-4/",
       "engagement": 0,
-      "ts": "Fri, 28 Aug 2026 10:00:51 +0000",
+      "ts": "Mon, 31 Aug 2026 08:20:22 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Der Diskurs des Tages dominiert durch die Sicherheits- und Verteidigungsthemen, wobei der Fokus auf autonomen Waffensystemen, Cyber-Angriffen und hybriden Angriffen liegt. Die Bundeswehr und ihre Aktionen sind im Mittelpunkt des Diskurses.",
-    "themes": [
-      "[Augen geradeaus!] UN und Rotes Kreuz dringen auf Regeln für autonome Waffensysteme",
-      "[Augen geradeaus!] Zunehmend Cyber-Angriffe ausländischer Dienste auf deutsche Unternehmen",
-      "[ESUT Europ. Sicherheit] Hybride Angriffe: Kriege und Krisen machen keine Sommerpause"
-    ]
+    "summary": "Analyse fehlgeschlagen (ollama).",
+    "themes": []
   }
 }

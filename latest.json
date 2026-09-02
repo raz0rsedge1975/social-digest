@@ -1,7 +1,27 @@
 {
-  "generated": "2026-09-01T03:36:50.189Z",
-  "timestamp": "1.9.2026, 05:36:50",
+  "generated": "2026-09-02T03:36:55.420Z",
+  "timestamp": "2.9.2026, 05:36:55",
   "items": [
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Bundesregierung sieht Russland hinter Drohnen-Angriff, offizielle Reaktionen",
+      "url": "https://augengeradeaus.net/2026/09/bundesregierung-sieht-russland-hinter-drohnen-angriff-offizielle-reaktionen/",
+      "engagement": 0,
+      "ts": "Tue, 01 Sep 2026 15:54:39 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Warten auf Regierungs-Reaktion nach Drohnen-Angriff in Leizpzig, versuchter Anschlag auf Kraftwerk in Brandenburg",
+      "url": "https://augengeradeaus.net/2026/09/warten-auf-regierungs-reaktion-nach-drohnen-angriff-in-leizpzig-versuchter-anschlag-auf-kraftwerk-in-brandenburg/",
+      "engagement": 0,
+      "ts": "Tue, 01 Sep 2026 11:34:51 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
     {
       "platform": "Augen geradeaus!",
       "author": "Augen geradeaus!",
@@ -33,16 +53,6 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "UN und Rotes Kreuz dringen auf Regeln für autonome Waffensysteme",
-      "url": "https://augengeradeaus.net/2026/08/un-und-rotes-kreuz-dringen-auf-regeln-fuer-autonome-waffensysteme/",
-      "engagement": 0,
-      "ts": "Tue, 25 Aug 2026 09:21:13 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
       "platform": "Bundeswehr Journal",
       "author": "Bundeswehr Journal",
       "text": "Lufthansa Aviation Training bildet Nachwuchspiloten aus",
@@ -55,60 +65,60 @@
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "SMM: SCILT NAVAL schützt Schiffe vor Drohnen",
-      "url": "https://esut.de/2026/08/meldungen/74406/smm-scilt-naval-schiffe-drohnen/",
+      "text": "Cyber-Training für die Bundeswehr mit dem SANS Institute",
+      "url": "https://esut.de/2026/09/meldungen/74461/cyber-training-bundeswehr-sans/",
       "engagement": 0,
-      "ts": "Mon, 31 Aug 2026 18:00:57 +0000",
+      "ts": "Tue, 01 Sep 2026 18:00:38 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Codename Eiger: Schweiz plant zivil-militärisches Drohnenzentrum",
-      "url": "https://esut.de/2026/08/meldungen/74411/schweiz-drohnenzentrum-eiger/",
+      "text": "SMM: Anschütz mit Autonomics CGA für maritime Sicherheit",
+      "url": "https://esut.de/2026/09/meldungen/74423/smm-anschuetz-autonomics-cga/",
       "engagement": 0,
-      "ts": "Mon, 31 Aug 2026 16:25:45 +0000",
+      "ts": "Tue, 01 Sep 2026 16:25:27 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "DAMALS I Künstliche Intelligenz: Begriffe und militärische Einsatz",
-      "url": "https://esut.de/2026/08/meldungen/74199/damals-ki-kuenstliche-intelligenz/",
+      "text": "Rheinmetall liefert ersten Lynx XM30-Prototyp an U.S. Army",
+      "url": "https://esut.de/2026/09/meldungen/74446/u-s-army-ersten-lynx-xm30-prototyp/",
       "engagement": 0,
-      "ts": "Mon, 31 Aug 2026 11:00:25 +0000",
+      "ts": "Tue, 01 Sep 2026 11:41:54 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Startschuss für Achilles Shield: Griechenlands neue Luftverteidigung",
-      "url": "https://esut.de/2026/08/meldungen/74397/start-achilles-shield-griechenland/",
+      "text": "BDSV: Weibliche Führung für deutschen Rüstungsverband",
+      "url": "https://esut.de/2026/09/meldungen/74440/bdsv-weibliche-fuehrung/",
       "engagement": 0,
-      "ts": "Mon, 31 Aug 2026 10:24:22 +0000",
+      "ts": "Tue, 01 Sep 2026 10:12:56 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "ALHO wird Partner der Bundeswehr für Bauprogramm G-CAP Inland",
-      "url": "https://esut.de/2026/08/meldungen/74389/alho-bundeswehr-g-cap-inland/",
+      "text": "LUNA NG: Meilenstein für die Bundeswehr-Drohne HUSAR",
+      "url": "https://esut.de/2026/09/meldungen/74431/luna-ng-bundeswehr-drohne-husar/",
       "engagement": 0,
-      "ts": "Mon, 31 Aug 2026 09:11:19 +0000",
+      "ts": "Tue, 01 Sep 2026 09:04:11 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "DVD 2026: Liebherr-Bergefahrzeug MLTB 1025 4.1",
-      "url": "https://esut.de/2026/08/meldungen/74383/liebherr-bergefahrzeug-mltb-1025-4/",
+      "text": "David’s Sling: Finnland bleibt bei Israels Luftverteidigung",
+      "url": "https://esut.de/2026/09/meldungen/74428/davids-sling-finnland-israel/",
       "engagement": 0,
-      "ts": "Mon, 31 Aug 2026 08:20:22 +0000",
+      "ts": "Tue, 01 Sep 2026 08:41:42 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     }

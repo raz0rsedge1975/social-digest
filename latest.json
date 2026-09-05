@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T03:37:00.740Z",
-  "timestamp": "4.9.2026, 05:37:00",
+  "generated": "2026-09-05T03:37:00.029Z",
+  "timestamp": "5.9.2026, 05:37:00",
   "items": [
     {
       "platform": "Mastodon",
@@ -20,6 +20,26 @@
       "url": "https://www.reddit.com/r/de/comments/1w5xo9c/bundeswehr_startete_2001_ohne_mandat_nach/",
       "engagement": 0,
       "ts": "2026-09-03T04:54:17+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Wenn Organisierte Kriminalität die äußere Sicherheit bedroht",
+      "url": "https://augengeradeaus.net/2026/09/wenn-organisierte-kriminalitaet-die-aeussere-sicherheit-bedroht/",
+      "engagement": 0,
+      "ts": "Fri, 04 Sep 2026 16:12:57 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Paketstation statt Kleiderkammer (vorerst nur zum Tausch)",
+      "url": "https://augengeradeaus.net/2026/09/paketstation-statt-kleiderkammer-vorerst-nur-zum-tausch/",
+      "engagement": 0,
+      "ts": "Fri, 04 Sep 2026 13:54:31 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -56,60 +76,60 @@
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Lufthansa Technical Training qualifiziert Personal für Bundeswehr",
-      "url": "https://esut.de/2026/09/meldungen/74571/lufthansa-technical-training-bw/",
+      "text": "Frontflugzeuge der Sowjetunion",
+      "url": "https://esut.de/2026/09/fachbeitraege/74530/frontflugzeuge-der-sowjetunion/",
       "engagement": 0,
-      "ts": "Thu, 03 Sep 2026 18:00:27 +0000",
+      "ts": "Fri, 04 Sep 2026 21:00:39 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Analyse der Verteidigungspolitik der EU von 2020 bis 2026",
-      "url": "https://esut.de/2026/09/meldungen/74554/verteidigung-eu-2020-2026/",
+      "text": "Ukraine: Deutschland gewährt weitere 250 Mio. für Energiesektor",
+      "url": "https://esut.de/2026/09/meldungen/74590/ukraine-deutschland-energie/",
       "engagement": 0,
-      "ts": "Thu, 03 Sep 2026 15:00:22 +0000",
+      "ts": "Fri, 04 Sep 2026 13:00:23 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Paula Folkes ist neuer General Manager der NSPA",
-      "url": "https://esut.de/2026/09/meldungen/74550/paula-folkes-general-manager-nspa/",
+      "text": "Doppelspitze des Fraunhofer IOSB mit Prof. Marc Eichhorn",
+      "url": "https://esut.de/2026/09/meldungen/74598/fraunhofer-iosb-prof-marc-eichhorn/",
       "engagement": 0,
-      "ts": "Thu, 03 Sep 2026 12:10:06 +0000",
+      "ts": "Fri, 04 Sep 2026 12:55:34 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "INS Drakon: Israels letztes Dolphin U-Boot ist anders",
-      "url": "https://esut.de/2026/09/meldungen/74557/ins-drakon-israel-letzte-dolphin/",
+      "text": "Rheinmetall ermöglicht U.S. Navy mobile Flugzeugstarts",
+      "url": "https://esut.de/2026/09/meldungen/74594/rheinmetall-us-navy-mobil-flugzeug/",
       "engagement": 0,
-      "ts": "Thu, 03 Sep 2026 11:13:43 +0000",
+      "ts": "Fri, 04 Sep 2026 12:32:03 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Hanwhas K9: Von der Artillerie zum Wirkverbund",
-      "url": "https://esut.de/2026/09/meldungen/74543/hanwhas-k9-artillerie-wirkverbund/",
+      "text": "Sicherheit in Häfen: Der Ausweis reicht nicht mehr",
+      "url": "https://esut.de/2026/09/meldungen/74602/sicherheit-haefen-ausweis-nicht/",
       "engagement": 0,
-      "ts": "Thu, 03 Sep 2026 10:02:42 +0000",
+      "ts": "Fri, 04 Sep 2026 11:10:41 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Inleap Photonics: 20 Millionen Euro für Laser-Drohnenabwehr",
-      "url": "https://esut.de/2026/09/meldungen/74533/inleap-20-laser-drohnenabwehr/",
+      "text": "Yuan-Klasse: Ägypten vor U-Boot-Deal mit China?",
+      "url": "https://esut.de/2026/09/meldungen/74586/yuan-klasse-aegypten-u-boot-china/",
       "engagement": 0,
-      "ts": "Thu, 03 Sep 2026 09:21:50 +0000",
+      "ts": "Fri, 04 Sep 2026 08:57:32 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     }

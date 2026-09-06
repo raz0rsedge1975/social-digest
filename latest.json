@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-05T03:37:00.029Z",
-  "timestamp": "5.9.2026, 05:37:00",
+  "generated": "2026-09-06T03:37:02.745Z",
+  "timestamp": "6.9.2026, 05:37:02",
   "items": [
     {
       "platform": "Mastodon",
@@ -20,6 +20,36 @@
       "url": "https://www.reddit.com/r/de/comments/1w5xo9c/bundeswehr_startete_2001_ohne_mandat_nach/",
       "engagement": 0,
       "ts": "2026-09-03T04:54:17+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "YouTube (Bundeswehr)",
+      "author": "Bundeswehr",
+      "text": "Die Ausbildung im Tieftauchtopf der Marine I Bundeswehr",
+      "url": "https://www.youtube.com/watch?v=WtRuR1OTLKc",
+      "engagement": 0,
+      "ts": "2026-09-04T11:31:58+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "YouTube (Bundeswehr)",
+      "author": "Bundeswehr",
+      "text": "Nachgefragt: So kämpft die Bundeswehr im Cyberraum | Bundeswehr",
+      "url": "https://www.youtube.com/watch?v=d_J7t5M0qR8",
+      "engagement": 0,
+      "ts": "2026-09-03T13:55:22+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "YouTube (Bundeswehr)",
+      "author": "Bundeswehr",
+      "text": "Das neue Sturmgewehr für die Truppe: Das Gewehr G95",
+      "url": "https://www.youtube.com/watch?v=8oWtxtQ03sI",
+      "engagement": 0,
+      "ts": "2026-09-01T10:10:03+00:00",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -64,12 +94,12 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Demnächst: günstige Tomahawk-Variante aus Leipzig?",
-      "url": "https://augengeradeaus.net/2026/08/demnaechst-guenstige-tomahawk-variante-aus-leipzig/",
+      "platform": "Bundeswehr Journal",
+      "author": "Bundeswehr Journal",
+      "text": "SMM 2026: Treffen der maritimen Community in Hamburg",
+      "url": "https://www.bundeswehr-journal.de/2026/smm-2026-treffen-der-maritimen-community-in-hamburg/",
       "engagement": 0,
-      "ts": "Sat, 29 Aug 2026 11:16:36 +0000",
+      "ts": "Tue, 01 Sep 2026 21:00:03 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },

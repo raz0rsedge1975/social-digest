@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-06T03:37:02.745Z",
-  "timestamp": "6.9.2026, 05:37:02",
+  "generated": "2026-09-07T03:39:23.741Z",
+  "timestamp": "7.9.2026, 05:39:23",
   "items": [
     {
       "platform": "Mastodon",
@@ -14,12 +14,74 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "Reddit r/de",
-      "author": "u/East_Tomatillo3528",
-      "text": "Bundeswehr startete 2001 ohne Mandat nach Afghanistan",
-      "url": "https://www.reddit.com/r/de/comments/1w5xo9c/bundeswehr_startete_2001_ohne_mandat_nach/",
+      "platform": "Bluesky",
+      "author": "@susabagha23.bsky.social",
+      "handle": "susabagha23.bsky.social",
+      "text": "gesetzliche Verordnungen zum #Kritis Dachgesetz immer noch nicht erlassen!\n\nUnd überhaupt: Was haben die Daten der #Bundeswehr auf diesem Server verloren? Sollten die nicht gut gesichert auf einem separaten Server liegen? \nDeutschland bleibt ein IT-Unsicherheitsland! 😡",
+      "url": "https://bsky.app/profile/susabagha23.bsky.social/post/3muu4ipa2c22y",
       "engagement": 0,
-      "ts": "2026-09-03T04:54:17+00:00",
+      "ts": "2026-09-06T13:38:18.352Z",
+      "followers": 2380,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Reddit r/bundeswehr",
+      "author": "u/Sob6262",
+      "text": "Meine Familie glaubt nicht an mich und macht sich täglich lustig, da ich zur Bundeswehr will",
+      "url": "https://www.reddit.com/r/bundeswehr/comments/1w980j1/meine_familie_glaubt_nicht_an_mich_und_macht_sich/",
+      "engagement": 0,
+      "ts": "2026-09-06T20:57:06+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Reddit r/bundeswehr",
+      "author": "u/Lutscher09",
+      "text": "Fliegerische Eignungsfeststellung Phase II Psychologe",
+      "url": "https://www.reddit.com/r/bundeswehr/comments/1w8uhau/fliegerische_eignungsfeststellung_phase_ii/",
+      "engagement": 0,
+      "ts": "2026-09-06T12:08:47+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Reddit r/bundeswehr",
+      "author": "u/Different-Rhubarb960",
+      "text": "Unsicher",
+      "url": "https://www.reddit.com/r/bundeswehr/comments/1w8631y/unsicher/",
+      "engagement": 0,
+      "ts": "2026-09-05T16:58:26+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Reddit r/bundeswehr",
+      "author": "u/DEU_Hornblower",
+      "text": "Randnotiz: Paketstation statt Kleiderkammer (vorerst nur zum Tausch)",
+      "url": "https://www.reddit.com/r/bundeswehr/comments/1w83zsd/randnotiz_paketstation_statt_kleiderkammer/",
+      "engagement": 0,
+      "ts": "2026-09-05T15:37:49+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Reddit r/bundeswehr",
+      "author": "u/Pretend-Slide-8258",
+      "text": "Offizier im San-Dienst",
+      "url": "https://www.reddit.com/r/bundeswehr/comments/1w7z0xd/offizier_im_sandienst/",
+      "engagement": 0,
+      "ts": "2026-09-05T12:08:07+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Reddit r/bundeswehr",
+      "author": "u/Competitive-Cry3197",
+      "text": "Bahnfahren ohne Uniform",
+      "url": "https://www.reddit.com/r/bundeswehr/comments/1w7utz0/bahnfahren_ohne_uniform/",
+      "engagement": 0,
+      "ts": "2026-09-05T08:20:01+00:00",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -106,6 +168,46 @@
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
+      "text": "Technische Ausbildung entscheidet über Einsatzbereitschaft",
+      "url": "https://esut.de/2026/09/fachbeitraege/74141/technische-ausbildung/",
+      "engagement": 0,
+      "ts": "Sun, 06 Sep 2026 08:49:58 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "NATO STO richtet ihr Forschungsprogramm neu aus",
+      "url": "https://esut.de/2026/09/fachbeitraege/74143/nato-sto-richtet-ihr-forschungsprogramm-neu-aus/",
+      "engagement": 0,
+      "ts": "Sun, 06 Sep 2026 08:47:26 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Mehr als Krane und Kühlschränke: Liebherr Aerospace",
+      "url": "https://esut.de/2026/09/fachbeitraege/74131/mehr-als-krane-liebherr-aerospace/",
+      "engagement": 0,
+      "ts": "Sat, 05 Sep 2026 09:19:34 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Die Gerassimow-Doktrin – Mythos und Wirklichkeit",
+      "url": "https://esut.de/2026/09/fachbeitraege/74117/die-gerassimow-doktrin/",
+      "engagement": 0,
+      "ts": "Sat, 05 Sep 2026 09:03:46 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
       "text": "Frontflugzeuge der Sowjetunion",
       "url": "https://esut.de/2026/09/fachbeitraege/74530/frontflugzeuge-der-sowjetunion/",
       "engagement": 0,
@@ -124,42 +226,12 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Doppelspitze des Fraunhofer IOSB mit Prof. Marc Eichhorn",
-      "url": "https://esut.de/2026/09/meldungen/74598/fraunhofer-iosb-prof-marc-eichhorn/",
+      "platform": "Welt Topnews",
+      "author": "Welt Topnews",
+      "text": "„AfD ist zu einer Partei der Hoffnung geworden“ – de Maizière überrascht mit Eingeständnis",
+      "url": "https://www.welt.de/vermischtes/article6a9e222d240b302c8a83ba2f/caren-miosga-afd-ist-zu-einer-partei-der-hoffnung-geworden-de-maiziere-ueberrascht-mit-eingestaendnis.html",
       "engagement": 0,
-      "ts": "Fri, 04 Sep 2026 12:55:34 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Rheinmetall ermöglicht U.S. Navy mobile Flugzeugstarts",
-      "url": "https://esut.de/2026/09/meldungen/74594/rheinmetall-us-navy-mobil-flugzeug/",
-      "engagement": 0,
-      "ts": "Fri, 04 Sep 2026 12:32:03 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Sicherheit in Häfen: Der Ausweis reicht nicht mehr",
-      "url": "https://esut.de/2026/09/meldungen/74602/sicherheit-haefen-ausweis-nicht/",
-      "engagement": 0,
-      "ts": "Fri, 04 Sep 2026 11:10:41 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Yuan-Klasse: Ägypten vor U-Boot-Deal mit China?",
-      "url": "https://esut.de/2026/09/meldungen/74586/yuan-klasse-aegypten-u-boot-china/",
-      "engagement": 0,
-      "ts": "Fri, 04 Sep 2026 08:57:32 +0000",
+      "ts": "Mon, 07 Sep 2026 03:23:57 GMT",
       "alwaysKeep": true,
       "sentiment": "neutral"
     }

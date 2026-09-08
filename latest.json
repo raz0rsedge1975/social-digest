@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-07T03:39:23.741Z",
-  "timestamp": "7.9.2026, 05:39:23",
+  "generated": "2026-09-08T03:38:10.782Z",
+  "timestamp": "8.9.2026, 05:38:10",
   "items": [
     {
       "platform": "Mastodon",
@@ -9,109 +9,38 @@
       "url": "https://ard.social/@tagesschau/117204874834942739",
       "engagement": 11,
       "ts": "2026-09-03T03:01:02.000Z",
-      "followers": 93498,
+      "followers": 93619,
       "isBot": false,
       "sentiment": "neutral"
     },
     {
-      "platform": "Bluesky",
-      "author": "@susabagha23.bsky.social",
-      "handle": "susabagha23.bsky.social",
-      "text": "gesetzliche Verordnungen zum #Kritis Dachgesetz immer noch nicht erlassen!\n\nUnd überhaupt: Was haben die Daten der #Bundeswehr auf diesem Server verloren? Sollten die nicht gut gesichert auf einem separaten Server liegen? \nDeutschland bleibt ein IT-Unsicherheitsland! 😡",
-      "url": "https://bsky.app/profile/susabagha23.bsky.social/post/3muu4ipa2c22y",
-      "engagement": 0,
-      "ts": "2026-09-06T13:38:18.352Z",
-      "followers": 2380,
+      "platform": "Mastodon",
+      "author": "@heisec@social.heise.de",
+      "text": "Gefahr für die nationale Sicherheit: Berliner Datenleck schlägt hohe Wellen Nach dem Darknet-Leak streiten Bezirke über Forensik-Software von Crowdstrike. Die Datenschutzbeauftragte warnt und gibt Verhaltensregeln für Betroffene heraus. https://www. heise.de/news/Gefahr-fuer-die- nationale-Sicherheit-Berliner-Datenleck-schlaegt-hohe-Wellen-11444301.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitrae",
+      "url": "https://social.heise.de/@heisec/117230528468846211",
+      "engagement": 7,
+      "ts": "2026-09-07T15:45:05.000Z",
+      "followers": 24202,
       "isBot": false,
       "sentiment": "neutral"
     },
     {
-      "platform": "Reddit r/bundeswehr",
-      "author": "u/Sob6262",
-      "text": "Meine Familie glaubt nicht an mich und macht sich täglich lustig, da ich zur Bundeswehr will",
-      "url": "https://www.reddit.com/r/bundeswehr/comments/1w980j1/meine_familie_glaubt_nicht_an_mich_und_macht_sich/",
+      "platform": "Reddit r/de",
+      "author": "u/East_Tomatillo3528",
+      "text": "Bundeswehr startete 2001 ohne Mandat nach Afghanistan",
+      "url": "https://www.reddit.com/r/de/comments/1w5xo9c/bundeswehr_startete_2001_ohne_mandat_nach/",
       "engagement": 0,
-      "ts": "2026-09-06T20:57:06+00:00",
+      "ts": "2026-09-03T04:54:17+00:00",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
-      "platform": "Reddit r/bundeswehr",
-      "author": "u/Lutscher09",
-      "text": "Fliegerische Eignungsfeststellung Phase II Psychologe",
-      "url": "https://www.reddit.com/r/bundeswehr/comments/1w8uhau/fliegerische_eignungsfeststellung_phase_ii/",
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Fürs Archiv: Russland reagiert scharf auf US-Mittelstreckenraketen in Norwegen",
+      "url": "https://augengeradeaus.net/2026/09/fuers-archiv-russland-reagiert-scharft-auf-us-mittelstreckenraketen-in-norwegen/",
       "engagement": 0,
-      "ts": "2026-09-06T12:08:47+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Reddit r/bundeswehr",
-      "author": "u/Different-Rhubarb960",
-      "text": "Unsicher",
-      "url": "https://www.reddit.com/r/bundeswehr/comments/1w8631y/unsicher/",
-      "engagement": 0,
-      "ts": "2026-09-05T16:58:26+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Reddit r/bundeswehr",
-      "author": "u/DEU_Hornblower",
-      "text": "Randnotiz: Paketstation statt Kleiderkammer (vorerst nur zum Tausch)",
-      "url": "https://www.reddit.com/r/bundeswehr/comments/1w83zsd/randnotiz_paketstation_statt_kleiderkammer/",
-      "engagement": 0,
-      "ts": "2026-09-05T15:37:49+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Reddit r/bundeswehr",
-      "author": "u/Pretend-Slide-8258",
-      "text": "Offizier im San-Dienst",
-      "url": "https://www.reddit.com/r/bundeswehr/comments/1w7z0xd/offizier_im_sandienst/",
-      "engagement": 0,
-      "ts": "2026-09-05T12:08:07+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Reddit r/bundeswehr",
-      "author": "u/Competitive-Cry3197",
-      "text": "Bahnfahren ohne Uniform",
-      "url": "https://www.reddit.com/r/bundeswehr/comments/1w7utz0/bahnfahren_ohne_uniform/",
-      "engagement": 0,
-      "ts": "2026-09-05T08:20:01+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "YouTube (Bundeswehr)",
-      "author": "Bundeswehr",
-      "text": "Die Ausbildung im Tieftauchtopf der Marine I Bundeswehr",
-      "url": "https://www.youtube.com/watch?v=WtRuR1OTLKc",
-      "engagement": 0,
-      "ts": "2026-09-04T11:31:58+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "YouTube (Bundeswehr)",
-      "author": "Bundeswehr",
-      "text": "Nachgefragt: So kämpft die Bundeswehr im Cyberraum | Bundeswehr",
-      "url": "https://www.youtube.com/watch?v=d_J7t5M0qR8",
-      "engagement": 0,
-      "ts": "2026-09-03T13:55:22+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "YouTube (Bundeswehr)",
-      "author": "Bundeswehr",
-      "text": "Das neue Sturmgewehr für die Truppe: Das Gewehr G95",
-      "url": "https://www.youtube.com/watch?v=8oWtxtQ03sI",
-      "engagement": 0,
-      "ts": "2026-09-01T10:10:03+00:00",
+      "ts": "Mon, 07 Sep 2026 12:54:32 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -158,10 +87,40 @@
     {
       "platform": "Bundeswehr Journal",
       "author": "Bundeswehr Journal",
+      "text": "Die Cyber-Attacke in Berlin und die Sicherheit Deutschlands",
+      "url": "https://www.bundeswehr-journal.de/2026/die-cyber-attacke-in-berlin-und-die-sicherheit-deutschlands/",
+      "engagement": 0,
+      "ts": "Sat, 05 Sep 2026 21:00:09 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bundeswehr Journal",
+      "author": "Bundeswehr Journal",
       "text": "SMM 2026: Treffen der maritimen Community in Hamburg",
       "url": "https://www.bundeswehr-journal.de/2026/smm-2026-treffen-der-maritimen-community-in-hamburg/",
       "engagement": 0,
       "ts": "Tue, 01 Sep 2026 21:00:03 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "VW-Werk baut künftig Luftverteidigung aus Israel",
+      "url": "https://esut.de/2026/09/meldungen/74670/vw-werk-luftverteidigung-israel/",
+      "engagement": 0,
+      "ts": "Mon, 07 Sep 2026 13:03:13 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Neue NSPA-Partnerschaft: Innovation und Einsatzbereitschaft",
+      "url": "https://esut.de/2026/09/meldungen/74649/nspa-partnerschaft-innovation/",
+      "engagement": 0,
+      "ts": "Mon, 07 Sep 2026 10:57:05 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -179,7 +138,7 @@
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
       "text": "NATO STO richtet ihr Forschungsprogramm neu aus",
-      "url": "https://esut.de/2026/09/fachbeitraege/74143/nato-sto-richtet-ihr-forschungsprogramm-neu-aus/",
+      "url": "https://esut.de/2026/09/fachbeitraege/74143/nato-sto-forschungsprogramm/",
       "engagement": 0,
       "ts": "Sun, 06 Sep 2026 08:47:26 +0000",
       "alwaysKeep": true,
@@ -189,7 +148,7 @@
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
       "text": "Mehr als Krane und Kühlschränke: Liebherr Aerospace",
-      "url": "https://esut.de/2026/09/fachbeitraege/74131/mehr-als-krane-liebherr-aerospace/",
+      "url": "https://esut.de/2026/09/fachbeitraege/74131/mehr-als-e-liebherr-aerospace/",
       "engagement": 0,
       "ts": "Sat, 05 Sep 2026 09:19:34 +0000",
       "alwaysKeep": true,
@@ -206,34 +165,14 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Frontflugzeuge der Sowjetunion",
-      "url": "https://esut.de/2026/09/fachbeitraege/74530/frontflugzeuge-der-sowjetunion/",
+      "platform": "Spiegel Politik",
+      "author": "Spiegel Politik",
+      "text": "Bundeswehr: Steigende Zahl von sexualisierten Übergriffen alarmiert Verteidigungsministerium",
+      "url": "https://www.spiegel.de/politik/deutschland/bundeswehr-steigende-zahl-von-sexualisierten-uebergriffen-alarmiert-verteidigungsministerium-a-9c63ba71-3340-4117-b537-f6ff58459b93#ref=rss",
       "engagement": 0,
-      "ts": "Fri, 04 Sep 2026 21:00:39 +0000",
+      "ts": "Tue, 8 Sep 2026 05:05:00 +0200",
       "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Ukraine: Deutschland gewährt weitere 250 Mio. für Energiesektor",
-      "url": "https://esut.de/2026/09/meldungen/74590/ukraine-deutschland-energie/",
-      "engagement": 0,
-      "ts": "Fri, 04 Sep 2026 13:00:23 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Welt Topnews",
-      "author": "Welt Topnews",
-      "text": "„AfD ist zu einer Partei der Hoffnung geworden“ – de Maizière überrascht mit Eingeständnis",
-      "url": "https://www.welt.de/vermischtes/article6a9e222d240b302c8a83ba2f/caren-miosga-afd-ist-zu-einer-partei-der-hoffnung-geworden-de-maiziere-ueberrascht-mit-eingestaendnis.html",
-      "engagement": 0,
-      "ts": "Mon, 07 Sep 2026 03:23:57 GMT",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     }
   ],
   "analysis": {

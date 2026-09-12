@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-11T03:36:55.404Z",
-  "timestamp": "11.9.2026, 05:36:55",
+  "generated": "2026-09-12T03:36:56.773Z",
+  "timestamp": "12.9.2026, 05:36:56",
   "items": [
     {
       "platform": "Mastodon",
@@ -42,7 +42,18 @@
       "url": "https://social.heise.de/@ct_Magazin/117240516112976313",
       "engagement": 3,
       "ts": "2026-09-09T10:05:04.000Z",
-      "followers": 14586,
+      "followers": 14610,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Mastodon",
+      "author": "@autonomysolidarity@todon.eu",
+      "text": "Ohne uns - Für einen Ausstieg aus der Logik des Krieges \"Wir leben in Zeiten einer naiven Hoffnung. Während die Nachrichten täglich vom Schrecken des Krieges künden, wird er uns gleichzeitig als Ausweg aus den Problemen unserer Gegenwart verkauft. Fünf Jahre Stellungs- und Abnutzungskrieg in der Ukraine, aber auch 25 Jahre „Krieg gegen den Terror“ oder der Horror von Gaza: Die bestens dokumentiert",
+      "url": "https://todon.eu/@autonomysolidarity/117250894615504632",
+      "engagement": 1,
+      "ts": "2026-09-11T06:04:28.000Z",
+      "followers": 5414,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -67,22 +78,12 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Wenn Organisierte Kriminalität die äußere Sicherheit bedroht",
-      "url": "https://augengeradeaus.net/2026/09/wenn-organisierte-kriminalitaet-die-aeussere-sicherheit-bedroht/",
+      "platform": "Bundeswehr Journal",
+      "author": "Bundeswehr Journal",
+      "text": "EUA „Optarion“ – Entwicklungsvertrag für Hensoldt",
+      "url": "https://www.bundeswehr-journal.de/2026/eua-optarion-entwicklungsvertrag-fuer-hensoldt/",
       "engagement": 0,
-      "ts": "Fri, 04 Sep 2026 16:12:57 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Paketstation statt Kleiderkammer (vorerst nur zum Tausch)",
-      "url": "https://augengeradeaus.net/2026/09/paketstation-statt-kleiderkammer-vorerst-nur-zum-tausch/",
-      "engagement": 0,
-      "ts": "Fri, 04 Sep 2026 13:54:31 +0000",
+      "ts": "Wed, 09 Sep 2026 13:31:19 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -93,6 +94,26 @@
       "url": "https://www.bundeswehr-journal.de/2026/die-cyber-attacke-in-berlin-und-die-sicherheit-deutschlands/",
       "engagement": 0,
       "ts": "Sat, 05 Sep 2026 21:00:09 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "DAMALS I Panzerfahrzeuge der Bundeswehr",
+      "url": "https://esut.de/2026/09/fachbeitraege/74684/panzerfahrzeuge-der-bundeswehr/",
+      "engagement": 0,
+      "ts": "Fri, 11 Sep 2026 11:13:19 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Aerospacelab baut Megafactory für IRIS²",
+      "url": "https://esut.de/2026/09/meldungen/74795/aerospacelab-megafactory-iris%c2%b2/",
+      "engagement": 0,
+      "ts": "Fri, 11 Sep 2026 09:36:10 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -133,26 +154,6 @@
       "url": "https://esut.de/2026/09/meldungen/74770/covenant-marschflugkoerper-leipzig/",
       "engagement": 0,
       "ts": "Thu, 10 Sep 2026 07:50:23 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Hensoldt entwickelt Einsatzunterstützungsanlage Optarion weiter",
-      "url": "https://esut.de/2026/09/meldungen/74750/hensoldt-einsatz-optarion/",
-      "engagement": 0,
-      "ts": "Thu, 10 Sep 2026 06:00:21 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Patria und BELMA prüfen Kooperation für Minenverlegesysteme",
-      "url": "https://esut.de/2026/09/meldungen/74732/patria-belma-minenverlegesysteme/",
-      "engagement": 0,
-      "ts": "Wed, 09 Sep 2026 21:00:37 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     }

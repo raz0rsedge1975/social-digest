@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-12T03:36:56.773Z",
-  "timestamp": "12.9.2026, 05:36:56",
+  "generated": "2026-09-13T03:36:55.860Z",
+  "timestamp": "13.9.2026, 05:36:55",
   "items": [
     {
       "platform": "Mastodon",
@@ -88,12 +88,22 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "Bundeswehr Journal",
-      "author": "Bundeswehr Journal",
-      "text": "Die Cyber-Attacke in Berlin und die Sicherheit Deutschlands",
-      "url": "https://www.bundeswehr-journal.de/2026/die-cyber-attacke-in-berlin-und-die-sicherheit-deutschlands/",
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Von „Warfighter“ zu „Land Shield“",
+      "url": "https://esut.de/2026/09/fachbeitraege/73020/von-warfighter-zu-land-shield/",
       "engagement": 0,
-      "ts": "Sat, 05 Sep 2026 21:00:09 +0000",
+      "ts": "Sat, 12 Sep 2026 06:43:06 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "GSP: Die Bundeswehr im Fokus russischer Desinformation",
+      "url": "https://esut.de/2026/09/fachbeitraege/74155/gsp-bundeswehr-desinformation/",
+      "engagement": 0,
+      "ts": "Sat, 12 Sep 2026 05:45:34 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -138,22 +148,12 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Die Terroranschläge vom 11. September 2001 – Apokalypse zwischen Potomac und Hudson",
-      "url": "https://esut.de/2026/09/fachbeitraege/74149/terroranschlaege-11-september/",
+      "platform": "Spiegel Politik",
+      "author": "Spiegel Politik",
+      "text": "Boris Pistorius plant eigene Satelliten für die Bundeswehr",
+      "url": "https://www.spiegel.de/politik/deutschland/boris-pistorius-plant-eigene-satelliten-fuer-die-bundeswehr-a-62d16b6d-9d2e-48e5-b255-8c3806864696#ref=rss",
       "engagement": 0,
-      "ts": "Thu, 10 Sep 2026 12:00:47 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Covenant errichtet Marschflugkörper-Fertigung nahe Leipzig",
-      "url": "https://esut.de/2026/09/meldungen/74770/covenant-marschflugkoerper-leipzig/",
-      "engagement": 0,
-      "ts": "Thu, 10 Sep 2026 07:50:23 +0000",
+      "ts": "Sat, 12 Sep 2026 14:44:00 +0200",
       "alwaysKeep": true,
       "sentiment": "neutral"
     }

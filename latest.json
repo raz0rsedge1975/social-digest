@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-15T03:33:12.872Z",
-  "timestamp": "15.9.2026, 05:33:12",
+  "generated": "2026-09-16T03:32:55.098Z",
+  "timestamp": "16.9.2026, 05:32:55",
   "items": [
     {
       "platform": "Mastodon",
@@ -16,24 +16,13 @@
     {
       "platform": "Mastodon",
       "author": "@tagesschau@ard.social",
-      "text": "Sexualisiertes Fehlverhalten: Fast 2000 Verdachtsfälle bei der Bundeswehr Eine Auflistung aus dem Verteidigungsministerium gibt Aufschluss über Verdachtsfälle von sexualisiertem Fehlverhalten innerhalb der Bundeswehr, die in den letzten fünf Jahren gemeldet wurden - insgesamt gab es fast 2000 solcher Meldungen. ➡️ https://www. tagesschau.de/investigativ/ndr -wdr/verdachtsfaelle-sexualisiertes-fehl",
-      "url": "https://ard.social/@tagesschau/117236332126115610",
-      "engagement": 6,
-      "ts": "2026-09-08T16:21:02.000Z",
-      "followers": 93783,
-      "isBot": false,
-      "sentiment": "negativ"
-    },
-    {
-      "platform": "Mastodon",
-      "author": "@tagesschau@ard.social",
       "text": "Pistorius will Soldaten zum Dienst in Litauen auch verpflichten Verteidigungsminister Pistorius hatte bei der Litauen-Brigade erst auf Freiwilligkeit gesetzt - doch Hunderte Spezialisten fehlen noch. Nun sollen Soldaten auch zum Dienst in der Brigade verpflichtet werden. ➡️ https://www. tagesschau.de/ausland/europa/l itauen-brigade-106.html?at_medium=mastodon&at_campaign=tagesschau.de # Litauen # ",
       "url": "https://ard.social/@tagesschau/117270306034403059",
       "engagement": 3,
       "ts": "2026-09-14T16:21:03.000Z",
       "followers": 93783,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
@@ -44,7 +33,7 @@
       "ts": "2026-09-09T10:05:04.000Z",
       "followers": 14629,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "negativ"
     },
     {
       "platform": "Mastodon",
@@ -53,9 +42,59 @@
       "url": "https://todon.eu/@autonomysolidarity/117250894615504632",
       "engagement": 1,
       "ts": "2026-09-11T06:04:28.000Z",
-      "followers": 5416,
+      "followers": 5419,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Reddit r/de",
+      "author": "u/Turtle456",
+      "text": "Deutsche Bundeswehr arbeitet auf Palantir-Alternative hin",
+      "url": "https://www.reddit.com/r/de/comments/1wgwymg/deutsche_bundeswehr_arbeitet_auf/",
+      "engagement": 0,
+      "ts": "2026-09-15T10:50:09+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Neue Pläne für Reservisten: Beorderung jetzt bis zum 65. Lebensjahr möglich",
+      "url": "https://augengeradeaus.net/2026/09/neue-plaene-fuer-reservisten-beorderung-jetzt-bis-zum-65-lebensjahr-moeglich/",
+      "engagement": 0,
+      "ts": "Tue, 15 Sep 2026 15:50:14 +0000",
+      "alwaysKeep": true,
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Sicherheitshalber der Podcast #111: Humanoide Roboter im Militär? | Was Mittelmächte bewirken können (und was nicht)",
+      "url": "https://augengeradeaus.net/2026/09/sicherheitshalber-der-podcast-111-humanoide-roboter-im-militaer-was-mittelmaechte-bewirken-koennen-und-was-nicht/",
+      "engagement": 0,
+      "ts": "Tue, 15 Sep 2026 14:24:46 +0000",
+      "alwaysKeep": true,
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Russische Fregatte feuert Leuchtraketen auf dänischen Hubschrauber",
+      "url": "https://augengeradeaus.net/2026/09/russische-fregatte-feuert-leuchtraketen-auf-daenischen-hubschrauber/",
+      "engagement": 0,
+      "ts": "Tue, 15 Sep 2026 09:59:41 +0000",
+      "alwaysKeep": true,
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Merkposten: USA bestätigen erstmals Stationierung von Waffen im Weltraum",
+      "url": "https://augengeradeaus.net/2026/09/merkposten-usa-bestaetigen-erstmals-stationierung-von-waffen-im-weltraum/",
+      "engagement": 0,
+      "ts": "Tue, 15 Sep 2026 09:25:36 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -65,7 +104,7 @@
       "engagement": 0,
       "ts": "Mon, 14 Sep 2026 15:08:15 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -75,7 +114,7 @@
       "engagement": 0,
       "ts": "Mon, 14 Sep 2026 12:43:38 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -85,7 +124,17 @@
       "engagement": 0,
       "ts": "Wed, 09 Sep 2026 13:26:13 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bundeswehr Journal",
+      "author": "Bundeswehr Journal",
+      "text": "Kiellegung des dritten Flottendienstbootes für Deutschland",
+      "url": "https://www.bundeswehr-journal.de/2026/kiellegung-des-dritten-flottendienstbootes-fuer-deutschland/",
+      "engagement": 0,
+      "ts": "Mon, 14 Sep 2026 21:00:46 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
     },
     {
       "platform": "Bundeswehr Journal",
@@ -110,100 +159,90 @@
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Maritime Aufklärung mit Seavex und Subvex bei REPMUS",
-      "url": "https://esut.de/2026/09/meldungen/74826/aufklaerung-seavex-subvex-repmus/",
+      "text": "Vorsitzende der MSC: Helga Maria Schmid und Jens Stoltenberg",
+      "url": "https://esut.de/2026/09/meldungen/74912/msc-helga-schmid-jens-stoltenberg/",
       "engagement": 0,
-      "ts": "Mon, 14 Sep 2026 19:30:23 +0000",
+      "ts": "Tue, 15 Sep 2026 21:00:36 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Marokko modernisiert Streitkräfte mit israelischer Hilfe",
-      "url": "https://esut.de/2026/09/meldungen/74853/marokko-streitkraefte-israel/",
+      "text": "Patria präsentiert Passiv-Radar MUSCL",
+      "url": "https://esut.de/2026/09/meldungen/74892/patria-passiv-radar-muscl/",
       "engagement": 0,
-      "ts": "Mon, 14 Sep 2026 15:54:53 +0000",
+      "ts": "Tue, 15 Sep 2026 15:14:18 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Loitering Munition made by Diehl Defence und Elbit Systems",
-      "url": "https://esut.de/2026/09/meldungen/74859/loitering-munition-diehl-defence-e/",
+      "text": "Türkische Kampfdrohne trifft über 250 km",
+      "url": "https://esut.de/2026/09/meldungen/74906/tuerkische-kampfdrohne-250-km/",
       "engagement": 0,
-      "ts": "Mon, 14 Sep 2026 14:11:30 +0000",
+      "ts": "Tue, 15 Sep 2026 13:08:46 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "GPS unter Beschuss: Russland hilft dem Iran",
-      "url": "https://esut.de/2026/09/meldungen/74847/gps-beschuss-russland-hilft-iran/",
+      "text": "Wingcopter 262: Neue elektrische Aufklärungsdrohne",
+      "url": "https://esut.de/2026/09/meldungen/74884/wingcopter-262-aufklaerungsdrohne/",
       "engagement": 0,
-      "ts": "Mon, 14 Sep 2026 08:51:27 +0000",
+      "ts": "Tue, 15 Sep 2026 11:50:08 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Secure by Design: Lückenlose Sicherheit für mobile Einsatzgeräte",
-      "url": "https://esut.de/2026/09/sponsored-content/74800/secure-by-design-lueckenlose-sicherheit-fuer-mobile-einsatzgeraete/",
+      "text": "4. Flottendienstboot für die Bundeswehr",
+      "url": "https://esut.de/2026/09/meldungen/74871/3-flottendienstboot-kiellegung/",
       "engagement": 0,
-      "ts": "Mon, 14 Sep 2026 05:05:16 +0000",
+      "ts": "Tue, 15 Sep 2026 09:08:21 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Interview mit Lockheed Martin zum Roll-out F-35",
-      "url": "https://esut.de/2026/09/meldungen/74815/interview-lockheed-martin-f-35/",
+      "text": "Florian Taitsch wechselt zu ARX Robotics",
+      "url": "https://esut.de/2026/09/meldungen/74866/florian-taitsch-arx-robotics/",
       "engagement": 0,
-      "ts": "Sun, 13 Sep 2026 09:36:53 +0000",
+      "ts": "Tue, 15 Sep 2026 08:08:31 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Tagesschau Alle Meldungen",
+      "author": "Tagesschau Alle Meldungen",
+      "text": "Deutschland und USA wollen bei Rüstung mehr zusammenarbeiten",
+      "url": "https://www.tagesschau.de/ausland/pistorius-hegseth-102.html",
+      "engagement": 0,
+      "ts": "Wed, 16 Sep 2026 04:32:18 +0200",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "Spiegel Politik",
       "author": "Spiegel Politik",
-      "text": "Bundeswehr: Mehrere Hundert Soldaten werden per Befehl nach Litauen geschickt",
-      "url": "https://www.spiegel.de/politik/deutschland/bundeswehr-mehrere-hundert-soldaten-werden-per-befehl-nach-litauen-geschickt-a-64acd468-ad37-4afe-b889-9a26288290aa#ref=rss",
+      "text": "Bundeswehr – Marine: Ute Niklas übernimmt Kommando der Fregatte »Rheinland-Pfalz«",
+      "url": "https://www.spiegel.de/politik/deutschland/bundeswehr-marine-ute-niklas-uebernimmt-kommando-der-fregatte-rheinland-pfalz-a-7c26c15e-0158-4a70-8aa2-3bc302c491f7#ref=rss",
       "engagement": 0,
-      "ts": "Mon, 14 Sep 2026 17:45:00 +0200",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Spiegel Politik",
-      "author": "Spiegel Politik",
-      "text": "Bundeswehr: Sabotage-Gefahr hat laut MAD »erheblich zugenommen«",
-      "url": "https://www.spiegel.de/politik/deutschland/bundeswehr-sabotage-gefahr-hat-laut-mad-erheblich-zugenommen-a-2dc5c7f3-31f0-454b-9623-aa3a8bfa1189#ref=rss",
-      "engagement": 0,
-      "ts": "Mon, 14 Sep 2026 16:11:00 +0200",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Spiegel Politik",
-      "author": "Spiegel Politik",
-      "text": "Wehrdienst: Jeder vierte Freiwillige fällt bei Tauglichkeit durch",
-      "url": "https://www.spiegel.de/politik/deutschland/wehrdienst-fast-jeder-dritte-freiwillige-faellt-bei-tauglichkeit-durch-a-fb847b63-018d-4472-89c0-b63b9aa32c64#ref=rss",
-      "engagement": 0,
-      "ts": "Mon, 14 Sep 2026 11:28:00 +0200",
+      "ts": "Tue, 15 Sep 2026 17:20:00 +0200",
       "alwaysKeep": true,
       "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Die Bundeswehr plant einen Rekord-Etat für 2027, um die Verteidigung zu finanzieren. Gleichzeitig gibt es Berichte über sexuell missbrauchtes Fehlverhalten bei der Bundeswehr und über Pläne, Soldaten in Litauen zu verpflichten.",
+    "summary": "Die Bundeswehr plant einen Rekord-Etat für 2027, Pistorius kündigt ein viertes Flottendienstboot an und die Bundeswehr arbeitet auf eine Palantir-Alternative hin.",
     "themes": [
       "Pistorius' Wehrdienst-Modell",
-      "Sexuelle Missbrauchs-Fälle in der Bundeswehr",
-      "Satellitenkonkurrenz durch Starlink"
+      "Flottendienstboote",
+      "Palantir-Alternative"
     ]
   }
 }

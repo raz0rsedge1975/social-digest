@@ -1,67 +1,7 @@
 {
-  "generated": "2026-09-17T03:33:05.932Z",
-  "timestamp": "17.9.2026, 05:33:05",
+  "generated": "2026-09-18T03:32:48.140Z",
+  "timestamp": "18.9.2026, 05:32:48",
   "items": [
-    {
-      "platform": "Bluesky",
-      "author": "@zeit.de",
-      "handle": "zeit.de",
-      "text": "Lettland hat die Nato-Bündnispartner um Schutz bei den Parlamentswahlen im Oktober gebeten. Die Bundeswehr soll das Land nach gehäuften Drohnen-Vorfällen unterstützen. ",
-      "url": "https://bsky.app/profile/zeit.de/post/3mvnlvg2shq2y",
-      "engagement": 42,
-      "ts": "2026-09-16T16:35:51.000Z",
-      "followers": 52110,
-      "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@florianflade.bsky.social",
-      "handle": "florianflade.bsky.social",
-      "text": "💥🛰️ Was, wenn es #Russland gelänge, mit #Rassvet eine echte Alternative zu #Starlink aufzubauen? Die #Bundeswehr warnt in einem vertraulichen Papier davor - aber zweifelt auch an Putins Zeitplan. Recherche mit Jörg Diehl u @manuelbewarder.bsky.social www.tagesschau.de/investigativ... #Space #Ukraine",
-      "url": "https://bsky.app/profile/florianflade.bsky.social/post/3mvmqaugcqk2b",
-      "engagement": 24,
-      "ts": "2026-09-16T08:35:44.986Z",
-      "followers": 7598,
-      "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@altpapier.bsky.social",
-      "handle": "altpapier.bsky.social",
-      "text": "... um den (...) verurteilten Bundeswehr-Offizier Franco Albrecht), ist mir zu schnell untergegangen (…) Auch nachdem der NSU-Untersuchungsschuss des Landtages (...) seinen Abschlussbericht (…) vorlegte (…), war das Echo überschaubar. Das ist Teil des medialen Gesamtproblems.“",
-      "url": "https://bsky.app/profile/altpapier.bsky.social/post/3mvnaptamzc2v",
-      "engagement": 17,
-      "ts": "2026-09-16T13:30:26.946Z",
-      "followers": 4379,
-      "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@margareterosali.bsky.social",
-      "handle": "margareterosali.bsky.social",
-      "text": "Eurofighter-Kampffjets vor Ort\n#Bundeswehr schützt #Lettland während Parlamentswahl\nDie Wahl findet am 3. Oktober statt.\nwww.n-tv.de/politik/Bund...",
-      "url": "https://bsky.app/profile/margareterosali.bsky.social/post/3mvnpbyvevc2w",
-      "engagement": 12,
-      "ts": "2026-09-16T17:51:09.231Z",
-      "followers": 48220,
-      "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@zeit.de",
-      "handle": "zeit.de",
-      "text": "Boris Pistorius und sein Amtskollege Pete Hegseth wollen bei der Produktion von Waffen stärker kooperieren. Die USA haben deutschen Investitionen in Verteidigung gelobt. ",
-      "url": "https://bsky.app/profile/zeit.de/post/3mvljoc73fc2j",
-      "engagement": 4,
-      "ts": "2026-09-15T20:58:01.000Z",
-      "followers": 52110,
-      "isBot": false,
-      "sentiment": "neutral"
-    },
     {
       "platform": "Mastodon",
       "author": "@tagesschau@ard.social",
@@ -69,33 +9,9 @@
       "url": "https://ard.social/@tagesschau/117270306034403059",
       "engagement": 3,
       "ts": "2026-09-14T16:21:03.000Z",
-      "followers": 93862,
+      "followers": 93882,
       "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@andreasbirkigt.bsky.social",
-      "handle": "andreasbirkigt.bsky.social",
-      "text": "Da war die Bahn ganz offiziell ein Unternehmen des Bundes, so wie Post und Bundeswehr. Und sie wurde fürs Wirtschaftswunder gebraucht.",
-      "url": "https://bsky.app/profile/andreasbirkigt.bsky.social/post/3mvnkknebls2q",
-      "engagement": 2,
-      "ts": "2026-09-16T16:26:30.415Z",
-      "followers": 5922,
-      "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@manuelbewarder.bsky.social",
-      "handle": "manuelbewarder.bsky.social",
-      "text": "❗Was bedeutet es für die Ukraine, wenn dieser Russland-Plan aufgeht? \n\n➡️Seit Starlink für Moskau abgeklemmt ist, hat 🇷🇺 auf dem Schlachtfeld große Probleme. Putin baut jetzt am Mini-Starlink – und die Bundeswehr warnt laut unserer Recherche vor einem Erfolg: www.tagesschau.de/investigativ...",
-      "url": "https://bsky.app/profile/manuelbewarder.bsky.social/post/3mvmmmgzcdk2g",
-      "engagement": 2,
-      "ts": "2026-09-16T07:30:38.623Z",
-      "followers": 4285,
-      "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
@@ -110,11 +26,41 @@
     },
     {
       "platform": "Reddit r/de",
+      "author": "u/GirasoleDE",
+      "text": "Russlands Satellitenpläne: Bundeswehr warnt vor Putins Starlink-Alternative",
+      "url": "https://www.reddit.com/r/de/comments/1wixx7f/russlands_satellitenpläne_bundeswehr_warnt_vor/",
+      "engagement": 0,
+      "ts": "2026-09-17T15:57:05+00:00",
+      "alwaysKeep": true,
+      "sentiment": "negativ"
+    },
+    {
+      "platform": "Reddit r/de",
       "author": "u/Turtle456",
       "text": "Deutsche Bundeswehr arbeitet auf Palantir-Alternative hin",
       "url": "https://www.reddit.com/r/de/comments/1wgwymg/deutsche_bundeswehr_arbeitet_auf/",
       "engagement": 0,
       "ts": "2026-09-15T10:50:09+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "YouTube (Bundeswehr)",
+      "author": "Bundeswehr",
+      "text": "Schwerer Waffenträger Infanterie: Das neue Fahrzeug der Mittleren Kräfte I Bundeswehr",
+      "url": "https://www.youtube.com/watch?v=dhQ9DuwSLV4",
+      "engagement": 0,
+      "ts": "2026-09-15T10:28:59+00:00",
+      "alwaysKeep": true,
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "YouTube (Bundeswehr)",
+      "author": "Bundeswehr",
+      "text": "Virtuell üben, praktisch Erfahrungen sammeln: Der virtuelle Handlungstrainer | Bundeswehr",
+      "url": "https://www.youtube.com/watch?v=5l_T8zzPLBY",
+      "engagement": 0,
+      "ts": "2026-09-11T10:49:13+00:00",
       "alwaysKeep": true,
       "sentiment": "positiv"
     },
@@ -126,7 +72,7 @@
       "engagement": 0,
       "ts": "Wed, 16 Sep 2026 17:12:10 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Augen geradeaus!",
@@ -136,7 +82,7 @@
       "engagement": 0,
       "ts": "Tue, 15 Sep 2026 15:50:14 +0000",
       "alwaysKeep": true,
-      "sentiment": "negativ"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Augen geradeaus!",
@@ -146,7 +92,7 @@
       "engagement": 0,
       "ts": "Tue, 15 Sep 2026 14:24:46 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -156,7 +102,7 @@
       "engagement": 0,
       "ts": "Tue, 15 Sep 2026 09:59:41 +0000",
       "alwaysKeep": true,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -166,7 +112,7 @@
       "engagement": 0,
       "ts": "Tue, 15 Sep 2026 09:25:36 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -176,7 +122,7 @@
       "engagement": 0,
       "ts": "Mon, 14 Sep 2026 15:08:15 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -186,7 +132,7 @@
       "engagement": 0,
       "ts": "Mon, 14 Sep 2026 12:43:38 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Bundeswehr Journal",
@@ -196,7 +142,7 @@
       "engagement": 0,
       "ts": "Tue, 15 Sep 2026 21:00:13 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Bundeswehr Journal",
@@ -206,85 +152,85 @@
       "engagement": 0,
       "ts": "Mon, 14 Sep 2026 21:00:46 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Bundeswehr Journal",
-      "author": "Bundeswehr Journal",
-      "text": "75. Deutscher Luft- und Raumfahrtkongress mit Rekord",
-      "url": "https://www.bundeswehr-journal.de/2026/75-deutscher-luft-und-raumfahrtkongress-mit-rekord/",
-      "engagement": 0,
-      "ts": "Thu, 10 Sep 2026 18:12:14 +0000",
-      "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Israels Black Eagle 50E erhält US-Lufttüchtigkeit",
-      "url": "https://esut.de/2026/09/meldungen/74947/israels-black-eagle-50e-us-luft/",
+      "text": "F-35: KI sagt Ersatzteilbedarf und Ausfälle voraus",
+      "url": "https://esut.de/2026/09/meldungen/75026/f-35-ki-ersatzteilbedarf-ausfaelle/",
       "engagement": 0,
-      "ts": "Wed, 16 Sep 2026 19:42:18 +0000",
-      "alwaysKeep": true,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "irisnet und tms präsentieren Drohnenabwehrsystem perdix",
-      "url": "https://esut.de/2026/09/meldungen/74933/irisnet-tms-drohnenabwehr-perdix/",
-      "engagement": 0,
-      "ts": "Wed, 16 Sep 2026 19:15:38 +0000",
-      "alwaysKeep": true,
-      "sentiment": "positiv"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "CAE in Deutschland",
-      "url": "https://esut.de/2026/09/sponsored-content/74915/cae-in-deutschland/",
-      "engagement": 0,
-      "ts": "Wed, 16 Sep 2026 15:00:48 +0000",
-      "alwaysKeep": true,
-      "sentiment": "positiv"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Meteor für Ägypten: Frankreichs heikle Freigabe",
-      "url": "https://esut.de/2026/09/meldungen/74928/meteor-aegypten-frankreich-freigab/",
-      "engagement": 0,
-      "ts": "Wed, 16 Sep 2026 09:25:46 +0000",
-      "alwaysKeep": true,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Vorsitzende der MSC: Helga Maria Schmid und Jens Stoltenberg",
-      "url": "https://esut.de/2026/09/meldungen/74912/msc-helga-schmid-jens-stoltenberg/",
-      "engagement": 0,
-      "ts": "Tue, 15 Sep 2026 21:00:36 +0000",
+      "ts": "Thu, 17 Sep 2026 17:29:49 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Patria präsentiert Passiv-Radar MUSCL",
-      "url": "https://esut.de/2026/09/meldungen/74892/patria-passiv-radar-muscl/",
+      "text": "China könnte F-35 Verkauf an Saudi-Arabien gefährden",
+      "url": "https://esut.de/2026/09/meldungen/75021/china-f-35-verkauf-saudi-arabien/",
       "engagement": 0,
-      "ts": "Tue, 15 Sep 2026 15:14:18 +0000",
+      "ts": "Thu, 17 Sep 2026 16:25:16 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Beweis F-35: Wie Stealth trotz Vernetzung funktioniert",
+      "url": "https://esut.de/2026/09/meldungen/75013/f-35-stealth-trotz-vernetzung/",
+      "engagement": 0,
+      "ts": "Thu, 17 Sep 2026 14:29:44 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Israels geheime F-35 Modifikationen im Fokus der USA",
+      "url": "https://esut.de/2026/09/meldungen/75000/israels-geheime-f-35-fokus-usa/",
+      "engagement": 0,
+      "ts": "Thu, 17 Sep 2026 11:58:44 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Hintergrundgespräch zum Roll-out der deutschen F-35",
+      "url": "https://esut.de/2026/09/meldungen/74974/hintergrund-roll-out-f-35-deutsch/",
+      "engagement": 0,
+      "ts": "Thu, 17 Sep 2026 10:25:23 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Übersicht über bisherige F-35-Kampfeinsätze",
+      "url": "https://esut.de/2026/09/meldungen/74840/bisherige-f-35-kampfeinsaetze/",
+      "engagement": 0,
+      "ts": "Thu, 17 Sep 2026 09:25:31 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Welt Topnews",
+      "author": "Welt Topnews",
+      "text": "Pistorius nimmt ersten F-35-Kampfjet in Empfang",
+      "url": "https://www.welt.de/politik/ausland/article6aaca4a1b1857e86757a582a/uebergabe-in-texas-pistorius-nimmt-ersten-f-35-kampfjet-in-empfang.html",
+      "engagement": 0,
+      "ts": "Fri, 18 Sep 2026 03:01:12 GMT",
       "alwaysKeep": true,
       "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Die Bundeswehr ist im Fokus, insbesondere bei der Sicherung von Parlamentswahlen in Lettland und der möglichen Alternative zu Starlink für Russland. Pistorius kündigt ein viertes Flottendienstboot an.",
+    "summary": "Der Diskurs des Tages dominiert durch die Diskussion um Pistorius' Wehrdienst-Modell, das auch Soldaten zum Dienst in Litauen verpflichten soll. Darüber hinaus werden Themen wie die Beschaffungsverzögerung der F-35 und die Rolle von China im Weltraum thematisiert.",
     "themes": [
       "Pistorius' Wehrdienst-Modell",
-      "Sicherheit bei Parlamentswahlen in Lettland",
-      "Alternative zu Starlink für Russland und mögliche Auswirkungen auf die Ukraine"
+      "Beschaffungsverzögerung F-35",
+      "China im Weltraum"
     ]
   }
 }

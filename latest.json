@@ -1,7 +1,31 @@
 {
-  "generated": "2026-09-18T03:32:48.140Z",
-  "timestamp": "18.9.2026, 05:32:48",
+  "generated": "2026-09-19T03:33:09.154Z",
+  "timestamp": "19.9.2026, 05:33:09",
   "items": [
+    {
+      "platform": "Bluesky",
+      "author": "@opfuekdo.bundeswehr.de",
+      "handle": "opfuekdo.bundeswehr.de",
+      "text": "Generalleutnant Alexander Sollfrank, Befehlshaber des Operativen Führungskommandos der Bundeswehr, und Generalmajor Stefan Sandburg, Stellvertretender Befehlshaber des Operations Ledningen, kamen heute bei der Übung Silver Wotan auf Gotland zusammen.",
+      "url": "https://bsky.app/profile/opfuekdo.bundeswehr.de/post/3mvspmptunc2g",
+      "engagement": 25,
+      "ts": "2026-09-18T17:40:27.537Z",
+      "followers": 3047,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@luftwaffe.bundeswehr.de",
+      "handle": "luftwaffe.bundeswehr.de",
+      "text": "Meilenstein für die Bundeswehr und das #TeamLuftwaffe:\n\nHeute wurde die erste deutsche F-35A Lightning II in Fort Worth/Texas offiziell präsentiert. Modernste Technologie, engere Vernetzung, stärkere Durchsetzungsfähigkeit. Für die Verteidigung unseres Luftraums.\n\n(📸: Bundeswehr/ Leon Belz)",
+      "url": "https://bsky.app/profile/luftwaffe.bundeswehr.de/post/3mvsylllq7k2x",
+      "engagement": 20,
+      "ts": "2026-09-18T20:20:53.192Z",
+      "followers": 3451,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
     {
       "platform": "Mastodon",
       "author": "@tagesschau@ard.social",
@@ -11,18 +35,63 @@
       "ts": "2026-09-14T16:21:03.000Z",
       "followers": 93882,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
-      "platform": "Mastodon",
-      "author": "@autonomysolidarity@todon.eu",
-      "text": "Ohne uns - Für einen Ausstieg aus der Logik des Krieges \"Wir leben in Zeiten einer naiven Hoffnung. Während die Nachrichten täglich vom Schrecken des Krieges künden, wird er uns gleichzeitig als Ausweg aus den Problemen unserer Gegenwart verkauft. Fünf Jahre Stellungs- und Abnutzungskrieg in der Ukraine, aber auch 25 Jahre „Krieg gegen den Terror“ oder der Horror von Gaza: Die bestens dokumentiert",
-      "url": "https://todon.eu/@autonomysolidarity/117250894615504632",
-      "engagement": 1,
-      "ts": "2026-09-11T06:04:28.000Z",
-      "followers": 5417,
+      "platform": "Bluesky",
+      "author": "@dirkmassat.bsky.social",
+      "handle": "dirkmassat.bsky.social",
+      "text": "\"Bundeswehr startet Zwangsmusterung für junge Männer. Auch 18-Jährige, die nicht zur Bundeswehr wollen, müssen jetzt damit rechnen, zur verpflichtenden Musterung geladen zu werden.\" \n\nWir sehen den Begriff ZWANG. \n\nUnd? \nNun? \nAufgewacht? \nOder immer noch: egal?",
+      "url": "https://bsky.app/profile/dirkmassat.bsky.social/post/3mvtg4x2cms2c",
+      "engagement": 2,
+      "ts": "2026-09-19T00:23:14.279Z",
+      "followers": 10411,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@dirkmassat.bsky.social",
+      "handle": "dirkmassat.bsky.social",
+      "text": "Die Bundeswehr hat Oktober 2025 einen Großauftrag über 20 neue Eurofighter-Kampfjets im Gesamtwert von rund 3,75 Milliarden Euro unterzeichnet. Also bekommt sicherlich der Schauspieler die F- 35.\n\nwww.focus.de/politik/ausl...",
+      "url": "https://bsky.app/profile/dirkmassat.bsky.social/post/3mvsrdi6wyc2i",
+      "engagement": 2,
+      "ts": "2026-09-18T18:11:05.005Z",
+      "followers": 10411,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@pele2504.bsky.social",
+      "handle": "pele2504.bsky.social",
+      "text": "Die Bundeswehr hat das zurzeit beste Kampfflugzeug gekauft.\nUnd das ist auch gut so.",
+      "url": "https://bsky.app/profile/pele2504.bsky.social/post/3mvt57vypm325",
+      "engagement": 1,
+      "ts": "2026-09-18T21:43:50.166Z",
+      "followers": 3739,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Reddit r/de",
+      "author": "u/ManagerOfLove",
+      "text": "Bundeswehr muss jeden vierten Freiwilligen ausmustern",
+      "url": "https://www.reddit.com/r/de/comments/1wjmhcl/bundeswehr_muss_jeden_vierten_freiwilligen/",
+      "engagement": 0,
+      "ts": "2026-09-18T10:28:05+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Reddit r/de",
+      "author": "u/Chromber",
+      "text": "Bundeswehr: Drohne am Fliegerhorst Wunstorf dasselbe Modell wie in Leipzig",
+      "url": "https://www.reddit.com/r/de/comments/1wjjt5u/bundeswehr_drohne_am_fliegerhorst_wunstorf/",
+      "engagement": 0,
+      "ts": "2026-09-18T07:50:43+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -32,7 +101,7 @@
       "engagement": 0,
       "ts": "2026-09-17T15:57:05+00:00",
       "alwaysKeep": true,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -45,24 +114,34 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "YouTube (Bundeswehr)",
-      "author": "Bundeswehr",
-      "text": "Schwerer Waffenträger Infanterie: Das neue Fahrzeug der Mittleren Kräfte I Bundeswehr",
-      "url": "https://www.youtube.com/watch?v=dhQ9DuwSLV4",
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Merkposten: Fast Krieg wg. falschem Bericht mit Künstlicher Intelligenz",
+      "url": "https://augengeradeaus.net/2026/09/merkposten-fast-krieg-wg-falschem-bericht-mit-kuenstlicher-intelligenz/",
       "engagement": 0,
-      "ts": "2026-09-15T10:28:59+00:00",
+      "ts": "Fri, 18 Sep 2026 19:42:55 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
-      "platform": "YouTube (Bundeswehr)",
-      "author": "Bundeswehr",
-      "text": "Virtuell üben, praktisch Erfahrungen sammeln: Der virtuelle Handlungstrainer | Bundeswehr",
-      "url": "https://www.youtube.com/watch?v=5l_T8zzPLBY",
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Fürs Archiv: Erster US-Jet F-35 an die Bundeswehr übergeben",
+      "url": "https://augengeradeaus.net/2026/09/fuers-archiv-erster-us-jet-f-35-an-die-bundeswehr-uebergeben/",
       "engagement": 0,
-      "ts": "2026-09-11T10:49:13+00:00",
+      "ts": "Fri, 18 Sep 2026 19:25:39 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Personalstärke August 2026: Leichter Rückgang, mit über 186.000 weiter im „Zielkorridor“",
+      "url": "https://augengeradeaus.net/2026/09/personalstaerke-august-2026-leichter-rueckgang-mit-ueber-186-000-weiter-im-zielkorridor/",
+      "engagement": 0,
+      "ts": "Fri, 18 Sep 2026 10:31:51 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -72,7 +151,7 @@
       "engagement": 0,
       "ts": "Wed, 16 Sep 2026 17:12:10 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -82,7 +161,7 @@
       "engagement": 0,
       "ts": "Tue, 15 Sep 2026 15:50:14 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -102,7 +181,7 @@
       "engagement": 0,
       "ts": "Tue, 15 Sep 2026 09:59:41 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Augen geradeaus!",
@@ -112,7 +191,7 @@
       "engagement": 0,
       "ts": "Tue, 15 Sep 2026 09:25:36 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Augen geradeaus!",
@@ -122,7 +201,7 @@
       "engagement": 0,
       "ts": "Mon, 14 Sep 2026 15:08:15 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "negativ"
     },
     {
       "platform": "Augen geradeaus!",
@@ -132,7 +211,7 @@
       "engagement": 0,
       "ts": "Mon, 14 Sep 2026 12:43:38 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Bundeswehr Journal",
@@ -142,7 +221,7 @@
       "engagement": 0,
       "ts": "Tue, 15 Sep 2026 21:00:13 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Bundeswehr Journal",
@@ -151,6 +230,36 @@
       "url": "https://www.bundeswehr-journal.de/2026/kiellegung-des-dritten-flottendienstbootes-fuer-deutschland/",
       "engagement": 0,
       "ts": "Mon, 14 Sep 2026 21:00:46 +0000",
+      "alwaysKeep": true,
+      "sentiment": "negativ"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "„Die F-35 wird verändern“ – Roll-out der ersten deutschen F-35A",
+      "url": "https://esut.de/2026/09/meldungen/75073/f-35-roll-out-der-ersten-deutschen/",
+      "engagement": 0,
+      "ts": "Fri, 18 Sep 2026 20:50:18 +0000",
+      "alwaysKeep": true,
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Der Testpilot des Jungfernflugs der deutschen F-35 berichtet",
+      "url": "https://esut.de/2026/09/meldungen/75068/pilot-jungfernflug-deutsche-f-35/",
+      "engagement": 0,
+      "ts": "Fri, 18 Sep 2026 16:03:43 +0000",
+      "alwaysKeep": true,
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Bundeswehr-Beschaffung: Zwölf 25-Mio-Vorlagen im Haushaltsausschuss",
+      "url": "https://esut.de/2026/09/meldungen/streitkraefte/75038/zwoelf-25-mio-bundeswehr/",
+      "engagement": 0,
+      "ts": "Fri, 18 Sep 2026 09:43:49 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -185,52 +294,52 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Israels geheime F-35 Modifikationen im Fokus der USA",
-      "url": "https://esut.de/2026/09/meldungen/75000/israels-geheime-f-35-fokus-usa/",
+      "platform": "Tagesschau Alle Meldungen",
+      "author": "Tagesschau Alle Meldungen",
+      "text": "USA-Reise von Pistorius: Es ist etwas in Bewegung gekommen",
+      "url": "https://www.tagesschau.de/ausland/amerika/pistorius-usa-110.html",
       "engagement": 0,
-      "ts": "Thu, 17 Sep 2026 11:58:44 +0000",
+      "ts": "Sat, 19 Sep 2026 00:40:52 +0200",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Hintergrundgespräch zum Roll-out der deutschen F-35",
-      "url": "https://esut.de/2026/09/meldungen/74974/hintergrund-roll-out-f-35-deutsch/",
+      "platform": "Tagesschau Alle Meldungen",
+      "author": "Tagesschau Alle Meldungen",
+      "text": "Pistorius nimmt in Texas ersten F-35A-Jet für Bundeswehr entgegen",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/pistorius-texas-f-35-100.html",
       "engagement": 0,
-      "ts": "Thu, 17 Sep 2026 10:25:23 +0000",
+      "ts": "Fri, 18 Sep 2026 20:30:08 +0200",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Übersicht über bisherige F-35-Kampfeinsätze",
-      "url": "https://esut.de/2026/09/meldungen/74840/bisherige-f-35-kampfeinsaetze/",
+      "platform": "Spiegel Politik",
+      "author": "Spiegel Politik",
+      "text": "Bundeswehr: Boris Pistorius nimmt ersten F-35-Tarnkappenjet in den USA entgegen",
+      "url": "https://www.spiegel.de/politik/bundeswehr-boris-pistorius-nimmt-ersten-f-35-tarnkappenjet-in-den-usa-entgegen-a-11271c64-2199-4d09-9704-37dd9957d5a5#ref=rss",
       "engagement": 0,
-      "ts": "Thu, 17 Sep 2026 09:25:31 +0000",
+      "ts": "Fri, 18 Sep 2026 16:24:00 +0200",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "Welt Topnews",
       "author": "Welt Topnews",
-      "text": "Pistorius nimmt ersten F-35-Kampfjet in Empfang",
-      "url": "https://www.welt.de/politik/ausland/article6aaca4a1b1857e86757a582a/uebergabe-in-texas-pistorius-nimmt-ersten-f-35-kampfjet-in-empfang.html",
+      "text": "Deutschland zementiert seine Abhängigkeit von den USA",
+      "url": "https://www.welt.de/politik/ausland/article6aadba0c708e760b5e063aa8/f-35-fuer-die-bundeswehr-deutschland-zementiert-seine-abhaengigkeit-von-den-usa.html",
       "engagement": 0,
-      "ts": "Fri, 18 Sep 2026 03:01:12 GMT",
+      "ts": "Fri, 18 Sep 2026 23:11:29 GMT",
       "alwaysKeep": true,
       "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Der Diskurs des Tages dominiert durch die Diskussion um Pistorius' Wehrdienst-Modell, das auch Soldaten zum Dienst in Litauen verpflichten soll. Darüber hinaus werden Themen wie die Beschaffungsverzögerung der F-35 und die Rolle von China im Weltraum thematisiert.",
+    "summary": "Heute wird die erste deutsche F-35A Lightning II an die Bundeswehr übergeben und es gibt Pläne für eine Zwangsmusterung von jungen Männern. Darüber hinaus gibt es Berichte über neue Eurofighter-Kampfjets, Drohnen und Personalstärke.",
     "themes": [
       "Pistorius' Wehrdienst-Modell",
-      "Beschaffungsverzögerung F-35",
-      "China im Weltraum"
+      "Neue Eurofighter-Kampfjets",
+      "Drohnen und Weltraumstationierung"
     ]
   }
 }

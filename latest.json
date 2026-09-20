@@ -1,31 +1,7 @@
 {
-  "generated": "2026-09-19T03:33:09.154Z",
-  "timestamp": "19.9.2026, 05:33:09",
+  "generated": "2026-09-20T03:32:54.765Z",
+  "timestamp": "20.9.2026, 05:32:54",
   "items": [
-    {
-      "platform": "Bluesky",
-      "author": "@opfuekdo.bundeswehr.de",
-      "handle": "opfuekdo.bundeswehr.de",
-      "text": "Generalleutnant Alexander Sollfrank, Befehlshaber des Operativen Führungskommandos der Bundeswehr, und Generalmajor Stefan Sandburg, Stellvertretender Befehlshaber des Operations Ledningen, kamen heute bei der Übung Silver Wotan auf Gotland zusammen.",
-      "url": "https://bsky.app/profile/opfuekdo.bundeswehr.de/post/3mvspmptunc2g",
-      "engagement": 25,
-      "ts": "2026-09-18T17:40:27.537Z",
-      "followers": 3047,
-      "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@luftwaffe.bundeswehr.de",
-      "handle": "luftwaffe.bundeswehr.de",
-      "text": "Meilenstein für die Bundeswehr und das #TeamLuftwaffe:\n\nHeute wurde die erste deutsche F-35A Lightning II in Fort Worth/Texas offiziell präsentiert. Modernste Technologie, engere Vernetzung, stärkere Durchsetzungsfähigkeit. Für die Verteidigung unseres Luftraums.\n\n(📸: Bundeswehr/ Leon Belz)",
-      "url": "https://bsky.app/profile/luftwaffe.bundeswehr.de/post/3mvsylllq7k2x",
-      "engagement": 20,
-      "ts": "2026-09-18T20:20:53.192Z",
-      "followers": 3451,
-      "isBot": false,
-      "sentiment": "neutral"
-    },
     {
       "platform": "Mastodon",
       "author": "@tagesschau@ard.social",
@@ -35,43 +11,17 @@
       "ts": "2026-09-14T16:21:03.000Z",
       "followers": 93882,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
-      "platform": "Bluesky",
-      "author": "@dirkmassat.bsky.social",
-      "handle": "dirkmassat.bsky.social",
-      "text": "\"Bundeswehr startet Zwangsmusterung für junge Männer. Auch 18-Jährige, die nicht zur Bundeswehr wollen, müssen jetzt damit rechnen, zur verpflichtenden Musterung geladen zu werden.\" \n\nWir sehen den Begriff ZWANG. \n\nUnd? \nNun? \nAufgewacht? \nOder immer noch: egal?",
-      "url": "https://bsky.app/profile/dirkmassat.bsky.social/post/3mvtg4x2cms2c",
-      "engagement": 2,
-      "ts": "2026-09-19T00:23:14.279Z",
-      "followers": 10411,
-      "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@dirkmassat.bsky.social",
-      "handle": "dirkmassat.bsky.social",
-      "text": "Die Bundeswehr hat Oktober 2025 einen Großauftrag über 20 neue Eurofighter-Kampfjets im Gesamtwert von rund 3,75 Milliarden Euro unterzeichnet. Also bekommt sicherlich der Schauspieler die F- 35.\n\nwww.focus.de/politik/ausl...",
-      "url": "https://bsky.app/profile/dirkmassat.bsky.social/post/3mvsrdi6wyc2i",
-      "engagement": 2,
-      "ts": "2026-09-18T18:11:05.005Z",
-      "followers": 10411,
-      "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@pele2504.bsky.social",
-      "handle": "pele2504.bsky.social",
-      "text": "Die Bundeswehr hat das zurzeit beste Kampfflugzeug gekauft.\nUnd das ist auch gut so.",
-      "url": "https://bsky.app/profile/pele2504.bsky.social/post/3mvt57vypm325",
-      "engagement": 1,
-      "ts": "2026-09-18T21:43:50.166Z",
-      "followers": 3739,
-      "isBot": false,
-      "sentiment": "neutral"
+      "platform": "Reddit r/de",
+      "author": "u/MPH2210",
+      "text": "Bundeswehr startet Zwangsmusterung: Wer jetzt gezwungen wird",
+      "url": "https://www.reddit.com/r/de/comments/1wkswzb/bundeswehr_startet_zwangsmusterung_wer_jetzt/",
+      "engagement": 0,
+      "ts": "2026-09-19T17:59:49+00:00",
+      "alwaysKeep": true,
+      "sentiment": "negativ"
     },
     {
       "platform": "Reddit r/de",
@@ -91,7 +41,7 @@
       "engagement": 0,
       "ts": "2026-09-18T07:50:43+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Reddit r/de",
@@ -101,7 +51,7 @@
       "engagement": 0,
       "ts": "2026-09-17T15:57:05+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Reddit r/de",
@@ -112,6 +62,16 @@
       "ts": "2026-09-15T10:50:09+00:00",
       "alwaysKeep": true,
       "sentiment": "neutral"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Bundeswehr-Generalinspekteur Breuer zum künftigen Chef des NATO-Militärausschusses gewählt",
+      "url": "https://augengeradeaus.net/2026/09/bundeswehr-generalsekretaer-breuer-zum-kuenftigen-chef-des-nato-militaer/",
+      "engagement": 0,
+      "ts": "Sat, 19 Sep 2026 17:08:36 +0000",
+      "alwaysKeep": true,
+      "sentiment": "positiv"
     },
     {
       "platform": "Augen geradeaus!",
@@ -181,7 +141,7 @@
       "engagement": 0,
       "ts": "Tue, 15 Sep 2026 09:59:41 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -191,7 +151,7 @@
       "engagement": 0,
       "ts": "Tue, 15 Sep 2026 09:25:36 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -201,17 +161,7 @@
       "engagement": 0,
       "ts": "Mon, 14 Sep 2026 15:08:15 +0000",
       "alwaysKeep": true,
-      "sentiment": "negativ"
-    },
-    {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Pistorius kündigt viertes Flottendienstboot an",
-      "url": "https://augengeradeaus.net/2026/09/pistorius-kuendigt-viertes-flottendienstboot-an/",
-      "engagement": 0,
-      "ts": "Mon, 14 Sep 2026 12:43:38 +0000",
-      "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Bundeswehr Journal",
@@ -221,7 +171,7 @@
       "engagement": 0,
       "ts": "Tue, 15 Sep 2026 21:00:13 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Bundeswehr Journal",
@@ -231,7 +181,57 @@
       "engagement": 0,
       "ts": "Mon, 14 Sep 2026 21:00:46 +0000",
       "alwaysKeep": true,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Schwingungsprüfanlage für militärisches Großgerät bei Rheinmetall UK",
+      "url": "https://esut.de/2026/09/meldungen/land/75031/schwingung-rheinmetall-uk/",
+      "engagement": 0,
+      "ts": "Sat, 19 Sep 2026 21:30:40 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Versorgungsnot als Waffe",
+      "url": "https://esut.de/2026/09/fachbeitraege/cyber-it-fachbeitraege/74125/versorgungsnot/",
+      "engagement": 0,
+      "ts": "Sat, 19 Sep 2026 16:00:46 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Interview Inspekteur Luftwaffe zum Roll-out F-35",
+      "url": "https://esut.de/2026/09/meldungen/75088/inspekteur-luftwaffe-roll-out-f-35/",
+      "engagement": 0,
+      "ts": "Sat, 19 Sep 2026 07:02:38 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "GDLS-UK und ARX erproben Hector Wingmen für Ajax",
+      "url": "https://esut.de/2026/09/meldungen/74966/gdls-uk-und-arx-hector-wingmen/",
+      "engagement": 0,
+      "ts": "Sat, 19 Sep 2026 07:00:51 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Neue ES&T-Serie: Wege in die Wehrindustrie – Teil 1: Mehr als Vertrieb",
+      "url": "https://esut.de/2026/09/fachbeitraege/74133/defence-mehr-als-vertrieb/",
+      "engagement": 0,
+      "ts": "Sat, 19 Sep 2026 06:34:00 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
@@ -241,105 +241,45 @@
       "engagement": 0,
       "ts": "Fri, 18 Sep 2026 20:50:18 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Der Testpilot des Jungfernflugs der deutschen F-35 berichtet",
-      "url": "https://esut.de/2026/09/meldungen/75068/pilot-jungfernflug-deutsche-f-35/",
-      "engagement": 0,
-      "ts": "Fri, 18 Sep 2026 16:03:43 +0000",
-      "alwaysKeep": true,
-      "sentiment": "positiv"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Bundeswehr-Beschaffung: Zwölf 25-Mio-Vorlagen im Haushaltsausschuss",
-      "url": "https://esut.de/2026/09/meldungen/streitkraefte/75038/zwoelf-25-mio-bundeswehr/",
-      "engagement": 0,
-      "ts": "Fri, 18 Sep 2026 09:43:49 +0000",
-      "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "F-35: KI sagt Ersatzteilbedarf und Ausfälle voraus",
-      "url": "https://esut.de/2026/09/meldungen/75026/f-35-ki-ersatzteilbedarf-ausfaelle/",
+      "platform": "Spiegel Politik",
+      "author": "Spiegel Politik",
+      "text": "Carsten Breuer zur Nato: Politiker fordern rasche Neubesetzung an der Bundeswehr-Spitze",
+      "url": "https://www.spiegel.de/politik/carsten-breuer-zur-nato-politiker-fordern-rasche-neubesetzung-an-der-bundeswehr-spitze-a-4ec61e4f-dd93-4440-9b16-dc8d1d975673#ref=rss",
       "engagement": 0,
-      "ts": "Thu, 17 Sep 2026 17:29:49 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "China könnte F-35 Verkauf an Saudi-Arabien gefährden",
-      "url": "https://esut.de/2026/09/meldungen/75021/china-f-35-verkauf-saudi-arabien/",
-      "engagement": 0,
-      "ts": "Thu, 17 Sep 2026 16:25:16 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Beweis F-35: Wie Stealth trotz Vernetzung funktioniert",
-      "url": "https://esut.de/2026/09/meldungen/75013/f-35-stealth-trotz-vernetzung/",
-      "engagement": 0,
-      "ts": "Thu, 17 Sep 2026 14:29:44 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Tagesschau Alle Meldungen",
-      "author": "Tagesschau Alle Meldungen",
-      "text": "USA-Reise von Pistorius: Es ist etwas in Bewegung gekommen",
-      "url": "https://www.tagesschau.de/ausland/amerika/pistorius-usa-110.html",
-      "engagement": 0,
-      "ts": "Sat, 19 Sep 2026 00:40:52 +0200",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Tagesschau Alle Meldungen",
-      "author": "Tagesschau Alle Meldungen",
-      "text": "Pistorius nimmt in Texas ersten F-35A-Jet für Bundeswehr entgegen",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/pistorius-texas-f-35-100.html",
-      "engagement": 0,
-      "ts": "Fri, 18 Sep 2026 20:30:08 +0200",
+      "ts": "Sat, 19 Sep 2026 20:23:00 +0200",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "Spiegel Politik",
       "author": "Spiegel Politik",
-      "text": "Bundeswehr: Boris Pistorius nimmt ersten F-35-Tarnkappenjet in den USA entgegen",
-      "url": "https://www.spiegel.de/politik/bundeswehr-boris-pistorius-nimmt-ersten-f-35-tarnkappenjet-in-den-usa-entgegen-a-11271c64-2199-4d09-9704-37dd9957d5a5#ref=rss",
+      "text": "Nato: Carsten Breuer wird Vorsitzender von Militärausschuss",
+      "url": "https://www.spiegel.de/politik/nato-carsten-breuer-wird-vorsitzender-von-militaerausschuss-a-9959cc51-bbd3-4e74-8068-b56a3aba2308#ref=rss",
       "engagement": 0,
-      "ts": "Fri, 18 Sep 2026 16:24:00 +0200",
+      "ts": "Sat, 19 Sep 2026 17:27:00 +0200",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "Welt Topnews",
       "author": "Welt Topnews",
-      "text": "Deutschland zementiert seine Abhängigkeit von den USA",
-      "url": "https://www.welt.de/politik/ausland/article6aadba0c708e760b5e063aa8/f-35-fuer-die-bundeswehr-deutschland-zementiert-seine-abhaengigkeit-von-den-usa.html",
+      "text": "„Der Verteidigungsminister muss jetzt schnell handeln …“, mahnt CDU-Politiker Röwekamp",
+      "url": "https://www.welt.de/politik/deutschland/article6aaef504c0448787847cdf5d/posten-des-generalinspekteurs-der-verteidigungsminister-muss-jetzt-schnell-handeln-mahnt-cdu-politiker-roewekamp.html",
       "engagement": 0,
-      "ts": "Fri, 18 Sep 2026 23:11:29 GMT",
+      "ts": "Sat, 19 Sep 2026 20:59:54 GMT",
       "alwaysKeep": true,
       "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Heute wird die erste deutsche F-35A Lightning II an die Bundeswehr übergeben und es gibt Pläne für eine Zwangsmusterung von jungen Männern. Darüber hinaus gibt es Berichte über neue Eurofighter-Kampfjets, Drohnen und Personalstärke.",
+    "summary": "Heute im Fokus: Die Bundeswehr plant eine Zwangsmusterung für Freiwillige, während Verteidigungsminister Pistorius über die mögliche Verpflichtung von Soldaten zum Dienst in Litauen diskutiert. Darüber hinaus gibt es Berichte über den Roll-out des F-35 und die Beschaffungsverzögerungen für militärisches Großgerät.",
     "themes": [
-      "Pistorius' Wehrdienst-Modell",
-      "Neue Eurofighter-Kampfjets",
-      "Drohnen und Weltraumstationierung"
+      "Zwangsmusterung Freiwillige",
+      "Dienst in Litauen",
+      "F-35-Rollout und Beschaffungsverzögerungen"
     ]
   }
 }

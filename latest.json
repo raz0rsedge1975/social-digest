@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-20T03:32:54.765Z",
-  "timestamp": "20.9.2026, 05:32:54",
+  "generated": "2026-09-21T03:33:01.316Z",
+  "timestamp": "21.9.2026, 05:33:01",
   "items": [
     {
       "platform": "Mastodon",
@@ -31,7 +31,7 @@
       "engagement": 0,
       "ts": "2026-09-18T10:28:05+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Reddit r/de",
@@ -41,7 +41,7 @@
       "engagement": 0,
       "ts": "2026-09-18T07:50:43+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -91,7 +91,7 @@
       "engagement": 0,
       "ts": "Fri, 18 Sep 2026 19:25:39 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Augen geradeaus!",
@@ -101,7 +101,7 @@
       "engagement": 0,
       "ts": "Fri, 18 Sep 2026 10:31:51 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Augen geradeaus!",
@@ -111,7 +111,7 @@
       "engagement": 0,
       "ts": "Wed, 16 Sep 2026 17:12:10 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Augen geradeaus!",
@@ -121,7 +121,7 @@
       "engagement": 0,
       "ts": "Tue, 15 Sep 2026 15:50:14 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Augen geradeaus!",
@@ -131,7 +131,7 @@
       "engagement": 0,
       "ts": "Tue, 15 Sep 2026 14:24:46 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Augen geradeaus!",
@@ -141,7 +141,7 @@
       "engagement": 0,
       "ts": "Tue, 15 Sep 2026 09:59:41 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "negativ"
     },
     {
       "platform": "Augen geradeaus!",
@@ -151,7 +151,7 @@
       "engagement": 0,
       "ts": "Tue, 15 Sep 2026 09:25:36 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Augen geradeaus!",
@@ -171,7 +171,7 @@
       "engagement": 0,
       "ts": "Tue, 15 Sep 2026 21:00:13 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Bundeswehr Journal",
@@ -181,7 +181,27 @@
       "engagement": 0,
       "ts": "Mon, 14 Sep 2026 21:00:46 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "negativ"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Energie entscheidet über militärische Resilienz",
+      "url": "https://esut.de/2026/09/fachbeitraege/featured-fachbeitraege/74135/energie-resilienz/",
+      "engagement": 0,
+      "ts": "Sun, 20 Sep 2026 14:00:14 +0000",
+      "alwaysKeep": true,
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "30 Jahre KSK: Wie sich die Eliteeinheit gegen neue Bedrohungen wappnet",
+      "url": "https://esut.de/2026/09/fachbeitraege/74115/30-jahre-ksk-neue-bedrohungen/",
+      "engagement": 0,
+      "ts": "Sun, 20 Sep 2026 06:38:45 +0000",
+      "alwaysKeep": true,
+      "sentiment": "positiv"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
@@ -191,7 +211,7 @@
       "engagement": 0,
       "ts": "Sat, 19 Sep 2026 21:30:40 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
@@ -201,7 +221,7 @@
       "engagement": 0,
       "ts": "Sat, 19 Sep 2026 16:00:46 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
@@ -211,7 +231,7 @@
       "engagement": 0,
       "ts": "Sat, 19 Sep 2026 07:02:38 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
@@ -221,65 +241,15 @@
       "engagement": 0,
       "ts": "Sat, 19 Sep 2026 07:00:51 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Neue ES&T-Serie: Wege in die Wehrindustrie – Teil 1: Mehr als Vertrieb",
-      "url": "https://esut.de/2026/09/fachbeitraege/74133/defence-mehr-als-vertrieb/",
-      "engagement": 0,
-      "ts": "Sat, 19 Sep 2026 06:34:00 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "„Die F-35 wird verändern“ – Roll-out der ersten deutschen F-35A",
-      "url": "https://esut.de/2026/09/meldungen/75073/f-35-roll-out-der-ersten-deutschen/",
-      "engagement": 0,
-      "ts": "Fri, 18 Sep 2026 20:50:18 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Spiegel Politik",
-      "author": "Spiegel Politik",
-      "text": "Carsten Breuer zur Nato: Politiker fordern rasche Neubesetzung an der Bundeswehr-Spitze",
-      "url": "https://www.spiegel.de/politik/carsten-breuer-zur-nato-politiker-fordern-rasche-neubesetzung-an-der-bundeswehr-spitze-a-4ec61e4f-dd93-4440-9b16-dc8d1d975673#ref=rss",
-      "engagement": 0,
-      "ts": "Sat, 19 Sep 2026 20:23:00 +0200",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Spiegel Politik",
-      "author": "Spiegel Politik",
-      "text": "Nato: Carsten Breuer wird Vorsitzender von Militärausschuss",
-      "url": "https://www.spiegel.de/politik/nato-carsten-breuer-wird-vorsitzender-von-militaerausschuss-a-9959cc51-bbd3-4e74-8068-b56a3aba2308#ref=rss",
-      "engagement": 0,
-      "ts": "Sat, 19 Sep 2026 17:27:00 +0200",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Welt Topnews",
-      "author": "Welt Topnews",
-      "text": "„Der Verteidigungsminister muss jetzt schnell handeln …“, mahnt CDU-Politiker Röwekamp",
-      "url": "https://www.welt.de/politik/deutschland/article6aaef504c0448787847cdf5d/posten-des-generalinspekteurs-der-verteidigungsminister-muss-jetzt-schnell-handeln-mahnt-cdu-politiker-roewekamp.html",
-      "engagement": 0,
-      "ts": "Sat, 19 Sep 2026 20:59:54 GMT",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     }
   ],
   "analysis": {
-    "summary": "Heute im Fokus: Die Bundeswehr plant eine Zwangsmusterung für Freiwillige, während Verteidigungsminister Pistorius über die mögliche Verpflichtung von Soldaten zum Dienst in Litauen diskutiert. Darüber hinaus gibt es Berichte über den Roll-out des F-35 und die Beschaffungsverzögerungen für militärisches Großgerät.",
+    "summary": "Heute im Fokus: Die Bundeswehr plant eine Zwangsmusterung für Soldaten, die möglicherweise auch zum Dienst in Litauen verpflichtet werden könnten. Darüber hinaus gibt es Berichte über Drohnen am Fliegerhorst Wunstorf und eine neue Pläne für Reservisten, die bis zum 65. Lebensjahr beordert werden können.",
     "themes": [
-      "Zwangsmusterung Freiwillige",
-      "Dienst in Litauen",
-      "F-35-Rollout und Beschaffungsverzögerungen"
+      "Pistorius' Wehrdienst-Modell",
+      "Drohnen am Fliegerhorst Wunstorf",
+      "Neue Pläne für Reservisten"
     ]
   }
 }

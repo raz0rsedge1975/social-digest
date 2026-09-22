@@ -1,15 +1,15 @@
 {
-  "generated": "2026-09-21T03:33:01.316Z",
-  "timestamp": "21.9.2026, 05:33:01",
+  "generated": "2026-09-22T03:32:51.766Z",
+  "timestamp": "22.9.2026, 05:32:51",
   "items": [
     {
       "platform": "Mastodon",
-      "author": "@tagesschau@ard.social",
-      "text": "Pistorius will Soldaten zum Dienst in Litauen auch verpflichten Verteidigungsminister Pistorius hatte bei der Litauen-Brigade erst auf Freiwilligkeit gesetzt - doch Hunderte Spezialisten fehlen noch. Nun sollen Soldaten auch zum Dienst in der Brigade verpflichtet werden. ➡️ https://www. tagesschau.de/ausland/europa/l itauen-brigade-106.html?at_medium=mastodon&at_campaign=tagesschau.de # Litauen # ",
-      "url": "https://ard.social/@tagesschau/117270306034403059",
-      "engagement": 3,
-      "ts": "2026-09-14T16:21:03.000Z",
-      "followers": 93882,
+      "author": "@kenji@chaos.social",
+      "text": "Wie verändert die digitale # Zeitenwende Wirtschaft, Politik und Gesellschaft – und wer ist zuständig, wenn # Komplexität zum Dauerzustand wird? Wir leben in einer Welt, in der # IT längst nicht mehr nur eine technische Frage ist, sondern strategische Weitsicht erfordert. Genau deshalb haben # Hacker Sven Philipp Kalweit und ich unseren neuen Podcast „Kipker & Kalweit – Der CII-Podcast zur digital",
+      "url": "https://chaos.social/@kenji/117308539909230035",
+      "engagement": 0,
+      "ts": "2026-09-21T10:24:25.000Z",
+      "followers": 2453,
       "isBot": false,
       "sentiment": "kritisch"
     },
@@ -31,7 +31,7 @@
       "engagement": 0,
       "ts": "2026-09-18T10:28:05+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -41,7 +41,7 @@
       "engagement": 0,
       "ts": "2026-09-18T07:50:43+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Reddit r/de",
@@ -71,7 +71,7 @@
       "engagement": 0,
       "ts": "Sat, 19 Sep 2026 17:08:36 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "negativ"
     },
     {
       "platform": "Augen geradeaus!",
@@ -101,7 +101,7 @@
       "engagement": 0,
       "ts": "Fri, 18 Sep 2026 10:31:51 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -151,17 +151,7 @@
       "engagement": 0,
       "ts": "Tue, 15 Sep 2026 09:25:36 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
-    },
-    {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Brigade Litauen: Ganz ohne Pflicht wird es nicht gehen",
-      "url": "https://augengeradeaus.net/2026/09/brigade-litauen-ganz-ohne-pflicht-wird-es-nicht-gehen/",
-      "engagement": 0,
-      "ts": "Mon, 14 Sep 2026 15:08:15 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Bundeswehr Journal",
@@ -174,14 +164,34 @@
       "sentiment": "positiv"
     },
     {
-      "platform": "Bundeswehr Journal",
-      "author": "Bundeswehr Journal",
-      "text": "Kiellegung des dritten Flottendienstbootes für Deutschland",
-      "url": "https://www.bundeswehr-journal.de/2026/kiellegung-des-dritten-flottendienstbootes-fuer-deutschland/",
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Nach Arrow 3: Deutschland plant nun Arrow 4",
+      "url": "https://esut.de/2026/09/meldungen/75134/arrow-3-deutschland-plant-arrow-4/",
       "engagement": 0,
-      "ts": "Mon, 14 Sep 2026 21:00:46 +0000",
+      "ts": "Mon, 21 Sep 2026 14:39:18 +0000",
       "alwaysKeep": true,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Rheinmetall testet maritime Systeme bei NATO-Übung REPMUS26",
+      "url": "https://esut.de/2026/09/meldungen/see/75113/rheinmetall-repmus26/",
+      "engagement": 0,
+      "ts": "Mon, 21 Sep 2026 13:24:09 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "HexaForce von Thales: KI-C2-System für NATO",
+      "url": "https://esut.de/2026/09/meldungen/cyber-it/75107/hexaforce-thales/",
+      "engagement": 0,
+      "ts": "Mon, 21 Sep 2026 10:30:55 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
@@ -191,7 +201,7 @@
       "engagement": 0,
       "ts": "Sun, 20 Sep 2026 14:00:14 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
@@ -201,7 +211,7 @@
       "engagement": 0,
       "ts": "Sun, 20 Sep 2026 06:38:45 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
@@ -211,45 +221,17 @@
       "engagement": 0,
       "ts": "Sat, 19 Sep 2026 21:30:40 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Versorgungsnot als Waffe",
-      "url": "https://esut.de/2026/09/fachbeitraege/cyber-it-fachbeitraege/74125/versorgungsnot/",
-      "engagement": 0,
-      "ts": "Sat, 19 Sep 2026 16:00:46 +0000",
-      "alwaysKeep": true,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Interview Inspekteur Luftwaffe zum Roll-out F-35",
-      "url": "https://esut.de/2026/09/meldungen/75088/inspekteur-luftwaffe-roll-out-f-35/",
-      "engagement": 0,
-      "ts": "Sat, 19 Sep 2026 07:02:38 +0000",
-      "alwaysKeep": true,
-      "sentiment": "positiv"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "GDLS-UK und ARX erproben Hector Wingmen für Ajax",
-      "url": "https://esut.de/2026/09/meldungen/74966/gdls-uk-und-arx-hector-wingmen/",
-      "engagement": 0,
-      "ts": "Sat, 19 Sep 2026 07:00:51 +0000",
-      "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Heute im Fokus: Die Bundeswehr plant eine Zwangsmusterung für Soldaten, die möglicherweise auch zum Dienst in Litauen verpflichtet werden könnten. Darüber hinaus gibt es Berichte über Drohnen am Fliegerhorst Wunstorf und eine neue Pläne für Reservisten, die bis zum 65. Lebensjahr beordert werden können.",
+    "summary": "Die Bundeswehr diskutiert umfangreich über die Auswirkungen der digitalen Zeitenwende auf Wirtschaft, Politik und Gesellschaft sowie über aktuelle Ereignisse wie Zwangsmusterung, Drohnen und Satellitenpläne. Die Diskussion um Personalstärke und Reservisten wird ebenfalls belebt. Es gibt auch Hinweise auf neue Technologien und Systeme wie KI-C2-Systeme und maritime Systeme.",
     "themes": [
-      "Pistorius' Wehrdienst-Modell",
-      "Drohnen am Fliegerhorst Wunstorf",
-      "Neue Pläne für Reservisten"
+      "Digitale Zeitenwende und ihre Auswirkungen",
+      "Zwangsmusterung und Zwangsverpflichtung",
+      "Drohnen und Satellitenpläne",
+      "Personalstärke und Reservisten",
+      "Neue Technologien und Systeme (KI-C2-Systeme, maritime Systeme)"
     ]
   }
 }

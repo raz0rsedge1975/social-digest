@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-22T03:32:51.766Z",
-  "timestamp": "22.9.2026, 05:32:51",
+  "generated": "2026-09-23T03:32:46.484Z",
+  "timestamp": "23.9.2026, 05:32:46",
   "items": [
     {
       "platform": "Mastodon",
@@ -15,13 +15,23 @@
     },
     {
       "platform": "Reddit r/de",
+      "author": "u/GirasoleDE",
+      "text": "Abgestürzte Drohne am Bundeswehr-Standort Wunstorf - Ermittler finden offenbar Sprengstoff",
+      "url": "https://www.reddit.com/r/de/comments/1wnl522/abgestürzte_drohne_am_bundeswehrstandort_wunstorf/",
+      "engagement": 0,
+      "ts": "2026-09-22T20:33:39+00:00",
+      "alwaysKeep": true,
+      "sentiment": "negativ"
+    },
+    {
+      "platform": "Reddit r/de",
       "author": "u/MPH2210",
       "text": "Bundeswehr startet Zwangsmusterung: Wer jetzt gezwungen wird",
       "url": "https://www.reddit.com/r/de/comments/1wkswzb/bundeswehr_startet_zwangsmusterung_wer_jetzt/",
       "engagement": 0,
       "ts": "2026-09-19T17:59:49+00:00",
       "alwaysKeep": true,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -31,7 +41,7 @@
       "engagement": 0,
       "ts": "2026-09-18T10:28:05+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Reddit r/de",
@@ -41,7 +51,7 @@
       "engagement": 0,
       "ts": "2026-09-18T07:50:43+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "negativ"
     },
     {
       "platform": "Reddit r/de",
@@ -54,16 +64,6 @@
       "sentiment": "kritisch"
     },
     {
-      "platform": "Reddit r/de",
-      "author": "u/Turtle456",
-      "text": "Deutsche Bundeswehr arbeitet auf Palantir-Alternative hin",
-      "url": "https://www.reddit.com/r/de/comments/1wgwymg/deutsche_bundeswehr_arbeitet_auf/",
-      "engagement": 0,
-      "ts": "2026-09-15T10:50:09+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
       "platform": "Augen geradeaus!",
       "author": "Augen geradeaus!",
       "text": "Bundeswehr-Generalinspekteur Breuer zum künftigen Chef des NATO-Militärausschusses gewählt",
@@ -71,7 +71,7 @@
       "engagement": 0,
       "ts": "Sat, 19 Sep 2026 17:08:36 +0000",
       "alwaysKeep": true,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -101,7 +101,7 @@
       "engagement": 0,
       "ts": "Fri, 18 Sep 2026 10:31:51 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Augen geradeaus!",
@@ -114,52 +114,42 @@
       "sentiment": "positiv"
     },
     {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Neue Pläne für Reservisten: Beorderung jetzt bis zum 65. Lebensjahr möglich",
-      "url": "https://augengeradeaus.net/2026/09/neue-plaene-fuer-reservisten-beorderung-jetzt-bis-zum-65-lebensjahr-moeglich/",
-      "engagement": 0,
-      "ts": "Tue, 15 Sep 2026 15:50:14 +0000",
-      "alwaysKeep": true,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Sicherheitshalber der Podcast #111: Humanoide Roboter im Militär? | Was Mittelmächte bewirken können (und was nicht)",
-      "url": "https://augengeradeaus.net/2026/09/sicherheitshalber-der-podcast-111-humanoide-roboter-im-militaer-was-mittelmaechte-bewirken-koennen-und-was-nicht/",
-      "engagement": 0,
-      "ts": "Tue, 15 Sep 2026 14:24:46 +0000",
-      "alwaysKeep": true,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Russische Fregatte feuert Leuchtraketen auf dänischen Hubschrauber",
-      "url": "https://augengeradeaus.net/2026/09/russische-fregatte-feuert-leuchtraketen-auf-daenischen-hubschrauber/",
-      "engagement": 0,
-      "ts": "Tue, 15 Sep 2026 09:59:41 +0000",
-      "alwaysKeep": true,
-      "sentiment": "negativ"
-    },
-    {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Merkposten: USA bestätigen erstmals Stationierung von Waffen im Weltraum",
-      "url": "https://augengeradeaus.net/2026/09/merkposten-usa-bestaetigen-erstmals-stationierung-von-waffen-im-weltraum/",
-      "engagement": 0,
-      "ts": "Tue, 15 Sep 2026 09:25:36 +0000",
-      "alwaysKeep": true,
-      "sentiment": "kritisch"
-    },
-    {
       "platform": "Bundeswehr Journal",
       "author": "Bundeswehr Journal",
-      "text": "Präsentation des ersten Spezialfahrzeugs Tahr für das KSK",
-      "url": "https://www.bundeswehr-journal.de/2026/praesentation-des-ersten-spezialfahrzeugs-tahr-fuer-das-ksk/",
+      "text": "„Sound and Service“: Musikfest der Bundeswehr 2026",
+      "url": "https://www.bundeswehr-journal.de/2026/sound-and-service-musikfest-der-bundeswehr-2026/",
       "engagement": 0,
-      "ts": "Tue, 15 Sep 2026 21:00:13 +0000",
+      "ts": "Mon, 21 Sep 2026 21:30:12 +0000",
+      "alwaysKeep": true,
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Virtueller Handlungstrainer HGXR für Spezialkräfte",
+      "url": "https://esut.de/2026/09/allgemein/75146/hgxr/",
+      "engagement": 0,
+      "ts": "Tue, 22 Sep 2026 22:05:34 +0000",
+      "alwaysKeep": true,
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "DEUTZ und Hypercraft bauen gemeinsam UGV-Systeme",
+      "url": "https://esut.de/2026/09/meldungen/land/75142/deutz-hypercraft/",
+      "engagement": 0,
+      "ts": "Tue, 22 Sep 2026 10:15:50 +0000",
+      "alwaysKeep": true,
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Viking: IDV für autonome Minenräum-Initiative der U.S. Army ausgewählt",
+      "url": "https://esut.de/2026/09/meldungen/land/75118/viking-idv/",
+      "engagement": 0,
+      "ts": "Tue, 22 Sep 2026 05:00:53 +0000",
       "alwaysKeep": true,
       "sentiment": "positiv"
     },
@@ -181,7 +171,7 @@
       "engagement": 0,
       "ts": "Mon, 21 Sep 2026 13:24:09 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
@@ -191,47 +181,26 @@
       "engagement": 0,
       "ts": "Mon, 21 Sep 2026 10:30:55 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Energie entscheidet über militärische Resilienz",
-      "url": "https://esut.de/2026/09/fachbeitraege/featured-fachbeitraege/74135/energie-resilienz/",
+      "platform": "Spiegel Politik",
+      "author": "Spiegel Politik",
+      "text": "Wunstorf: Gefundene Drohne weist Parallelen zur Drohne von Leipziger Flughafen auf",
+      "url": "https://www.spiegel.de/politik/wunstorf-gefundene-drohne-weisst-parallelen-zur-drohne-von-leipziger-flughafen-auf-a-74ee9669-8935-4438-891a-078e1a2a08e5#ref=rss",
       "engagement": 0,
-      "ts": "Sun, 20 Sep 2026 14:00:14 +0000",
+      "ts": "Tue, 22 Sep 2026 19:41:00 +0200",
       "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "30 Jahre KSK: Wie sich die Eliteeinheit gegen neue Bedrohungen wappnet",
-      "url": "https://esut.de/2026/09/fachbeitraege/74115/30-jahre-ksk-neue-bedrohungen/",
-      "engagement": 0,
-      "ts": "Sun, 20 Sep 2026 06:38:45 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Schwingungsprüfanlage für militärisches Großgerät bei Rheinmetall UK",
-      "url": "https://esut.de/2026/09/meldungen/land/75031/schwingung-rheinmetall-uk/",
-      "engagement": 0,
-      "ts": "Sat, 19 Sep 2026 21:30:40 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     }
   ],
   "analysis": {
-    "summary": "Die Bundeswehr diskutiert umfangreich über die Auswirkungen der digitalen Zeitenwende auf Wirtschaft, Politik und Gesellschaft sowie über aktuelle Ereignisse wie Zwangsmusterung, Drohnen und Satellitenpläne. Die Diskussion um Personalstärke und Reservisten wird ebenfalls belebt. Es gibt auch Hinweise auf neue Technologien und Systeme wie KI-C2-Systeme und maritime Systeme.",
+    "summary": "Die Diskussion um die Auswirkungen der digitalen Zeitenwende auf Wirtschaft, Politik und Gesellschaft sowie die Reaktionen auf den Absturz einer Drohne am Bundeswehr-Standort Wunstorf dominieren den heutigen Diskurs.",
     "themes": [
-      "Digitale Zeitenwende und ihre Auswirkungen",
-      "Zwangsmusterung und Zwangsverpflichtung",
-      "Drohnen und Satellitenpläne",
-      "Personalstärke und Reservisten",
-      "Neue Technologien und Systeme (KI-C2-Systeme, maritime Systeme)"
+      "Digitale Transformation und ihre Auswirkungen",
+      "Absturz der Drohne in Wunstorf und Ermittlungen",
+      "Zwangsmusterung in der Bundeswehr und Personalstärke",
+      "Bundeswehr und NATO: Drohnen, Satelliten und KI-Systeme"
     ]
   }
 }

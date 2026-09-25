@@ -1,66 +1,17 @@
 {
-  "generated": "2026-09-24T03:33:12.339Z",
-  "timestamp": "24.9.2026, 05:33:12",
+  "generated": "2026-09-25T03:32:36.706Z",
+  "timestamp": "25.9.2026, 05:32:36",
   "items": [
     {
-      "platform": "Bluesky",
-      "author": "@honkhase.de",
-      "handle": "honkhase.de",
-      "text": "Mein Interview für die AG KRITIS bei SAT.1 Regional von heute 17 Uhr ist jetzt Online.\n\nDrohne in Wunstorf: Generalbundesanwalt übernimmt Fall\n\n\"In der Nähe des Bundeswehr-Fliegerhorsts Wunstorf in Niedersachsen wurde vor rund einer Woche eine Drohne entdeckt...\"\n\nwww.sat1regional.de/artikel/droh...",
-      "url": "https://bsky.app/profile/honkhase.de/post/3mw74d33ll22x",
-      "engagement": 45,
-      "ts": "2026-09-23T15:59:39.283Z",
-      "followers": 8246,
-      "isBot": false,
-      "sentiment": "positiv"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@luftwaffe.bundeswehr.de",
-      "handle": "luftwaffe.bundeswehr.de",
-      "text": "Feldwebelbrief auf Helgoland!  \nGestern würdigte die Unteroffizierschule der Luftwaffe auf Helgoland den Abschluss der Laufbahnausbildung. Die Soldatinnen und Soldaten erhielten feierlich ihren sogenannten Feldwebelbrief. 🇩🇪✈️\n\n(📸: Bundeswehr/Ralf Noehmer)",
-      "url": "https://bsky.app/profile/luftwaffe.bundeswehr.de/post/3mw6lopw5vk2k",
-      "engagement": 26,
-      "ts": "2026-09-23T11:01:56.611Z",
-      "followers": 3454,
+      "platform": "Mastodon",
+      "author": "@Sebastian@pertsch.social",
+      "text": "Dinge, die ich noch nicht auf dem Zettel hatte und eher im Ordner # Cringe abheften wollen würde: eine # Döner -Tüte mit Werbung für die # Bundeswehr . 😵‍💫",
+      "url": "https://Pertsch.social/@Sebastian/117328031754223724",
+      "engagement": 3,
+      "ts": "2026-09-24T21:01:27.000Z",
+      "followers": 5753,
       "isBot": false,
       "sentiment": "neutral"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@kraxler.bsky.social",
-      "handle": "kraxler.bsky.social",
-      "text": "Verdacht auf Sprengstoff-Spuren nach Drohnenfund nahe Bundeswehr-Flugplatz\n\nwww.lr-online.de/nachrichten/...",
-      "url": "https://bsky.app/profile/kraxler.bsky.social/post/3mw6xdduntc22",
-      "engagement": 12,
-      "ts": "2026-09-23T14:30:19.767Z",
-      "followers": 2733,
-      "isBot": false,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@rentwaffnen.bsky.social",
-      "handle": "rentwaffnen.bsky.social",
-      "text": "Nach einer antimilitaristischen Blockade des Bundeswehr-Karrierecenters in Köln wird der Prozess gegen einen Aktivisten neu verhandelt. Das Bündnis Rheinmetall Entwaffnen ruft zur Begleitung des Berufungsverfahrens auf.\ndeutsch.anf-news.com/aktuelles/na...",
-      "url": "https://bsky.app/profile/rentwaffnen.bsky.social/post/3mw7fze26kc25",
-      "engagement": 3,
-      "ts": "2026-09-23T18:53:10.550Z",
-      "followers": 2240,
-      "isBot": false,
-      "sentiment": "negativ"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@monopolmagazin.bsky.social",
-      "handle": "monopolmagazin.bsky.social",
-      "text": "Ein verschollen geglaubtes Gemälde von Bernhard Heisig kehrt an seinen angestammten Platz zurück - ins Militärhistorische Museum der Bundeswehr nach Dresden",
-      "url": "https://bsky.app/profile/monopolmagazin.bsky.social/post/3mw6r2vqqck2x",
-      "engagement": 0,
-      "ts": "2026-09-23T12:38:14.091Z",
-      "followers": 2585,
-      "isBot": false,
-      "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
@@ -71,7 +22,17 @@
       "ts": "2026-09-21T10:24:25.000Z",
       "followers": 2453,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Reddit r/de",
+      "author": "u/YouWeatherwax",
+      "text": "\"Red Storm Charlie\": Bundeswehr übt bis Samstag in Hamburg",
+      "url": "https://www.reddit.com/r/de/comments/1wp4j8x/red_storm_charlie_bundeswehr_übt_bis_samstag_in/",
+      "engagement": 0,
+      "ts": "2026-09-24T15:20:45+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -81,7 +42,7 @@
       "engagement": 0,
       "ts": "2026-09-23T10:08:53+00:00",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -91,7 +52,7 @@
       "engagement": 0,
       "ts": "2026-09-23T07:03:13+00:00",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -130,76 +91,6 @@
       "url": "https://www.reddit.com/r/de/comments/1wjjt5u/bundeswehr_drohne_am_fliegerhorst_wunstorf/",
       "engagement": 0,
       "ts": "2026-09-18T07:50:43+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Reddit r/de",
-      "author": "u/GirasoleDE",
-      "text": "Russlands Satellitenpläne: Bundeswehr warnt vor Putins Starlink-Alternative",
-      "url": "https://www.reddit.com/r/de/comments/1wixx7f/russlands_satellitenpläne_bundeswehr_warnt_vor/",
-      "engagement": 0,
-      "ts": "2026-09-17T15:57:05+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Reddit r/bundeswehr",
-      "author": "u/hayaiwashi_31",
-      "text": "Fliegerischer Dienst nach refraktiver Chirurgie",
-      "url": "https://www.reddit.com/r/bundeswehr/comments/1wog8pg/fliegerischer_dienst_nach_refraktiver_chirurgie/",
-      "engagement": 0,
-      "ts": "2026-09-23T19:48:56+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Reddit r/bundeswehr",
-      "author": "u/Livid-Tip-7874",
-      "text": "Einstieg in die BW nach Masterabschluss",
-      "url": "https://www.reddit.com/r/bundeswehr/comments/1woa675/einstieg_in_die_bw_nach_masterabschluss/",
-      "engagement": 0,
-      "ts": "2026-09-23T16:06:03+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Reddit r/bundeswehr",
-      "author": "u/Jaeden_fu",
-      "text": "Transgender beim Bund?",
-      "url": "https://www.reddit.com/r/bundeswehr/comments/1wo0wwa/transgender_beim_bund/",
-      "engagement": 0,
-      "ts": "2026-09-23T09:14:20+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Reddit r/bundeswehr",
-      "author": "u/xraybroo",
-      "text": "Spät an Bundeswehr-KH beginnen",
-      "url": "https://www.reddit.com/r/bundeswehr/comments/1wo0ll7/spät_an_bundeswehrkh_beginnen/",
-      "engagement": 0,
-      "ts": "2026-09-23T08:55:29+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Reddit r/bundeswehr",
-      "author": "u/scaryspueli",
-      "text": "Bundeswehr 50ccm Roller [in Koblenz aufgenommen vor 3 Jahren]",
-      "url": "https://www.reddit.com/r/bundeswehr/comments/1wnlqp9/bundeswehr_50ccm_roller_in_koblenz_aufgenommen/",
-      "engagement": 0,
-      "ts": "2026-09-22T20:55:40+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Reddit r/bundeswehr",
-      "author": "u/Adorable_Act_1632",
-      "text": "Einplaner hat gelogen?",
-      "url": "https://www.reddit.com/r/bundeswehr/comments/1wnifar/einplaner_hat_gelogen/",
-      "engagement": 0,
-      "ts": "2026-09-22T18:56:30+00:00",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -266,6 +157,36 @@
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
+      "text": "S-400 gegen F-35: Israel stellt sich Ankara in den Weg",
+      "url": "https://esut.de/2026/09/meldungen/75220/s-400-f-35-israel-ankara-in-weg/",
+      "engagement": 0,
+      "ts": "Thu, 24 Sep 2026 17:05:25 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Diehl Defence kombiniert Fähigkeiten zur Kampfmittelbeseitigung",
+      "url": "https://esut.de/2026/09/meldungen/75200/diehl-defen-kampfmittelbeseitigung/",
+      "engagement": 0,
+      "ts": "Thu, 24 Sep 2026 12:05:52 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Israelisches Tarnsystem für Spezialkräfte eines NATO-Staats",
+      "url": "https://esut.de/2026/09/meldungen/75194/israel-tarnsystem-spezialkraefte/",
+      "engagement": 0,
+      "ts": "Thu, 24 Sep 2026 11:38:02 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
       "text": "DAMALS I ,,Foch“ – der jüngste französische Flugzeugträger",
       "url": "https://esut.de/2026/09/meldungen/featured/75098/foch-flugzeugtraeger/",
       "engagement": 0,
@@ -292,44 +213,14 @@
       "ts": "Tue, 22 Sep 2026 22:05:34 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "DEUTZ und Hypercraft bauen gemeinsam UGV-Systeme",
-      "url": "https://esut.de/2026/09/meldungen/land/75142/deutz-hypercraft/",
-      "engagement": 0,
-      "ts": "Tue, 22 Sep 2026 10:15:50 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Viking: IDV für autonome Minenräum-Initiative der U.S. Army ausgewählt",
-      "url": "https://esut.de/2026/09/meldungen/land/75118/viking-idv/",
-      "engagement": 0,
-      "ts": "Tue, 22 Sep 2026 05:00:53 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Nach Arrow 3: Deutschland plant nun Arrow 4",
-      "url": "https://esut.de/2026/09/meldungen/75134/arrow-3-deutschland-plant-arrow-4/",
-      "engagement": 0,
-      "ts": "Mon, 21 Sep 2026 14:39:18 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Heute präsentiert sich der Bundeswehr-Diskurs im sozialen Medien vor allem durch Sorgen um Sicherheit und Technologie, wobei Drohnen und Sprengstoff-Themen dominiert. Darüber hinaus wird die Zukunft des Wehrdienstes und die Beschaffung von Militärausrüstung diskutiert.",
+    "summary": "Die Bundeswehr diskutiert umfangreich über digitale Veränderungen, neue Technologien und Personalentwicklung. Die Diskussion um die Beschaffung von Militärfahrzeugen und die Rolle der Bundeswehr in der internationalen Sicherheit wird weiter geführt.",
     "themes": [
-      "Drohnen-Sicherheitsrisiken",
-      "Pistorius' Wehrdienst-Modell",
-      "Beschaffungs-Verzögerungen und -Kritik"
+      "Digitale Zeitenwende",
+      "Beschaffungs-Verzögerung F-35A",
+      "Personalentwicklung und Zwangsmusterung"
     ]
   }
 }

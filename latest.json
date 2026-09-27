@@ -1,42 +1,54 @@
 {
-  "generated": "2026-09-26T03:32:59.554Z",
-  "timestamp": "26.9.2026, 05:32:59",
+  "generated": "2026-09-27T03:32:52.700Z",
+  "timestamp": "27.9.2026, 05:32:52",
   "items": [
+    {
+      "platform": "Bluesky",
+      "author": "@echobit.de",
+      "handle": "echobit.de",
+      "text": "Eine Zahl, über die man zumindest politisch nachdenken sollte: Obwohl Ostdeutsche nur knapp ein Fünftel der Bevölkerung stellen, sind sie in Teilen der Bundeswehr deutlich überproportional vertreten.",
+      "url": "https://bsky.app/profile/echobit.de/post/3mwgeeeefz22g",
+      "engagement": 30,
+      "ts": "2026-09-26T13:12:10.667Z",
+      "followers": 2956,
+      "isBot": false,
+      "sentiment": "kritisch"
+    },
     {
       "platform": "Bluesky",
       "author": "@labournetgermany.bsky.social",
       "handle": "labournetgermany.bsky.social",
       "text": "#Schulstreik: Trotz Behinderungen in einigen Städten streikten am 25.9. über 45.000 Schüler:innen gegen den #Wehrdienst mit breiter Unterstützung von Eltern, Lehrer:innen, Gewerkschaften und Initiativen",
       "url": "https://bsky.app/profile/labournetgermany.bsky.social/post/3mwds7pr6ls2w",
-      "engagement": 24,
+      "engagement": 27,
       "ts": "2026-09-25T12:42:08.019Z",
-      "followers": 2741,
+      "followers": 2744,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@luftwaffe.bundeswehr.de",
+      "handle": "luftwaffe.bundeswehr.de",
+      "text": "🇹🇷🛡️ Weiter geht’s: Seit Juni sichern unsere Patriot-Kräfte 24/7 die NATO-Luftverteidigung an der Südostflanke. Der Auftrag der AMD TF TUR wird bis April 2027 fortgesetzt. Kontingentführer Dujovic: „Auf die bisher erbrachten Leistungen können wir stolz sein.“\n\n(📸: Bundeswehr)",
+      "url": "https://bsky.app/profile/luftwaffe.bundeswehr.de/post/3mwfz4d2pkk2d",
+      "engagement": 25,
+      "ts": "2026-09-26T09:50:49.674Z",
+      "followers": 3455,
       "isBot": false,
       "sentiment": "positiv"
     },
     {
       "platform": "Bluesky",
-      "author": "@opfuekdo.bundeswehr.de",
-      "handle": "opfuekdo.bundeswehr.de",
-      "text": "Seit gestern übt die Bundeswehr in Hamburg mit mehr als 1.500 Teilnehmenden, davon rund 500 Soldatinnen und Soldaten, Drohnen- und Sabotageabwehr, Kolonnenfahrten und mehr. Kapitän zur See Kurt Leonards erklärt die Übung, die bis morgen Nachmittag läuft. 🛡️ 🤝🚚",
-      "url": "https://bsky.app/profile/opfuekdo.bundeswehr.de/post/3mwdozho6l22a",
-      "engagement": 21,
-      "ts": "2026-09-25T11:44:56.976Z",
-      "followers": 3054,
+      "author": "@echobit.de",
+      "handle": "echobit.de",
+      "text": "Aber genau das ist doch die interessante Frage. Wenn die unterschiedliche Wirtschaftsstruktur und die geringere Zahl gut bezahlter Industriearbeitsplätze im Osten dazu führen, dass die Bundeswehr dort als Arbeitgeber attraktiver ist, …",
+      "url": "https://bsky.app/profile/echobit.de/post/3mwghhq6sn226",
+      "engagement": 7,
+      "ts": "2026-09-26T14:07:44.953Z",
+      "followers": 2956,
       "isBot": false,
       "sentiment": "kritisch"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@lsa-rechtsaussen.net",
-      "handle": "lsa-rechtsaussen.net",
-      "text": "Der Burschenschafter und IBler wurde 2017 u.a. wegen Naziparolen aus der Bundeswehr entlassen. In der Folge stand er im Verdacht, schwere Waffen gehortet und einen Anschlag auf die damalige Verteidigungsministerin Ursula von der Leyen vorbereitet zu haben.",
-      "url": "https://bsky.app/profile/lsa-rechtsaussen.net/post/3mwdw4ezgls2d",
-      "engagement": 13,
-      "ts": "2026-09-25T13:51:44.623Z",
-      "followers": 2285,
-      "isBot": false,
-      "sentiment": "negativ"
     },
     {
       "platform": "Bluesky",
@@ -46,9 +58,9 @@
       "url": "https://bsky.app/profile/sarahkirchberger.bsky.social/post/3mvzgknslic24",
       "engagement": 5,
       "ts": "2026-09-21T09:46:52.782Z",
-      "followers": 3249,
+      "followers": 3251,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "negativ"
     },
     {
       "platform": "Mastodon",
@@ -63,25 +75,37 @@
     },
     {
       "platform": "Bluesky",
-      "author": "@mrhappyonbsky.eurosky.social",
-      "handle": "mrhappyonbsky.eurosky.social",
-      "text": "Ja die Linke hat zB explizit in ihrem Wahlprogramm stehen, dass sie den „Rahmenplan Zivile Verteidigung Krankenhäuser Berlin“ rückgängig machen will, weil Zusammenarbeit der Bundeswehr mit Krankenhäuser eine \"Militarisierung\" bedeutet.",
-      "url": "https://bsky.app/profile/mrhappyonbsky.eurosky.social/post/3mweiinvejc2e",
-      "engagement": 2,
-      "ts": "2026-09-25T19:20:50.370Z",
-      "followers": 3039,
+      "author": "@echobit.de",
+      "handle": "echobit.de",
+      "text": "Und genau dieser Kurzschluss ist das Problem. Aus einer statistischen Überrepräsentation Ostdeutscher in der Bundeswehr eine Verbindung zum Wahlverhalten einer Region zu konstruieren, wäre ziemlich gewagt.",
+      "url": "https://bsky.app/profile/echobit.de/post/3mwgfievkcc2n",
+      "engagement": 4,
+      "ts": "2026-09-26T13:32:19.190Z",
+      "followers": 2956,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "negativ"
     },
     {
       "platform": "Bluesky",
-      "author": "@andreasbirkigt.bsky.social",
-      "handle": "andreasbirkigt.bsky.social",
-      "text": "(…) hat die Bundeswehr gar nicht die Infrastruktur. Die müsste erst wieder geschaffen werden - in Stein und Beton, und personell. Wer soll diese Rekruten ausbilden? Und wo?\nUnd wäre diese Bundeswehr geeignet, Feinde abzuschrecken?",
-      "url": "https://bsky.app/profile/andreasbirkigt.bsky.social/post/3mwdr2lvkjk2z",
-      "engagement": 1,
-      "ts": "2026-09-25T12:21:22.168Z",
-      "followers": 5980,
+      "author": "@agitpopblog.eurosky.social",
+      "handle": "agitpopblog.eurosky.social",
+      "text": "And a good part of the generals responsible for iniating the atrocities (mostly on the Eastern Front) got slaps on the wrist. At best: Short prison stints, released after a few years due to \"health concerns\", then fat state pensions and contracts for creating the Bundeswehr.",
+      "url": "https://bsky.app/profile/agitpopblog.eurosky.social/post/3mwgcc4t2us2i",
+      "engagement": 3,
+      "ts": "2026-09-26T12:35:08.167Z",
+      "followers": 2061,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@mrhappyonbsky.eurosky.social",
+      "handle": "mrhappyonbsky.eurosky.social",
+      "text": "Ist euch eigentlich bewusst, dass Polizei und Bundeswehr beim #Stromausfall in Berlin ultra-wichtige Aufgaben übernommen haben? \n\nWie wollt ihr auf solche Sabotage vorbereitet sein, wenn ihr mit diesen Institutionen aus ideologischen Gründen nicht zusammenarbeitet?",
+      "url": "https://bsky.app/profile/mrhappyonbsky.eurosky.social/post/3mwgk3igtrs2e",
+      "engagement": 0,
+      "ts": "2026-09-26T14:54:35.403Z",
+      "followers": 3040,
       "isBot": false,
       "sentiment": "kritisch"
     },
@@ -94,7 +118,7 @@
       "ts": "2026-09-21T10:24:25.000Z",
       "followers": 2453,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Reddit r/de",
@@ -104,7 +128,7 @@
       "engagement": 0,
       "ts": "2026-09-24T15:20:45+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "negativ"
     },
     {
       "platform": "Reddit r/de",
@@ -114,7 +138,7 @@
       "engagement": 0,
       "ts": "2026-09-23T10:08:53+00:00",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Reddit r/de",
@@ -137,16 +161,6 @@
       "sentiment": "kritisch"
     },
     {
-      "platform": "Reddit r/de",
-      "author": "u/MPH2210",
-      "text": "Bundeswehr startet Zwangsmusterung: Wer jetzt gezwungen wird",
-      "url": "https://www.reddit.com/r/de/comments/1wkswzb/bundeswehr_startet_zwangsmusterung_wer_jetzt/",
-      "engagement": 0,
-      "ts": "2026-09-19T17:59:49+00:00",
-      "alwaysKeep": true,
-      "sentiment": "negativ"
-    },
-    {
       "platform": "Augen geradeaus!",
       "author": "Augen geradeaus!",
       "text": "Merkposten: Erster gemeinsamer Alarmrotten-Einsatz von Finnland und Schweden",
@@ -154,17 +168,7 @@
       "engagement": 0,
       "ts": "Fri, 25 Sep 2026 10:10:50 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
-    },
-    {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Bundeswehr-Generalinspekteur Breuer zum künftigen Chef des NATO-Militärausschusses gewählt",
-      "url": "https://augengeradeaus.net/2026/09/bundeswehr-generalsekretaer-breuer-zum-kuenftigen-chef-des-nato-militaer/",
-      "engagement": 0,
-      "ts": "Sat, 19 Sep 2026 17:08:36 +0000",
-      "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Bundeswehr Journal",
@@ -183,6 +187,36 @@
       "url": "https://www.bundeswehr-journal.de/2026/sound-and-service-musikfest-der-bundeswehr-2026/",
       "engagement": 0,
       "ts": "Mon, 21 Sep 2026 21:30:12 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "16 neue A400M – Bundeswehr plant den Austausch",
+      "url": "https://esut.de/2026/09/meldungen/75294/16-neue-a400m-bundeswehr-austausch/",
+      "engagement": 0,
+      "ts": "Sat, 26 Sep 2026 20:54:43 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Der Wettlauf um die taktische Zielerfassung aus dem All",
+      "url": "https://esut.de/2026/09/fachbeitraege/featured-fachbeitraege/74123/all/",
+      "engagement": 0,
+      "ts": "Sat, 26 Sep 2026 09:55:42 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Militärische KI: Wer entscheiden kann, bleibt souverän",
+      "url": "https://esut.de/2026/09/fachbeitraege/cyber-it-fachbeitraege/74121/militaerische-ki/",
+      "engagement": 0,
+      "ts": "Sat, 26 Sep 2026 06:00:34 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -215,54 +249,14 @@
       "ts": "Thu, 24 Sep 2026 17:05:25 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Diehl Defence kombiniert Fähigkeiten zur Kampfmittelbeseitigung",
-      "url": "https://esut.de/2026/09/meldungen/75200/diehl-defen-kampfmittelbeseitigung/",
-      "engagement": 0,
-      "ts": "Thu, 24 Sep 2026 12:05:52 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Israelisches Tarnsystem für Spezialkräfte eines NATO-Staats",
-      "url": "https://esut.de/2026/09/meldungen/75194/israel-tarnsystem-spezialkraefte/",
-      "engagement": 0,
-      "ts": "Thu, 24 Sep 2026 11:38:02 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "DAMALS I ,,Foch“ – der jüngste französische Flugzeugträger",
-      "url": "https://esut.de/2026/09/meldungen/featured/75098/foch-flugzeugtraeger/",
-      "engagement": 0,
-      "ts": "Wed, 23 Sep 2026 21:07:43 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Tagesschau Alle Meldungen",
-      "author": "Tagesschau Alle Meldungen",
-      "text": "Proteste gegen Wehrpflicht - Tausende Schüler demonstrieren bundesweit",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/wehrpflicht-proteste-schueler-100.html",
-      "engagement": 0,
-      "ts": "Fri, 25 Sep 2026 15:56:05 +0200",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Der Diskurs des Tages dominiert durch die Debatte um die Stärkung der Bundeswehr und die weitere Investitionen in moderne Technologie. Trotz Behinderungen in einigen Städten streikten am 25.9. über 45.000 Schüler gegen den Waffenbeschaffungsplan.",
+    "summary": "Der Diskurs dominiert heute die Bundeswehr und ihre Rolle in der NATO, sowie die Auswirkungen der digitalen Zeitenwende auf Wirtschaft, Politik und Gesellschaft.",
     "themes": [
       "Pistorius' Wehrdienst-Modell",
-      "Beschaffungs-Verzögerung LORA und F-35A",
-      "Proteste gegen Wehrpflicht"
+      "Beschaffungsverzögerung A400M",
+      "Kritik an der Beschaffung alter Technik"
     ]
   }
 }

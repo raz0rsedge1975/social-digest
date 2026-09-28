@@ -1,54 +1,30 @@
 {
-  "generated": "2026-09-27T03:32:52.700Z",
-  "timestamp": "27.9.2026, 05:32:52",
+  "generated": "2026-09-28T03:32:58.981Z",
+  "timestamp": "28.9.2026, 05:32:58",
   "items": [
-    {
-      "platform": "Bluesky",
-      "author": "@echobit.de",
-      "handle": "echobit.de",
-      "text": "Eine Zahl, über die man zumindest politisch nachdenken sollte: Obwohl Ostdeutsche nur knapp ein Fünftel der Bevölkerung stellen, sind sie in Teilen der Bundeswehr deutlich überproportional vertreten.",
-      "url": "https://bsky.app/profile/echobit.de/post/3mwgeeeefz22g",
-      "engagement": 30,
-      "ts": "2026-09-26T13:12:10.667Z",
-      "followers": 2956,
-      "isBot": false,
-      "sentiment": "kritisch"
-    },
     {
       "platform": "Bluesky",
       "author": "@labournetgermany.bsky.social",
       "handle": "labournetgermany.bsky.social",
       "text": "#Schulstreik: Trotz Behinderungen in einigen Städten streikten am 25.9. über 45.000 Schüler:innen gegen den #Wehrdienst mit breiter Unterstützung von Eltern, Lehrer:innen, Gewerkschaften und Initiativen",
       "url": "https://bsky.app/profile/labournetgermany.bsky.social/post/3mwds7pr6ls2w",
-      "engagement": 27,
+      "engagement": 32,
       "ts": "2026-09-25T12:42:08.019Z",
-      "followers": 2744,
+      "followers": 2746,
       "isBot": false,
       "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
-      "author": "@luftwaffe.bundeswehr.de",
-      "handle": "luftwaffe.bundeswehr.de",
-      "text": "🇹🇷🛡️ Weiter geht’s: Seit Juni sichern unsere Patriot-Kräfte 24/7 die NATO-Luftverteidigung an der Südostflanke. Der Auftrag der AMD TF TUR wird bis April 2027 fortgesetzt. Kontingentführer Dujovic: „Auf die bisher erbrachten Leistungen können wir stolz sein.“\n\n(📸: Bundeswehr)",
-      "url": "https://bsky.app/profile/luftwaffe.bundeswehr.de/post/3mwfz4d2pkk2d",
-      "engagement": 25,
-      "ts": "2026-09-26T09:50:49.674Z",
-      "followers": 3455,
+      "author": "@saegge.eurosky.social",
+      "handle": "saegge.eurosky.social",
+      "text": "\"Tod der Bundeswehr\" skandieren ist selbstverständlich antideutsch",
+      "url": "https://bsky.app/profile/saegge.eurosky.social/post/3mwiqv53nsc26",
+      "engagement": 6,
+      "ts": "2026-09-27T12:01:37.845Z",
+      "followers": 2130,
       "isBot": false,
-      "sentiment": "positiv"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@echobit.de",
-      "handle": "echobit.de",
-      "text": "Aber genau das ist doch die interessante Frage. Wenn die unterschiedliche Wirtschaftsstruktur und die geringere Zahl gut bezahlter Industriearbeitsplätze im Osten dazu führen, dass die Bundeswehr dort als Arbeitgeber attraktiver ist, …",
-      "url": "https://bsky.app/profile/echobit.de/post/3mwghhq6sn226",
-      "engagement": 7,
-      "ts": "2026-09-26T14:07:44.953Z",
-      "followers": 2956,
-      "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
@@ -58,9 +34,9 @@
       "url": "https://bsky.app/profile/sarahkirchberger.bsky.social/post/3mvzgknslic24",
       "engagement": 5,
       "ts": "2026-09-21T09:46:52.782Z",
-      "followers": 3251,
+      "followers": 3252,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -69,31 +45,7 @@
       "url": "https://Pertsch.social/@Sebastian/117328031754223724",
       "engagement": 5,
       "ts": "2026-09-24T21:01:27.000Z",
-      "followers": 5753,
-      "isBot": false,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@echobit.de",
-      "handle": "echobit.de",
-      "text": "Und genau dieser Kurzschluss ist das Problem. Aus einer statistischen Überrepräsentation Ostdeutscher in der Bundeswehr eine Verbindung zum Wahlverhalten einer Region zu konstruieren, wäre ziemlich gewagt.",
-      "url": "https://bsky.app/profile/echobit.de/post/3mwgfievkcc2n",
-      "engagement": 4,
-      "ts": "2026-09-26T13:32:19.190Z",
-      "followers": 2956,
-      "isBot": false,
-      "sentiment": "negativ"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@agitpopblog.eurosky.social",
-      "handle": "agitpopblog.eurosky.social",
-      "text": "And a good part of the generals responsible for iniating the atrocities (mostly on the Eastern Front) got slaps on the wrist. At best: Short prison stints, released after a few years due to \"health concerns\", then fat state pensions and contracts for creating the Bundeswehr.",
-      "url": "https://bsky.app/profile/agitpopblog.eurosky.social/post/3mwgcc4t2us2i",
-      "engagement": 3,
-      "ts": "2026-09-26T12:35:08.167Z",
-      "followers": 2061,
+      "followers": 4947,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -101,13 +53,49 @@
       "platform": "Bluesky",
       "author": "@mrhappyonbsky.eurosky.social",
       "handle": "mrhappyonbsky.eurosky.social",
-      "text": "Ist euch eigentlich bewusst, dass Polizei und Bundeswehr beim #Stromausfall in Berlin ultra-wichtige Aufgaben übernommen haben? \n\nWie wollt ihr auf solche Sabotage vorbereitet sein, wenn ihr mit diesen Institutionen aus ideologischen Gründen nicht zusammenarbeitet?",
-      "url": "https://bsky.app/profile/mrhappyonbsky.eurosky.social/post/3mwgk3igtrs2e",
-      "engagement": 0,
-      "ts": "2026-09-26T14:54:35.403Z",
-      "followers": 3040,
+      "text": "Elif hat ne Partei, die hat noch ganz andere Probleme. zB hartes Kooperationsverbot mit der Bundeswehr. Allerdings war die #Bundeswehr absolut wichtig beim #Stromausfall in Berlin im Winter. Wie will DieLinke diese Stadt regieren?",
+      "url": "https://bsky.app/profile/mrhappyonbsky.eurosky.social/post/3mwjizzglrc2e",
+      "engagement": 4,
+      "ts": "2026-09-27T19:13:51.584Z",
+      "followers": 3044,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@angiestone.graysky.social",
+      "handle": "angiestone.graysky.social",
+      "text": "\"Bünger sagte hierzu: Die Bundeswehr habe die Taliban jahrelang militärisch bekämpft, jetzt kooperiere Deutschland mit den Radikalislamisten und liefere ihnen Menschen per Abschiebeflieger aus.\"",
+      "url": "https://bsky.app/profile/angiestone.graysky.social/post/3mwipdkjq422f",
+      "engagement": 4,
+      "ts": "2026-09-27T11:33:54.216Z",
+      "followers": 6732,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@rentwaffnen.bsky.social",
+      "handle": "rentwaffnen.bsky.social",
+      "text": "Presse: Rheinmetall-Entwaffnen-Protest in Hamburg:\n»In einer öffentlichen Stellungnahme bekennen sich Aktivisten zu den farblichen Markierungen der Unternehmen, darunter Edeka, zwei Rheinmetall-Zulieferer und die Karriereberatung der Bundeswehr.«\nwww.mopo.de/hamburg/poli...\n\n#rheinmetallEntwaffnen",
+      "url": "https://bsky.app/profile/rentwaffnen.bsky.social/post/3mwjyzexctk2z",
+      "engagement": 2,
+      "ts": "2026-09-27T23:59:49.982Z",
+      "followers": 2250,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@anianide.bsky.social",
+      "handle": "anianide.bsky.social",
+      "text": "Verteidigungsminister Franz Josef Strauß berichtete von abenteuerlichen Methoden:\n\nWir haben die Israel zugesagten Geräte und Waffen heimlich aus den Depots der Bundeswehr geholt und hernach als Ablenkungsmanöver bei der Polizei in einigen Fällen Diebstahlanzeige erstattet.",
+      "url": "https://bsky.app/profile/anianide.bsky.social/post/3mwigtyrmic2h",
+      "engagement": 1,
+      "ts": "2026-09-27T09:02:02.331Z",
+      "followers": 22482,
+      "isBot": false,
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -128,7 +116,7 @@
       "engagement": 0,
       "ts": "2026-09-24T15:20:45+00:00",
       "alwaysKeep": true,
-      "sentiment": "negativ"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Reddit r/de",
@@ -138,7 +126,7 @@
       "engagement": 0,
       "ts": "2026-09-23T10:08:53+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "negativ"
     },
     {
       "platform": "Reddit r/de",
@@ -148,7 +136,7 @@
       "engagement": 0,
       "ts": "2026-09-23T07:03:13+00:00",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Reddit r/de",
@@ -157,6 +145,16 @@
       "url": "https://www.reddit.com/r/de/comments/1wnl522/abgestürzte_drohne_am_bundeswehrstandort_wunstorf/",
       "engagement": 0,
       "ts": "2026-09-22T20:33:39+00:00",
+      "alwaysKeep": true,
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Mit der Hafenfähre in den Krieg",
+      "url": "https://augengeradeaus.net/2026/09/mit-der-hafenfaehre-in-den-krieg/",
+      "engagement": 0,
+      "ts": "Sun, 27 Sep 2026 14:29:18 +0000",
       "alwaysKeep": true,
       "sentiment": "kritisch"
     },
@@ -168,7 +166,7 @@
       "engagement": 0,
       "ts": "Fri, 25 Sep 2026 10:10:50 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "positiv"
     },
     {
       "platform": "Bundeswehr Journal",
@@ -187,6 +185,36 @@
       "url": "https://www.bundeswehr-journal.de/2026/sound-and-service-musikfest-der-bundeswehr-2026/",
       "engagement": 0,
       "ts": "Mon, 21 Sep 2026 21:30:12 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "DAMALS I Das Maschinengewehr (MG 1)",
+      "url": "https://esut.de/2026/09/fachbeitraege/featured-fachbeitraege/75203/mg-1/",
+      "engagement": 0,
+      "ts": "Sun, 27 Sep 2026 13:00:15 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Schutz kritischer Infrastruktur am Meeresboden",
+      "url": "https://esut.de/2026/09/fachbeitraege/innere-sicherheit-fachbeitraege/74119/kritische-infrastruktur-meeresboden/",
+      "engagement": 0,
+      "ts": "Sun, 27 Sep 2026 10:00:35 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Strafrechtliche Risiken im Rüstungsgeschäft",
+      "url": "https://esut.de/2026/09/fachbeitraege/ruestung/74129/strafrecht-ruestung/",
+      "engagement": 0,
+      "ts": "Sun, 27 Sep 2026 04:50:09 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -219,44 +247,16 @@
       "ts": "Sat, 26 Sep 2026 06:00:34 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Marokko prüft LORA für HIMARS",
-      "url": "https://esut.de/2026/09/meldungen/see/75287/lora-himars/",
-      "engagement": 0,
-      "ts": "Fri, 25 Sep 2026 21:07:49 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "KI für Loitering Munition: Israel kooperiert mit Estland",
-      "url": "https://esut.de/2026/09/meldungen/75268/ki-loitering-munition-israel-estla/",
-      "engagement": 0,
-      "ts": "Fri, 25 Sep 2026 09:25:12 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "S-400 gegen F-35: Israel stellt sich Ankara in den Weg",
-      "url": "https://esut.de/2026/09/meldungen/75220/s-400-f-35-israel-ankara-in-weg/",
-      "engagement": 0,
-      "ts": "Thu, 24 Sep 2026 17:05:25 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Der Diskurs dominiert heute die Bundeswehr und ihre Rolle in der NATO, sowie die Auswirkungen der digitalen Zeitenwende auf Wirtschaft, Politik und Gesellschaft.",
+    "summary": "Der Diskurs des Tages dominiert durch die Debatte um die Stärkung der Bundeswehr und die Kritik an der Beschaffung neuer Technologie. Die AfD wird wieder mit Faschismus-Vorwürfen konfrontiert, während die Bundeswehr über ihre Methoden im Kampf gegen den Terrorismus diskutiert.",
     "themes": [
       "Pistorius' Wehrdienst-Modell",
-      "Beschaffungsverzögerung A400M",
-      "Kritik an der Beschaffung alter Technik"
+      "Beschaffungs-Verzögerung Rheinmetall",
+      "AfD-Faschismus-Vorwurf durch Bünger",
+      "Kritik an der Beschaffung von alten Technologie",
+      "Israel-Kooperation und Methoden"
     ]
   }
 }

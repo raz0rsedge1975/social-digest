@@ -1,7 +1,31 @@
 {
-  "generated": "2026-09-28T03:32:58.981Z",
-  "timestamp": "28.9.2026, 05:32:58",
+  "generated": "2026-09-29T03:33:15.519Z",
+  "timestamp": "29.9.2026, 05:33:15",
   "items": [
+    {
+      "platform": "Bluesky",
+      "author": "@westlandsretter.myatproto.social",
+      "handle": "westlandsretter.myatproto.social",
+      "text": "Death to the Bundeswehr, das ist schließlich ihr Job",
+      "url": "https://bsky.app/profile/westlandsretter.myatproto.social/post/3mwkzb33hlk2h",
+      "engagement": 33,
+      "ts": "2026-09-28T09:36:47.803Z",
+      "followers": 2474,
+      "isBot": false,
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@luftwaffe.bundeswehr.de",
+      "handle": "luftwaffe.bundeswehr.de",
+      "text": "Taktisches Schießen Kreta 2026 🚀\n\nIRIS-T SLM und Patriot sind auf dem NATO-Schießplatz NAMFI auf Kreta für die Übung Spartan Arrow 2026 eingetroffen. Die Verlegung war allerdings nur der erste Teil. Jetzt sind wir startklar, für das taktische Schießen auf Kreta.\n(📸: Bundeswehr/ Francis Hildemann)",
+      "url": "https://bsky.app/profile/luftwaffe.bundeswehr.de/post/3mwlkzd2o7k2u",
+      "engagement": 32,
+      "ts": "2026-09-28T14:54:35.080Z",
+      "followers": 3456,
+      "isBot": false,
+      "sentiment": "kritisch"
+    },
     {
       "platform": "Bluesky",
       "author": "@labournetgermany.bsky.social",
@@ -10,31 +34,79 @@
       "url": "https://bsky.app/profile/labournetgermany.bsky.social/post/3mwds7pr6ls2w",
       "engagement": 32,
       "ts": "2026-09-25T12:42:08.019Z",
-      "followers": 2746,
+      "followers": 2747,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Bluesky",
-      "author": "@saegge.eurosky.social",
-      "handle": "saegge.eurosky.social",
-      "text": "\"Tod der Bundeswehr\" skandieren ist selbstverständlich antideutsch",
-      "url": "https://bsky.app/profile/saegge.eurosky.social/post/3mwiqv53nsc26",
-      "engagement": 6,
-      "ts": "2026-09-27T12:01:37.845Z",
-      "followers": 2130,
+      "author": "@domvomgym.bsky.social",
+      "handle": "domvomgym.bsky.social",
+      "text": "Ich hoffe der Undertaker stattet der Bundeswehr einen Besuch ab",
+      "url": "https://bsky.app/profile/domvomgym.bsky.social/post/3mwkzskk4e22u",
+      "engagement": 18,
+      "ts": "2026-09-28T09:46:34.440Z",
+      "followers": 2767,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "negativ"
     },
     {
       "platform": "Bluesky",
-      "author": "@sarahkirchberger.bsky.social",
-      "handle": "sarahkirchberger.bsky.social",
-      "text": "🔹 “Eine klare Mehrheit unterstützt die weitere Stärkung der Bundeswehr: 58% sprechen sich für höhere Verteidigungsausgaben aus, 64% für mehr Soldatinnen und Soldaten.\n\n🔹 Die Gesellschaftliche Akzeptanz des Neuen Wehrdienstes ist weiter gestiegen: 59% halten den Neuen Wehrdienst für notwendig (+6%).”",
-      "url": "https://bsky.app/profile/sarahkirchberger.bsky.social/post/3mvzgknslic24",
-      "engagement": 5,
-      "ts": "2026-09-21T09:46:52.782Z",
-      "followers": 3252,
+      "author": "@seltsames.bsky.social",
+      "handle": "seltsames.bsky.social",
+      "text": "Als ich jung war, wollte ich nicht zur #Bundeswehr.\n\nIch war (und bezeichne mich noch immer als) überzeugte Pazifistin und konnte mir nicht vorstellen, Dienst an der Waffe zu leisten.\n\nDamals war für mich klar: Waffen und Pazifismus schließen sich aus.",
+      "url": "https://bsky.app/profile/seltsames.bsky.social/post/3mwlfynascc27",
+      "engagement": 14,
+      "ts": "2026-09-28T13:24:43.492Z",
+      "followers": 2907,
+      "isBot": false,
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@domvomgym.bsky.social",
+      "handle": "domvomgym.bsky.social",
+      "text": "Hoffe die Bundeswehr erwischt den letzten Bus",
+      "url": "https://bsky.app/profile/domvomgym.bsky.social/post/3mwkzw6w7as2u",
+      "engagement": 12,
+      "ts": "2026-09-28T09:48:36.472Z",
+      "followers": 2767,
+      "isBot": false,
+      "sentiment": "negativ"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@opfuekdo.bundeswehr.de",
+      "handle": "opfuekdo.bundeswehr.de",
+      "text": "Bei Red Storm Charlie trainierten Einheiten der Bundeswehr unter anderem mit Organisationen wie Feuerwehr, Technischem Hilfswerk und der Polizei die Zusammenarbeit in möglichen Krisen- und Ausnahmesituationen. Eine bessere Vernetzung und ein gemeinsames Rollenverständnis standen im Fokus. 🚓🤝🚒",
+      "url": "https://bsky.app/profile/opfuekdo.bundeswehr.de/post/3mwlfaawpdc27",
+      "engagement": 11,
+      "ts": "2026-09-28T13:11:05.279Z",
+      "followers": 3058,
+      "isBot": false,
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@rentwaffnen.bsky.social",
+      "handle": "rentwaffnen.bsky.social",
+      "text": "Bundeswehr-Übung in #Hamburg: Konnten Sie das Manöver stören?\n#hh2509 #endegelände #rheinmetallentwaffnen #störmanöver\n\n»Wir haben die Schienen blockiert, weil der Hafen als Symbol dafür steht, wie umfassend die #NATO aufrüstet. ...«\n\n1/2",
+      "url": "https://bsky.app/profile/rentwaffnen.bsky.social/post/3mwlhd7373k2s",
+      "engagement": 7,
+      "ts": "2026-09-28T13:48:31.486Z",
+      "followers": 2250,
+      "isBot": false,
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@seltsames.bsky.social",
+      "handle": "seltsames.bsky.social",
+      "text": "Heute sehe ich das anders.\n\nIch würde heute zur Bundeswehr gehen, weil es für mich nicht nur um Krieg geht, sondern auch um die Verteidigung unserer Demokratie und der freiheitlich-demokratischen Grundordnung.",
+      "url": "https://bsky.app/profile/seltsames.bsky.social/post/3mwlfync3cs27",
+      "engagement": 7,
+      "ts": "2026-09-28T13:24:43.493Z",
+      "followers": 2907,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -51,62 +123,38 @@
     },
     {
       "platform": "Bluesky",
-      "author": "@mrhappyonbsky.eurosky.social",
-      "handle": "mrhappyonbsky.eurosky.social",
-      "text": "Elif hat ne Partei, die hat noch ganz andere Probleme. zB hartes Kooperationsverbot mit der Bundeswehr. Allerdings war die #Bundeswehr absolut wichtig beim #Stromausfall in Berlin im Winter. Wie will DieLinke diese Stadt regieren?",
-      "url": "https://bsky.app/profile/mrhappyonbsky.eurosky.social/post/3mwjizzglrc2e",
-      "engagement": 4,
-      "ts": "2026-09-27T19:13:51.584Z",
-      "followers": 3044,
-      "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@angiestone.graysky.social",
-      "handle": "angiestone.graysky.social",
-      "text": "\"Bünger sagte hierzu: Die Bundeswehr habe die Taliban jahrelang militärisch bekämpft, jetzt kooperiere Deutschland mit den Radikalislamisten und liefere ihnen Menschen per Abschiebeflieger aus.\"",
-      "url": "https://bsky.app/profile/angiestone.graysky.social/post/3mwipdkjq422f",
-      "engagement": 4,
-      "ts": "2026-09-27T11:33:54.216Z",
-      "followers": 6732,
-      "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@rentwaffnen.bsky.social",
-      "handle": "rentwaffnen.bsky.social",
-      "text": "Presse: Rheinmetall-Entwaffnen-Protest in Hamburg:\n»In einer öffentlichen Stellungnahme bekennen sich Aktivisten zu den farblichen Markierungen der Unternehmen, darunter Edeka, zwei Rheinmetall-Zulieferer und die Karriereberatung der Bundeswehr.«\nwww.mopo.de/hamburg/poli...\n\n#rheinmetallEntwaffnen",
-      "url": "https://bsky.app/profile/rentwaffnen.bsky.social/post/3mwjyzexctk2z",
-      "engagement": 2,
-      "ts": "2026-09-27T23:59:49.982Z",
-      "followers": 2250,
-      "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@anianide.bsky.social",
-      "handle": "anianide.bsky.social",
-      "text": "Verteidigungsminister Franz Josef Strauß berichtete von abenteuerlichen Methoden:\n\nWir haben die Israel zugesagten Geräte und Waffen heimlich aus den Depots der Bundeswehr geholt und hernach als Ablenkungsmanöver bei der Polizei in einigen Fällen Diebstahlanzeige erstattet.",
-      "url": "https://bsky.app/profile/anianide.bsky.social/post/3mwigtyrmic2h",
+      "author": "@dirkmassat.bsky.social",
+      "handle": "dirkmassat.bsky.social",
+      "text": "Für mich ist das der Lauterbach der Bundeswehr.\n\nAuf irgendetwas hängengeblieben, völlig abgestumpft und dient nur einem Zweck: der Bevölkerungsreduktion.",
+      "url": "https://bsky.app/profile/dirkmassat.bsky.social/post/3mwmigg4qf22n",
       "engagement": 1,
-      "ts": "2026-09-27T09:02:02.331Z",
-      "followers": 22482,
+      "ts": "2026-09-28T23:40:53.021Z",
+      "followers": 10429,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@peterru.eurosky.social",
+      "handle": "peterru.eurosky.social",
+      "text": "Die Bundeswehr verstärkt ihre Kooperation mit den Israel Defense Forces (IDF); auch Polizei und Cybersecuritybehörden intensivieren die Zusammenarbeit mit Israel, während die Kriege um Dominanz in Nah- und Mittelost eskalieren.\n28.09.2026\n\nwww.german-foreign-policy.com/news/detail/...",
+      "url": "https://bsky.app/profile/peterru.eurosky.social/post/3mwliqo2enc2u",
+      "engagement": 0,
+      "ts": "2026-09-28T14:13:57.138Z",
+      "followers": 4263,
       "isBot": false,
       "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
-      "author": "@kenji@chaos.social",
-      "text": "Wie verändert die digitale # Zeitenwende Wirtschaft, Politik und Gesellschaft – und wer ist zuständig, wenn # Komplexität zum Dauerzustand wird? Wir leben in einer Welt, in der # IT längst nicht mehr nur eine technische Frage ist, sondern strategische Weitsicht erfordert. Genau deshalb haben # Hacker Sven Philipp Kalweit und ich unseren neuen Podcast „Kipker & Kalweit – Der CII-Podcast zur digital",
-      "url": "https://chaos.social/@kenji/117308539909230035",
+      "author": "@tagesschau@ard.social",
+      "text": "Verteidigung im All: Bundeswehr und Rüstungsbranche bündeln Kräfte Moderne Streitkräfte sind von Satelliten abhängig - das Weltall wird für die Verteidigung wichtiger. Beim Netzwerk-Event \"Mission-K\" in Kalkar nähern sich Bundeswehr und Rüstungsbranche an. Kommen sie sich zu nah? Von O. Neuroth. ➡️ https://www. tagesschau.de/inland/innenpoli tik/ruestungsindustrie-weltraum-100.html?at_medium=masto",
+      "url": "https://ard.social/@tagesschau/117352094959926689",
       "engagement": 0,
-      "ts": "2026-09-21T10:24:25.000Z",
-      "followers": 2453,
+      "ts": "2026-09-29T03:01:03.000Z",
+      "followers": 94112,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -116,7 +164,7 @@
       "engagement": 0,
       "ts": "2026-09-24T15:20:45+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -126,7 +174,7 @@
       "engagement": 0,
       "ts": "2026-09-23T10:08:53+00:00",
       "alwaysKeep": true,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -136,7 +184,7 @@
       "engagement": 0,
       "ts": "2026-09-23T07:03:13+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -146,7 +194,7 @@
       "engagement": 0,
       "ts": "2026-09-22T20:33:39+00:00",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -156,7 +204,7 @@
       "engagement": 0,
       "ts": "Sun, 27 Sep 2026 14:29:18 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -166,7 +214,27 @@
       "engagement": 0,
       "ts": "Fri, 25 Sep 2026 10:10:50 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bundeswehr Journal",
+      "author": "Bundeswehr Journal",
+      "text": "Vertrag: EFW verantwortlich für die NH90-Wartung",
+      "url": "https://www.bundeswehr-journal.de/2026/vertrag-efw-verantwortlich-fuer-die-nh90-wartung/",
+      "engagement": 0,
+      "ts": "Mon, 28 Sep 2026 21:00:32 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bundeswehr Journal",
+      "author": "Bundeswehr Journal",
+      "text": "TKMS und EDGE: Überwachung und Schutz unter Wasser",
+      "url": "https://www.bundeswehr-journal.de/2026/tkms-und-edge-ueberwachung-und-schutz-unter-wasser/",
+      "engagement": 0,
+      "ts": "Wed, 23 Sep 2026 18:27:48 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
     },
     {
       "platform": "Bundeswehr Journal",
@@ -176,15 +244,45 @@
       "engagement": 0,
       "ts": "Tue, 22 Sep 2026 21:25:03 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
-      "platform": "Bundeswehr Journal",
-      "author": "Bundeswehr Journal",
-      "text": "„Sound and Service“: Musikfest der Bundeswehr 2026",
-      "url": "https://www.bundeswehr-journal.de/2026/sound-and-service-musikfest-der-bundeswehr-2026/",
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Low-cost UGV Profil für die Todeszone",
+      "url": "https://esut.de/2026/09/fachbeitraege/land-fachbeitraege/75331/low-cost-ugv/",
       "engagement": 0,
-      "ts": "Mon, 21 Sep 2026 21:30:12 +0000",
+      "ts": "Mon, 28 Sep 2026 09:43:57 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Mobiles Spektrometer IMS-NG für den Nachweis von Gefahrstoffen",
+      "url": "https://esut.de/2026/09/meldungen/ruestung2/75318/ims-ng/",
+      "engagement": 0,
+      "ts": "Mon, 28 Sep 2026 06:54:16 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "12 Beschaffungsvorlagen für Munition, Waffensysteme und Dienstleistungen gebilligt",
+      "url": "https://esut.de/2026/09/fachbeitraege/streitkraefte-fachbeitraege/75313/beschaffungsvorlagen/",
+      "engagement": 0,
+      "ts": "Mon, 28 Sep 2026 06:19:31 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Rohde & Schwarz: Sat-Kommunikation mit Neosat und Phytronic",
+      "url": "https://esut.de/2026/09/meldungen/cyber-it/75324/rohde-schwarz-neosat-phytronic/",
+      "engagement": 0,
+      "ts": "Sun, 27 Sep 2026 22:02:50 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -209,54 +307,32 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Strafrechtliche Risiken im Rüstungsgeschäft",
-      "url": "https://esut.de/2026/09/fachbeitraege/ruestung/74129/strafrecht-ruestung/",
+      "platform": "Tagesschau Alle Meldungen",
+      "author": "Tagesschau Alle Meldungen",
+      "text": "Verteidigung im All: Bundeswehr und Rüstungsbranche bündeln Kräfte",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/ruestungsindustrie-weltraum-100.html",
       "engagement": 0,
-      "ts": "Sun, 27 Sep 2026 04:50:09 +0000",
+      "ts": "Tue, 29 Sep 2026 05:00:33 +0200",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "16 neue A400M – Bundeswehr plant den Austausch",
-      "url": "https://esut.de/2026/09/meldungen/75294/16-neue-a400m-bundeswehr-austausch/",
+      "platform": "Spiegel Politik",
+      "author": "Spiegel Politik",
+      "text": "Frank-Walter Steinmeier: Warum er Staatsgäste im Verteidigungsministerium empfängt",
+      "url": "https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-warum-er-staatsgaeste-im-verteidigungsministerium-empfaengt-a-8d1045cf-5f4a-4a4a-9884-cb16138c7043#ref=rss",
       "engagement": 0,
-      "ts": "Sat, 26 Sep 2026 20:54:43 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Der Wettlauf um die taktische Zielerfassung aus dem All",
-      "url": "https://esut.de/2026/09/fachbeitraege/featured-fachbeitraege/74123/all/",
-      "engagement": 0,
-      "ts": "Sat, 26 Sep 2026 09:55:42 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Militärische KI: Wer entscheiden kann, bleibt souverän",
-      "url": "https://esut.de/2026/09/fachbeitraege/cyber-it-fachbeitraege/74121/militaerische-ki/",
-      "engagement": 0,
-      "ts": "Sat, 26 Sep 2026 06:00:34 +0000",
+      "ts": "Tue, 29 Sep 2026 05:00:00 +0200",
       "alwaysKeep": true,
       "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Der Diskurs des Tages dominiert durch die Debatte um die Stärkung der Bundeswehr und die Kritik an der Beschaffung neuer Technologie. Die AfD wird wieder mit Faschismus-Vorwürfen konfrontiert, während die Bundeswehr über ihre Methoden im Kampf gegen den Terrorismus diskutiert.",
+    "summary": "Der Diskurs ist heute von der Bundeswehrs Präsenz und Aktivitäten im In- und Ausland geprägt, wobei auch Kritik an der Beschaffung und der Wehrdienstgestaltung zu hören ist.",
     "themes": [
       "Pistorius' Wehrdienst-Modell",
-      "Beschaffungs-Verzögerung Rheinmetall",
-      "AfD-Faschismus-Vorwurf durch Bünger",
-      "Kritik an der Beschaffung von alten Technologie",
-      "Israel-Kooperation und Methoden"
+      "Beschaffungsverzögerung NH90",
+      "AfD-Faschismus-Vorwurf durch Bluesky"
     ]
   }
 }

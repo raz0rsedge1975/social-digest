@@ -1,19 +1,7 @@
 {
-  "generated": "2026-10-01T03:33:00.471Z",
-  "timestamp": "1.10.2026, 05:33:00",
+  "generated": "2026-10-02T03:33:02.513Z",
+  "timestamp": "2.10.2026, 05:33:02",
   "items": [
-    {
-      "platform": "Bluesky",
-      "author": "@peterahrens.bsky.social",
-      "handle": "peterahrens.bsky.social",
-      "text": "Ronaldo mit 41 in den Vorruhestand geschickt. Wie so ein Bundeswehr-Pilot.",
-      "url": "https://bsky.app/profile/peterahrens.bsky.social/post/3mwr376xhek22",
-      "engagement": 32,
-      "ts": "2026-09-30T19:27:30.667Z",
-      "followers": 6798,
-      "isBot": false,
-      "sentiment": "positiv"
-    },
     {
       "platform": "Bluesky",
       "author": "@labournetgermany.bsky.social",
@@ -22,31 +10,19 @@
       "url": "https://bsky.app/profile/labournetgermany.bsky.social/post/3mwds7pr6ls2w",
       "engagement": 32,
       "ts": "2026-09-25T12:42:08.019Z",
-      "followers": 2756,
+      "followers": 2759,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "positiv"
     },
     {
       "platform": "Bluesky",
-      "author": "@luftwaffe.bundeswehr.de",
-      "handle": "luftwaffe.bundeswehr.de",
-      "text": "Sicher im Bündnis! 🇩🇪🤝🇩🇰\n\nErstmals sind wir mit unserem unbemannten Luftfahrzeug German Heron TP (GHTP) über dänischem Luftraum geflogen. Mit diesem System stärken wir die Interoperabilität im Bündnis und sichern das Bündnisgebiet aus der Luft.\n\nGemeinsam stärker!\n\n(📹: Bundeswehr)",
-      "url": "https://bsky.app/profile/luftwaffe.bundeswehr.de/post/3mwqlmsartc2d",
-      "engagement": 30,
-      "ts": "2026-09-30T14:48:47.242Z",
-      "followers": 3456,
-      "isBot": false,
-      "sentiment": "negativ"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@lto-de.bsky.social",
-      "handle": "lto-de.bsky.social",
-      "text": "Ein wegen diskriminierenden und extremistischen Verhaltens aus der Bundeswehr entlassener Mann darf zumindest vorerst sein Rechtsreferendariat nicht antreten:",
-      "url": "https://bsky.app/profile/lto-de.bsky.social/post/3mwqqkz3qg22k",
-      "engagement": 29,
-      "ts": "2026-09-30T16:17:16.017Z",
-      "followers": 6510,
+      "author": "@dokmz.bsky.social",
+      "handle": "dokmz.bsky.social",
+      "text": "Vorfall auf Übungsplatz Munster – AfD schleust rechtsextremen Aktivisten bei Bundeswehr-Manöver ein\nDer AfD-Verteidigungspolitiker Hannes Gnauck hat einen Aktivisten der rechtsextremen »Identitären Bewegung« bei einer nicht öffentlichen Bundeswehrübung eingeschleust\ndokmz.com/2026/10/01/v...",
+      "url": "https://bsky.app/profile/dokmz.bsky.social/post/3mwtoemulx223",
+      "engagement": 10,
+      "ts": "2026-10-01T20:15:53.605Z",
+      "followers": 2988,
       "isBot": false,
       "sentiment": "kritisch"
     },
@@ -73,39 +49,39 @@
       "sentiment": "kritisch"
     },
     {
-      "platform": "Mastodon",
-      "author": "@Sebastian@pertsch.social",
-      "text": "Dinge, die ich noch nicht auf dem Zettel hatte und eher im Ordner # Cringe abheften wollen würde: eine # Döner -Tüte mit Werbung für die # Bundeswehr . 😵‍💫",
-      "url": "https://Pertsch.social/@Sebastian/117328031754223724",
-      "engagement": 5,
-      "ts": "2026-09-24T21:01:27.000Z",
-      "followers": 4947,
-      "isBot": false,
-      "sentiment": "negativ"
-    },
-    {
       "platform": "Bluesky",
-      "author": "@claudiasalowski.bsky.social",
-      "handle": "claudiasalowski.bsky.social",
-      "text": "Und sie ist doch von der Universität der Bundeswehr?!",
-      "url": "https://bsky.app/profile/claudiasalowski.bsky.social/post/3mwqsehqbx22x",
-      "engagement": 3,
-      "ts": "2026-09-30T16:49:23.973Z",
-      "followers": 4401,
+      "author": "@sanneru.bsky.social",
+      "handle": "sanneru.bsky.social",
+      "text": "In an Instagram post in mid-August, the German embassy in Tel Aviv wrote: \"This will ensure that more relief supplies enter the Gaza Strip while maintaining Israel's security.\" The Bundeswehr said at the time that the scanner would \"presumably\" go into operation in September.\n3/",
+      "url": "https://bsky.app/profile/sanneru.bsky.social/post/3mwto4bmmuc2m",
+      "engagement": 2,
+      "ts": "2026-10-01T20:11:13.374Z",
+      "followers": 8512,
       "isBot": false,
       "sentiment": "positiv"
     },
     {
       "platform": "Bluesky",
-      "author": "@ccaa.eurosky.social",
-      "handle": "ccaa.eurosky.social",
-      "text": "Eingangsstatement Kathrin Groh, Professorin für Öffentliches Recht an der Universität der Bundeswehr München.",
-      "url": "https://bsky.app/profile/ccaa.eurosky.social/post/3mwrn7dygvk2b",
+      "author": "@sanneru.bsky.social",
+      "handle": "sanneru.bsky.social",
+      "text": "In August, Alexander Graf Lambsdorff looked satisfied. The new German ambassador to Israel stood in front of a desert-sand-colored truck of the Bundeswehr. On it was a construction that looks like a large gate and can X-ray - to X-ray trucks. \n2/",
+      "url": "https://bsky.app/profile/sanneru.bsky.social/post/3mwto3yjqbc2m",
       "engagement": 1,
-      "ts": "2026-10-01T00:49:43.303Z",
-      "followers": 6956,
+      "ts": "2026-10-01T20:11:03.842Z",
+      "followers": 8512,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Mastodon",
+      "author": "@tagesschau@ard.social",
+      "text": "Bundeswehr-Einsatz im Irak beendet - Soldaten kehren zurück Nach mehr als einem Jahrzehnt der Bundeswehr-Präsenz im Irak sind die letzten 28 Soldaten und Soldatinnen wieder zurück in Deutschland. Das Verteidigungsministerium arbeitet bereits an einer neuen Zusammenarbeit. ➡️ https://www. tagesschau.de/ausland/asien/le tzte-bundeswehr-soldaten-aus-irak-zurueckgekehrt-100.html?at_medium=mastodon&at_",
+      "url": "https://ard.social/@tagesschau/117366506325993647",
+      "engagement": 1,
+      "ts": "2026-10-01T16:06:03.000Z",
+      "followers": 94232,
+      "isBot": false,
+      "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
@@ -116,30 +92,27 @@
       "ts": "2026-09-29T03:01:03.000Z",
       "followers": 94232,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
-      "platform": "Bluesky",
-      "author": "@linuxlea.bsky.social",
-      "handle": "linuxlea.bsky.social",
-      "text": "the Bundeswehr during \"Enduring Freedom\".\nHe gave them access to german law enforcement, because he is that big a POS!)",
-      "url": "https://bsky.app/profile/linuxlea.bsky.social/post/3mwr7ronuh22n",
+      "platform": "Mastodon",
+      "author": "@tagesschau@ard.social",
+      "text": "Bundeswehr reagiert mit erstem Drohnenregiment auf Ukraine-Krieg Die Bundeswehr wird ein eigenes Drohnenregiment mit bis zu 600 Soldaten aufstellen - eine Konsequenz aus dem Ukraine-Krieg. Das kündigte Verteidigungsminister Pistorius an. Wo es stationiert wird, ist noch nicht bekannt. ➡️ https://www. tagesschau.de/inland/innenpoli tik/drohnenregiment-pistorius-100.html?at_medium=mastodon&at_campai",
+      "url": "https://ard.social/@tagesschau/117366824844927141",
       "engagement": 0,
-      "ts": "2026-09-30T20:49:25.476Z",
-      "followers": 2376,
+      "ts": "2026-10-01T17:27:03.000Z",
+      "followers": 94232,
       "isBot": false,
       "sentiment": "neutral"
     },
     {
-      "platform": "Bluesky",
-      "author": "@mkueper.de",
-      "handle": "mkueper.de",
-      "text": "Hm, Enigma habe ich noch bei der Bundeswehr (Marine) als Funker gelernt.",
-      "url": "https://bsky.app/profile/mkueper.de/post/3mwqyrssv2k2i",
+      "platform": "Reddit r/de",
+      "author": "u/DerGanzeBuaADepp",
+      "text": "AfD schleust rechtsextremen Aktivisten bei Bundeswehr-Manöver ein",
+      "url": "https://www.reddit.com/r/de/comments/1wuzplo/afd_schleust_rechtsextremen_aktivisten_bei/",
       "engagement": 0,
-      "ts": "2026-09-30T18:44:14.251Z",
-      "followers": 3442,
-      "isBot": false,
+      "ts": "2026-10-01T13:39:52+00:00",
+      "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
@@ -153,12 +126,12 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "Reddit r/de",
-      "author": "u/YouWeatherwax",
-      "text": "\"Red Storm Charlie\": Bundeswehr übt bis Samstag in Hamburg",
-      "url": "https://www.reddit.com/r/de/comments/1wp4j8x/red_storm_charlie_bundeswehr_übt_bis_samstag_in/",
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Deutsches Heer stellt „Drohnenregiment“ auf",
+      "url": "https://augengeradeaus.net/2026/10/deutsches-heer-stellt-drohnenregiment-auf/",
       "engagement": 0,
-      "ts": "2026-09-24T15:20:45+00:00",
+      "ts": "Thu, 01 Oct 2026 16:28:58 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -190,7 +163,7 @@
       "engagement": 0,
       "ts": "Tue, 29 Sep 2026 09:24:54 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -200,7 +173,7 @@
       "engagement": 0,
       "ts": "Sun, 27 Sep 2026 14:29:18 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -210,7 +183,7 @@
       "engagement": 0,
       "ts": "Fri, 25 Sep 2026 10:10:50 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Bundeswehr Journal",
@@ -220,7 +193,7 @@
       "engagement": 0,
       "ts": "Mon, 28 Sep 2026 21:00:32 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Bundeswehr Journal",
@@ -230,17 +203,37 @@
       "engagement": 0,
       "ts": "Fri, 25 Sep 2026 20:30:00 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
-      "platform": "Bundeswehr Journal",
-      "author": "Bundeswehr Journal",
-      "text": "Diehl engagiert sich im Bereich „Kampfmittelvorerkundung“",
-      "url": "https://www.bundeswehr-journal.de/2026/diehl-engagiert-sich-im-bereich-kampfmittelvorerkundung/",
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "USA plant 40.000 schwere Bomben für Israel",
+      "url": "https://esut.de/2026/10/meldungen/international/75401/usa-bomben-israel/",
       "engagement": 0,
-      "ts": "Thu, 24 Sep 2026 21:00:10 +0000",
+      "ts": "Thu, 01 Oct 2026 12:13:39 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "GSIS 2026: Wo Europas Sicherheitsfähigkeit von morgen verhandelt wird",
+      "url": "https://esut.de/2026/10/sponsored-content/75175/gsis-2026/",
+      "engagement": 0,
+      "ts": "Thu, 01 Oct 2026 08:03:44 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Finnland und Schweden beschaffen Patria TRACKX",
+      "url": "https://esut.de/2026/10/meldungen/featured/75463/patria-trackx/",
+      "engagement": 0,
+      "ts": "Thu, 01 Oct 2026 05:19:31 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
@@ -250,7 +243,7 @@
       "engagement": 0,
       "ts": "Wed, 30 Sep 2026 18:05:49 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
@@ -260,7 +253,7 @@
       "engagement": 0,
       "ts": "Wed, 30 Sep 2026 14:16:09 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
@@ -273,42 +266,42 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "DAMALS I Neues von der Mi-24: Die EloKa-HIND?",
-      "url": "https://esut.de/2026/09/fachbeitraege/featured-fachbeitraege/75181/mi-24-hind/",
+      "platform": "Tagesschau Alle Meldungen",
+      "author": "Tagesschau Alle Meldungen",
+      "text": "Bundeswehr reagiert mit erstem Drohnenregiment auf Ukraine-Krieg",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/drohnenregiment-pistorius-100.html",
       "engagement": 0,
-      "ts": "Wed, 30 Sep 2026 10:45:12 +0000",
+      "ts": "Thu, 01 Oct 2026 19:25:59 +0200",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Deployment Hub Bremerhaven",
-      "url": "https://esut.de/2026/09/meldungen/ruestung2/75437/deployment-hub-bremerhaven/",
+      "platform": "Tagesschau Alle Meldungen",
+      "author": "Tagesschau Alle Meldungen",
+      "text": "Bundeswehr-Einsatz im Irak beendet - Soldaten kehren zurück",
+      "url": "https://www.tagesschau.de/ausland/asien/letzte-bundeswehr-soldaten-aus-irak-zurueckgekehrt-100.html",
       "engagement": 0,
-      "ts": "Wed, 30 Sep 2026 09:26:24 +0000",
+      "ts": "Thu, 01 Oct 2026 18:05:21 +0200",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Europas Verteidigungsfähigkeit braucht industrielle Tiefe",
-      "url": "https://esut.de/2026/09/fachbeitraege/featured-fachbeitraege/75427/europas-verteidigungsfaehigkeit/",
+      "platform": "Spiegel Politik",
+      "author": "Spiegel Politik",
+      "text": "Pistorius lässt Drohnenregiment aufstellen",
+      "url": "https://www.spiegel.de/politik/pistorius-laesst-drohnenregiment-aufstellen-a-9ce56de4-0fd5-4f22-93f2-c4c28e9f86ce#ref=rss",
       "engagement": 0,
-      "ts": "Wed, 30 Sep 2026 07:55:11 +0000",
+      "ts": "Thu, 1 Oct 2026 21:03:00 +0200",
       "alwaysKeep": true,
       "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Der Diskurs des Tages dominiert durch die Diskussion um sexuelles Fehlverhalten innerhalb der Bundeswehr, die Verantwortung für die NH90-Wartung und die neuen Flaggschiffe der Deutschen Marine.",
+    "summary": "Der Diskurs des Tages dominiert durch die Kontroverse um sexuelles Fehlverhalten in der Bundeswehr und den Vorfall mit rechtsextremen Aktivisten bei einem Manöver.",
     "themes": [
       "Sexuelle Belästigung in der Bundeswehr",
-      "Verantwortung für die NH90-Wartung",
-      "Neue Flaggschiffe der Deutschen Marine"
+      "AfD-Faschismus-Vorwurf",
+      "Bundeswehr-Drohnenregiment"
     ]
   }
 }

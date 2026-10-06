@@ -1,16 +1,28 @@
 {
-  "generated": "2026-10-05T03:32:54.836Z",
-  "timestamp": "5.10.2026, 05:32:54",
+  "generated": "2026-10-06T03:34:35.052Z",
+  "timestamp": "6.10.2026, 05:34:35",
   "items": [
     {
       "platform": "Bluesky",
-      "author": "@konflikt-sicher.bsky.social",
-      "handle": "konflikt-sicher.bsky.social",
-      "text": "Das deutsche Heer stellt 2027 ein eigenes Drohnenregiment mit zunächst 300 Soldaten auf; Zielgröße sind 600. Der Verband soll unbemannte Systeme bis 500km Reichweite einsetzen und abwehren. Eine eigene Kompanie übernimmt dazu den elektronischen Kampf. #Bundeswehr\naugengeradeaus.net/2026/10/deut...",
-      "url": "https://bsky.app/profile/konflikt-sicher.bsky.social/post/3mx2mjr5mms2f",
-      "engagement": 27,
-      "ts": "2026-10-04T14:31:36.551Z",
-      "followers": 9932,
+      "author": "@kremlplots.bsky.social",
+      "handle": "kremlplots.bsky.social",
+      "text": "Der MAD setzt nun KI zum Aufspüren rechtsextremer Bundeswehr-Bewerber ein. Einige Hundert wurden schon aussortiert (aus dem Spiegel).",
+      "url": "https://bsky.app/profile/kremlplots.bsky.social/post/3mx5ep6vj4k23",
+      "engagement": 30,
+      "ts": "2026-10-05T16:49:28.019Z",
+      "followers": 8862,
+      "isBot": false,
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@unterstuetzung.bundeswehr.de",
+      "handle": "unterstuetzung.bundeswehr.de",
+      "text": "Die Logistikschule der Bundeswehr präsentierte sich auf der Blaulichtmeile in Bremen am Tag der Deutschen Einheit mit Großgerät, Drohnentechnik und Informationen zu ihren Aufgaben. Auch Bundesminister der Verteidigung Boris Pistorius war vor Ort und kam mit Soldatinnen und Soldaten ins Gespräch.",
+      "url": "https://bsky.app/profile/unterstuetzung.bundeswehr.de/post/3mx4vnogkmc2p",
+      "engagement": 8,
+      "ts": "2026-10-05T12:20:11.059Z",
+      "followers": 1308,
       "isBot": false,
       "sentiment": "positiv"
     },
@@ -23,7 +35,7 @@
       "ts": "2026-09-30T07:01:03.000Z",
       "followers": 94336,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "negativ"
     },
     {
       "platform": "Mastodon",
@@ -32,9 +44,21 @@
       "url": "https://mastodon.social/@tazgetroete/117354749109839225",
       "engagement": 5,
       "ts": "2026-09-29T14:16:02.000Z",
-      "followers": 91500,
+      "followers": 91515,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@sanneru.bsky.social",
+      "handle": "sanneru.bsky.social",
+      "text": "To dispel concerns about American influence, Covenant founded a German limited liability company and ensured that 95% of the intermediate products came from Europe, which is said to have been a condition of European customers such as the Bundeswehr. \n16/",
+      "url": "https://bsky.app/profile/sanneru.bsky.social/post/3mx5qrifivk2g",
+      "engagement": 4,
+      "ts": "2026-10-05T20:25:29.991Z",
+      "followers": 8549,
+      "isBot": false,
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -48,6 +72,41 @@
       "sentiment": "kritisch"
     },
     {
+      "platform": "Bluesky",
+      "author": "@sanneru.bsky.social",
+      "handle": "sanneru.bsky.social",
+      "text": "There, however, miracle weapon from Washington could meet with concerns. When it came to procurement of so-called kamikaze drones by Bundeswehr this February, Defense Minister Pistorius demanded that the German start-up Stark Defense make transparent what influence investor Thiel has on company\n10/",
+      "url": "https://bsky.app/profile/sanneru.bsky.social/post/3mx5qht2kcc2g",
+      "engagement": 3,
+      "ts": "2026-10-05T20:20:05.622Z",
+      "followers": 8549,
+      "isBot": false,
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@hongmathias.bsky.social",
+      "handle": "hongmathias.bsky.social",
+      "text": "\"Das erste Urteil ..., über das ich geschrieben habe, handelte von den Auslandseinsätzen der Bundeswehr ... – out of area.\" Das Gericht fand \"1994 eine jener intelligenten Lösungen\", die es \"in seinen besten Momenten auszeichnet – die Parlamentsarmee\".",
+      "url": "https://bsky.app/profile/hongmathias.bsky.social/post/3mx5ocqrafs24",
+      "engagement": 2,
+      "ts": "2026-10-05T19:41:25.943Z",
+      "followers": 2058,
+      "isBot": false,
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Mastodon",
+      "author": "@tagesschau@ard.social",
+      "text": "Ärger um neue Fregatten der Bundeswehr - Opposition macht Druck Eigentlich sollte ein niederländisches Unternehmen moderne Fregatten für die Bundeswehr liefern. Doch das Verteidigungsministerium beendete das Projekt - und beauftragte eine andere Firma. Das hat ein Nachspiel. Von M. Kubina und B. Großkopff. ➡️ https://www. tagesschau.de/inland/verteidig ungsministerium-fregatten-bundeswehr-kritik-1",
+      "url": "https://ard.social/@tagesschau/117389611708558478",
+      "engagement": 2,
+      "ts": "2026-10-05T18:02:03.000Z",
+      "followers": 94336,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
       "platform": "Mastodon",
       "author": "@tagesschau@ard.social",
       "text": "Bundeswehr-Einsatz im Irak beendet - Soldaten kehren zurück Nach mehr als einem Jahrzehnt der Bundeswehr-Präsenz im Irak sind die letzten 28 Soldaten und Soldatinnen wieder zurück in Deutschland. Das Verteidigungsministerium arbeitet bereits an einer neuen Zusammenarbeit. ➡️ https://www. tagesschau.de/ausland/asien/le tzte-bundeswehr-soldaten-aus-irak-zurueckgekehrt-100.html?at_medium=mastodon&at_",
@@ -59,27 +118,27 @@
       "sentiment": "positiv"
     },
     {
-      "platform": "Mastodon",
-      "author": "@tagesschau@ard.social",
-      "text": "Verteidigung im All: Bundeswehr und Rüstungsbranche bündeln Kräfte Moderne Streitkräfte sind von Satelliten abhängig - das Weltall wird für die Verteidigung wichtiger. Beim Netzwerk-Event \"Mission-K\" in Kalkar nähern sich Bundeswehr und Rüstungsbranche an. Kommen sie sich zu nah? Von O. Neuroth. ➡️ https://www. tagesschau.de/inland/innenpoli tik/ruestungsindustrie-weltraum-100.html?at_medium=masto",
-      "url": "https://ard.social/@tagesschau/117352094959926689",
-      "engagement": 1,
-      "ts": "2026-09-29T03:01:03.000Z",
-      "followers": 94336,
+      "platform": "Bluesky",
+      "author": "@dirkmassat.bsky.social",
+      "handle": "dirkmassat.bsky.social",
+      "text": "Der Merz verteidigt den Westen ähnlich gut, wie die Bundeswehr Deutschland am Hindukusch.\n\nWarum verschenkt der eigentlich Geld im Ausland, was steht außen am Reichstag?",
+      "url": "https://bsky.app/profile/dirkmassat.bsky.social/post/3mx5uodzigk2p",
+      "engagement": 0,
+      "ts": "2026-10-05T21:35:19.706Z",
+      "followers": 10455,
       "isBot": false,
       "sentiment": "kritisch"
     },
     {
-      "platform": "Bluesky",
-      "author": "@sagebiel.bsky.social",
-      "handle": "sagebiel.bsky.social",
-      "text": "Bundeswehr Jet Family until about this time",
-      "url": "https://bsky.app/profile/sagebiel.bsky.social/post/3mx2tcxvbbc2g",
+      "platform": "Mastodon",
+      "author": "@tagesschau@ard.social",
+      "text": "Neuer Wehrdienst: Zahl der Kriegsdienstverweigerer stark angestiegen Die Wehrpflicht ist immer noch ausgesetzt in Deutschland. Und doch steigt die Zahl der Anträge auf Kriegsdienstverweigerung stark an. Dafür gibt es Gründe. ➡️ https://www. tagesschau.de/inland/kriegsdie nstverweigerer-124.html?at_medium=mastodon&at_campaign=tagesschau.de # Kriegsdienstverweigerer # Wehrpflicht # Bundeswehr",
+      "url": "https://ard.social/@tagesschau/117391829423345151",
       "engagement": 0,
-      "ts": "2026-10-04T16:33:04.930Z",
-      "followers": 5050,
+      "ts": "2026-10-06T03:26:02.000Z",
+      "followers": 94336,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "negativ"
     },
     {
       "platform": "Mastodon",
@@ -90,6 +149,16 @@
       "ts": "2026-10-01T17:27:03.000Z",
       "followers": 94336,
       "isBot": false,
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "Reddit r/de",
+      "author": "u/VW_isbetterthanTesla",
+      "text": "Wehrdienst, Bundeswehr, Ukraine: Oberstleutnant Marcel Bohnert gegen alle I Hart aber fair 360",
+      "url": "https://www.reddit.com/r/de/comments/1wyko46/wehrdienst_bundeswehr_ukraine_oberstleutnant/",
+      "engagement": 0,
+      "ts": "2026-10-05T21:20:54+00:00",
+      "alwaysKeep": true,
       "sentiment": "kritisch"
     },
     {
@@ -100,7 +169,7 @@
       "engagement": 0,
       "ts": "2026-10-04T06:13:46+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Reddit r/de",
@@ -110,7 +179,7 @@
       "engagement": 0,
       "ts": "2026-10-01T13:39:52+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "negativ"
     },
     {
       "platform": "Reddit r/de",
@@ -119,6 +188,26 @@
       "url": "https://www.reddit.com/r/de/comments/1wu4tpx/bundeswehr_bekommt_sexuelles_fehlverhalten_nicht/",
       "engagement": 0,
       "ts": "2026-09-30T13:22:10+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Zur Dokumentation: Hubschraubergeschwader 64 zieht nach Brandenburg",
+      "url": "https://augengeradeaus.net/2026/10/zur-dokumentation-hubschraubergeschwader-64-zieht-nach-brandenburg/",
+      "engagement": 0,
+      "ts": "Mon, 05 Oct 2026 13:40:03 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "„Moskau wettet auf unsere Schwäche“",
+      "url": "https://augengeradeaus.net/2026/10/moskau-wettet-auf-unsere-schwaeche/",
+      "engagement": 0,
+      "ts": "Mon, 05 Oct 2026 12:58:43 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -165,80 +254,120 @@
     {
       "platform": "Bundeswehr Journal",
       "author": "Bundeswehr Journal",
-      "text": "Vertrag: EFW verantwortlich für die NH90-Wartung",
-      "url": "https://www.bundeswehr-journal.de/2026/vertrag-efw-verantwortlich-fuer-die-nh90-wartung/",
+      "text": "Bundeswehr-Satellit „ATHENE-1“ erfolgreich gestartet",
+      "url": "https://www.bundeswehr-journal.de/2026/bundeswehr-satellit-athene-1-erfolgreich-gestartet/",
       "engagement": 0,
-      "ts": "Mon, 28 Sep 2026 21:00:32 +0000",
+      "ts": "Fri, 02 Oct 2026 21:00:37 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "ICEYE und Nokia wollen sichere Satellitenkommunikation anbieten",
-      "url": "https://esut.de/2026/10/meldungen/cyber-it/75500/iceye-nokia/",
+      "text": "Ein neuer Tag für die Köderdrohne MALD®",
+      "url": "https://esut.de/2026/10/sponsored-content/74497/ein-neuer-tag-fuer-die-koederdrohne-mald/",
       "engagement": 0,
-      "ts": "Fri, 02 Oct 2026 12:54:12 +0000",
+      "ts": "Mon, 05 Oct 2026 12:27:18 +0000",
       "alwaysKeep": true,
       "sentiment": "positiv"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Diehl Defence integriert IRIS-T SLM auf der Fregatte F125",
-      "url": "https://esut.de/2026/10/meldungen/see/75495/diehl-defence-iris-t-slm/",
+      "text": "Panattoni baut Logistik- und Trainingszentrum für Rheinmetall",
+      "url": "https://esut.de/2026/10/meldungen/75518/panattoni-baut-logistik-und-trainingszentrum-fuer-rheinmetall/",
       "engagement": 0,
-      "ts": "Fri, 02 Oct 2026 12:13:40 +0000",
-      "alwaysKeep": true,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Friedrich-Ebert-Stiftung verteidigt deutsch-russische „Geheimdiplomatie“",
-      "url": "https://esut.de/2026/10/fachbeitraege/75267/ebert-stiftung-fes-diplomatie/",
-      "engagement": 0,
-      "ts": "Fri, 02 Oct 2026 10:39:57 +0000",
+      "ts": "Mon, 05 Oct 2026 11:07:29 +0000",
       "alwaysKeep": true,
       "sentiment": "positiv"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Erster Rheinmetall-Überwachungssatellit im All",
-      "url": "https://esut.de/2026/10/meldungen/space/75488/rheinmetall-ueberwachungssatellit/",
+      "text": "Russische Bedrohungen: Das stärkste Gegenmittel bleibt glaubwürdige Flugabwehr",
+      "url": "https://esut.de/2026/10/fachbeitraege/75261/flugabwehr-russland-luft-nato/",
       "engagement": 0,
-      "ts": "Fri, 02 Oct 2026 09:29:11 +0000",
+      "ts": "Mon, 05 Oct 2026 11:02:58 +0000",
       "alwaysKeep": true,
       "sentiment": "kritisch"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Marokko prüft David’s Sling aus Israel",
-      "url": "https://esut.de/2026/10/meldungen/luft/75408/davids-sling/",
+      "text": "Der Kampf um Seltene Erden",
+      "url": "https://esut.de/2026/10/fachbeitraege/74127/der-kampf-um-seltene-erden/",
       "engagement": 0,
-      "ts": "Fri, 02 Oct 2026 08:16:43 +0000",
+      "ts": "Mon, 05 Oct 2026 11:00:47 +0000",
+      "alwaysKeep": true,
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "UniBw M: ATHENE-1 Experimentallabor im LEO-Orbit",
+      "url": "https://esut.de/2026/10/meldungen/75514/unibw-m-athene-1-experimentallabor-im-leo-orbit/",
+      "engagement": 0,
+      "ts": "Mon, 05 Oct 2026 10:50:14 +0000",
+      "alwaysKeep": true,
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Thales-Radarsysteme für Irlands Luftraumüberwachung",
+      "url": "https://esut.de/2026/10/meldungen/luft/75509/thales-radarsysteme/",
+      "engagement": 0,
+      "ts": "Mon, 05 Oct 2026 10:01:20 +0000",
+      "alwaysKeep": true,
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "Tagesschau Alle Meldungen",
+      "author": "Tagesschau Alle Meldungen",
+      "text": "Neuer Wehrdienst: Zahl der Kriegsdienstverweigerer stark angestiegen",
+      "url": "https://www.tagesschau.de/inland/kriegsdienstverweigerer-124.html",
+      "engagement": 0,
+      "ts": "Tue, 06 Oct 2026 05:25:07 +0200",
+      "alwaysKeep": true,
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Tagesschau Alle Meldungen",
+      "author": "Tagesschau Alle Meldungen",
+      "text": "Ärger um neue Fregatten der Bundeswehr - Opposition macht Druck",
+      "url": "https://www.tagesschau.de/inland/verteidigungsministerium-fregatten-bundeswehr-kritik-100.html",
+      "engagement": 0,
+      "ts": "Mon, 05 Oct 2026 20:01:40 +0200",
       "alwaysKeep": true,
       "sentiment": "negativ"
     },
     {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "NATO erhält Westfälischen Friedenspreis",
-      "url": "https://esut.de/2026/10/fachbeitraege/featured-fachbeitraege/75476/nato-westfaelischen-friedenspreis/",
+      "platform": "Spiegel Politik",
+      "author": "Spiegel Politik",
+      "text": "Wehrdienst: Zahl der Kriegsdienstverweigerer schnellt weiter nach oben",
+      "url": "https://www.spiegel.de/politik/deutschland/wehrdienst-zahl-der-kriegsdienstverweigerer-schnellt-weiter-nach-oben-a-9e3785bd-ff6e-48ea-925d-fed7482df2f0#ref=rss",
       "engagement": 0,
-      "ts": "Fri, 02 Oct 2026 06:18:39 +0000",
+      "ts": "Tue, 6 Oct 2026 03:13:00 +0200",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Spiegel Politik",
+      "author": "Spiegel Politik",
+      "text": "Bundeswehr: KI sortiert jetzt rechtsextreme Bewerber aus",
+      "url": "https://www.spiegel.de/politik/deutschland/bundeswehr-ki-sortiert-jetzt-rechtsextreme-bewerber-aus-a-c71ee40d-15a7-4b2e-a074-c2607461b164#ref=rss",
+      "engagement": 0,
+      "ts": "Mon, 5 Oct 2026 18:14:00 +0200",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Heute diskutiert der Bundeswehr-Diskurs um die Einführung eines neuen Drohnenregiments, sexuelles Fehlverhalten innerhalb der Truppe und Beschaffungsverzögerungen bei einem Fregatten-Projekt.",
+    "summary": "Der Diskurs des Tages dominiert durch die Kontroverse um sexuelles Fehlverhalten in der Bundeswehr, die Beschaffungsverzögerung für neue Fregatten und die Reaktionen auf den Ukraine-Krieg.",
     "themes": [
       "Pistorius' Wehrdienst-Modell",
-      "AfD-Faschismus-Vorwurf",
-      "Beschaffungsverzögerung Fregatte 'F125'"
+      "Beschaffungsverzögerung Fregatten",
+      "Ukraine-Krieg und Bundeswehreinsatz"
     ]
   }
 }

@@ -1,30 +1,53 @@
 {
-  "generated": "2026-10-06T03:34:35.052Z",
-  "timestamp": "6.10.2026, 05:34:35",
+  "generated": "2026-10-07T03:40:01.358Z",
+  "timestamp": "7.10.2026, 05:40:01",
   "items": [
-    {
-      "platform": "Bluesky",
-      "author": "@kremlplots.bsky.social",
-      "handle": "kremlplots.bsky.social",
-      "text": "Der MAD setzt nun KI zum Aufspüren rechtsextremer Bundeswehr-Bewerber ein. Einige Hundert wurden schon aussortiert (aus dem Spiegel).",
-      "url": "https://bsky.app/profile/kremlplots.bsky.social/post/3mx5ep6vj4k23",
-      "engagement": 30,
-      "ts": "2026-10-05T16:49:28.019Z",
-      "followers": 8862,
-      "isBot": false,
-      "sentiment": "kritisch"
-    },
     {
       "platform": "Bluesky",
       "author": "@unterstuetzung.bundeswehr.de",
       "handle": "unterstuetzung.bundeswehr.de",
       "text": "Die Logistikschule der Bundeswehr präsentierte sich auf der Blaulichtmeile in Bremen am Tag der Deutschen Einheit mit Großgerät, Drohnentechnik und Informationen zu ihren Aufgaben. Auch Bundesminister der Verteidigung Boris Pistorius war vor Ort und kam mit Soldatinnen und Soldaten ins Gespräch.",
       "url": "https://bsky.app/profile/unterstuetzung.bundeswehr.de/post/3mx4vnogkmc2p",
-      "engagement": 8,
+      "engagement": 11,
       "ts": "2026-10-05T12:20:11.059Z",
-      "followers": 1308,
+      "followers": 1311,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@kleinergag.bsky.social",
+      "handle": "kleinergag.bsky.social",
+      "text": "Aktuell ist ein solches KI-gestütztes Tool des MAD bei der Bundeswehr im Einsatz, um Rekruten auf rechtsextreme Gesinnung abzuklopfen. Das richtige Ziel, aber das richtige Mittel? Was, wenn eine AfD-Regierung euer Privatleben mit KI nach regiemekritischen Inhalten durchsuchen und bewerten lässt?",
+      "url": "https://bsky.app/profile/kleinergag.bsky.social/post/3mxadjboruk24",
+      "engagement": 10,
+      "ts": "2026-10-06T21:06:15.091Z",
+      "followers": 2157,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@dermonologist.bsky.social",
+      "handle": "dermonologist.bsky.social",
+      "text": "Während Russland wahllos Zivilisten angreift, vergleicht BSW-Abgeordneter Eric Recke (will Oberbürgermeister von Leipzig werden), Waffen für die Bundeswehr mit der „Vergeltungswaffe V2“ aus dem Nationalsozialismus (Quelle: Instagram). Hintergrund: Die Ansiedlung des US-Raketenherstellers Covenant.",
+      "url": "https://bsky.app/profile/dermonologist.bsky.social/post/3mx7i63ctis2f",
+      "engagement": 9,
+      "ts": "2026-10-06T12:56:48.272Z",
+      "followers": 3111,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Mastodon",
+      "author": "@tagesschau@ard.social",
+      "text": "Neuer Wehrdienst: Zahl der Kriegsdienstverweigerer stark angestiegen Die Wehrpflicht ist immer noch ausgesetzt in Deutschland. Und doch steigt die Zahl der Anträge auf Kriegsdienstverweigerung stark an. Dafür gibt es Gründe. ➡️ https://www. tagesschau.de/inland/kriegsdie nstverweigerer-124.html?at_medium=mastodon&at_campaign=tagesschau.de # Kriegsdienstverweigerer # Wehrpflicht # Bundeswehr",
+      "url": "https://ard.social/@tagesschau/117391829423345151",
+      "engagement": 9,
+      "ts": "2026-10-06T03:26:02.000Z",
+      "followers": 94336,
+      "isBot": false,
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -35,30 +58,19 @@
       "ts": "2026-09-30T07:01:03.000Z",
       "followers": 94336,
       "isBot": false,
-      "sentiment": "negativ"
-    },
-    {
-      "platform": "Mastodon",
-      "author": "@tazgetroete@mastodon.social",
-      "text": "Ein wegen rechter Umtriebe aus der # Bundeswehr entlassener Mann will ins Rechtsreferendariat. Das Oberverwaltungsgericht zweifelt an seiner Verfassungstreue. https:// taz.de/!6217402",
-      "url": "https://mastodon.social/@tazgetroete/117354749109839225",
-      "engagement": 5,
-      "ts": "2026-09-29T14:16:02.000Z",
-      "followers": 91515,
-      "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
-      "author": "@sanneru.bsky.social",
-      "handle": "sanneru.bsky.social",
-      "text": "To dispel concerns about American influence, Covenant founded a German limited liability company and ensured that 95% of the intermediate products came from Europe, which is said to have been a condition of European customers such as the Bundeswehr. \n16/",
-      "url": "https://bsky.app/profile/sanneru.bsky.social/post/3mx5qrifivk2g",
+      "author": "@dirkmassat.bsky.social",
+      "handle": "dirkmassat.bsky.social",
+      "text": "Bundeswehr-Geheimdienst bespitzelt junge Männer, ob sie \"rechts\" sind - um sie vom Militärdienst auszuschließen. Leichter war es noch nie, sich dem Wehrdienst zu entziehen: \n\nEin Facebook- oder X-Post reicht, und man kommt nicht an die Front.",
+      "url": "https://bsky.app/profile/dirkmassat.bsky.social/post/3mxab7tcpqc23",
       "engagement": 4,
-      "ts": "2026-10-05T20:25:29.991Z",
-      "followers": 8549,
+      "ts": "2026-10-06T20:25:10.540Z",
+      "followers": 10459,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -69,31 +81,19 @@
       "ts": "2026-10-02T07:20:03.000Z",
       "followers": 94336,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
-      "author": "@sanneru.bsky.social",
-      "handle": "sanneru.bsky.social",
-      "text": "There, however, miracle weapon from Washington could meet with concerns. When it came to procurement of so-called kamikaze drones by Bundeswehr this February, Defense Minister Pistorius demanded that the German start-up Stark Defense make transparent what influence investor Thiel has on company\n10/",
-      "url": "https://bsky.app/profile/sanneru.bsky.social/post/3mx5qht2kcc2g",
-      "engagement": 3,
-      "ts": "2026-10-05T20:20:05.622Z",
-      "followers": 8549,
-      "isBot": false,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@hongmathias.bsky.social",
-      "handle": "hongmathias.bsky.social",
-      "text": "\"Das erste Urteil ..., über das ich geschrieben habe, handelte von den Auslandseinsätzen der Bundeswehr ... – out of area.\" Das Gericht fand \"1994 eine jener intelligenten Lösungen\", die es \"in seinen besten Momenten auszeichnet – die Parlamentsarmee\".",
-      "url": "https://bsky.app/profile/hongmathias.bsky.social/post/3mx5ocqrafs24",
+      "author": "@kunterbuntesnk.bsky.social",
+      "handle": "kunterbuntesnk.bsky.social",
+      "text": "Als Comic Relief:\n\nIch hab es in dieser Kleinstadt zwei Skandale verursacht.\n\nNr.1:\n\nZwei Sticker auf einen Schrank geklebt. Die 🌻 der Grünen und die 🐛 der Bundeswehr. \n\nDann kam eine Gruppe Grüner zu Besuch. \n\nDas Gezetter + Einsetzen war groß, es war wochenlang Thema. \n\nIch war 6 Jahre alt.\n\nB.",
+      "url": "https://bsky.app/profile/kunterbuntesnk.bsky.social/post/3mx7hatkyes2f",
       "engagement": 2,
-      "ts": "2026-10-05T19:41:25.943Z",
-      "followers": 2058,
+      "ts": "2026-10-06T12:40:27.078Z",
+      "followers": 2246,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -115,30 +115,7 @@
       "ts": "2026-10-01T16:06:03.000Z",
       "followers": 94336,
       "isBot": false,
-      "sentiment": "positiv"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@dirkmassat.bsky.social",
-      "handle": "dirkmassat.bsky.social",
-      "text": "Der Merz verteidigt den Westen ähnlich gut, wie die Bundeswehr Deutschland am Hindukusch.\n\nWarum verschenkt der eigentlich Geld im Ausland, was steht außen am Reichstag?",
-      "url": "https://bsky.app/profile/dirkmassat.bsky.social/post/3mx5uodzigk2p",
-      "engagement": 0,
-      "ts": "2026-10-05T21:35:19.706Z",
-      "followers": 10455,
-      "isBot": false,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Mastodon",
-      "author": "@tagesschau@ard.social",
-      "text": "Neuer Wehrdienst: Zahl der Kriegsdienstverweigerer stark angestiegen Die Wehrpflicht ist immer noch ausgesetzt in Deutschland. Und doch steigt die Zahl der Anträge auf Kriegsdienstverweigerung stark an. Dafür gibt es Gründe. ➡️ https://www. tagesschau.de/inland/kriegsdie nstverweigerer-124.html?at_medium=mastodon&at_campaign=tagesschau.de # Kriegsdienstverweigerer # Wehrpflicht # Bundeswehr",
-      "url": "https://ard.social/@tagesschau/117391829423345151",
-      "engagement": 0,
-      "ts": "2026-10-06T03:26:02.000Z",
-      "followers": 94336,
-      "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -149,7 +126,7 @@
       "ts": "2026-10-01T17:27:03.000Z",
       "followers": 94336,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -159,7 +136,7 @@
       "engagement": 0,
       "ts": "2026-10-05T21:20:54+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -169,7 +146,7 @@
       "engagement": 0,
       "ts": "2026-10-04T06:13:46+00:00",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -179,7 +156,7 @@
       "engagement": 0,
       "ts": "2026-10-01T13:39:52+00:00",
       "alwaysKeep": true,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -188,6 +165,16 @@
       "url": "https://www.reddit.com/r/de/comments/1wu4tpx/bundeswehr_bekommt_sexuelles_fehlverhalten_nicht/",
       "engagement": 0,
       "ts": "2026-09-30T13:22:10+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Finnische Radarsatelliten für Bundeswehr-Überwachung der NATO-Ostflanke einsatzbereit",
+      "url": "https://augengeradeaus.net/2026/10/finnische-radarsatelliten-fuer-bundeswehr-ueberwachung-der-nato-ostflanke-einsatzbereit/",
+      "engagement": 0,
+      "ts": "Tue, 06 Oct 2026 14:33:48 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -222,36 +209,6 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Sexuelles Fehlverhalten in der Truppe: Die Doku",
-      "url": "https://augengeradeaus.net/2026/09/sexuelles-fehlverhalten-in-der-truppe-die-doku/",
-      "engagement": 0,
-      "ts": "Tue, 29 Sep 2026 17:05:45 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Mehr A400M-Transportflieger sollen kriegstüchtig werden",
-      "url": "https://augengeradeaus.net/2026/09/mehr-a400m-transportflieger-sollen-kriegstuechtig-werden/",
-      "engagement": 0,
-      "ts": "Tue, 29 Sep 2026 16:06:30 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Fürs Archiv: Estland sieht Russland hinter Brandanschlag auf Drohnen-Fabrik",
-      "url": "https://augengeradeaus.net/2026/09/fuers-archiv-estland-sieht-russland-hinter-brandanschlag-auf-drohnen-fabrik/",
-      "engagement": 0,
-      "ts": "Tue, 29 Sep 2026 09:24:54 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
       "platform": "Bundeswehr Journal",
       "author": "Bundeswehr Journal",
       "text": "Bundeswehr-Satellit „ATHENE-1“ erfolgreich gestartet",
@@ -264,110 +221,86 @@
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Ein neuer Tag für die Köderdrohne MALD®",
-      "url": "https://esut.de/2026/10/sponsored-content/74497/ein-neuer-tag-fuer-die-koederdrohne-mald/",
+      "text": "Fraunhofer FKIE: Neue Technologien – DNA-Origami",
+      "url": "https://esut.de/2026/10/fachbeitraege/73041/fraunhofer-fkie-dna-origami/",
       "engagement": 0,
-      "ts": "Mon, 05 Oct 2026 12:27:18 +0000",
+      "ts": "Tue, 06 Oct 2026 13:23:06 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Panattoni baut Logistik- und Trainingszentrum für Rheinmetall",
-      "url": "https://esut.de/2026/10/meldungen/75518/panattoni-baut-logistik-und-trainingszentrum-fuer-rheinmetall/",
+      "text": "Kampfflugzeug F-35: Zwischen Abhängigkeit und Kriegstüchtigkeit",
+      "url": "https://esut.de/2026/10/fachbeitraege/75253/f-35-kampfjet-pistorius/",
       "engagement": 0,
-      "ts": "Mon, 05 Oct 2026 11:07:29 +0000",
+      "ts": "Tue, 06 Oct 2026 12:45:25 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Russische Bedrohungen: Das stärkste Gegenmittel bleibt glaubwürdige Flugabwehr",
-      "url": "https://esut.de/2026/10/fachbeitraege/75261/flugabwehr-russland-luft-nato/",
+      "text": "Ebert-Stiftung: Europa und Kanada teilen strategische Interessen",
+      "url": "https://esut.de/2026/10/fachbeitraege/75564/ebert-stiftung-fes-europa-kanada/",
       "engagement": 0,
-      "ts": "Mon, 05 Oct 2026 11:02:58 +0000",
+      "ts": "Tue, 06 Oct 2026 12:44:16 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Der Kampf um Seltene Erden",
-      "url": "https://esut.de/2026/10/fachbeitraege/74127/der-kampf-um-seltene-erden/",
+      "text": "Quantum Systems: QFI verfünffacht Produktionskapazität",
+      "url": "https://esut.de/2026/10/meldungen/75563/quantum-systems-qfi-verfuenffacht-produktionskapazitaet/",
       "engagement": 0,
-      "ts": "Mon, 05 Oct 2026 11:00:47 +0000",
+      "ts": "Tue, 06 Oct 2026 11:41:59 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "UniBw M: ATHENE-1 Experimentallabor im LEO-Orbit",
-      "url": "https://esut.de/2026/10/meldungen/75514/unibw-m-athene-1-experimentallabor-im-leo-orbit/",
+      "text": "YJ-20: Israels Blick auf Chinas neue Hyperschallwaffe",
+      "url": "https://esut.de/2026/10/meldungen/75541/yj-20-israel-hyperschallwaffe/",
       "engagement": 0,
-      "ts": "Mon, 05 Oct 2026 10:50:14 +0000",
+      "ts": "Tue, 06 Oct 2026 10:59:57 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Thales-Radarsysteme für Irlands Luftraumüberwachung",
-      "url": "https://esut.de/2026/10/meldungen/luft/75509/thales-radarsysteme/",
+      "text": "Nemyx Startsystem für Drohnen unterschiedlicher Hersteller",
+      "url": "https://esut.de/2026/10/meldungen/75552/nemyx-startsystem-fuer-drohnen-unterschiedlicher-hersteller/",
       "engagement": 0,
-      "ts": "Mon, 05 Oct 2026 10:01:20 +0000",
-      "alwaysKeep": true,
-      "sentiment": "positiv"
-    },
-    {
-      "platform": "Tagesschau Alle Meldungen",
-      "author": "Tagesschau Alle Meldungen",
-      "text": "Neuer Wehrdienst: Zahl der Kriegsdienstverweigerer stark angestiegen",
-      "url": "https://www.tagesschau.de/inland/kriegsdienstverweigerer-124.html",
-      "engagement": 0,
-      "ts": "Tue, 06 Oct 2026 05:25:07 +0200",
-      "alwaysKeep": true,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Tagesschau Alle Meldungen",
-      "author": "Tagesschau Alle Meldungen",
-      "text": "Ärger um neue Fregatten der Bundeswehr - Opposition macht Druck",
-      "url": "https://www.tagesschau.de/inland/verteidigungsministerium-fregatten-bundeswehr-kritik-100.html",
-      "engagement": 0,
-      "ts": "Mon, 05 Oct 2026 20:01:40 +0200",
-      "alwaysKeep": true,
-      "sentiment": "negativ"
-    },
-    {
-      "platform": "Spiegel Politik",
-      "author": "Spiegel Politik",
-      "text": "Wehrdienst: Zahl der Kriegsdienstverweigerer schnellt weiter nach oben",
-      "url": "https://www.spiegel.de/politik/deutschland/wehrdienst-zahl-der-kriegsdienstverweigerer-schnellt-weiter-nach-oben-a-9e3785bd-ff6e-48ea-925d-fed7482df2f0#ref=rss",
-      "engagement": 0,
-      "ts": "Tue, 6 Oct 2026 03:13:00 +0200",
+      "ts": "Tue, 06 Oct 2026 10:43:01 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "Spiegel Politik",
       "author": "Spiegel Politik",
-      "text": "Bundeswehr: KI sortiert jetzt rechtsextreme Bewerber aus",
-      "url": "https://www.spiegel.de/politik/deutschland/bundeswehr-ki-sortiert-jetzt-rechtsextreme-bewerber-aus-a-c71ee40d-15a7-4b2e-a074-c2607461b164#ref=rss",
+      "text": "SPD-Fraktion startet Protestmarsch durch Berlin, Pistorius stimmt Nationalhymne an",
+      "url": "https://www.spiegel.de/politik/deutschland/spd-fraktion-startet-protestmarsch-durch-berlin-pistorius-stimmt-nationalhymne-an-a-1ad545c7-0197-47d3-9c7b-c796a4320885#ref=rss",
       "engagement": 0,
-      "ts": "Mon, 5 Oct 2026 18:14:00 +0200",
+      "ts": "Tue, 6 Oct 2026 20:48:00 +0200",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Welt Topnews",
+      "author": "Welt Topnews",
+      "text": "„Einzigartiger Tabubruch“ – die SPD, der Bebelplatz und ein neues Positionspapier",
+      "url": "https://www.welt.de/politik/deutschland/plus6ac57e526a0860be6e208b4b/nach-wahl-in-sachsen-anhalt-einzigartiger-tabubruch-die-spd-der-bebelplatz-und-ein-neues-positionspapier.html",
+      "engagement": 0,
+      "ts": "Wed, 07 Oct 2026 00:08:04 GMT",
       "alwaysKeep": true,
       "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Der Diskurs des Tages dominiert durch die Kontroverse um sexuelles Fehlverhalten in der Bundeswehr, die Beschaffungsverzögerung für neue Fregatten und die Reaktionen auf den Ukraine-Krieg.",
-    "themes": [
-      "Pistorius' Wehrdienst-Modell",
-      "Beschaffungsverzögerung Fregatten",
-      "Ukraine-Krieg und Bundeswehreinsatz"
-    ]
+    "summary": "Analyse fehlgeschlagen (ollama).",
+    "themes": []
   }
 }

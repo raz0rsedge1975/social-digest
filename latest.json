@@ -1,18 +1,30 @@
 {
-  "generated": "2026-10-10T03:32:52.809Z",
-  "timestamp": "10.10.2026, 05:32:52",
+  "generated": "2026-10-11T03:33:01.120Z",
+  "timestamp": "11.10.2026, 05:33:01",
   "items": [
     {
       "platform": "Bluesky",
-      "author": "@florianflade.bsky.social",
-      "handle": "florianflade.bsky.social",
-      "text": "Freuding: Moskau hat Ziel von 1,5 Millionen Soldaten erreicht\n\nwww.zdfheute.de/politik/russ... #Russland #Russia #Ukraine #Bundeswehr",
-      "url": "https://bsky.app/profile/florianflade.bsky.social/post/3mxha6i3hdc26",
-      "engagement": 19,
-      "ts": "2026-10-09T14:55:09.641Z",
-      "followers": 7644,
+      "author": "@luftwaffe.bundeswehr.de",
+      "handle": "luftwaffe.bundeswehr.de",
+      "text": "Europäische Luftverteidigung ist Teamwork! 🇩🇪🤝🇸🇪\n\nAuf Kreta führt Schweden sein erstes eigenständiges Patriot-Live-Firing durch. Wir teilen Erfahrung, stimmen Verfahren ab und stärken gemeinsam unsere Einsatzbereitschaft.\n\n(📷: Swedish Airdefense/Alexander Gustavsson; Bundeswehr/Leon Belz)",
+      "url": "https://bsky.app/profile/luftwaffe.bundeswehr.de/post/3mxkjxqefjs27",
+      "engagement": 17,
+      "ts": "2026-10-10T22:28:20.067Z",
+      "followers": 3476,
       "isBot": false,
       "sentiment": "positiv"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@zeit.de",
+      "handle": "zeit.de",
+      "text": "Der Historiker Jakob Saß hat die erste Gesamtdarstellung rechtsradikaler Skandale in der Bundeswehr vorgelegt. Hier erklärt er, wie sich rechte Netzwerke bilden konnten.",
+      "url": "https://bsky.app/profile/zeit.de/post/3mxjutso3gx2y",
+      "engagement": 15,
+      "ts": "2026-10-10T15:58:04.000Z",
+      "followers": 52899,
+      "isBot": false,
+      "sentiment": "kritisch"
     },
     {
       "platform": "Bluesky",
@@ -24,7 +36,7 @@
       "ts": "2026-10-05T12:20:11.059Z",
       "followers": 1316,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
@@ -45,7 +57,7 @@
       "url": "https://bsky.app/profile/dirkmassat.bsky.social/post/3mxab7tcpqc23",
       "engagement": 4,
       "ts": "2026-10-06T20:25:10.540Z",
-      "followers": 10468,
+      "followers": 10464,
       "isBot": false,
       "sentiment": "kritisch"
     },
@@ -57,21 +69,21 @@
       "url": "https://bsky.app/profile/sagebiel.bsky.social/post/3mxgodu7wnk2x",
       "engagement": 3,
       "ts": "2026-10-09T09:36:02.789Z",
-      "followers": 5066,
+      "followers": 5065,
       "isBot": false,
       "sentiment": "negativ"
     },
     {
       "platform": "Bluesky",
-      "author": "@britneyspheres.bsky.social",
-      "handle": "britneyspheres.bsky.social",
-      "text": "Wenn ALLE bei der Bundeswehr so drauf wären, müssten wir uns über den Iwan keine Gedanken machen",
-      "url": "https://bsky.app/profile/britneyspheres.bsky.social/post/3mxhq5zlu6s2j",
+      "author": "@danielolschewski.bsky.social",
+      "handle": "danielolschewski.bsky.social",
+      "text": "Die offizielle Aussage der Bundeswehr, es ließe sich nicht mehr nachvollziehen, welche Regeln für das Verlassen der Stützpunkte im Jahr 2007/2008 gegolten haben, spricht Bände über die fehlende Sorgsamkeit, die die Bundeswehr in Sachen Einsatzdokumentation walten lässt.",
+      "url": "https://bsky.app/profile/danielolschewski.bsky.social/post/3mxjg2md4tnss",
       "engagement": 2,
-      "ts": "2026-10-09T19:41:14.319Z",
-      "followers": 2060,
+      "ts": "2026-10-10T11:45:41.796659Z",
+      "followers": 3310,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -85,6 +97,18 @@
       "sentiment": "kritisch"
     },
     {
+      "platform": "Bluesky",
+      "author": "@sektordrei.bsky.social",
+      "handle": "sektordrei.bsky.social",
+      "text": "Hier würde ich einschränken: Die Bundeswehr zeigte sich in Gestalt Kay-Achim Schönbachs in Indien kein bisschen resilient.",
+      "url": "https://bsky.app/profile/sektordrei.bsky.social/post/3mxk4snjgbk23",
+      "engagement": 1,
+      "ts": "2026-10-10T18:32:50.679Z",
+      "followers": 2053,
+      "isBot": false,
+      "sentiment": "kritisch"
+    },
+    {
       "platform": "Reddit r/de",
       "author": "u/VW_isbetterthanTesla",
       "text": "Wehrdienst, Bundeswehr, Ukraine: Oberstleutnant Marcel Bohnert gegen alle I Hart aber fair 360",
@@ -92,7 +116,7 @@
       "engagement": 0,
       "ts": "2026-10-05T21:20:54+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Reddit r/de",
@@ -102,7 +126,7 @@
       "engagement": 0,
       "ts": "2026-10-04T06:13:46+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "negativ"
     },
     {
       "platform": "Augen geradeaus!",
@@ -112,7 +136,7 @@
       "engagement": 0,
       "ts": "Thu, 08 Oct 2026 15:49:52 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Augen geradeaus!",
@@ -122,7 +146,7 @@
       "engagement": 0,
       "ts": "Thu, 08 Oct 2026 13:32:16 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Augen geradeaus!",
@@ -132,7 +156,7 @@
       "engagement": 0,
       "ts": "Tue, 06 Oct 2026 14:33:48 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Augen geradeaus!",
@@ -142,7 +166,7 @@
       "engagement": 0,
       "ts": "Mon, 05 Oct 2026 13:40:03 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Augen geradeaus!",
@@ -151,6 +175,16 @@
       "url": "https://augengeradeaus.net/2026/10/moskau-wettet-auf-unsere-schwaeche/",
       "engagement": 0,
       "ts": "Mon, 05 Oct 2026 12:58:43 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Northrop Grumman rüstet auf",
+      "url": "https://esut.de/2026/10/fachbeitraege/75235/northrop-grumman-ruestet/",
+      "engagement": 0,
+      "ts": "Sat, 10 Oct 2026 06:52:52 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -205,16 +239,6 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Rheinmetall-Finanzierungsbasis auf 1,5 Milliarden Euro verdoppelt",
-      "url": "https://esut.de/2026/10/meldungen/75695/rheinmetall-finanzierungsbasis-auf-15-milliarden-euro-verdoppelt/",
-      "engagement": 0,
-      "ts": "Fri, 09 Oct 2026 06:42:24 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
       "platform": "Spiegel Politik",
       "author": "Spiegel Politik",
       "text": "Olaf Scholz' »Zeitenwende«-Rede: Kanzleramt muss Entwurf nicht veröffentlichen",
@@ -226,11 +250,11 @@
     }
   ],
   "analysis": {
-    "summary": "Der Diskurs um die Bundeswehr und ihre Ausgaben dominiert den Tag, wobei auch Themen wie Wehrdienst und Militärpräsenz im Fokus stehen.",
+    "summary": "Heute diskutieren die sozialen Medien vor allem über die Bundeswehr und ihre Aktionen, insbesondere im Kontext der Ukraine-Krise. Die Diskussion um den Wehrdienst und die Bespitzlung von jungen Männern durch den Bundeswehr-Geheimdienst dominieren die Beiträge.",
     "themes": [
       "Pistorius' Wehrdienst-Modell",
-      "Beschaffungsverzögerung Meko-Fregatten",
-      "AfD-Faschismus-Vorwurf durch Olaf Scholz"
+      "Beschaffungsverzögerung der Fregatten",
+      "Bundeswehr und Ukraine-Krise"
     ]
   }
 }

@@ -1,31 +1,7 @@
 {
-  "generated": "2026-10-11T03:33:01.120Z",
-  "timestamp": "11.10.2026, 05:33:01",
+  "generated": "2026-10-12T03:32:54.530Z",
+  "timestamp": "12.10.2026, 05:32:54",
   "items": [
-    {
-      "platform": "Bluesky",
-      "author": "@luftwaffe.bundeswehr.de",
-      "handle": "luftwaffe.bundeswehr.de",
-      "text": "Europäische Luftverteidigung ist Teamwork! 🇩🇪🤝🇸🇪\n\nAuf Kreta führt Schweden sein erstes eigenständiges Patriot-Live-Firing durch. Wir teilen Erfahrung, stimmen Verfahren ab und stärken gemeinsam unsere Einsatzbereitschaft.\n\n(📷: Swedish Airdefense/Alexander Gustavsson; Bundeswehr/Leon Belz)",
-      "url": "https://bsky.app/profile/luftwaffe.bundeswehr.de/post/3mxkjxqefjs27",
-      "engagement": 17,
-      "ts": "2026-10-10T22:28:20.067Z",
-      "followers": 3476,
-      "isBot": false,
-      "sentiment": "positiv"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@zeit.de",
-      "handle": "zeit.de",
-      "text": "Der Historiker Jakob Saß hat die erste Gesamtdarstellung rechtsradikaler Skandale in der Bundeswehr vorgelegt. Hier erklärt er, wie sich rechte Netzwerke bilden konnten.",
-      "url": "https://bsky.app/profile/zeit.de/post/3mxjutso3gx2y",
-      "engagement": 15,
-      "ts": "2026-10-10T15:58:04.000Z",
-      "followers": 52899,
-      "isBot": false,
-      "sentiment": "kritisch"
-    },
     {
       "platform": "Bluesky",
       "author": "@unterstuetzung.bundeswehr.de",
@@ -45,7 +21,19 @@
       "url": "https://ard.social/@tagesschau/117391829423345151",
       "engagement": 9,
       "ts": "2026-10-06T03:26:02.000Z",
-      "followers": 94336,
+      "followers": 94525,
+      "isBot": false,
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@sektordrei.bsky.social",
+      "handle": "sektordrei.bsky.social",
+      "text": "Im Kern ging es darum, dass Strauß die Truppenstärke der Bundeswehr aus Kostengründen zu Gunsten atomarer Abschreckung reduzieren wollte und ein Nato-Manöver offengelegt hatte, dass das nicht funktionierte. Das meiste, was der Spiegel veröffentlicht hatte, war aus frei zugänglichen Quellen. Es ...",
+      "url": "https://bsky.app/profile/sektordrei.bsky.social/post/3mxmayzidl226",
+      "engagement": 4,
+      "ts": "2026-10-11T14:53:18.996Z",
+      "followers": 2053,
       "isBot": false,
       "sentiment": "negativ"
     },
@@ -57,31 +45,43 @@
       "url": "https://bsky.app/profile/dirkmassat.bsky.social/post/3mxab7tcpqc23",
       "engagement": 4,
       "ts": "2026-10-06T20:25:10.540Z",
-      "followers": 10464,
+      "followers": 10460,
       "isBot": false,
       "sentiment": "kritisch"
     },
     {
       "platform": "Bluesky",
-      "author": "@sagebiel.bsky.social",
-      "handle": "sagebiel.bsky.social",
+      "author": "@aiformal.bsky.social",
+      "handle": "aiformal.bsky.social",
       "text": "Fehlende Patronen war wirklich ein Riesending Bundeswehr Wehrdienst . @charles-ex.bsky.social @ginger146.bsky.social @aloa5.eurosky.social",
-      "url": "https://bsky.app/profile/sagebiel.bsky.social/post/3mxgodu7wnk2x",
+      "url": "https://bsky.app/profile/aiformal.bsky.social/post/3mxgodu7wnk2x",
       "engagement": 3,
       "ts": "2026-10-09T09:36:02.789Z",
-      "followers": 5065,
+      "followers": 5066,
       "isBot": false,
       "sentiment": "negativ"
     },
     {
       "platform": "Bluesky",
-      "author": "@danielolschewski.bsky.social",
-      "handle": "danielolschewski.bsky.social",
-      "text": "Die offizielle Aussage der Bundeswehr, es ließe sich nicht mehr nachvollziehen, welche Regeln für das Verlassen der Stützpunkte im Jahr 2007/2008 gegolten haben, spricht Bände über die fehlende Sorgsamkeit, die die Bundeswehr in Sachen Einsatzdokumentation walten lässt.",
-      "url": "https://bsky.app/profile/danielolschewski.bsky.social/post/3mxjg2md4tnss",
+      "author": "@kotzenderstern.eurosky.social",
+      "handle": "kotzenderstern.eurosky.social",
+      "text": "Leider habilitiert eben dieser Herr Tauber zudem auch noch an der Hochschule der Bundeswehr.\n\nWarum das nach seiner Sexismusdebatte 2012 und den Mobbingvorwürfen 2016 überhaupt möglich ist, ist mir schleierhaft. \nAber bei einem Reserveoffizier und ehem. CdU Generalsekretär geht sowas wohl durch..",
+      "url": "https://bsky.app/profile/kotzenderstern.eurosky.social/post/3mxnbvxx4i22z",
       "engagement": 2,
-      "ts": "2026-10-10T11:45:41.796659Z",
-      "followers": 3310,
+      "ts": "2026-10-12T00:42:10.197Z",
+      "followers": 5001,
+      "isBot": false,
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@crashbug.eurosky.social",
+      "handle": "crashbug.eurosky.social",
+      "text": "Die Bundeswehr hat ebenfalls eine Studie dazu durchgeführt. Das Ergebnis ist erschütternd.",
+      "url": "https://bsky.app/profile/crashbug.eurosky.social/post/3mxmol4k2zk2n",
+      "engagement": 2,
+      "ts": "2026-10-11T18:56:04.823Z",
+      "followers": 3858,
       "isBot": false,
       "sentiment": "kritisch"
     },
@@ -92,21 +92,33 @@
       "url": "https://ard.social/@tagesschau/117389611708558478",
       "engagement": 2,
       "ts": "2026-10-05T18:02:03.000Z",
-      "followers": 94336,
+      "followers": 94525,
       "isBot": false,
       "sentiment": "kritisch"
     },
     {
       "platform": "Bluesky",
-      "author": "@sektordrei.bsky.social",
-      "handle": "sektordrei.bsky.social",
-      "text": "Hier würde ich einschränken: Die Bundeswehr zeigte sich in Gestalt Kay-Achim Schönbachs in Indien kein bisschen resilient.",
-      "url": "https://bsky.app/profile/sektordrei.bsky.social/post/3mxk4snjgbk23",
-      "engagement": 1,
-      "ts": "2026-10-10T18:32:50.679Z",
-      "followers": 2053,
+      "author": "@idiokratie.bsky.social",
+      "handle": "idiokratie.bsky.social",
+      "text": "That's what I get for remaining a humble Bundeswehr conscript\n\nbsky.app/profile/idio...",
+      "url": "https://bsky.app/profile/idiokratie.bsky.social/post/3mxmkvhvfxcfj",
+      "engagement": 0,
+      "ts": "2026-10-11T17:50:17.305Z",
+      "followers": 2956,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@mrhappyonbsky.eurosky.social",
+      "handle": "mrhappyonbsky.eurosky.social",
+      "text": "Nichts gutes passiert dann. Aber immerhin ist die Bundeswehr eine Parlamentsarmee. Ggf kann sie eine Legislatur AfD relativ unbeschadet überstehen? Sicher bin ich mir nicht.",
+      "url": "https://bsky.app/profile/mrhappyonbsky.eurosky.social/post/3mxlsylafbk2z",
+      "engagement": 0,
+      "ts": "2026-10-11T10:42:31.671Z",
+      "followers": 3074,
+      "isBot": false,
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -116,17 +128,7 @@
       "engagement": 0,
       "ts": "2026-10-05T21:20:54+00:00",
       "alwaysKeep": true,
-      "sentiment": "positiv"
-    },
-    {
-      "platform": "Reddit r/de",
-      "author": "u/NobleDiceDream",
-      "text": "Bundeswehr: Pistorius kündigt Aufbau eines Drohnen-Regiments an",
-      "url": "https://www.reddit.com/r/de/comments/1wx8edy/bundeswehr_pistorius_kündigt_aufbau_eines/",
-      "engagement": 0,
-      "ts": "2026-10-04T06:13:46+00:00",
-      "alwaysKeep": true,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -136,7 +138,7 @@
       "engagement": 0,
       "ts": "Thu, 08 Oct 2026 15:49:52 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -146,7 +148,7 @@
       "engagement": 0,
       "ts": "Thu, 08 Oct 2026 13:32:16 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -156,7 +158,7 @@
       "engagement": 0,
       "ts": "Tue, 06 Oct 2026 14:33:48 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -166,7 +168,7 @@
       "engagement": 0,
       "ts": "Mon, 05 Oct 2026 13:40:03 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -177,6 +179,26 @@
       "ts": "Mon, 05 Oct 2026 12:58:43 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "US Midterms: Wenn Wahlen zum Ziel werden",
+      "url": "https://esut.de/2026/10/fachbeitraege/75265/us-midterms/",
+      "engagement": 0,
+      "ts": "Sun, 11 Oct 2026 05:43:29 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Midterm Elections in den USA: Wie Trump die politische Kultur beschädigt",
+      "url": "https://esut.de/2026/10/fachbeitraege/75263/midterm-elections-in-den-usa/",
+      "engagement": 0,
+      "ts": "Sun, 11 Oct 2026 05:12:03 +0000",
+      "alwaysKeep": true,
+      "sentiment": "kritisch"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
@@ -216,45 +238,15 @@
       "engagement": 0,
       "ts": "Fri, 09 Oct 2026 10:51:45 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Amphibie M3 EVO: Planungsphase Schwimmschnellbrücke 2 beginnt",
-      "url": "https://esut.de/2026/10/meldungen/75701/m3-evo-schwimmschnellbruecke-2/",
-      "engagement": 0,
-      "ts": "Fri, 09 Oct 2026 10:05:16 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Europas Defizit bei weitreichenden Waffensystemen",
-      "url": "https://esut.de/2026/10/fachbeitraege/75227/weitreichenden-waffensystemen/",
-      "engagement": 0,
-      "ts": "Fri, 09 Oct 2026 07:30:31 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Spiegel Politik",
-      "author": "Spiegel Politik",
-      "text": "Olaf Scholz' »Zeitenwende«-Rede: Kanzleramt muss Entwurf nicht veröffentlichen",
-      "url": "https://www.spiegel.de/politik/deutschland/olaf-scholz-zeitenwende-rede-kanzleramt-muss-entwurf-nicht-veroeffentlichen-a-b868bc1d-5c43-43a3-9c68-ccf85524e9c2#ref=rss",
-      "engagement": 0,
-      "ts": "Fri, 9 Oct 2026 19:59:00 +0200",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     }
   ],
   "analysis": {
-    "summary": "Heute diskutieren die sozialen Medien vor allem über die Bundeswehr und ihre Aktionen, insbesondere im Kontext der Ukraine-Krise. Die Diskussion um den Wehrdienst und die Bespitzlung von jungen Männern durch den Bundeswehr-Geheimdienst dominieren die Beiträge.",
+    "summary": "Der Diskurs um die Bundeswehr und ihre Logistik, Wehrdienst und -ausbildung sowie die politische Situation in Deutschland und Europa dominiert den Tag.",
     "themes": [
-      "Pistorius' Wehrdienst-Modell",
-      "Beschaffungsverzögerung der Fregatten",
-      "Bundeswehr und Ukraine-Krise"
+      "Bundeswehr-Logistik",
+      "Wehrdienst und -ausbildung",
+      "Politische Situation in Deutschland und Europa"
     ]
   }
 }

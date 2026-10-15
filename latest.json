@@ -1,40 +1,40 @@
 {
-  "generated": "2026-10-14T03:32:46.309Z",
-  "timestamp": "14.10.2026, 05:32:46",
+  "generated": "2026-10-15T03:32:36.750Z",
+  "timestamp": "15.10.2026, 05:32:36",
   "items": [
-    {
-      "platform": "Bluesky",
-      "author": "@markusdecker.bsky.social",
-      "handle": "markusdecker.bsky.social",
-      "text": "In einer Bundeswehr-Kaserne in Sachsen-Anhalt könnte es einen neuen Sexismus-Skandal geben.",
-      "url": "https://bsky.app/profile/markusdecker.bsky.social/post/3mxruktsmu227",
-      "engagement": 18,
-      "ts": "2026-10-13T20:26:36.807Z",
-      "followers": 6352,
-      "isBot": false,
-      "sentiment": "kritisch"
-    },
     {
       "platform": "Bluesky",
       "author": "@hartpunkt.bsky.social",
       "handle": "hartpunkt.bsky.social",
-      "text": "Die Fähigkeit zum Deep Precision Strike ist in der Bundeswehr aktuell nur mittels luftgestützter Wirkmittel in der Luftwaffe vorhanden. Nach Aussage des Inspekteurs des Deutschen Heeres, Generalleutnant Christian Freuding, wird sich dies in Kürze ändern.\n\nwww.hartpunkt.de/deep-precisi...",
-      "url": "https://bsky.app/profile/hartpunkt.bsky.social/post/3mxqvqfn7222y",
-      "engagement": 14,
-      "ts": "2026-10-13T11:14:57.280Z",
-      "followers": 976,
+      "text": "Boris Pistorius tauschte sich bei dem heutigen Besuch in Griechenland mit seinem griechischen Amtskollegen über die bilaterale Zusammenarbeit aus. Im Fokus habe dabei auch die mögliche Beschaffung moderner U-Boote der Klasse 212 CD durch Griechenland gestanden.\n\nwww.hartpunkt.de/u212-cd-pist...",
+      "url": "https://bsky.app/profile/hartpunkt.bsky.social/post/3mxtwmc4zy22y",
+      "engagement": 11,
+      "ts": "2026-10-14T16:08:32.344Z",
+      "followers": 975,
       "isBot": false,
       "sentiment": "positiv"
     },
     {
       "platform": "Bluesky",
-      "author": "@hartpunkt.bsky.social",
-      "handle": "hartpunkt.bsky.social",
-      "text": "Das Bundeswehr-Beschaffungsamt BAAINBw hat mit dem finnischen Bootsbauer Marine Alutech Oy Ab einen Vertrag zur Beschaffung von 15 Mehrzweckkampfbooten des Typs Watercat M18 AMC geschlossen.\n\nwww.hartpunkt.de/vertrag-uebe...",
-      "url": "https://bsky.app/profile/hartpunkt.bsky.social/post/3mxr5b2l2vk2y",
-      "engagement": 8,
-      "ts": "2026-10-13T13:29:32.294Z",
-      "followers": 976,
+      "author": "@rbb24.de",
+      "handle": "rbb24.de",
+      "text": "Auf dem Flugplatz Strausberg (Märkisch Oderland) hat die Bundeswehr erstmals öffentlich einen Laser zur Abwehr von Drohnen demonstriert. Hintergrund ist die wachsende Bedrohung durch Drohnenschwärme, wie sie etwa im Ukrainekrieg eine immer größere Rolle spielen.",
+      "url": "https://bsky.app/profile/rbb24.de/post/3mxtsvgzqzk2t",
+      "engagement": 7,
+      "ts": "2026-10-14T15:02:04.503Z",
+      "followers": 8227,
+      "isBot": false,
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@zeit.de",
+      "handle": "zeit.de",
+      "text": "Neue Vorwürfe gegen Bundeswehrsoldaten sollen laut Verteidigungsminister Pistorius untersucht werden. Es geht unter anderem um sexuelles Fehlverhalten und Drogenhandel.",
+      "url": "https://bsky.app/profile/zeit.de/post/3mxtw655lnp2n",
+      "engagement": 4,
+      "ts": "2026-10-14T15:03:03.000Z",
+      "followers": 53019,
       "isBot": false,
       "sentiment": "negativ"
     },
@@ -46,7 +46,7 @@
       "url": "https://bsky.app/profile/aiformal.bsky.social/post/3mxgodu7wnk2x",
       "engagement": 3,
       "ts": "2026-10-09T09:36:02.789Z",
-      "followers": 5060,
+      "followers": 5058,
       "isBot": false,
       "sentiment": "kritisch"
     },
@@ -57,45 +57,40 @@
       "url": "https://social.heise.de/@heiseonline/117428811407041516",
       "engagement": 3,
       "ts": "2026-10-12T16:11:03.000Z",
-      "followers": 87013,
+      "followers": 87055,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "positiv"
     },
     {
-      "platform": "Bluesky",
-      "author": "@angiestone.graysky.social",
-      "handle": "angiestone.graysky.social",
-      "text": "Warum sehen wir gefühlt kaum Infos über unsere Bundeswehr, unsere Luftwaffe? Ich finde in allen möglichen Ländern, besonders UK, mehr über uns, als in Deutschland. DAS ist doch nicht normal!",
-      "url": "https://bsky.app/profile/angiestone.graysky.social/post/3mxrhcwzzmc2t",
-      "engagement": 2,
-      "ts": "2026-10-13T16:29:33.070Z",
-      "followers": 6764,
+      "platform": "Mastodon",
+      "author": "@tagesschau@ard.social",
+      "text": "Schutz vor Spionage - Bundeswehr darf Netzwerferdrohnen kaufen Zum Schutz vor Spionage und Sabotage darf die Bundeswehr Netzwerferdrohnen kaufen. Das entschied der Haushaltsausschuss im Bundestag. Auch neue Feuereinheiten für das \"Patriot\"-Luftverteidigungssystem billigte er. ➡️ https://www. tagesschau.de/inland/innenpoli tik/ruestungsvorhaben-genehmigt-bundestag-100.html?at_medium=mastodon&at_cam",
+      "url": "https://ard.social/@tagesschau/117440682614378998",
+      "engagement": 0,
+      "ts": "2026-10-14T18:30:03.000Z",
+      "followers": 94587,
       "isBot": false,
       "sentiment": "kritisch"
     },
     {
-      "platform": "Bluesky",
-      "author": "@teresavincenzo.bsky.social",
-      "handle": "teresavincenzo.bsky.social",
-      "text": "Das Kind ist bei der Bundeswehr. 💀",
-      "url": "https://bsky.app/profile/teresavincenzo.bsky.social/post/3mxrg5p3wqc2n",
-      "engagement": 2,
-      "ts": "2026-10-13T16:08:43.278Z",
-      "followers": 2724,
-      "isBot": false,
-      "sentiment": "negativ"
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Zwei Jahre nach Übergabe an die Bundeswehr: Erster scharfer Schuss der Luftwaffe mit Iris-T SLM",
+      "url": "https://augengeradeaus.net/2026/10/zwei-jahre-nach-uebergabe-an-die-bundeswehr-erster-scharfer-schuss-der-luftwaffe-mit-iris-t-slm/",
+      "engagement": 0,
+      "ts": "Wed, 14 Oct 2026 17:57:42 +0000",
+      "alwaysKeep": true,
+      "sentiment": "positiv"
     },
     {
-      "platform": "Bluesky",
-      "author": "@dantesinferno2025.bsky.social",
-      "handle": "dantesinferno2025.bsky.social",
-      "text": "Neuer #Bundeswehr-Skandal in #Sachsen-Anhalt: Verdacht auf #Drogenmissbrauch und #sexuellesFehlverhalten",
-      "url": "https://bsky.app/profile/dantesinferno2025.bsky.social/post/3mxrcppjfvs2z",
-      "engagement": 1,
-      "ts": "2026-10-13T15:07:12.729Z",
-      "followers": 5679,
-      "isBot": false,
-      "sentiment": "neutral"
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Bundeswehr-Personalstärke laut Pistorius im Oktober 2026 über 190.000",
+      "url": "https://augengeradeaus.net/2026/10/bundeswehr-personalstaerke-laut-pistorius-im-oktober-2026-ueber-190-000/",
+      "engagement": 0,
+      "ts": "Wed, 14 Oct 2026 06:47:18 +0000",
+      "alwaysKeep": true,
+      "sentiment": "kritisch"
     },
     {
       "platform": "Augen geradeaus!",
@@ -125,7 +120,7 @@
       "engagement": 0,
       "ts": "Thu, 08 Oct 2026 13:32:16 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Bundeswehr Journal",
@@ -138,84 +133,92 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "Bundeswehr Journal",
-      "author": "Bundeswehr Journal",
-      "text": "Spionageverdacht: Ex-BND-Chef August Hanning in U-Haft",
-      "url": "https://www.bundeswehr-journal.de/2026/spionageverdacht-ex-bnd-chef-august-hanning-in-u-haft/",
-      "engagement": 0,
-      "ts": "Wed, 07 Oct 2026 12:22:07 +0000",
-      "alwaysKeep": true,
-      "sentiment": "kritisch"
-    },
-    {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "genugate Firewall: Leistungssprung und neue BSI-Zulassung",
-      "url": "https://esut.de/2026/10/meldungen/75763/genugate-firewall-leistungssprung/",
+      "text": "Bundeswehr: IRIS-T SLM besteht Systemzertifizierung auf Kreta",
+      "url": "https://esut.de/2026/10/meldungen/75806/bundeswehr-iris-t-slm-system-kreta/",
       "engagement": 0,
-      "ts": "Tue, 13 Oct 2026 16:25:29 +0000",
+      "ts": "Wed, 14 Oct 2026 16:58:22 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Frankreich bestellt weitere Loitering Munition MX-10 DAMOCLES",
-      "url": "https://esut.de/2026/10/meldungen/75767/loitering-munition-mx-10-damocles/",
+      "text": "Drohnenabwehr: CIHBw und Inleap Photonics präsentieren Laserdome",
+      "url": "https://esut.de/2026/10/meldungen/75788/cihbw-inleap-photonics-laserdome/",
       "engagement": 0,
-      "ts": "Tue, 13 Oct 2026 13:33:46 +0000",
-      "alwaysKeep": true,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Sebastian Fischer neuer Country Director Deutschland bei Safran",
-      "url": "https://esut.de/2026/10/meldungen/75757/sebastian-fischer-director-safran/",
-      "engagement": 0,
-      "ts": "Tue, 13 Oct 2026 10:04:04 +0000",
+      "ts": "Wed, 14 Oct 2026 16:28:10 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Ukraine: Ergebnisse der Operation Deep Strike im September",
-      "url": "https://esut.de/2026/10/meldungen/75752/ukraine-operation-deep-strike-sept/",
+      "text": "12 Aache AH-64E – Israel kauft modernste Kampfhubschrauber",
+      "url": "https://esut.de/2026/10/meldungen/75799/12-apache-ah-64e-israel-hubschraub/",
       "engagement": 0,
-      "ts": "Mon, 12 Oct 2026 15:03:44 +0000",
+      "ts": "Wed, 14 Oct 2026 15:42:58 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Rheinmetall übernimmt rumänische Werft Mangalia",
+      "url": "https://esut.de/2026/10/meldungen/75782/rheinmetall-rumaen-werft-mangalia/",
+      "engagement": 0,
+      "ts": "Wed, 14 Oct 2026 12:28:03 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Strategische Allianz von CAE und msg für Missionsplanung",
+      "url": "https://esut.de/2026/10/meldungen/75777/cae-und-msg-fuer-missionsplanung/",
+      "engagement": 0,
+      "ts": "Wed, 14 Oct 2026 12:09:10 +0000",
       "alwaysKeep": true,
       "sentiment": "positiv"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Helsing meldet 95 Prozent Erfolgsquote bei HX-2-Erprobungen",
-      "url": "https://esut.de/2026/10/meldungen/75748/helsing-95-prozent-erfolg-hx-2/",
+      "text": "Oshkosh baut ersten Prototypen des DXPV Kaaiman",
+      "url": "https://esut.de/2026/10/meldungen/75773/oshkosh-prototyp-dxpv-kaaiman/",
       "engagement": 0,
-      "ts": "Mon, 12 Oct 2026 14:07:22 +0000",
+      "ts": "Wed, 14 Oct 2026 07:21:50 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "HawkGuard: IAI präsentiert neue Drohnenabwehr",
-      "url": "https://esut.de/2026/10/meldungen/75744/hawkguard-iai-neue-drohnenabwehr/",
+      "platform": "Tagesschau Alle Meldungen",
+      "author": "Tagesschau Alle Meldungen",
+      "text": "Schutz vor Spionage - Bundeswehr darf Netzwerferdrohnen kaufen",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/ruestungsvorhaben-genehmigt-bundestag-100.html",
       "engagement": 0,
-      "ts": "Mon, 12 Oct 2026 13:53:35 +0000",
+      "ts": "Wed, 14 Oct 2026 20:29:12 +0200",
       "alwaysKeep": true,
       "sentiment": "kritisch"
+    },
+    {
+      "platform": "Spiegel Politik",
+      "author": "Spiegel Politik",
+      "text": "Bundeswehr: Ermittlungen wegen sexueller Übergriffe in der Sachsen-Anhalt-Kaserne",
+      "url": "https://www.spiegel.de/politik/deutschland/bundeswehr-ermittlungen-wegen-sexuellen-uebergriffen-in-der-sachsen-anhalt-kaserne-a-a9312649-3074-4187-9ff4-d0707e25697c#ref=rss",
+      "engagement": 0,
+      "ts": "Wed, 14 Oct 2026 16:03:00 +0200",
+      "alwaysKeep": true,
+      "sentiment": "negativ"
     }
   ],
   "analysis": {
-    "summary": "Heute diskutieren die Nutzer über Sexismus im Bundeswehr, Fehlende Patronen und Mangelnde Transparenz bei der Bundeswehr. Es gibt auch Berichte über neue Kampfdrohnen und Beschaffungsverträge.",
+    "summary": "Heute diskutiert der Bundeswehr-Diskurs um die Wehrdienst-Modell, die Beschaffungsverzögerung von Meko-Fregatten und die Ermittlungen wegen sexueller Übergriffe in der Sachsen-Anhalt-Kaserne.",
     "themes": [
-      "Sexismus-Skandal in Sachsen-Anhalt",
-      "Fehlende Patronen im Wehrdienst",
-      "Mangelnde Transparenz bei der Bundeswehr",
-      "Neue Kampfdrohne Valkyrie",
-      "Beschaffungsvertrag mit Marine Alutech Oy"
+      "Pistorius' Wehrdienst-Modell",
+      "Beschaffungsverzögerung von Meko-Fregatten",
+      "Ermittlungen wegen sexueller Übergriffe in der Sachsen-Anhalt-Kaserne"
     ]
   }
 }

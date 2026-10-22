@@ -1,30 +1,30 @@
 {
-  "generated": "2026-10-21T03:32:50.148Z",
-  "timestamp": "21.10.2026, 05:32:50",
+  "generated": "2026-10-22T03:32:57.847Z",
+  "timestamp": "22.10.2026, 05:32:57",
   "items": [
     {
       "platform": "Bluesky",
-      "author": "@luftwaffe.bundeswehr.de",
-      "handle": "luftwaffe.bundeswehr.de",
-      "text": "Luftbetankung ist ein wichtiger Bestandteil unserer Einsatzbereitschaft. Mit unseren A400M, A330 MRTT und KC-130J ermöglichen wir es Kampfflugzeugen und Hubschraubern, die Einsatzdauer zu erhöhen. So müssen unsere Luftfahrzeuge bei größeren Verlegungen nicht zwischenlanden.\n\n(📸: Bundeswehr/ Harnack)",
-      "url": "https://bsky.app/profile/luftwaffe.bundeswehr.de/post/3mycxoqqyf22w",
-      "engagement": 32,
-      "ts": "2026-10-20T15:37:44.576Z",
-      "followers": 3483,
+      "author": "@sixtus.net",
+      "handle": "sixtus.net",
+      "text": "Ich bin so alt, ich weiß noch wie wir Jungs untereinander Tipps, Rezepte und Gebrauchsanleitungen — teils wirklich gefährlichen Inhalts — austauschten, um ausgemustert zu werden. Und was ist jetzt? Jetzt geht der Scheiß wieder los! Volle Solidarität! Lasst euch ausmustern! Wehrpflicht ist kacke!",
+      "url": "https://bsky.app/profile/sixtus.net/post/3myfwfbf5ps2l",
+      "engagement": 86,
+      "ts": "2026-10-21T19:52:31.964Z",
+      "followers": 39622,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Bluesky",
-      "author": "@loyalmagazin.bsky.social",
-      "handle": "loyalmagazin.bsky.social",
-      "text": "2/4 Die Hauptabteilung ist das direkte Arbeitsvehikel des Generalinspekteurs zur strategischen Steuerung der Bundeswehr unter Leitung von Generalleutnant Gunter Schneider. 👉",
-      "url": "https://bsky.app/profile/loyalmagazin.bsky.social/post/3mycwvsxb7k2u",
-      "engagement": 5,
-      "ts": "2026-10-20T15:23:45.770Z",
-      "followers": 849,
+      "author": "@wiegold.de",
+      "handle": "wiegold.de",
+      "text": "Das Verteidigungsministerium hat heute die aktuelle Truppenstärke der Bundeswehr veröffentlicht. Da da einiges durcheinander geht (noch am Abend wurden Zahlen auf der Webseite verändert), die Übersicht mit einiger Vorsicht:",
+      "url": "https://bsky.app/profile/wiegold.de/post/3myftman6lc2k",
+      "engagement": 32,
+      "ts": "2026-10-21T19:02:44.841Z",
+      "followers": 15971,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
@@ -33,7 +33,7 @@
       "url": "https://ard.social/@tagesschau/117446321292115995",
       "engagement": 5,
       "ts": "2026-10-15T18:24:02.000Z",
-      "followers": 94587,
+      "followers": 94763,
       "isBot": false,
       "sentiment": "negativ"
     },
@@ -45,7 +45,7 @@
       "url": "https://bsky.app/profile/celsuscassius.bsky.social/post/3myaqvye54s2f",
       "engagement": 4,
       "ts": "2026-10-19T18:31:11.784Z",
-      "followers": 3910,
+      "followers": 3912,
       "isBot": false,
       "sentiment": "kritisch"
     },
@@ -56,19 +56,39 @@
       "url": "https://ard.social/@tagesschau/117444591140170606",
       "engagement": 4,
       "ts": "2026-10-15T11:04:02.000Z",
-      "followers": 94587,
+      "followers": 94763,
       "isBot": false,
       "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
       "author": "@tagesschau@ard.social",
-      "text": "Schutz vor Spionage - Bundeswehr darf Netzwerferdrohnen kaufen Zum Schutz vor Spionage und Sabotage darf die Bundeswehr Netzwerferdrohnen kaufen. Das entschied der Haushaltsausschuss im Bundestag. Auch neue Feuereinheiten für das \"Patriot\"-Luftverteidigungssystem billigte er. ➡️ https://www. tagesschau.de/inland/innenpoli tik/ruestungsvorhaben-genehmigt-bundestag-100.html?at_medium=mastodon&at_cam",
-      "url": "https://ard.social/@tagesschau/117440682614378998",
-      "engagement": 1,
-      "ts": "2026-10-14T18:30:03.000Z",
-      "followers": 94587,
+      "text": "Interne Lageeinschätzung - Bundeswehr warnt vor russischen Anschlägen Die Bundeswehr warnt vor möglichen russischen Sabotageanschlägen auf die eigenen Truppen in Deutschland - das geht aus einer internen Lageeinschätzung hervor, die WDR und SZ vorliegt. In dem Papier wurde die Bedrohung erstmals als \"Erheblich\" eingestuft. ➡️ https://www. tagesschau.de/investigativ/wdr /bundeswehr-russland-102.htm",
+      "url": "https://ard.social/@tagesschau/117476901702274267",
+      "engagement": 2,
+      "ts": "2026-10-21T04:01:02.000Z",
+      "followers": 94763,
       "isBot": false,
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Reddit r/de",
+      "author": "u/justastuma",
+      "text": "Aufrüstung: Bundeswehr meldet erstmals Personalzuwachs über geplantem Jahresziel",
+      "url": "https://www.reddit.com/r/de/comments/1xbreko/aufrüstung_bundeswehr_meldet_erstmals/",
+      "engagement": 0,
+      "ts": "2026-10-21T16:10:32+00:00",
+      "alwaysKeep": true,
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "Reddit r/de",
+      "author": "u/GirasoleDE",
+      "text": "Interne Lageeinschätzung - Bundeswehr warnt vor russischen Anschlägen",
+      "url": "https://www.reddit.com/r/de/comments/1xbhypp/interne_lageeinschätzung_bundeswehr_warnt_vor/",
+      "engagement": 0,
+      "ts": "2026-10-21T08:54:51+00:00",
+      "alwaysKeep": true,
       "sentiment": "kritisch"
     },
     {
@@ -79,7 +99,7 @@
       "engagement": 0,
       "ts": "2026-10-15T15:18:12+00:00",
       "alwaysKeep": true,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -99,7 +119,7 @@
       "engagement": 0,
       "ts": "2026-10-20T12:48:40+00:00",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -109,7 +129,7 @@
       "engagement": 0,
       "ts": "2026-10-16T12:31:58+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -119,7 +139,17 @@
       "engagement": 0,
       "ts": "2026-10-15T11:24:05+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Personalstärke September 2026: Erneut leichter Rückgang, Ministerium ändert Statistik (teilweise) und sieht Zielkorridor übertroffen",
+      "url": "https://augengeradeaus.net/2026/10/personalstaerke-september-2026-erneut-leichter-rueckgang-ministerium-aendert-statistik-teilweise-und-sieht-zielkorridor-uebertroffen/",
+      "engagement": 0,
+      "ts": "Wed, 21 Oct 2026 18:48:06 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -129,7 +159,7 @@
       "engagement": 0,
       "ts": "Sat, 17 Oct 2026 13:40:00 +0000",
       "alwaysKeep": true,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -139,27 +169,7 @@
       "engagement": 0,
       "ts": "Fri, 16 Oct 2026 12:50:05 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
-    },
-    {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Zwei Jahre nach Übergabe an die Bundeswehr: Erster scharfer Schuss der Luftwaffe mit Iris-T SLM",
-      "url": "https://augengeradeaus.net/2026/10/zwei-jahre-nach-uebergabe-an-die-bundeswehr-erster-scharfer-schuss-der-luftwaffe-mit-iris-t-slm/",
-      "engagement": 0,
-      "ts": "Wed, 14 Oct 2026 17:57:42 +0000",
-      "alwaysKeep": true,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Bundeswehr-Personalstärke laut Pistorius im Oktober 2026 über 190.000",
-      "url": "https://augengeradeaus.net/2026/10/bundeswehr-personalstaerke-laut-pistorius-im-oktober-2026-ueber-190-000/",
-      "engagement": 0,
-      "ts": "Wed, 14 Oct 2026 06:47:18 +0000",
-      "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Bundeswehr Journal",
@@ -169,75 +179,77 @@
       "engagement": 0,
       "ts": "Tue, 20 Oct 2026 21:15:07 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "25 Jahre OCCAR mit zwei Überraschungen",
-      "url": "https://esut.de/2026/10/meldungen/76018/25-jahre-occar-zwei-ueberraschung/",
+      "text": "BLACKTEQ: Europas Antwort auf die Drohnen-Asymmetrie",
+      "url": "https://esut.de/2026/10/fachbeitraege/ruestung/76046/blackteq/",
       "engagement": 0,
-      "ts": "Tue, 20 Oct 2026 15:17:21 +0000",
+      "ts": "Wed, 21 Oct 2026 10:15:48 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "EU-Verteidigung im Umbruch",
-      "url": "https://esut.de/2026/10/fachbeitraege/streitkraefte-fachbeitraege/75257/eu-verteidigung/",
+      "text": "Euronaval 2026: Die nächste Flotte muss schneller reifen",
+      "url": "https://esut.de/2026/10/meldungen/featured/76037/euronaval/",
       "engagement": 0,
-      "ts": "Tue, 20 Oct 2026 10:13:08 +0000",
+      "ts": "Wed, 21 Oct 2026 09:11:35 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Hyperschall-Wettlauf in Korea: Seoul testet erstmals eigenen Gleitflugkörper",
-      "url": "https://esut.de/2026/10/fachbeitraege/ruestung/75983/hyperschall-wettlauf-in-korea-seoul-testet-erstmals-eigenen-gleitflugkoerper/",
+      "text": "Saudi-Arabien soll 48 F-35 für 24,3 Milliarden Dollar erhalten",
+      "url": "https://esut.de/2026/10/meldungen/luft/76001/saudi-arabien-f-35/",
       "engagement": 0,
-      "ts": "Tue, 20 Oct 2026 08:44:26 +0000",
+      "ts": "Wed, 21 Oct 2026 08:20:59 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Israels Bluttransfusionen im Gefecht wecken Interesse in Europa",
-      "url": "https://esut.de/2026/10/fachbeitraege/streitkraefte-fachbeitraege/75979/bluttransfusionen/",
+      "text": "Ausbau der Satellitenproduktion: NVIDIA unterstützt Reflex Aerospace",
+      "url": "https://esut.de/2026/10/meldungen/cyber-it/76030/nvidia-reflex-aerospace/",
       "engagement": 0,
-      "ts": "Tue, 20 Oct 2026 06:27:00 +0000",
+      "ts": "Wed, 21 Oct 2026 07:30:56 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Drahtwälzlager für Militär- und Sicherheitstechnik",
-      "url": "https://esut.de/2026/10/sponsored-content/75943/drahtwaelzlager/",
+      "text": "Modernisierung Apache-Kampfhubschrauber vor dem Abschluss",
+      "url": "https://esut.de/2026/10/meldungen/land/76023/apache/",
       "engagement": 0,
-      "ts": "Tue, 20 Oct 2026 05:35:57 +0000",
+      "ts": "Wed, 21 Oct 2026 06:37:12 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Rechenzentren im Visier: Schutz vor hybriden Angriffen",
-      "url": "https://esut.de/2026/10/meldungen/75971/rechenzentren-schutz-hybriden/",
+      "text": "Ostasien rüstet auf – die alte Ordnung gerät ins Wanken",
+      "url": "https://esut.de/2026/10/fachbeitraege/featured-fachbeitraege/75273/ostasien/",
       "engagement": 0,
-      "ts": "Mon, 19 Oct 2026 18:28:32 +0000",
+      "ts": "Wed, 21 Oct 2026 05:55:29 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Heute dominiert der Diskurs um die Bundeswehr und ihre Ausgaben, insbesondere um Pistorius' Wehrdienst-Modell und die Beschaffungsverzögerung von Drohnen.",
+    "summary": "Heute wird die Bundeswehr im Fokus der Diskussion stehen, insbesondere im Hinblick auf die Truppenstärke und die Sicherheitslage. Pistorius' Wehrdienst-Modell und die AfD-Faschismus-Vorwürfe sind weiterhin aktuell.",
     "themes": [
       "Pistorius' Wehrdienst-Modell",
-      "Beschaffungsverzögerung von Drohnen",
-      "Sexuelle Fehlverhaltens-Vorwürfe gegen Bundeswehr-Personal"
+      "AfD-Faschismus-Vorwürfe",
+      "Sicherheitslage und Truppenstärke",
+      "Beschaffungsverzögerung",
+      "Internationale Sicherheitspolitik"
     ]
   }
 }

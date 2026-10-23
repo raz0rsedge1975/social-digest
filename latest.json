@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-22T03:32:57.847Z",
-  "timestamp": "22.10.2026, 05:32:57",
+  "generated": "2026-10-23T03:33:04.919Z",
+  "timestamp": "23.10.2026, 05:33:04",
   "items": [
     {
       "platform": "Bluesky",
@@ -8,34 +8,47 @@
       "handle": "sixtus.net",
       "text": "Ich bin so alt, ich weiß noch wie wir Jungs untereinander Tipps, Rezepte und Gebrauchsanleitungen — teils wirklich gefährlichen Inhalts — austauschten, um ausgemustert zu werden. Und was ist jetzt? Jetzt geht der Scheiß wieder los! Volle Solidarität! Lasst euch ausmustern! Wehrpflicht ist kacke!",
       "url": "https://bsky.app/profile/sixtus.net/post/3myfwfbf5ps2l",
-      "engagement": 86,
+      "engagement": 110,
       "ts": "2026-10-21T19:52:31.964Z",
-      "followers": 39622,
+      "followers": 39628,
+      "isBot": false,
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@florianflade.bsky.social",
+      "handle": "florianflade.bsky.social",
+      "text": "🔴 Gestern wurde die Festnahme eines Deutschen in #Russland bekannt gegeben. Er soll für die #Ukraine gekämpft haben. In einem Video des FSB erzählt der Mann, er habe jahrelang bei der #Bundeswehr gedient, sei in Afghanistan eingesetzt gewesen.\n\nLetzteres stimmt jedoch nicht… /1",
+      "url": "https://bsky.app/profile/florianflade.bsky.social/post/3myhujc6s7k2d",
+      "engagement": 32,
+      "ts": "2026-10-22T14:24:19.022Z",
+      "followers": 7685,
       "isBot": false,
       "sentiment": "kritisch"
     },
     {
       "platform": "Bluesky",
-      "author": "@wiegold.de",
-      "handle": "wiegold.de",
-      "text": "Das Verteidigungsministerium hat heute die aktuelle Truppenstärke der Bundeswehr veröffentlicht. Da da einiges durcheinander geht (noch am Abend wurden Zahlen auf der Webseite verändert), die Übersicht mit einiger Vorsicht:",
-      "url": "https://bsky.app/profile/wiegold.de/post/3myftman6lc2k",
-      "engagement": 32,
-      "ts": "2026-10-21T19:02:44.841Z",
-      "followers": 15971,
-      "isBot": false,
-      "sentiment": "positiv"
-    },
-    {
-      "platform": "Mastodon",
-      "author": "@tagesschau@ard.social",
-      "text": "Bundeswehr: Vorwürfe sexuellen Fehlverhaltens in Weißenfels Nach Berichten über sexuelles Fehlverhalten bei der Bundeswehr in Sachsen-Anhalt kündigt das Verteidigungsministerium Konsequenzen an. Doch wie tief sitzt das Problem in der Truppe wirklich? Von Christina Nagel. ➡️ https://www. tagesschau.de/inland/bundesweh r-sexuelles-fehlverhalten-100.html?at_medium=mastodon&at_campaign=tagesschau.de #",
-      "url": "https://ard.social/@tagesschau/117446321292115995",
-      "engagement": 5,
-      "ts": "2026-10-15T18:24:02.000Z",
-      "followers": 94763,
+      "author": "@florianflade.bsky.social",
+      "handle": "florianflade.bsky.social",
+      "text": "Nach Erkenntnissen der #Bundeswehr war der Mann wohl noch vor dem Jahr 2000 lediglich für zwölf Monate Soldat. Er nahm an keinem Auslandseinsatz teil. Warum er nach Russland reiste, ist unklar. /2",
+      "url": "https://bsky.app/profile/florianflade.bsky.social/post/3myhujc7btk2d",
+      "engagement": 21,
+      "ts": "2026-10-22T14:24:19.023Z",
+      "followers": 7685,
       "isBot": false,
       "sentiment": "negativ"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@unterstuetzung.bundeswehr.de",
+      "handle": "unterstuetzung.bundeswehr.de",
+      "text": "Keen Sword 2027\nMit Partnern aus USA, Neuseeland, Niederlanden und den Philippinen üben Soldatinnen und Soldaten des Sanitätsdienstes der #Bundeswehr z.Zt. die Rettungskette mit & im Gastgeberland Japan. Oberstarzt Dr. Kai Schmidt, Officer Directing the Exercise (ODE), gibt im Reel einen Überblick.",
+      "url": "https://bsky.app/profile/unterstuetzung.bundeswehr.de/post/3myhsjrv6zc2o",
+      "engagement": 12,
+      "ts": "2026-10-22T13:48:48.000Z",
+      "followers": 1332,
+      "isBot": false,
+      "sentiment": "kritisch"
     },
     {
       "platform": "Bluesky",
@@ -45,20 +58,45 @@
       "url": "https://bsky.app/profile/celsuscassius.bsky.social/post/3myaqvye54s2f",
       "engagement": 4,
       "ts": "2026-10-19T18:31:11.784Z",
-      "followers": 3912,
+      "followers": 3914,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@dirkmassat.bsky.social",
+      "handle": "dirkmassat.bsky.social",
+      "text": "Der Staat kann also innerhalb kürzester Zeit 10.000 Bußgeldverfahren wegen unausgefüllter Bundeswehr-Fragebögen einleiten, per Haftbefehl gesuchten Schwerverbrechern aber das Bürgergeld nicht abdrehen.\n\nWir werden für dumm verkauft...?",
+      "url": "https://bsky.app/profile/dirkmassat.bsky.social/post/3myijnu63ec2b",
+      "engagement": 3,
+      "ts": "2026-10-22T20:42:40.669Z",
+      "followers": 10441,
       "isBot": false,
       "sentiment": "kritisch"
     },
     {
-      "platform": "Mastodon",
-      "author": "@tagesschau@ard.social",
-      "text": "Bundeswehr: Pistorius will Reservedienst verpflichtend machen Im Bundestag wird heute über das \"Reservestärkungsgesetz\" beraten. Es soll dabei helfen, die Zahl der Reservistinnen und Reservisten zu erhöhen - auf 200.000 bis 2033. Aus der Wirtschaft kommt Kritik. Von K. Aue. ➡️ https://www. tagesschau.de/inland/innenpoli tik/bundeswehr-reservestaerkungsgesetz-100.html?at_medium=mastodon&at_campaign",
-      "url": "https://ard.social/@tagesschau/117444591140170606",
-      "engagement": 4,
-      "ts": "2026-10-15T11:04:02.000Z",
-      "followers": 94763,
+      "platform": "Bluesky",
+      "author": "@dezernatzukunft.bsky.social",
+      "handle": "dezernatzukunft.bsky.social",
+      "text": "Dauerhaft wird so viel aber kaum beschafft. Ist die Bundeswehr einmal ausgerüstet, reicht weniger Geld, um den Bestand zu halten. Nach jedem Aufrüstungsboom der Nachkriegszeit waren drei Viertel des Anstiegs nach 5 bis 16 Jahren wieder abgebaut.",
+      "url": "https://bsky.app/profile/dezernatzukunft.bsky.social/post/3myhwop3ocs2o",
+      "engagement": 3,
+      "ts": "2026-10-22T15:02:57.866Z",
+      "followers": 2560,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@honigwachauf.bsky.social",
+      "handle": "honigwachauf.bsky.social",
+      "text": "ich könnte da noch bundeswehr und freie wirtschaft ergänzen",
+      "url": "https://bsky.app/profile/honigwachauf.bsky.social/post/3myi2fcgtss22",
+      "engagement": 2,
+      "ts": "2026-10-22T16:09:27.520Z",
+      "followers": 2555,
+      "isBot": false,
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -72,6 +110,29 @@
       "sentiment": "kritisch"
     },
     {
+      "platform": "Mastodon",
+      "author": "@NDR@ard.social",
+      "text": "Seit dem Jahr 2001 dürfen Frauen bei der Bundeswehr alle militärischen Laufbahnen einschlagen. Damals dienen 6.700 Soldatinnen. Das sind etwa zwei Prozent. Doch auch 25 Jahre später liegt der Frauenanteil in der gesamten Bundeswehr trotzdem nur bei etwa 13 Prozent. 📝▶️ https://www. ndr.de/geschichte/chronologie/ noch-viel-luft-nach-oben-25-jahre-frauen-bei-der-bundeswehr,soldatinnen-100.html?at_m",
+      "url": "https://ard.social/@NDR/117483197665350471",
+      "engagement": 1,
+      "ts": "2026-10-22T06:42:11.000Z",
+      "followers": 30025,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@julibluesky.bsky.social",
+      "handle": "julibluesky.bsky.social",
+      "text": "3/ They are fast 👍\n\nRheinmetall / ICEYE press release 6.10.26\n\nProduction of SAR satellites has got off to a successful start.\n\nLess than a year after the contract was signed, the GER Bundeswehr will have direct access to a dedicated SAR reconnaissance capability.\nwww.rheinmetall.com/de/media/new...",
+      "url": "https://bsky.app/profile/julibluesky.bsky.social/post/3myioq3dgak2c",
+      "engagement": 0,
+      "ts": "2026-10-22T22:13:24.003Z",
+      "followers": 2148,
+      "isBot": false,
+      "sentiment": "positiv"
+    },
+    {
       "platform": "Reddit r/de",
       "author": "u/justastuma",
       "text": "Aufrüstung: Bundeswehr meldet erstmals Personalzuwachs über geplantem Jahresziel",
@@ -79,7 +140,7 @@
       "engagement": 0,
       "ts": "2026-10-21T16:10:32+00:00",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Reddit r/de",
@@ -92,54 +153,14 @@
       "sentiment": "kritisch"
     },
     {
-      "platform": "Reddit r/de",
-      "author": "u/Conscious_Glove6032",
-      "text": "Bundeswehr: Pistorius will Reservedienst verpflichtend machen",
-      "url": "https://www.reddit.com/r/de/comments/1x6ogil/bundeswehr_pistorius_will_reservedienst/",
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Personalstärke September 2026: Erneuter Rückgang, mit 186.200 im Zielkorridor (Neufassung)",
+      "url": "https://augengeradeaus.net/2026/10/personalstaerke-september-2026-erneuter-rueckgang-mit-186-200-im-zielkorridor-neufassung/",
       "engagement": 0,
-      "ts": "2026-10-15T15:18:12+00:00",
+      "ts": "Thu, 22 Oct 2026 14:30:44 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Reddit r/de",
-      "author": "u/R0ckst4r85",
-      "text": "Interne Ermittlungen bei der Bundeswehr: Vorgesetzte sollen Soldatinnen zum Sex gedrängt haben",
-      "url": "https://www.reddit.com/r/de/comments/1x6cdep/interne_ermittlungen_bei_der_bundeswehr/",
-      "engagement": 0,
-      "ts": "2026-10-15T04:32:49+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "YouTube (Bundeswehr)",
-      "author": "Bundeswehr",
-      "text": "Luftwaffenmusikkorps Münster – Astronautenmarsch & Star Wars | Bundeswehr",
-      "url": "https://www.youtube.com/watch?v=t9gBGLX5qxw",
-      "engagement": 0,
-      "ts": "2026-10-20T12:48:40+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "YouTube (Bundeswehr)",
-      "author": "Bundeswehr",
-      "text": "Unbemannt und unter Wasser: NATO testet die Drohnen von morgen (2/2) – REPMUS 2026",
-      "url": "https://www.youtube.com/watch?v=5e-RwVkK8Ds",
-      "engagement": 0,
-      "ts": "2026-10-16T12:31:58+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "YouTube (Bundeswehr)",
-      "author": "Bundeswehr",
-      "text": "Hinter verschlossenen Türen: NATO testet die Drohnen von morgen (1/2) – REPMUS 2026",
-      "url": "https://www.youtube.com/watch?v=IDZ2AddBBbk",
-      "engagement": 0,
-      "ts": "2026-10-15T11:24:05+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "negativ"
     },
     {
       "platform": "Augen geradeaus!",
@@ -149,7 +170,7 @@
       "engagement": 0,
       "ts": "Wed, 21 Oct 2026 18:48:06 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Augen geradeaus!",
@@ -184,72 +205,80 @@
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "BLACKTEQ: Europas Antwort auf die Drohnen-Asymmetrie",
-      "url": "https://esut.de/2026/10/fachbeitraege/ruestung/76046/blackteq/",
+      "text": "Bundeswehr rüstet sich für Konflikte im Weltraum",
+      "url": "https://esut.de/2026/10/fachbeitraege/space-fachbeitraege/76141/bundeswehr-konflikte-weltraum/",
       "engagement": 0,
-      "ts": "Wed, 21 Oct 2026 10:15:48 +0000",
+      "ts": "Thu, 22 Oct 2026 13:55:47 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Euronaval 2026: Die nächste Flotte muss schneller reifen",
-      "url": "https://esut.de/2026/10/meldungen/featured/76037/euronaval/",
+      "text": "Frankreich steuert auf Staatskrise zu",
+      "url": "https://esut.de/2026/10/fachbeitraege/international-fachbeitraege/76128/frankreich-steuert-auf-staatskrise-zu/",
       "engagement": 0,
-      "ts": "Wed, 21 Oct 2026 09:11:35 +0000",
+      "ts": "Thu, 22 Oct 2026 12:02:03 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Saudi-Arabien soll 48 F-35 für 24,3 Milliarden Dollar erhalten",
-      "url": "https://esut.de/2026/10/meldungen/luft/76001/saudi-arabien-f-35/",
+      "text": "Do228 NXT mit Missionssystem ARGOS-15 präsentiert",
+      "url": "https://esut.de/2026/10/meldungen/featured/76121/argos-15-do228-nxt/",
       "engagement": 0,
-      "ts": "Wed, 21 Oct 2026 08:20:59 +0000",
+      "ts": "Thu, 22 Oct 2026 11:03:56 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Ausbau der Satellitenproduktion: NVIDIA unterstützt Reflex Aerospace",
-      "url": "https://esut.de/2026/10/meldungen/cyber-it/76030/nvidia-reflex-aerospace/",
+      "text": "Renk verstärkt Fokus auf Verteidigungslösungen",
+      "url": "https://esut.de/2026/10/meldungen/featured/76117/renk/",
       "engagement": 0,
-      "ts": "Wed, 21 Oct 2026 07:30:56 +0000",
+      "ts": "Thu, 22 Oct 2026 10:05:24 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Modernisierung Apache-Kampfhubschrauber vor dem Abschluss",
-      "url": "https://esut.de/2026/10/meldungen/land/76023/apache/",
+      "text": "Kooperation SAS Technology und Dynamit Nobel Defence",
+      "url": "https://esut.de/2026/10/meldungen/ruestung2/76100/sas-technology-dynamit-nobel-defence/",
       "engagement": 0,
-      "ts": "Wed, 21 Oct 2026 06:37:12 +0000",
+      "ts": "Thu, 22 Oct 2026 09:22:35 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Ostasien rüstet auf – die alte Ordnung gerät ins Wanken",
-      "url": "https://esut.de/2026/10/fachbeitraege/featured-fachbeitraege/75273/ostasien/",
+      "text": "Veloryx setzt auf mehrschichtigen Schutz für Rechenzentren",
+      "url": "https://esut.de/2026/10/meldungen/cyber-it/76005/veloryx/",
       "engagement": 0,
-      "ts": "Wed, 21 Oct 2026 05:55:29 +0000",
+      "ts": "Thu, 22 Oct 2026 08:30:46 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Spiegel Politik",
+      "author": "Spiegel Politik",
+      "text": "News des Tages: Steuerschätzung, Deutschland geht wieder online, Russland-Spion",
+      "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-steuerschaetzung-deutschland-geht-wieder-online-russland-spion-a-19385e91-4468-4e4e-b5f3-fc73553d8f50#ref=rss",
+      "engagement": 0,
+      "ts": "Thu, 22 Oct 2026 17:40:00 +0200",
       "alwaysKeep": true,
       "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Heute wird die Bundeswehr im Fokus der Diskussion stehen, insbesondere im Hinblick auf die Truppenstärke und die Sicherheitslage. Pistorius' Wehrdienst-Modell und die AfD-Faschismus-Vorwürfe sind weiterhin aktuell.",
+    "summary": "Die Bundeswehr warnt vor russischen Anschlägen und gibt ein Personalziel für September 2026, das erneut unter dem geplanten Ziel liegt. Der Staat plant eine Aufrüstung der Bundeswehr, aber es bleibt unklar, ob dies ausreichend ist, um die Bedrohungen zu bewältigen.",
     "themes": [
       "Pistorius' Wehrdienst-Modell",
-      "AfD-Faschismus-Vorwürfe",
-      "Sicherheitslage und Truppenstärke",
       "Beschaffungsverzögerung",
-      "Internationale Sicherheitspolitik"
+      "Bundeswehr-Aufrüstung und -Personalziel"
     ]
   }
 }

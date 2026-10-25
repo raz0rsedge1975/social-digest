@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-24T03:32:45.871Z",
-  "timestamp": "24.10.2026, 05:32:45",
+  "generated": "2026-10-25T04:32:42.651Z",
+  "timestamp": "25.10.2026, 05:32:42",
   "items": [
     {
       "platform": "Bluesky",
@@ -8,21 +8,57 @@
       "handle": "sixtus.net",
       "text": "Ich bin so alt, ich weiß noch wie wir Jungs untereinander Tipps, Rezepte und Gebrauchsanleitungen — teils wirklich gefährlichen Inhalts — austauschten, um ausgemustert zu werden. Und was ist jetzt? Jetzt geht der Scheiß wieder los! Volle Solidarität! Lasst euch ausmustern! Wehrpflicht ist kacke!",
       "url": "https://bsky.app/profile/sixtus.net/post/3myfwfbf5ps2l",
-      "engagement": 110,
+      "engagement": 111,
       "ts": "2026-10-21T19:52:31.964Z",
-      "followers": 39630,
+      "followers": 39640,
       "isBot": false,
       "sentiment": "positiv"
     },
     {
       "platform": "Bluesky",
+      "author": "@sachlichepolitik.eurosky.social",
+      "handle": "sachlichepolitik.eurosky.social",
+      "text": "\"Wir stehen vor dem größten Umbau unserer Sicherheitsarchitektur in der Geschichte Baden-Württembergs\", sagte Hagel bei einem Forum mit dem Wirtschaftsministerium und dem Landeskommando der Bundeswehr in Stuttgart. #Hagel sprach in dem Zusammenhang von einem \"Heimatschutzplan\",",
+      "url": "https://bsky.app/profile/sachlichepolitik.eurosky.social/post/3mynh6g62q22k",
+      "engagement": 44,
+      "ts": "2026-10-24T19:41:33.880Z",
+      "followers": 12140,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
       "author": "@unterstuetzung.bundeswehr.de",
       "handle": "unterstuetzung.bundeswehr.de",
-      "text": "🇩🇪🚛 Wie bleiben militärische Lieferketten auch in Krisenzeiten belastbar? Darüber diskutierte Generalmajor Jochen Deuer, Kommandeur des Logistikkommandos der #Bundeswehr auf der BVL Supply Chain CX. Seine Botschaft: Verlässliche Partnerschaften zwischen Wirtschaft und Bundeswehr sind unverzichtbar.",
-      "url": "https://bsky.app/profile/unterstuetzung.bundeswehr.de/post/3mykazro6a224",
-      "engagement": 6,
-      "ts": "2026-10-23T13:13:36.500Z",
-      "followers": 1334,
+      "text": "🩺Oberfeldarzt Inga trainiert bei Keen Sword 27 mit ihrem Team die Versorgung von Verletzten an Bord des Transportflugzeuges A400M.\nSie bringen Sanitätsmaterial auf die südwestlichen Inseln Japans & üben den Lufttransport von Verwundeten zur weiteren Behandlung nach Tokio.\n#Bundeswehr #Sanitätsdienst",
+      "url": "https://bsky.app/profile/unterstuetzung.bundeswehr.de/post/3mymcga62a22w",
+      "engagement": 19,
+      "ts": "2026-10-24T08:43:47.574Z",
+      "followers": 1333,
+      "isBot": false,
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@unterstuetzung.bundeswehr.de",
+      "handle": "unterstuetzung.bundeswehr.de",
+      "text": "Oberstabsfeldwebel Peter leitet bei der Übung Keen Sword 27 in Japan die Station „Taktische Verwundetenversorgung“. \nHier trainieren und tauschen sich japanische, amerikanische und deutsche Soldaten aus, wie Verwundete auf dem Gefechtsfeld schnell und wirksam medizinisch versorgt werden.\n#Bundeswehr",
+      "url": "https://bsky.app/profile/unterstuetzung.bundeswehr.de/post/3mymdrj4hok2w",
+      "engagement": 9,
+      "ts": "2026-10-24T09:07:59.803Z",
+      "followers": 1333,
+      "isBot": false,
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@hartpunkt.bsky.social",
+      "handle": "hartpunkt.bsky.social",
+      "text": "Bislang sollte die Führung von mobil eingesetzten Kräften der Bundeswehr über weitere Distanzen in erster Linie mittels Satellitenkommunikation und Richtfunk erfolgen, in Kürze soll dies nun auch wieder über Troposphärenfunk in größerem Maßstab möglich werden.\n\nwww.hartpunkt.de/satellitenun...",
+      "url": "https://bsky.app/profile/hartpunkt.bsky.social/post/3mymcjycbu22f",
+      "engagement": 8,
+      "ts": "2026-10-24T08:45:53.544Z",
+      "followers": 983,
       "isBot": false,
       "sentiment": "kritisch"
     },
@@ -36,7 +72,7 @@
       "ts": "2026-10-19T18:31:11.784Z",
       "followers": 3915,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "negativ"
     },
     {
       "platform": "Mastodon",
@@ -46,6 +82,17 @@
       "engagement": 2,
       "ts": "2026-10-21T04:01:02.000Z",
       "followers": 94763,
+      "isBot": false,
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Mastodon",
+      "author": "@heiseonline@social.heise.de",
+      "text": "Bundeswehr-Digitalfunk: Test bestanden, aber der Marder fällt durch Die Bundeswehr meldet Fortschritte beim Umrüsten auf Digitalfunk beim Heer. Doch das Mammutprojekt kämpft weiter mit technischen Hürden und Lieferverzögerungen. https://www. heise.de/news/Bundeswehr-Digit alfunk-Test-bestanden-aber-der-Marder-faellt-durch-11499229.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraege.md_beitraege&ut",
+      "url": "https://social.heise.de/@heiseonline/117496645090776924",
+      "engagement": 1,
+      "ts": "2026-10-24T15:42:02.000Z",
+      "followers": 87127,
       "isBot": false,
       "sentiment": "kritisch"
     },
@@ -61,38 +108,6 @@
       "sentiment": "positiv"
     },
     {
-      "platform": "Bluesky",
-      "author": "@christiandorlach71.bsky.social",
-      "handle": "christiandorlach71.bsky.social",
-      "text": "Wer etwas für die Ukraine tun will in der BRD, ab 2027. Dann wählt keine AFD & CDU mehr, bei allen 5 Landtagswahlen in der BRD 2027! Sondern Bündnis90/Die Grünen! Grüne sind, die einzige Partei, die der Ukraine Taurus Marschflugkörper aus Beständen der Bundeswehr liefern würden! Die anderen nicht!!!",
-      "url": "https://bsky.app/profile/christiandorlach71.bsky.social/post/3myjw3ek23k2j",
-      "engagement": 0,
-      "ts": "2026-10-23T09:57:38.687Z",
-      "followers": 7260,
-      "isBot": false,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Reddit r/de",
-      "author": "u/justastuma",
-      "text": "Aufrüstung: Bundeswehr meldet erstmals Personalzuwachs über geplantem Jahresziel",
-      "url": "https://www.reddit.com/r/de/comments/1xbreko/aufrüstung_bundeswehr_meldet_erstmals/",
-      "engagement": 0,
-      "ts": "2026-10-21T16:10:32+00:00",
-      "alwaysKeep": true,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Reddit r/de",
-      "author": "u/GirasoleDE",
-      "text": "Interne Lageeinschätzung - Bundeswehr warnt vor russischen Anschlägen",
-      "url": "https://www.reddit.com/r/de/comments/1xbhypp/interne_lageeinschätzung_bundeswehr_warnt_vor/",
-      "engagement": 0,
-      "ts": "2026-10-21T08:54:51+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
       "platform": "Augen geradeaus!",
       "author": "Augen geradeaus!",
       "text": "Personalstärke September 2026: Erneuter Rückgang, mit 186.200 im Zielkorridor (Neufassung)",
@@ -100,7 +115,7 @@
       "engagement": 0,
       "ts": "Thu, 22 Oct 2026 14:30:44 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Augen geradeaus!",
@@ -110,17 +125,7 @@
       "engagement": 0,
       "ts": "Wed, 21 Oct 2026 18:48:06 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Sicherheitshalber der Podcast #112 LIVE in Köln: Militärisch überlegen – Krieg verloren?",
-      "url": "https://augengeradeaus.net/2026/10/sicherheitshalber-der-podcast-112-live-in-koeln-militaerisch-ueberlegen-krieg-verloren/",
-      "engagement": 0,
-      "ts": "Sat, 17 Oct 2026 13:40:00 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Bundeswehr Journal",
@@ -130,7 +135,27 @@
       "engagement": 0,
       "ts": "Tue, 20 Oct 2026 21:15:07 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Neue Technologien – Confidential Computing",
+      "url": "https://esut.de/2026/10/allgemein/75259/confidential-computing/",
+      "engagement": 0,
+      "ts": "Sat, 24 Oct 2026 07:26:06 +0000",
+      "alwaysKeep": true,
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "KI-Wartung für Heron TP: Deutschland zeigt Interesse",
+      "url": "https://esut.de/2026/10/meldungen/cyber-it/76064/ki-wartung-heron-tp/",
+      "engagement": 0,
+      "ts": "Sat, 24 Oct 2026 07:00:16 +0000",
+      "alwaysKeep": true,
+      "sentiment": "positiv"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
@@ -140,7 +165,7 @@
       "engagement": 0,
       "ts": "Fri, 23 Oct 2026 11:01:30 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
@@ -150,7 +175,7 @@
       "engagement": 0,
       "ts": "Fri, 23 Oct 2026 10:03:56 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
@@ -171,34 +196,14 @@
       "ts": "Fri, 23 Oct 2026 07:20:20 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "US-Schiffsbeschaffung nach dem Finnland-Modell",
-      "url": "https://esut.de/2026/10/fachbeitraege/featured-fachbeitraege/75247/us-schiffsbeschaffung/",
-      "engagement": 0,
-      "ts": "Fri, 23 Oct 2026 05:55:57 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Ukraine kooperiert mit der NSPA",
-      "url": "https://esut.de/2026/10/meldungen/ruestung2/76150/ukraine-nspa/",
-      "engagement": 0,
-      "ts": "Fri, 23 Oct 2026 05:55:50 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Die Bundeswehr warnt vor russischen Anschlägen und gibt Auskunft über die Personalstärke, während es um die Beschaffung von militärischer Ausrüstung und die Ukraine-Kooperation geht.",
+    "summary": "Die Bundeswehr warnt vor möglichen russischen Anschlägen und gibt Fortschritte bei der Digitalfunk-Testung bekannt.",
     "themes": [
       "Pistorius' Wehrdienst-Modell",
       "AfD-Faschismus-Vorwurf",
-      "Beschaffungsverzögerung SAMP/T NG"
+      "Beschaffungsverzögerung Marder"
     ]
   }
 }

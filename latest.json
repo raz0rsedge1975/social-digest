@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-27T04:32:52.334Z",
-  "timestamp": "27.10.2026, 05:32:52",
+  "generated": "2026-10-28T04:32:53.530Z",
+  "timestamp": "28.10.2026, 05:32:53",
   "items": [
     {
       "platform": "Bluesky",
@@ -8,34 +8,47 @@
       "handle": "sixtus.net",
       "text": "Ich bin so alt, ich weiß noch wie wir Jungs untereinander Tipps, Rezepte und Gebrauchsanleitungen — teils wirklich gefährlichen Inhalts — austauschten, um ausgemustert zu werden. Und was ist jetzt? Jetzt geht der Scheiß wieder los! Volle Solidarität! Lasst euch ausmustern! Wehrpflicht ist kacke!",
       "url": "https://bsky.app/profile/sixtus.net/post/3myfwfbf5ps2l",
-      "engagement": 111,
+      "engagement": 113,
       "ts": "2026-10-21T19:52:31.964Z",
-      "followers": 39660,
+      "followers": 39664,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
-      "author": "@arnesteinberg.bsky.social",
-      "handle": "arnesteinberg.bsky.social",
-      "text": "imho kein zufall, dass während einer woche mit zwei spielen des 1. fc köln bundeswehr-einsätze im innern ins spiel gebracht werden",
-      "url": "https://bsky.app/profile/arnesteinberg.bsky.social/post/3mysgsdqzak2m",
-      "engagement": 5,
-      "ts": "2026-10-26T19:18:07.388Z",
-      "followers": 2449,
+      "author": "@rant-ifa-2024.bsky.social",
+      "handle": "rant-ifa-2024.bsky.social",
+      "text": "Jeden Tag rennen Faschisten durch unsere Straßen.\nGreifen CSDs an. Prügeln auf Menschen mit Migrationsgeschichte ein. Attackieren Wohnungslose. 500 sind untergetaucht.  Waffen bei Bundeswehr und Polizei \"abhanden gekommen\". Training in Fightclubs. \nAber☝🏼\n\nduesseldorf.t-online.de/region/duess...",
+      "url": "https://bsky.app/profile/rant-ifa-2024.bsky.social/post/3myuqkcyx7c2t",
+      "engagement": 36,
+      "ts": "2026-10-27T17:17:55.063Z",
+      "followers": 2278,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
-      "platform": "Mastodon",
-      "author": "@tagesschau@ard.social",
-      "text": "Interne Lageeinschätzung - Bundeswehr warnt vor russischen Anschlägen Die Bundeswehr warnt vor möglichen russischen Sabotageanschlägen auf die eigenen Truppen in Deutschland - das geht aus einer internen Lageeinschätzung hervor, die WDR und SZ vorliegt. In dem Papier wurde die Bedrohung erstmals als \"Erheblich\" eingestuft. ➡️ https://www. tagesschau.de/investigativ/wdr /bundeswehr-russland-102.htm",
-      "url": "https://ard.social/@tagesschau/117476901702274267",
-      "engagement": 2,
-      "ts": "2026-10-21T04:01:02.000Z",
-      "followers": 94879,
+      "platform": "Bluesky",
+      "author": "@istuetzle.eurosky.social",
+      "handle": "istuetzle.eurosky.social",
+      "text": "Widerstand? Gleich ruft die CDU die Bundeswehr!",
+      "url": "https://bsky.app/profile/istuetzle.eurosky.social/post/3myuzrnwq522r",
+      "engagement": 8,
+      "ts": "2026-10-27T20:03:05.085Z",
+      "followers": 5147,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@deaidua.org",
+      "handle": "deaidua.org",
+      "text": "Nur widerspricht die Bundeswehr – das deutsche Militär! – der Aussage und sagt, dass man auf 50 bis maximal 100 Stück verzichten kann.",
+      "url": "https://bsky.app/profile/deaidua.org/post/3myuvyq3qfs24",
+      "engagement": 1,
+      "ts": "2026-10-27T18:55:27.260Z",
+      "followers": 19402,
+      "isBot": false,
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -46,7 +59,7 @@
       "ts": "2026-10-26T05:19:03.000Z",
       "followers": 87268,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -57,7 +70,7 @@
       "ts": "2026-10-24T15:42:02.000Z",
       "followers": 87268,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -68,7 +81,7 @@
       "ts": "2026-10-22T06:42:11.000Z",
       "followers": 30025,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -79,7 +92,27 @@
       "ts": "2026-10-26T05:28:02.000Z",
       "followers": 94879,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Reddit r/de",
+      "author": "u/nivh_de",
+      "text": "Bundeswehr: Weltraumkommandeur Michael Traut über außerirdisches Leben und Aliens",
+      "url": "https://www.reddit.com/r/de/comments/1xgxpk7/bundeswehr_weltraumkommandeur_michael_traut_über/",
+      "engagement": 0,
+      "ts": "2026-10-27T16:45:25+00:00",
+      "alwaysKeep": true,
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "Reddit r/de",
+      "author": "u/BeanyCheese",
+      "text": "Musterung bei der Bundeswehr : Was fragt die Bundeswehr einen 18-Jährigen, der nicht dienen will?",
+      "url": "https://www.reddit.com/r/de/comments/1xgm04c/musterung_bei_der_bundeswehr_was_fragt_die/",
+      "engagement": 0,
+      "ts": "2026-10-27T07:26:43+00:00",
+      "alwaysKeep": true,
+      "sentiment": "kritisch"
     },
     {
       "platform": "Reddit r/de",
@@ -89,7 +122,7 @@
       "engagement": 0,
       "ts": "2026-10-25T12:22:32+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "negativ"
     },
     {
       "platform": "Reddit r/de",
@@ -99,7 +132,7 @@
       "engagement": 0,
       "ts": "2026-10-21T16:10:32+00:00",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Reddit r/de",
@@ -119,7 +152,7 @@
       "engagement": 0,
       "ts": "Sun, 25 Oct 2026 12:39:36 +0000",
       "alwaysKeep": true,
-      "sentiment": "negativ"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Augen geradeaus!",
@@ -139,105 +172,85 @@
       "engagement": 0,
       "ts": "Wed, 21 Oct 2026 18:48:06 +0000",
       "alwaysKeep": true,
-      "sentiment": "negativ"
-    },
-    {
-      "platform": "Bundeswehr Journal",
-      "author": "Bundeswehr Journal",
-      "text": "Hunderte Fälle möglicher hybrider Angriffe auf Deutschland",
-      "url": "https://www.bundeswehr-journal.de/2026/hunderte-faelle-moeglicher-hybrider-angriffe-auf-deutschland/",
-      "engagement": 0,
-      "ts": "Tue, 20 Oct 2026 21:00:50 +0000",
-      "alwaysKeep": true,
       "sentiment": "kritisch"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Sachsens textile Kompetenz für Sicherheit und Verteidigung",
-      "url": "https://esut.de/2026/10/sponsored-content/76107/sachsens-textile-kompetenz-fuer-sicherheit-und-verteidigung/",
+      "text": "Russlands U-Boot Novorossiysk verlässt die Ostsee – Fahrtziel offen",
+      "url": "https://esut.de/2026/10/meldungen/76222/novorossiysk-ostsee-fahrtziel/",
       "engagement": 0,
-      "ts": "Mon, 26 Oct 2026 23:06:30 +0000",
-      "alwaysKeep": true,
-      "sentiment": "positiv"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "KI-gestützte Luftverteidigung „Contra“: Helsing baut eigene Flugabwehrraketen",
-      "url": "https://esut.de/2026/10/meldungen/76188/contra-helsing-ki-flugabwehrrakete/",
-      "engagement": 0,
-      "ts": "Mon, 26 Oct 2026 13:47:09 +0000",
-      "alwaysKeep": true,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Zypern verhandelt über israelische Schiffe für 150 Mio",
-      "url": "https://esut.de/2026/10/meldungen/76183/zypern-israelische-schiffe-150-mio/",
-      "engagement": 0,
-      "ts": "Mon, 26 Oct 2026 12:15:47 +0000",
+      "ts": "Tue, 27 Oct 2026 19:00:45 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Trumps Marine-Memorandum: Erste Standortwahl, offene Beschaffung",
-      "url": "https://esut.de/2026/10/meldungen/76176/trump-marine-memorandum-standort/",
+      "text": "Nach Iran-Krieg: Israel verzichtet auf neue Raketen",
+      "url": "https://esut.de/2026/10/meldungen/76211/israel-iran-krieg-raketen/",
       "engagement": 0,
-      "ts": "Mon, 26 Oct 2026 11:44:10 +0000",
+      "ts": "Tue, 27 Oct 2026 18:00:23 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Dänemark beschafft KI-gestützte Drohnenabwehr",
-      "url": "https://esut.de/2026/10/meldungen/76172/daenemark-ki-gest-drohnenabwehr/",
+      "text": "Fall des früheren BND-Chefs Hanning: „Es gilt der Eid auf den Staat“",
+      "url": "https://esut.de/2026/10/fachbeitraege/76245/spionagefall-bnd-chef-hanning/",
       "engagement": 0,
-      "ts": "Mon, 26 Oct 2026 10:30:25 +0000",
+      "ts": "Tue, 27 Oct 2026 16:48:02 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "CONDOK liefert Einsatzcontainer Instandsetzung für Patriot",
-      "url": "https://esut.de/2026/10/meldungen/76167/condok-einsatzcontainer-patriot/",
+      "text": "Israel prüft iranische U-Boot-Lieferungen an Huthi",
+      "url": "https://esut.de/2026/10/meldungen/see/76056/israel-iran-u-boot-huthi/",
       "engagement": 0,
-      "ts": "Mon, 26 Oct 2026 08:18:28 +0000",
+      "ts": "Tue, 27 Oct 2026 13:48:12 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Erste Phase HYDEF erfolgreich abgeschlossen",
+      "url": "https://esut.de/2026/10/meldungen/76202/erste-phase-hydef-abgeschlossen/",
+      "engagement": 0,
+      "ts": "Tue, 27 Oct 2026 11:30:20 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Russland unterstützt Iran bei elektronischer Kampfführung",
+      "url": "https://esut.de/2026/10/meldungen/76214/iran-elektronischer-kampffuehrung/",
+      "engagement": 0,
+      "ts": "Tue, 27 Oct 2026 11:06:11 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "Welt Topnews",
       "author": "Welt Topnews",
-      "text": "Tausende Online-Zusagen für Jugendprotest in Magdeburg",
-      "url": "https://www.welt.de/politik/article6ae0181316ed143d64a1da1c/gen-z-regelt-tausende-online-zusagen-fuer-jugendprotest-in-magdeburg.html",
+      "text": "Iran-Krieg kostet Trump-Regierung bislang 47 Milliarden Dollar",
+      "url": "https://www.welt.de/politik/ausland/article6ae1463e9d8212885d528e45/teure-machtdemonstration-iran-krieg-kostet-trump-regierung-bislang-47-milliarden-dollar.html",
       "engagement": 0,
-      "ts": "Tue, 27 Oct 2026 04:07:49 GMT",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Welt Topnews",
-      "author": "Welt Topnews",
-      "text": "Weltraum-Kommandeur der Bundeswehr glaubt fest an Außerirdische",
-      "url": "https://www.welt.de/vermischtes/article6adfe07816ed143d64a1d8dc/aliens-weltraum-kommandeur-der-bundeswehr-glaubt-fest-an-ausserirdische.html",
-      "engagement": 0,
-      "ts": "Mon, 26 Oct 2026 23:45:10 GMT",
+      "ts": "Wed, 28 Oct 2026 00:53:57 GMT",
       "alwaysKeep": true,
       "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Die Bundeswehr warnt vor möglichen russischen Anschlägen und gibt Fortschritte bei der Digitalisierung bekannt, während die Personalstärke weiterhin zurückgeht.",
+    "summary": "Der Diskurs des Tages dominiert durch die Debatte über den Widerstand gegen die Bundeswehr und die Rolle der CDU, sowie die Fortschritte bei der Digitalisierung und Modernisierung der Bundeswehr.",
     "themes": [
-      "Bundeswehr warnt vor russischen Angriffen",
-      "Personalstärke rückt weiter ab",
-      "Digitalisierung und KI in der Bundeswehr"
+      "Widerstand gegen die Bundeswehr",
+      "CDU und Bundeswehr",
+      "Bundeswehr-Digitalisierung"
     ]
   }
 }

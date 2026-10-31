@@ -1,30 +1,42 @@
 {
-  "generated": "2026-10-30T04:32:48.662Z",
-  "timestamp": "30.10.2026, 05:32:48",
+  "generated": "2026-10-31T04:32:47.868Z",
+  "timestamp": "31.10.2026, 05:32:47",
   "items": [
     {
       "platform": "Bluesky",
-      "author": "@dermonologist.bsky.social",
-      "handle": "dermonologist.bsky.social",
-      "text": "Heute: Katastrophenschutz-Übung in der Oberlausitz. Szenario: Militärzug kollidiert mit Regionalbahn. Beteiligt sind rund 1000 Kräfte von Rettungsorganisationen, Polizei und Bundeswehr. Schwerpunkt: Kommunikation. Für mich ein 14-Stunden Arbeitstag, Radioreportage folgt später.",
-      "url": "https://bsky.app/profile/dermonologist.bsky.social/post/3myzui2hmts2y",
-      "engagement": 15,
-      "ts": "2026-10-29T18:11:32.656Z",
-      "followers": 3111,
+      "author": "@sachlichepolitik.eurosky.social",
+      "handle": "sachlichepolitik.eurosky.social",
+      "text": "\"Wenn andere Gruppen auf die Straße gehen, dann heißt es stets, man müsse deren Sorgen ernst nehmen – aber hier wird, bevor überhaupt irgendetwas passiert, rhetorisch draufgehauen, die Bundeswehr ins Spiel gebracht und ein hartes Vorgehen der Polizei gefordert.\"",
+      "url": "https://bsky.app/profile/sachlichepolitik.eurosky.social/post/3mz4hpf3ig22f",
+      "engagement": 171,
+      "ts": "2026-10-30T19:00:58.450Z",
+      "followers": 12231,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
-      "author": "@opfuekdo.bundeswehr.de",
-      "handle": "opfuekdo.bundeswehr.de",
-      "text": "🚆 Übung MURE 26 in der Oberlausitz: Behörden, Organisationen mit Sicherheitsaufgaben und die Bundeswehr trainieren gemeinsam den Ernstfall. Szenario: ein Bahnunfall mit vielen Verletzten. 👇",
-      "url": "https://bsky.app/profile/opfuekdo.bundeswehr.de/post/3myzln4wdnk2s",
-      "engagement": 8,
-      "ts": "2026-10-29T15:33:19.334Z",
-      "followers": 3094,
+      "author": "@dirkmassat.bsky.social",
+      "handle": "dirkmassat.bsky.social",
+      "text": "#AfD: Verteidigungspolitischer Sprecher fordert #Wehrpflicht zur Abschreckung Russlands\n\nBisher vorgesehene Anzahl von 200.000 #Reservisten für die #Bundeswehr würde im Ernstfall nicht ausreichen.",
+      "url": "https://bsky.app/profile/dirkmassat.bsky.social/post/3mz4uv75wos2z",
+      "engagement": 2,
+      "ts": "2026-10-30T22:56:53.006Z",
+      "followers": 10466,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@sanneru.bsky.social",
+      "handle": "sanneru.bsky.social",
+      "text": "The exchange of intelligence between the US military, the US military intelligence service DIA and the Bundeswehr is also to remain unchanged.\n13/",
+      "url": "https://bsky.app/profile/sanneru.bsky.social/post/3mz46j3jyzs2g",
+      "engagement": 1,
+      "ts": "2026-10-30T16:16:24.236Z",
+      "followers": 8660,
+      "isBot": false,
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -35,7 +47,7 @@
       "ts": "2026-10-26T05:19:03.000Z",
       "followers": 87268,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -46,7 +58,7 @@
       "ts": "2026-10-24T15:42:02.000Z",
       "followers": 87268,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -57,7 +69,17 @@
       "ts": "2026-10-26T05:28:02.000Z",
       "followers": 94879,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Reddit r/de",
+      "author": "u/PhoenixTin",
+      "text": "Mehr Meldungen von sexualisiertem Fehlverhalten bei der Bundeswehr",
+      "url": "https://www.reddit.com/r/de/comments/1xjm1nn/mehr_meldungen_von_sexualisiertem_fehlverhalten/",
+      "engagement": 0,
+      "ts": "2026-10-30T17:40:58+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -67,7 +89,7 @@
       "engagement": 0,
       "ts": "2026-10-27T16:45:25+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -77,7 +99,7 @@
       "engagement": 0,
       "ts": "2026-10-27T07:26:43+00:00",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Reddit r/de",
@@ -88,36 +110,6 @@
       "ts": "2026-10-25T12:22:32+00:00",
       "alwaysKeep": true,
       "sentiment": "negativ"
-    },
-    {
-      "platform": "Reddit r/bundeswehr",
-      "author": "u/LucaZRade01",
-      "text": "Wie sieht so ein Einladungsschreiben aus?",
-      "url": "https://www.reddit.com/r/bundeswehr/comments/1xinwh5/wie_sieht_so_ein_einladungsschreiben_aus/",
-      "engagement": 0,
-      "ts": "2026-10-29T15:58:10+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Reddit r/bundeswehr",
-      "author": "u/Voormas261",
-      "text": "Bayern: Vorermittlungen zu Schüssen bei Bundeswehrübung eingestellt",
-      "url": "https://www.reddit.com/r/bundeswehr/comments/1xhn2ap/bayern_vorermittlungen_zu_schüssen_bei/",
-      "engagement": 0,
-      "ts": "2026-10-28T12:45:01+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Reddit r/bundeswehr",
-      "author": "u/Oli1917",
-      "text": "Gibt es hier historische Fechter / HEMA-Sportler in der Bundeswehr?",
-      "url": "https://www.reddit.com/r/bundeswehr/comments/1xh1t1u/gibt_es_hier_historische_fechter_hemasportler_in/",
-      "engagement": 0,
-      "ts": "2026-10-27T19:14:03+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -147,77 +139,87 @@
       "engagement": 0,
       "ts": "Sun, 25 Oct 2026 12:39:36 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Airbus mit Umsatzsteigerung auf 50,6 Milliarden Euro",
-      "url": "https://esut.de/2026/10/meldungen/76348/airbus-mit-umsatz-und-ergebnis/",
+      "text": "„Inimitable“ auf See: Kieler Erprobung trifft Kanzlerdiplomatie",
+      "url": "https://esut.de/2026/10/meldungen/76381/inimitable-auf-see-kiel/",
       "engagement": 0,
-      "ts": "Thu, 29 Oct 2026 14:20:35 +0000",
+      "ts": "Fri, 30 Oct 2026 17:00:07 +0000",
+      "alwaysKeep": true,
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "SFC Energy und EDGE vereinbaren Partnerschaft in den VAE",
+      "url": "https://esut.de/2026/10/allgemein/76365/sfc-energy-und-edge-vae/",
+      "engagement": 0,
+      "ts": "Fri, 30 Oct 2026 16:00:57 +0000",
+      "alwaysKeep": true,
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Übungsszenarien für das NATO Joint Warfare Centre von Calian",
+      "url": "https://esut.de/2026/10/meldungen/76373/calian-nato-joint-warfare-centre/",
+      "engagement": 0,
+      "ts": "Fri, 30 Oct 2026 15:00:18 +0000",
+      "alwaysKeep": true,
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Thales liefert verlegbare Radarsysteme an Rumänien",
+      "url": "https://esut.de/2026/10/meldungen/76369/thales-radarsysteme-an-rumaenien/",
+      "engagement": 0,
+      "ts": "Fri, 30 Oct 2026 13:13:07 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "3 Seedrohnen versenken israelisches Containerschiff im Schwarzen Meer",
-      "url": "https://esut.de/2026/10/meldungen/76345/seedrohnen-zim-containerschiff/",
+      "text": "Euronaval 2026: Elbit zeigt erstmals autonome Unterwasserfahrzeuge",
+      "url": "https://esut.de/2026/10/meldungen/76357/elbit-to-debut-uuv-euronaval-2026/",
       "engagement": 0,
-      "ts": "Thu, 29 Oct 2026 13:41:36 +0000",
+      "ts": "Fri, 30 Oct 2026 10:30:47 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Antriebstechnologien für das autonome Zeitalter",
-      "url": "https://esut.de/2026/10/sponsored-content/75837/antriebstechnologien-fuer-das-autonome-zeitalter/",
+      "text": "MTU Aero Engines steigert Umsatz und hebt Prognose für 2026",
+      "url": "https://esut.de/2026/10/meldungen/76361/mtu-aero-engines-prognose-2026/",
       "engagement": 0,
-      "ts": "Thu, 29 Oct 2026 10:53:48 +0000",
+      "ts": "Fri, 30 Oct 2026 09:57:50 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Atomwaffenübung: Briten begleiten Franzosen zum ersten Mal",
-      "url": "https://esut.de/2026/10/meldungen/76330/atomwaffen-briten-frankreich-nukle/",
+      "platform": "Welt Topnews",
+      "author": "Welt Topnews",
+      "text": "Rheinmetall wehrt sich gegen Pistorius-Kritik",
+      "url": "https://www.welt.de/wirtschaft/article6ae4949a3620137294c247fd/ruestung-rheinmetall-wehrt-sich-gegen-pistorius-kritik.html",
       "engagement": 0,
-      "ts": "Thu, 29 Oct 2026 10:46:24 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Uranus Drones V2 bringt KI direkt an Bord von UAV",
-      "url": "https://esut.de/2026/10/meldungen/76326/uranus-drones-v2-bringt-ki/",
-      "engagement": 0,
-      "ts": "Thu, 29 Oct 2026 08:16:13 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Digitale Souveränität: KI-Cloud für Verschlusssachen",
-      "url": "https://esut.de/2026/10/meldungen/76316/digitale-souveraenitaet-ki-cloud/",
-      "engagement": 0,
-      "ts": "Wed, 28 Oct 2026 14:00:35 +0000",
+      "ts": "Sat, 31 Oct 2026 00:28:32 GMT",
       "alwaysKeep": true,
       "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Heute im Fokus: Katastrophenschutz-Übung in der Oberlausitz, Bundeswehr-Digitalfunk-Test und Frauen in der Bundeswehr",
+    "summary": "Der Diskurs des Tages dominiert durch die Debatte um Wehrdienst, die AfD und die Bundeswehr-Modernisierung.",
     "themes": [
-      "Katastrophenschutz-Übung in der Oberlausitz",
+      "Pistorius' Wehrdienst-Modell",
+      "AfD-Faschismus-Vorwurf",
       "Bundeswehr-Digitalfunk-Test",
-      "Frauen in der Bundeswehr und Mobbing",
-      "NATO-Ostflanke und litauische Sicherheit",
-      "Digitale Souveränität und KI-Clouds"
+      "Frauen in der Bundeswehr",
+      "Musterung bei der Bundeswehr"
     ]
   }
 }

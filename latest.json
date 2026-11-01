@@ -1,40 +1,62 @@
 {
-  "generated": "2026-10-31T04:32:47.868Z",
-  "timestamp": "31.10.2026, 05:32:47",
+  "generated": "2026-11-01T04:33:00.603Z",
+  "timestamp": "1.11.2026, 05:33:00",
   "items": [
     {
       "platform": "Bluesky",
-      "author": "@sachlichepolitik.eurosky.social",
-      "handle": "sachlichepolitik.eurosky.social",
-      "text": "\"Wenn andere Gruppen auf die Straße gehen, dann heißt es stets, man müsse deren Sorgen ernst nehmen – aber hier wird, bevor überhaupt irgendetwas passiert, rhetorisch draufgehauen, die Bundeswehr ins Spiel gebracht und ein hartes Vorgehen der Polizei gefordert.\"",
-      "url": "https://bsky.app/profile/sachlichepolitik.eurosky.social/post/3mz4hpf3ig22f",
-      "engagement": 171,
-      "ts": "2026-10-30T19:00:58.450Z",
-      "followers": 12231,
+      "author": "@radsportamore.bsky.social",
+      "handle": "radsportamore.bsky.social",
+      "text": "ich habe keine angst vor monstern an der haustür denn ich habe die bundeswehr um amtshilfe gebeten",
+      "url": "https://bsky.app/profile/radsportamore.bsky.social/post/3mz7efeykec2r",
+      "engagement": 15,
+      "ts": "2026-10-31T22:39:41.598Z",
+      "followers": 2320,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Mastodon",
+      "author": "@tagesschau@ard.social",
+      "text": "Gen-Z-Proteste: Was die Bundesregierung für die Jugend macht Die bundesweit angekündigten Proteste junger Menschen werfen die Frage auf: Tut die Politik zu wenig für Jugendliche? Fragen an zwei junge Abgeordnete mit Blick auf Rente, Wehrdienst und Bildung. Von Sarah Beham. ➡️ https://www. tagesschau.de/inland/innenpoli tik/jugendproteste-bundesregierung-100.html?at_medium=mastodon&at_campaign=tage",
+      "url": "https://ard.social/@tagesschau/117534975772586003",
+      "engagement": 15,
+      "ts": "2026-10-31T10:10:02.000Z",
+      "followers": 94879,
       "isBot": false,
       "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
-      "author": "@dirkmassat.bsky.social",
-      "handle": "dirkmassat.bsky.social",
-      "text": "#AfD: Verteidigungspolitischer Sprecher fordert #Wehrpflicht zur Abschreckung Russlands\n\nBisher vorgesehene Anzahl von 200.000 #Reservisten für die #Bundeswehr würde im Ernstfall nicht ausreichen.",
-      "url": "https://bsky.app/profile/dirkmassat.bsky.social/post/3mz4uv75wos2z",
-      "engagement": 2,
-      "ts": "2026-10-30T22:56:53.006Z",
-      "followers": 10466,
+      "author": "@matthias-warkus.de",
+      "handle": "matthias-warkus.de",
+      "text": "»Irina und ich schliefen in einem Keller in der Neuen Kasseler, nah bei den Gleisen, im roten Sektor, wo nichts mehr stand. Sie hatte eine Talkshow beim Hessischen Rundfunk. Ich war neuer Belletristikchef bei Tectum. In der Cavete spielte täglich eine Bigband der Bundeswehr. Es war traumhaft.«",
+      "url": "https://bsky.app/profile/matthias-warkus.de/post/3mz74jukgts22",
+      "engagement": 10,
+      "ts": "2026-10-31T20:19:01.611Z",
+      "followers": 3003,
       "isBot": false,
       "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
-      "author": "@sanneru.bsky.social",
-      "handle": "sanneru.bsky.social",
-      "text": "The exchange of intelligence between the US military, the US military intelligence service DIA and the Bundeswehr is also to remain unchanged.\n13/",
-      "url": "https://bsky.app/profile/sanneru.bsky.social/post/3mz46j3jyzs2g",
+      "author": "@nordstaedter.eurosky.social",
+      "handle": "nordstaedter.eurosky.social",
+      "text": "Dann hätte man das stärker hervorheben können…die JU wollte ja sogar die Bundeswehr einbinden.",
+      "url": "https://bsky.app/profile/nordstaedter.eurosky.social/post/3mz727lsfus2s",
       "engagement": 1,
-      "ts": "2026-10-30T16:16:24.236Z",
-      "followers": 8660,
+      "ts": "2026-10-31T19:37:29.992Z",
+      "followers": 5370,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Mastodon",
+      "author": "@tagesschau@ard.social",
+      "text": "Aus für UN-Friedensmission in der Westsahara nach Veto im UN-Sicherheitsrat Nach mehr als 30 Jahren das Aus für die UN-Friedensmission MINURSO: Russland hat die Verlängerung im UN-Sicherheitsrat blockiert. Damit müssen zivile und militärische Kräfte das Gebiet in den kommenden Tagen verlassen - auch deutsche Soldaten. ➡️ https://www. tagesschau.de/ausland/afrika/w estsahara-un-mission-100.html?at_",
+      "url": "https://ard.social/@tagesschau/117536403145960591",
+      "engagement": 1,
+      "ts": "2026-10-31T16:13:02.000Z",
+      "followers": 94879,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -50,13 +72,14 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "Mastodon",
-      "author": "@heiseonline@social.heise.de",
-      "text": "Bundeswehr-Digitalfunk: Test bestanden, aber der Marder fällt durch Die Bundeswehr meldet Fortschritte beim Umrüsten auf Digitalfunk beim Heer. Doch das Mammutprojekt kämpft weiter mit technischen Hürden und Lieferverzögerungen. https://www. heise.de/news/Bundeswehr-Digit alfunk-Test-bestanden-aber-der-Marder-faellt-durch-11499229.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraege.md_beitraege&ut",
-      "url": "https://social.heise.de/@heiseonline/117496645090776924",
-      "engagement": 1,
-      "ts": "2026-10-24T15:42:02.000Z",
-      "followers": 87268,
+      "platform": "Bluesky",
+      "author": "@frankie0400.bsky.social",
+      "handle": "frankie0400.bsky.social",
+      "text": "Die Bundeswehr ist doch nur „Bedingt abwehrbereit“ seit 1962...",
+      "url": "https://bsky.app/profile/frankie0400.bsky.social/post/3mz75scuhsc22",
+      "engagement": 0,
+      "ts": "2026-10-31T20:41:39.381Z",
+      "followers": 7811,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -73,13 +96,23 @@
     },
     {
       "platform": "Reddit r/de",
+      "author": "u/WombatusMighty",
+      "text": "F-35A-Kampfjets: Warum die Bundeswehr von den USA abhängig ist",
+      "url": "https://www.reddit.com/r/de/comments/1xkl3z6/f35akampfjets_warum_die_bundeswehr_von_den_usa/",
+      "engagement": 0,
+      "ts": "2026-10-31T20:53:41+00:00",
+      "alwaysKeep": true,
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Reddit r/de",
       "author": "u/PhoenixTin",
       "text": "Mehr Meldungen von sexualisiertem Fehlverhalten bei der Bundeswehr",
       "url": "https://www.reddit.com/r/de/comments/1xjm1nn/mehr_meldungen_von_sexualisiertem_fehlverhalten/",
       "engagement": 0,
       "ts": "2026-10-30T17:40:58+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "negativ"
     },
     {
       "platform": "Reddit r/de",
@@ -144,12 +177,32 @@
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
+      "text": "Ukrainekrieg: Landroboter im modernen Gefecht",
+      "url": "https://esut.de/2026/10/fachbeitraege/76263/ukrainekrieg-landroboter/",
+      "engagement": 0,
+      "ts": "Sat, 31 Oct 2026 09:24:49 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Frankreichs Zeitenwende unter Haushaltsdruck",
+      "url": "https://esut.de/2026/10/fachbeitraege/76270/frankreichs-zeitenwende/",
+      "engagement": 0,
+      "ts": "Sat, 31 Oct 2026 08:18:03 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
       "text": "„Inimitable“ auf See: Kieler Erprobung trifft Kanzlerdiplomatie",
       "url": "https://esut.de/2026/10/meldungen/76381/inimitable-auf-see-kiel/",
       "engagement": 0,
       "ts": "Fri, 30 Oct 2026 17:00:07 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
@@ -159,7 +212,7 @@
       "engagement": 0,
       "ts": "Fri, 30 Oct 2026 16:00:57 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
@@ -169,7 +222,7 @@
       "engagement": 0,
       "ts": "Fri, 30 Oct 2026 15:00:18 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
@@ -182,44 +235,22 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Euronaval 2026: Elbit zeigt erstmals autonome Unterwasserfahrzeuge",
-      "url": "https://esut.de/2026/10/meldungen/76357/elbit-to-debut-uuv-euronaval-2026/",
+      "platform": "Tagesschau Alle Meldungen",
+      "author": "Tagesschau Alle Meldungen",
+      "text": "Ausschreitungen am Abend nach friedlichen Protesten am Nachmittag",
+      "url": "https://www.tagesschau.de/inland/ausschreitungen-frankfurt-koeln-100.html",
       "engagement": 0,
-      "ts": "Fri, 30 Oct 2026 10:30:47 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "MTU Aero Engines steigert Umsatz und hebt Prognose für 2026",
-      "url": "https://esut.de/2026/10/meldungen/76361/mtu-aero-engines-prognose-2026/",
-      "engagement": 0,
-      "ts": "Fri, 30 Oct 2026 09:57:50 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Welt Topnews",
-      "author": "Welt Topnews",
-      "text": "Rheinmetall wehrt sich gegen Pistorius-Kritik",
-      "url": "https://www.welt.de/wirtschaft/article6ae4949a3620137294c247fd/ruestung-rheinmetall-wehrt-sich-gegen-pistorius-kritik.html",
-      "engagement": 0,
-      "ts": "Sat, 31 Oct 2026 00:28:32 GMT",
+      "ts": "Sun, 01 Nov 2026 03:32:36 +0100",
       "alwaysKeep": true,
       "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Der Diskurs des Tages dominiert durch die Debatte um Wehrdienst, die AfD und die Bundeswehr-Modernisierung.",
+    "summary": "Der Diskurs des Tages dominiert die Proteste junger Menschen gegen die Bundesregierung, die angeblich nicht genug für ihre Interessen tut. Darüber hinaus gibt es Berichte über die Bundeswehr und ihre Verteidigungspolitik.",
     "themes": [
-      "Pistorius' Wehrdienst-Modell",
-      "AfD-Faschismus-Vorwurf",
-      "Bundeswehr-Digitalfunk-Test",
-      "Frauen in der Bundeswehr",
-      "Musterung bei der Bundeswehr"
+      "Proteste junger Menschen gegen die Bundesregierung",
+      "Bundeswehr: Frauen in der Bundeswehr - belästigt, gemobbt, missbraucht",
+      "UN-Friedensmission in der Westsahara: Veto im UN-Sicherheitsrat"
     ]
   }
 }

@@ -1,19 +1,7 @@
 {
-  "generated": "2026-11-01T04:33:00.603Z",
-  "timestamp": "1.11.2026, 05:33:00",
+  "generated": "2026-11-02T04:32:42.974Z",
+  "timestamp": "2.11.2026, 05:32:42",
   "items": [
-    {
-      "platform": "Bluesky",
-      "author": "@radsportamore.bsky.social",
-      "handle": "radsportamore.bsky.social",
-      "text": "ich habe keine angst vor monstern an der haustür denn ich habe die bundeswehr um amtshilfe gebeten",
-      "url": "https://bsky.app/profile/radsportamore.bsky.social/post/3mz7efeykec2r",
-      "engagement": 15,
-      "ts": "2026-10-31T22:39:41.598Z",
-      "followers": 2320,
-      "isBot": false,
-      "sentiment": "neutral"
-    },
     {
       "platform": "Mastodon",
       "author": "@tagesschau@ard.social",
@@ -27,27 +15,15 @@
     },
     {
       "platform": "Bluesky",
-      "author": "@matthias-warkus.de",
-      "handle": "matthias-warkus.de",
-      "text": "»Irina und ich schliefen in einem Keller in der Neuen Kasseler, nah bei den Gleisen, im roten Sektor, wo nichts mehr stand. Sie hatte eine Talkshow beim Hessischen Rundfunk. Ich war neuer Belletristikchef bei Tectum. In der Cavete spielte täglich eine Bigband der Bundeswehr. Es war traumhaft.«",
-      "url": "https://bsky.app/profile/matthias-warkus.de/post/3mz74jukgts22",
-      "engagement": 10,
-      "ts": "2026-10-31T20:19:01.611Z",
-      "followers": 3003,
+      "author": "@lecieldeparis.eurosky.social",
+      "handle": "lecieldeparis.eurosky.social",
+      "text": "Die Bundeswehr bitte permanent in Berlin platzieren",
+      "url": "https://bsky.app/profile/lecieldeparis.eurosky.social/post/3mzbhveybhc2t",
+      "engagement": 7,
+      "ts": "2026-11-01T18:47:39.162Z",
+      "followers": 3111,
       "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@nordstaedter.eurosky.social",
-      "handle": "nordstaedter.eurosky.social",
-      "text": "Dann hätte man das stärker hervorheben können…die JU wollte ja sogar die Bundeswehr einbinden.",
-      "url": "https://bsky.app/profile/nordstaedter.eurosky.social/post/3mz727lsfus2s",
-      "engagement": 1,
-      "ts": "2026-10-31T19:37:29.992Z",
-      "followers": 5370,
-      "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -58,7 +34,7 @@
       "ts": "2026-10-31T16:13:02.000Z",
       "followers": 94879,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "negativ"
     },
     {
       "platform": "Mastodon",
@@ -69,19 +45,7 @@
       "ts": "2026-10-26T05:19:03.000Z",
       "followers": 87268,
       "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@frankie0400.bsky.social",
-      "handle": "frankie0400.bsky.social",
-      "text": "Die Bundeswehr ist doch nur „Bedingt abwehrbereit“ seit 1962...",
-      "url": "https://bsky.app/profile/frankie0400.bsky.social/post/3mz75scuhsc22",
-      "engagement": 0,
-      "ts": "2026-10-31T20:41:39.381Z",
-      "followers": 7811,
-      "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -92,7 +56,7 @@
       "ts": "2026-10-26T05:28:02.000Z",
       "followers": 94879,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Reddit r/de",
@@ -122,7 +86,7 @@
       "engagement": 0,
       "ts": "2026-10-27T16:45:25+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Reddit r/de",
@@ -132,17 +96,7 @@
       "engagement": 0,
       "ts": "2026-10-27T07:26:43+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Reddit r/de",
-      "author": "u/emanon_noname",
-      "text": "Berliner JU will Bundeswehr gegen Schüler einsetzen",
-      "url": "https://www.reddit.com/r/de/comments/1xf0zi0/berliner_ju_will_bundeswehr_gegen_schüler/",
-      "engagement": 0,
-      "ts": "2026-10-25T12:22:32+00:00",
-      "alwaysKeep": true,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -165,14 +119,34 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Merkposten: Gemeinsame französisch-britische Nuklearübung",
-      "url": "https://augengeradeaus.net/2026/10/merkposten-gemeinsame-franzoesisch-britische-nuklearuebung/",
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Bundeswehr: 7 neue Rüstungsvorhaben vor Entscheidung",
+      "url": "https://esut.de/2026/11/meldungen/76427/bundeswehr-7-ruestungsvorhaben-ent/",
       "engagement": 0,
-      "ts": "Sun, 25 Oct 2026 12:39:36 +0000",
+      "ts": "Sun, 01 Nov 2026 20:15:17 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Neue F-16 Viper für Taiwans Ostflanke",
+      "url": "https://esut.de/2026/11/fachbeitraege/76234/neue-f-16-viper-fuer-taiwan/",
+      "engagement": 0,
+      "ts": "Sun, 01 Nov 2026 18:09:27 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Trump sucht die Nähe zu Nordkorea",
+      "url": "https://esut.de/2026/11/fachbeitraege/76236/trump-sucht-die-naehe-zu-nordkorea/",
+      "engagement": 0,
+      "ts": "Sun, 01 Nov 2026 17:51:30 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
@@ -202,55 +176,45 @@
       "engagement": 0,
       "ts": "Fri, 30 Oct 2026 17:00:07 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "SFC Energy und EDGE vereinbaren Partnerschaft in den VAE",
-      "url": "https://esut.de/2026/10/allgemein/76365/sfc-energy-und-edge-vae/",
+      "platform": "Spiegel Politik",
+      "author": "Spiegel Politik",
+      "text": "Boris Pistorius und die Linke: Rot-Grün-Rot in Berlin? Der beliebteste SPD-Minister ist dagegen",
+      "url": "https://www.spiegel.de/politik/boris-pistorius-und-die-linke-rot-gruen-rot-in-berlin-der-beliebteste-spd-minister-ist-dagegen-a-5113cae7-8b8a-4be1-9ef7-1ce6f90dc25a#ref=rss",
       "engagement": 0,
-      "ts": "Fri, 30 Oct 2026 16:00:57 +0000",
+      "ts": "Sun, 1 Nov 2026 21:02:00 +0100",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Übungsszenarien für das NATO Joint Warfare Centre von Calian",
-      "url": "https://esut.de/2026/10/meldungen/76373/calian-nato-joint-warfare-centre/",
+      "platform": "Spiegel Politik",
+      "author": "Spiegel Politik",
+      "text": "Bundeswehr: Neue Kampfhubschrauber können »auf absehbare Zeit« nicht schießen",
+      "url": "https://www.spiegel.de/politik/deutschland/bundeswehr-neue-kampfhubschrauber-bleiben-vorerst-ohne-bewaffnung-a-3863e2b0-60a1-4b7f-a780-4b74296fbe29#ref=rss",
       "engagement": 0,
-      "ts": "Fri, 30 Oct 2026 15:00:18 +0000",
+      "ts": "Sun, 1 Nov 2026 16:24:00 +0100",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "negativ"
     },
     {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Thales liefert verlegbare Radarsysteme an Rumänien",
-      "url": "https://esut.de/2026/10/meldungen/76369/thales-radarsysteme-an-rumaenien/",
+      "platform": "Welt Topnews",
+      "author": "Welt Topnews",
+      "text": "„Führt in die falsche Richtung“, sagt Pistorius über Dobrindts Aussage zu „migrantischen Chaoten“",
+      "url": "https://www.welt.de/politik/deutschland/article6ae799c55e7018b4bea951d8/randale-und-pluenderungen-fuehrt-in-die-falsche-richtung-sagt-pistorius-ueber-dobrindts-aussage-zu-migrantischen-chaoten.html",
       "engagement": 0,
-      "ts": "Fri, 30 Oct 2026 13:13:07 +0000",
+      "ts": "Sun, 01 Nov 2026 20:13:48 GMT",
       "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Tagesschau Alle Meldungen",
-      "author": "Tagesschau Alle Meldungen",
-      "text": "Ausschreitungen am Abend nach friedlichen Protesten am Nachmittag",
-      "url": "https://www.tagesschau.de/inland/ausschreitungen-frankfurt-koeln-100.html",
-      "engagement": 0,
-      "ts": "Sun, 01 Nov 2026 03:32:36 +0100",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     }
   ],
   "analysis": {
-    "summary": "Der Diskurs des Tages dominiert die Proteste junger Menschen gegen die Bundesregierung, die angeblich nicht genug für ihre Interessen tut. Darüber hinaus gibt es Berichte über die Bundeswehr und ihre Verteidigungspolitik.",
+    "summary": "Heute dominiert der Diskurs um die Bundeswehrs Rolle in der Welt, die Auswirkungen von Wehrdienst und Militär auf die Gesellschaft sowie die politischen Entscheidungen der Bundesregierung.",
     "themes": [
-      "Proteste junger Menschen gegen die Bundesregierung",
-      "Bundeswehr: Frauen in der Bundeswehr - belästigt, gemobbt, missbraucht",
-      "UN-Friedensmission in der Westsahara: Veto im UN-Sicherheitsrat"
+      "Pistorius' Wehrdienst-Modell",
+      "AfD-Faschismus-Vorwurf",
+      "Beschaffungsverzögerung F-35A-Kampfjet"
     ]
   }
 }

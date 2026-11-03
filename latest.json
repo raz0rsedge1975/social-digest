@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-02T04:32:42.974Z",
-  "timestamp": "2.11.2026, 05:32:42",
+  "generated": "2026-11-03T04:32:34.345Z",
+  "timestamp": "3.11.2026, 05:32:34",
   "items": [
     {
       "platform": "Mastodon",
@@ -9,21 +9,33 @@
       "url": "https://ard.social/@tagesschau/117534975772586003",
       "engagement": 15,
       "ts": "2026-10-31T10:10:02.000Z",
-      "followers": 94879,
+      "followers": 95068,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Bluesky",
-      "author": "@lecieldeparis.eurosky.social",
-      "handle": "lecieldeparis.eurosky.social",
-      "text": "Die Bundeswehr bitte permanent in Berlin platzieren",
-      "url": "https://bsky.app/profile/lecieldeparis.eurosky.social/post/3mzbhveybhc2t",
-      "engagement": 7,
-      "ts": "2026-11-01T18:47:39.162Z",
-      "followers": 3111,
+      "author": "@timmi-allen.bsky.social",
+      "handle": "timmi-allen.bsky.social",
+      "text": "#GenZ Proteste\nWenn man sich die Reaktionen der Corruptio Union und deren Medien anschaut, wird eines ganz klar:\nDenen geht der Ars.. aber sowas von aufs Grundeis!\n\nJU verlangt Einsatz der Bundeswehr\nHessens Innenminister will Proteste verbieten\nDobrind faselt von \"Chaoten aus migrantischen Milieu\"",
+      "url": "https://bsky.app/profile/timmi-allen.bsky.social/post/3mzdrsz2mhc26",
+      "engagement": 6,
+      "ts": "2026-11-02T16:50:36.442Z",
+      "followers": 13944,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "negativ"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@dirkmassat.bsky.social",
+      "handle": "dirkmassat.bsky.social",
+      "text": "Mit 3000 Billionen € Kosten und 6000 Jahren Bauzeit bringt Pistorius der Bundeswehr endlich die Verteidigungswaffe, die Deutschland braucht 🤡",
+      "url": "https://bsky.app/profile/dirkmassat.bsky.social/post/3mzeonty7h227",
+      "engagement": 2,
+      "ts": "2026-11-03T01:26:41.858Z",
+      "followers": 10474,
+      "isBot": false,
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -32,31 +44,9 @@
       "url": "https://ard.social/@tagesschau/117536403145960591",
       "engagement": 1,
       "ts": "2026-10-31T16:13:02.000Z",
-      "followers": 94879,
-      "isBot": false,
-      "sentiment": "negativ"
-    },
-    {
-      "platform": "Mastodon",
-      "author": "@heiseonline@social.heise.de",
-      "text": "Montag: Audi mit neuem US-Werk trotz VW-Sparkurs, Google-Werbung mit Nutzerdaten Trump-Wahlkampf mit Audi + Anzeigen auf Basis von Gmail & Google Fotos + Warnung europäischer KI-Firmen + 30 Jahre Tomb Raider + Test von Bundeswehr-Digitalfunk https://www. heise.de/news/Montag-Audi-mit- neuem-US-Werk-trotz-VW-Sparkurs-Google-Werbung-mit-Nutzerdaten-11499583.html?wt_mc=sm.red.ho.mastodon.mastodon.md_",
-      "url": "https://social.heise.de/@heiseonline/117505519999194807",
-      "engagement": 1,
-      "ts": "2026-10-26T05:19:03.000Z",
-      "followers": 87268,
+      "followers": 95068,
       "isBot": false,
       "sentiment": "kritisch"
-    },
-    {
-      "platform": "Mastodon",
-      "author": "@tagesschau@ard.social",
-      "text": "11KM-Podcast: Frauen in der Bundeswehr - belästigt, gemobbt, missbraucht Seit 25 Jahren können Frauen in der Bundeswehr alle Dienstgrade erreichen. Doch viele Soldatinnen berichten von Sexismus und Gewalt. Der Podcast 11KM über eine Kultur des Wegschauens. ➡️ https://www. tagesschau.de/podcast-11km-fra uen-bundeswehr-100.html?at_medium=mastodon&at_campaign=tagesschau.de # 11KM # Podcast # Bundeswe",
-      "url": "https://ard.social/@tagesschau/117505555322398151",
-      "engagement": 0,
-      "ts": "2026-10-26T05:28:02.000Z",
-      "followers": 94879,
-      "isBot": false,
-      "sentiment": "positiv"
     },
     {
       "platform": "Reddit r/de",
@@ -66,7 +56,7 @@
       "engagement": 0,
       "ts": "2026-10-31T20:53:41+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "negativ"
     },
     {
       "platform": "Reddit r/de",
@@ -76,7 +66,7 @@
       "engagement": 0,
       "ts": "2026-10-30T17:40:58+00:00",
       "alwaysKeep": true,
-      "sentiment": "negativ"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Reddit r/de",
@@ -86,7 +76,7 @@
       "engagement": 0,
       "ts": "2026-10-27T16:45:25+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -96,7 +86,7 @@
       "engagement": 0,
       "ts": "2026-10-27T07:26:43+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Augen geradeaus!",
@@ -121,100 +111,80 @@
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Bundeswehr: 7 neue Rüstungsvorhaben vor Entscheidung",
-      "url": "https://esut.de/2026/11/meldungen/76427/bundeswehr-7-ruestungsvorhaben-ent/",
+      "text": "Inspekteur Heer: „Nur als Christ kann ich Soldat sein!“",
+      "url": "https://esut.de/2026/11/meldungen/76478/nur-als-christ-soldat-sein/",
       "engagement": 0,
-      "ts": "Sun, 01 Nov 2026 20:15:17 +0000",
+      "ts": "Mon, 02 Nov 2026 21:16:23 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Neue F-16 Viper für Taiwans Ostflanke",
-      "url": "https://esut.de/2026/11/fachbeitraege/76234/neue-f-16-viper-fuer-taiwan/",
+      "text": "Bundeswehr kauft Patriot nach – doch Munition bleibt Engpass",
+      "url": "https://esut.de/2026/11/meldungen/76458/bundeswehr-kauft-patriot-munition/",
       "engagement": 0,
-      "ts": "Sun, 01 Nov 2026 18:09:27 +0000",
+      "ts": "Mon, 02 Nov 2026 13:25:03 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Trump sucht die Nähe zu Nordkorea",
-      "url": "https://esut.de/2026/11/fachbeitraege/76236/trump-sucht-die-naehe-zu-nordkorea/",
+      "text": "ZEBEL: Ersatzteilversorgung erheblich gestört",
+      "url": "https://esut.de/2026/11/meldungen/76452/zebel-ersatzteilversorgung/",
       "engagement": 0,
-      "ts": "Sun, 01 Nov 2026 17:51:30 +0000",
+      "ts": "Mon, 02 Nov 2026 13:05:41 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Ukrainekrieg: Landroboter im modernen Gefecht",
-      "url": "https://esut.de/2026/10/fachbeitraege/76263/ukrainekrieg-landroboter/",
+      "text": "Die Lieferkette wird zur Fähigkeitsfrage",
+      "url": "https://esut.de/2026/11/fachbeitraege/75239/lieferkette-wird-faehigkeitsfrage/",
       "engagement": 0,
-      "ts": "Sat, 31 Oct 2026 09:24:49 +0000",
+      "ts": "Mon, 02 Nov 2026 12:10:19 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Frankreichs Zeitenwende unter Haushaltsdruck",
-      "url": "https://esut.de/2026/10/fachbeitraege/76270/frankreichs-zeitenwende/",
+      "text": "Äthiopien erhält zwölf Su-35 aus Russland",
+      "url": "https://esut.de/2026/11/meldungen/76443/aethiopien-su-35-aus-russland/",
       "engagement": 0,
-      "ts": "Sat, 31 Oct 2026 08:18:03 +0000",
+      "ts": "Mon, 02 Nov 2026 10:19:42 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "„Inimitable“ auf See: Kieler Erprobung trifft Kanzlerdiplomatie",
-      "url": "https://esut.de/2026/10/meldungen/76381/inimitable-auf-see-kiel/",
+      "text": "Euronaval 2026: Rheinmetall-Elemente für die Hybrid-Fleet",
+      "url": "https://esut.de/2026/11/meldungen/76439/euronaval-2026-rheinmetall-hybrid/",
       "engagement": 0,
-      "ts": "Fri, 30 Oct 2026 17:00:07 +0000",
+      "ts": "Mon, 02 Nov 2026 09:22:19 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Spiegel Politik",
       "author": "Spiegel Politik",
-      "text": "Boris Pistorius und die Linke: Rot-Grün-Rot in Berlin? Der beliebteste SPD-Minister ist dagegen",
-      "url": "https://www.spiegel.de/politik/boris-pistorius-und-die-linke-rot-gruen-rot-in-berlin-der-beliebteste-spd-minister-ist-dagegen-a-5113cae7-8b8a-4be1-9ef7-1ce6f90dc25a#ref=rss",
+      "text": "Gen-Z-Proteste: Friedrich Merz droht Randalierern mit der »Härte des Gesetzes«",
+      "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-droht-randalierern-mit-der-haerte-des-gesetzes-a-abaa29bf-4d2d-4a7c-bf7e-68745518c8bc#ref=rss",
       "engagement": 0,
-      "ts": "Sun, 1 Nov 2026 21:02:00 +0100",
+      "ts": "Mon, 2 Nov 2026 14:28:00 +0100",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Spiegel Politik",
-      "author": "Spiegel Politik",
-      "text": "Bundeswehr: Neue Kampfhubschrauber können »auf absehbare Zeit« nicht schießen",
-      "url": "https://www.spiegel.de/politik/deutschland/bundeswehr-neue-kampfhubschrauber-bleiben-vorerst-ohne-bewaffnung-a-3863e2b0-60a1-4b7f-a780-4b74296fbe29#ref=rss",
-      "engagement": 0,
-      "ts": "Sun, 1 Nov 2026 16:24:00 +0100",
-      "alwaysKeep": true,
-      "sentiment": "negativ"
-    },
-    {
-      "platform": "Welt Topnews",
-      "author": "Welt Topnews",
-      "text": "„Führt in die falsche Richtung“, sagt Pistorius über Dobrindts Aussage zu „migrantischen Chaoten“",
-      "url": "https://www.welt.de/politik/deutschland/article6ae799c55e7018b4bea951d8/randale-und-pluenderungen-fuehrt-in-die-falsche-richtung-sagt-pistorius-ueber-dobrindts-aussage-zu-migrantischen-chaoten.html",
-      "engagement": 0,
-      "ts": "Sun, 01 Nov 2026 20:13:48 GMT",
-      "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Heute dominiert der Diskurs um die Bundeswehrs Rolle in der Welt, die Auswirkungen von Wehrdienst und Militär auf die Gesellschaft sowie die politischen Entscheidungen der Bundesregierung.",
+    "summary": "Der Diskurs des Tages dominiert durch die Proteste junger Menschen gegen die Bundesregierung, die Kritik an der Wehrdienst-Modell von Pistorius und Beschaffungsverzögerungen bei der Bundeswehr.",
     "themes": [
       "Pistorius' Wehrdienst-Modell",
-      "AfD-Faschismus-Vorwurf",
-      "Beschaffungsverzögerung F-35A-Kampfjet"
+      "GenZ-Proteste",
+      "Beschaffungsverzögerung Patriot"
     ]
   }
 }

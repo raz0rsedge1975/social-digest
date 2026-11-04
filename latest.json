@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-03T04:32:34.345Z",
-  "timestamp": "3.11.2026, 05:32:34",
+  "generated": "2026-11-04T04:32:25.625Z",
+  "timestamp": "4.11.2026, 05:32:25",
   "items": [
     {
       "platform": "Mastodon",
@@ -10,30 +10,6 @@
       "engagement": 15,
       "ts": "2026-10-31T10:10:02.000Z",
       "followers": 95068,
-      "isBot": false,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@timmi-allen.bsky.social",
-      "handle": "timmi-allen.bsky.social",
-      "text": "#GenZ Proteste\nWenn man sich die Reaktionen der Corruptio Union und deren Medien anschaut, wird eines ganz klar:\nDenen geht der Ars.. aber sowas von aufs Grundeis!\n\nJU verlangt Einsatz der Bundeswehr\nHessens Innenminister will Proteste verbieten\nDobrind faselt von \"Chaoten aus migrantischen Milieu\"",
-      "url": "https://bsky.app/profile/timmi-allen.bsky.social/post/3mzdrsz2mhc26",
-      "engagement": 6,
-      "ts": "2026-11-02T16:50:36.442Z",
-      "followers": 13944,
-      "isBot": false,
-      "sentiment": "negativ"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@dirkmassat.bsky.social",
-      "handle": "dirkmassat.bsky.social",
-      "text": "Mit 3000 Billionen € Kosten und 6000 Jahren Bauzeit bringt Pistorius der Bundeswehr endlich die Verteidigungswaffe, die Deutschland braucht 🤡",
-      "url": "https://bsky.app/profile/dirkmassat.bsky.social/post/3mzeonty7h227",
-      "engagement": 2,
-      "ts": "2026-11-03T01:26:41.858Z",
-      "followers": 10474,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -46,7 +22,19 @@
       "ts": "2026-10-31T16:13:02.000Z",
       "followers": 95068,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@schoefaz.eurosky.social",
+      "handle": "schoefaz.eurosky.social",
+      "text": "Warum leisten wir uns eigentlich eine Bundeswehr? Wenn wir nicht angreifen, will keiner mit uns Krieg führen.",
+      "url": "https://bsky.app/profile/schoefaz.eurosky.social/post/3mzgbd5sygc2y",
+      "engagement": 0,
+      "ts": "2026-11-03T16:33:23.909Z",
+      "followers": 413,
+      "isBot": false,
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -56,7 +44,7 @@
       "engagement": 0,
       "ts": "2026-10-31T20:53:41+00:00",
       "alwaysKeep": true,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -66,27 +54,17 @@
       "engagement": 0,
       "ts": "2026-10-30T17:40:58+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Reddit r/de",
-      "author": "u/nivh_de",
-      "text": "Bundeswehr: Weltraumkommandeur Michael Traut über außerirdisches Leben und Aliens",
-      "url": "https://www.reddit.com/r/de/comments/1xgxpk7/bundeswehr_weltraumkommandeur_michael_traut_über/",
-      "engagement": 0,
-      "ts": "2026-10-27T16:45:25+00:00",
-      "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
-      "platform": "Reddit r/de",
-      "author": "u/BeanyCheese",
-      "text": "Musterung bei der Bundeswehr : Was fragt die Bundeswehr einen 18-Jährigen, der nicht dienen will?",
-      "url": "https://www.reddit.com/r/de/comments/1xgm04c/musterung_bei_der_bundeswehr_was_fragt_die/",
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Erneuter Anlauf für die Rückkehr der Lazarettzüge",
+      "url": "https://augengeradeaus.net/2026/11/erneuter-anlauf-fuer-die-rueckkehr-der-lazarettzuege/",
       "engagement": 0,
-      "ts": "2026-10-27T07:26:43+00:00",
+      "ts": "Tue, 03 Nov 2026 19:58:16 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -111,80 +89,70 @@
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Inspekteur Heer: „Nur als Christ kann ich Soldat sein!“",
-      "url": "https://esut.de/2026/11/meldungen/76478/nur-als-christ-soldat-sein/",
+      "text": "Selenskyj auf der BSC: Europa hat keine Alternative zu Deutschland",
+      "url": "https://esut.de/2026/11/meldungen/76533/selenskyj-bsc-europa-deutschland/",
       "engagement": 0,
-      "ts": "Mon, 02 Nov 2026 21:16:23 +0000",
+      "ts": "Tue, 03 Nov 2026 19:04:16 +0000",
+      "alwaysKeep": true,
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "SitaWare Battlefield Health planmäßig ausgeliefert",
+      "url": "https://esut.de/2026/11/meldungen/76529/sitaware-battlefield-health/",
+      "engagement": 0,
+      "ts": "Tue, 03 Nov 2026 14:40:58 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Bundeswehr kauft Patriot nach – doch Munition bleibt Engpass",
-      "url": "https://esut.de/2026/11/meldungen/76458/bundeswehr-kauft-patriot-munition/",
+      "text": "Operation Vivaldi: Die Ukraine schlägt zurück",
+      "url": "https://esut.de/2026/11/fachbeitraege/76230/operation-vivaldi-ukraine/",
       "engagement": 0,
-      "ts": "Mon, 02 Nov 2026 13:25:03 +0000",
+      "ts": "Tue, 03 Nov 2026 14:02:40 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "ZEBEL: Ersatzteilversorgung erheblich gestört",
-      "url": "https://esut.de/2026/11/meldungen/76452/zebel-ersatzteilversorgung/",
+      "text": "Euronaval-Auftakt: Greyshark geht in Serie",
+      "url": "https://esut.de/2026/11/meldungen/76512/euronaval-greyshark/",
       "engagement": 0,
-      "ts": "Mon, 02 Nov 2026 13:05:41 +0000",
+      "ts": "Tue, 03 Nov 2026 11:57:39 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Die Lieferkette wird zur Fähigkeitsfrage",
-      "url": "https://esut.de/2026/11/fachbeitraege/75239/lieferkette-wird-faehigkeitsfrage/",
+      "text": "Berliner Sicherheitskonferenz beginnt unter erhöhten Sicherheitsvorkehrungen",
+      "url": "https://esut.de/2026/11/meldungen/76509/berliner-sicherheitskonferenz/",
       "engagement": 0,
-      "ts": "Mon, 02 Nov 2026 12:10:19 +0000",
+      "ts": "Tue, 03 Nov 2026 10:57:40 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Äthiopien erhält zwölf Su-35 aus Russland",
-      "url": "https://esut.de/2026/11/meldungen/76443/aethiopien-su-35-aus-russland/",
+      "text": "Deutsche Marine treibt Beschaffung von LORA voran",
+      "url": "https://esut.de/2026/11/meldungen/76457/deutsche-marine-lora/",
       "engagement": 0,
-      "ts": "Mon, 02 Nov 2026 10:19:42 +0000",
+      "ts": "Tue, 03 Nov 2026 10:45:39 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Euronaval 2026: Rheinmetall-Elemente für die Hybrid-Fleet",
-      "url": "https://esut.de/2026/11/meldungen/76439/euronaval-2026-rheinmetall-hybrid/",
-      "engagement": 0,
-      "ts": "Mon, 02 Nov 2026 09:22:19 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Spiegel Politik",
-      "author": "Spiegel Politik",
-      "text": "Gen-Z-Proteste: Friedrich Merz droht Randalierern mit der »Härte des Gesetzes«",
-      "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-droht-randalierern-mit-der-haerte-des-gesetzes-a-abaa29bf-4d2d-4a7c-bf7e-68745518c8bc#ref=rss",
-      "engagement": 0,
-      "ts": "Mon, 2 Nov 2026 14:28:00 +0100",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     }
   ],
   "analysis": {
-    "summary": "Der Diskurs des Tages dominiert durch die Proteste junger Menschen gegen die Bundesregierung, die Kritik an der Wehrdienst-Modell von Pistorius und Beschaffungsverzögerungen bei der Bundeswehr.",
+    "summary": "Die Bundesregierung wird für die Jugend kritisiert, die UN-Friedensmission in der Westsahara wird aufgegeben und die Bundeswehr ist von den USA abhängig. Es gibt mehr Meldungen über sexualisiertes Fehlverhalten bei der Bundeswehr und es gibt Diskussionen über die Rückkehr der Lazarettzüge.",
     "themes": [
-      "Pistorius' Wehrdienst-Modell",
-      "GenZ-Proteste",
-      "Beschaffungsverzögerung Patriot"
+      "Pistorius-Wehrdienstmodell",
+      "Abhängigkeit von den USA",
+      "sexualisiertes Fehlverhalten in der Bundeswehr"
     ]
   }
 }

@@ -1,7 +1,19 @@
 {
-  "generated": "2026-11-04T04:32:25.625Z",
-  "timestamp": "4.11.2026, 05:32:25",
+  "generated": "2026-11-05T04:33:04.941Z",
+  "timestamp": "5.11.2026, 05:33:04",
   "items": [
+    {
+      "platform": "Bluesky",
+      "author": "@luftwaffe.bundeswehr.de",
+      "handle": "luftwaffe.bundeswehr.de",
+      "text": "✈️ Ziviler Flugplatz macht Platz für Eurofighter\n\nAm Flughafen Weeze zeigt das Personal zusammen mit uns Präzisionshandwerk an den Nahtstellen zweier Systeme: ziviles Flughafenmanagement trifft auf taktische Führung und die Technik des Luftwaffengeschwaders.\n\n(📸: Bundeswehr/ Hermmers)",
+      "url": "https://bsky.app/profile/luftwaffe.bundeswehr.de/post/3mzj2cr47ik2t",
+      "engagement": 33,
+      "ts": "2026-11-04T19:05:53.596Z",
+      "followers": 3485,
+      "isBot": false,
+      "sentiment": "positiv"
+    },
     {
       "platform": "Mastodon",
       "author": "@tagesschau@ard.social",
@@ -11,7 +23,102 @@
       "ts": "2026-10-31T10:10:02.000Z",
       "followers": 95068,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@opfuekdo.bundeswehr.de",
+      "handle": "opfuekdo.bundeswehr.de",
+      "text": "Bei LÜKEX 26 üben diese Woche Bund und Länder gemeinsam mit Hilfsorganisationen, zivilen Unternehmen und der Bundeswehr Zusammenarbeitsprozesse bei einer krisenhaften Entwicklung. Ausgangslage der fiktiven Krise ist eine extreme Hitzewelle nach langjähriger Trockenheit. 🔽",
+      "url": "https://bsky.app/profile/opfuekdo.bundeswehr.de/post/3mzicf2cq7k25",
+      "engagement": 10,
+      "ts": "2026-11-04T11:57:40.557Z",
+      "followers": 3097,
+      "isBot": false,
+      "sentiment": "negativ"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@saegge.eurosky.social",
+      "handle": "saegge.eurosky.social",
+      "text": "und wenn ihr euch denkt wir brauchen ja aber wettbewerbsfähige Waffen - ja nö wofür sind die jetzigen noch nicht tötlich genug? und auch ja deswegen hat Rheinmetall ne Forschungsabteil und die Bundeswehr eigene Hochschulen. Die heißen dann Hochschule der Bundeswehr.",
+      "url": "https://bsky.app/profile/saegge.eurosky.social/post/3mziibybfqc2t",
+      "engagement": 9,
+      "ts": "2026-11-04T13:43:20.206Z",
+      "followers": 2175,
+      "isBot": false,
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@hartpunkt.bsky.social",
+      "handle": "hartpunkt.bsky.social",
+      "text": "Der deutsche KI-Spezialist Helsing hat dem Bundeswehr-Beschaffungsamt BAAINBw den Quellcode des Mission Operating System Bundeswehr (MissionOSBw) übergeben, die den Kern des Beschaffungsvorhabens Combat Fighter System of Systems Nucleus (CFSN) bildet.\n\nwww.hartpunkt.de/combat-fight...",
+      "url": "https://bsky.app/profile/hartpunkt.bsky.social/post/3mzhyl4vuys25",
+      "engagement": 8,
+      "ts": "2026-11-04T09:02:07.192Z",
+      "followers": 987,
+      "isBot": false,
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@sea-watch.org",
+      "handle": "sea-watch.org",
+      "text": "Und heute bespricht der deutsche Bundestag die Erneuerung des IRINI Mandats. Ein Mandat für die Beteiligung der Bundeswehr an dem EU-Einsatz EUNAVFOR MED IRINI. Der Einsatz, der unter anderem die sogenannte libysche Küstenwache ausbildet. Was sollen wir dazu noch sagen?",
+      "url": "https://bsky.app/profile/sea-watch.org/post/3mzi2n4tmae22",
+      "engagement": 7,
+      "ts": "2026-11-04T09:39:01.685Z",
+      "followers": 9076,
+      "isBot": false,
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@hartpunkt.bsky.social",
+      "handle": "hartpunkt.bsky.social",
+      "text": "Für den weltweiten Transport in allen Klimazonen will die Bundeswehr spezielle Transportcontainer für die Spezialkräfte-Fahrzeugfamilie AGF-2 sowie UFK beschaffen.\n\nwww.hartpunkt.de/bundeswehr-w...",
+      "url": "https://bsky.app/profile/hartpunkt.bsky.social/post/3mzi4pcdqhc25",
+      "engagement": 5,
+      "ts": "2026-11-04T10:16:02.074Z",
+      "followers": 987,
+      "isBot": false,
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@opfuekdo.bundeswehr.de",
+      "handle": "opfuekdo.bundeswehr.de",
+      "text": "Die Übung will in der Krise Entscheidungen beschleunigen und die Resilienz erhöhen. Die Bundeswehr übt, zivile Institutionen in einer weitreichenden Krise zu unterstützen. Denn Krisen bewältigen wir gemeinsam.",
+      "url": "https://bsky.app/profile/opfuekdo.bundeswehr.de/post/3mzicf4tozs25",
+      "engagement": 3,
+      "ts": "2026-11-04T11:57:40.558Z",
+      "followers": 3097,
+      "isBot": false,
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "Mastodon",
+      "author": "@ndaktuell@troet.cafe",
+      "text": "Wegen Steroiden und sexualisierten Fehlverhaltens wird gegen zehn Soldaten in Weißenfels ermittelt. Die Rede ist auch von Führungsversagen. # Bundeswehr https://www. nd-aktuell.de/artikel/1203642. bundeswehr-in-weissenfels-justiz-prueft-uebergriffe-und-doping-im-sanitaetsregiment.html",
+      "url": "https://troet.cafe/@ndaktuell/117558471577650779",
+      "engagement": 2,
+      "ts": "2026-11-04T13:45:20.000Z",
+      "followers": 9959,
+      "isBot": false,
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@informationsquelle.bsky.social",
+      "handle": "informationsquelle.bsky.social",
+      "text": "Der Unterschied ist fundamental: Die Bundeswehr ist eine parlamentarisch kontrollierte Verteidigungsarmee einer Demokratie, die das Völkerrecht achtet. Die russische Armee führt aktuell einen imperialen Vernichtungskrieg und begeht systematisch Kriegsverbrechen. 1/",
+      "url": "https://bsky.app/profile/informationsquelle.bsky.social/post/3mzj7tmnphs2e",
+      "engagement": 1,
+      "ts": "2026-11-04T20:44:48.067Z",
+      "followers": 7479,
+      "isBot": false,
+      "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
@@ -22,19 +129,18 @@
       "ts": "2026-10-31T16:13:02.000Z",
       "followers": 95068,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "negativ"
     },
     {
-      "platform": "Bluesky",
-      "author": "@schoefaz.eurosky.social",
-      "handle": "schoefaz.eurosky.social",
-      "text": "Warum leisten wir uns eigentlich eine Bundeswehr? Wenn wir nicht angreifen, will keiner mit uns Krieg führen.",
-      "url": "https://bsky.app/profile/schoefaz.eurosky.social/post/3mzgbd5sygc2y",
+      "platform": "Mastodon",
+      "author": "@ndaktuell@troet.cafe",
+      "text": "Die # Bundeswehr soll im Mittelmeer russische Schiffe kontrollieren dürfen. # Seenotrettung bleibt ausdrücklich keine Aufgabe der erneuerten EU-Operation. https://www. nd-aktuell.de/artikel/1203641. russische-schattenflotte-bundestag-entscheidet-ueber-heikles-neues-irini-mandat.html",
+      "url": "https://troet.cafe/@ndaktuell/117558353261606434",
       "engagement": 0,
-      "ts": "2026-11-03T16:33:23.909Z",
-      "followers": 413,
+      "ts": "2026-11-04T13:15:14.000Z",
+      "followers": 9959,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Reddit r/de",
@@ -44,7 +150,7 @@
       "engagement": 0,
       "ts": "2026-10-31T20:53:41+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Reddit r/de",
@@ -54,7 +160,17 @@
       "engagement": 0,
       "ts": "2026-10-30T17:40:58+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "negativ"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Nach der Kühlung in Supermarktregalen jetzt Blutbanken im Visier (bislang nur in Frankreich)",
+      "url": "https://augengeradeaus.net/2026/11/nach-der-kuehlung-in-supermarktregalen-jetzt-blutbanken-im-visier-bislang-nur-in-frankreich/",
+      "engagement": 0,
+      "ts": "Wed, 04 Nov 2026 15:58:05 +0000",
+      "alwaysKeep": true,
+      "sentiment": "kritisch"
     },
     {
       "platform": "Augen geradeaus!",
@@ -64,7 +180,7 @@
       "engagement": 0,
       "ts": "Tue, 03 Nov 2026 19:58:16 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Augen geradeaus!",
@@ -89,12 +205,52 @@
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
+      "text": "UK und Frankreich führen Übung zur Friedenssicherung in der Ukraine",
+      "url": "https://esut.de/2026/11/meldungen/76555/uk-frankreich-frieden-in-ukraine/",
+      "engagement": 0,
+      "ts": "Wed, 04 Nov 2026 13:08:12 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Helsing übergibt der Bundeswehr den Quellcode für Luftkampf",
+      "url": "https://esut.de/2026/11/meldungen/76551/helsing-bundeswehr-quellcode-kampf/",
+      "engagement": 0,
+      "ts": "Wed, 04 Nov 2026 09:00:59 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Airwayz will Ordnung in den Drohnen-Luftraum bringen",
+      "url": "https://esut.de/2026/11/meldungen/76548/airwayz-drohnen-luftraum-bringen/",
+      "engagement": 0,
+      "ts": "Wed, 04 Nov 2026 07:56:16 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "„Nordic Talk on Resilience“: Wie Nordeuropa auf hybride Angriffe reagiert",
+      "url": "https://esut.de/2026/11/meldungen/76539/nordic-talk-nordeuropa-hybride-angriffe/",
+      "engagement": 0,
+      "ts": "Wed, 04 Nov 2026 06:00:14 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
       "text": "Selenskyj auf der BSC: Europa hat keine Alternative zu Deutschland",
       "url": "https://esut.de/2026/11/meldungen/76533/selenskyj-bsc-europa-deutschland/",
       "engagement": 0,
       "ts": "Tue, 03 Nov 2026 19:04:16 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
@@ -105,53 +261,13 @@
       "ts": "Tue, 03 Nov 2026 14:40:58 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Operation Vivaldi: Die Ukraine schlägt zurück",
-      "url": "https://esut.de/2026/11/fachbeitraege/76230/operation-vivaldi-ukraine/",
-      "engagement": 0,
-      "ts": "Tue, 03 Nov 2026 14:02:40 +0000",
-      "alwaysKeep": true,
-      "sentiment": "positiv"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Euronaval-Auftakt: Greyshark geht in Serie",
-      "url": "https://esut.de/2026/11/meldungen/76512/euronaval-greyshark/",
-      "engagement": 0,
-      "ts": "Tue, 03 Nov 2026 11:57:39 +0000",
-      "alwaysKeep": true,
-      "sentiment": "positiv"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Berliner Sicherheitskonferenz beginnt unter erhöhten Sicherheitsvorkehrungen",
-      "url": "https://esut.de/2026/11/meldungen/76509/berliner-sicherheitskonferenz/",
-      "engagement": 0,
-      "ts": "Tue, 03 Nov 2026 10:57:40 +0000",
-      "alwaysKeep": true,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Deutsche Marine treibt Beschaffung von LORA voran",
-      "url": "https://esut.de/2026/11/meldungen/76457/deutsche-marine-lora/",
-      "engagement": 0,
-      "ts": "Tue, 03 Nov 2026 10:45:39 +0000",
-      "alwaysKeep": true,
-      "sentiment": "positiv"
     }
   ],
   "analysis": {
-    "summary": "Die Bundesregierung wird für die Jugend kritisiert, die UN-Friedensmission in der Westsahara wird aufgegeben und die Bundeswehr ist von den USA abhängig. Es gibt mehr Meldungen über sexualisiertes Fehlverhalten bei der Bundeswehr und es gibt Diskussionen über die Rückkehr der Lazarettzüge.",
+    "summary": "Heute im Fokus: Die Bundeswehr plant die Erneuerung des IRINI Mandats, während die Diskussion um Waffensicherheit und -beschaffung weiterhin aktuell ist. Gleichzeitig wird der Umgang mit sexualisiertem Fehlverhalten in der Bundeswehr kritisch diskutiert.",
     "themes": [
-      "Pistorius-Wehrdienstmodell",
-      "Abhängigkeit von den USA",
+      "Erneuerung des IRINI Mandats",
+      "Waffensicherheit und -beschaffung",
       "sexualisiertes Fehlverhalten in der Bundeswehr"
     ]
   }

@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-06T04:32:56.087Z",
-  "timestamp": "6.11.2026, 05:32:56",
+  "generated": "2026-11-07T04:32:49.361Z",
+  "timestamp": "7.11.2026, 05:32:49",
   "items": [
     {
       "platform": "Mastodon",
@@ -9,7 +9,19 @@
       "url": "https://digitalcourage.social/@BlumeEvolution/117562266646320726",
       "engagement": 40,
       "ts": "2026-11-05T05:50:28.000Z",
-      "followers": 3975,
+      "followers": 3984,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@sixtus.net",
+      "handle": "sixtus.net",
+      "text": "Macht das nicht überlichterweise Manuel Hagel, unterstützt von der Bundeswehr?",
+      "url": "https://bsky.app/profile/sixtus.net/post/3mznusmzwqc2s",
+      "engagement": 26,
+      "ts": "2026-11-06T17:10:42.443Z",
+      "followers": 39778,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -22,7 +34,31 @@
       "ts": "2026-10-31T10:10:02.000Z",
       "followers": 95068,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@loyalmagazin.bsky.social",
+      "handle": "loyalmagazin.bsky.social",
+      "text": "3/4 General Freuding wird der 18. Generalinspekteur der Bundeswehr seit der Einführung des Amtes im Jahre 1957. Er ist der 13. Heeressoldat, der die Funktion des obersten militärischen Beraters des Verteidigungsministers und der Bundesregierung übernimmt. 👉",
+      "url": "https://bsky.app/profile/loyalmagazin.bsky.social/post/3mznkqw6h6s2p",
+      "engagement": 6,
+      "ts": "2026-11-06T14:10:45.293Z",
+      "followers": 859,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@dermonologist.bsky.social",
+      "handle": "dermonologist.bsky.social",
+      "text": "Rettungsübung in Zeiten hybrider Bedrohung: Regionalzug kollidiert mit einem Militärtransport, Dutzende Schwerverletzte, kein Handynetz. In der Lausitz haben über 1000 Rettungskräfte, Feuerwehr, Polizei & Bundeswehr zivil-militärische Zusammenarbeit geübt. \nshare.deutschlandradio.de/dlf-audiothe...",
+      "url": "https://bsky.app/profile/dermonologist.bsky.social/post/3mznqth3lrs2a",
+      "engagement": 3,
+      "ts": "2026-11-06T15:59:34.792Z",
+      "followers": 3112,
+      "isBot": false,
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -36,16 +72,15 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "Bluesky",
-      "author": "@saegge.eurosky.social",
-      "handle": "saegge.eurosky.social",
-      "text": "Für Militärforschung gibt es extra Institute der Bundeswehr. Das konnt schon nicht zu kurz. Aber es ist eben Militärbudget statt Bildungsbudget",
-      "url": "https://bsky.app/profile/saegge.eurosky.social/post/3mzlm3sbkbk2n",
+      "platform": "Mastodon",
+      "author": "@heiseonline@social.heise.de",
+      "text": "Deutschland will Manipulation von Satellitennavigation etwas entgegensetzen Cyberagentur, Bundeswehr und DLR suchen Technologien zur Abwehr und gezielten Beeinflussung von Signalen für GPS & Co. – vor dem Hintergrund massiver Störungen. https://www. heise.de/news/Deutschland-will -Manipulation-von-Satellitennavigation-etwas-entgegensetzen-11516136.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraeg",
+      "url": "https://social.heise.de/@heiseonline/117570943261143605",
       "engagement": 2,
-      "ts": "2026-11-05T19:29:26.774Z",
-      "followers": 2174,
+      "ts": "2026-11-06T18:37:03.000Z",
+      "followers": 87321,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -54,7 +89,7 @@
       "url": "https://troet.cafe/@ndaktuell/117558471577650779",
       "engagement": 2,
       "ts": "2026-11-04T13:45:20.000Z",
-      "followers": 9959,
+      "followers": 9998,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -67,19 +102,7 @@
       "ts": "2026-10-31T16:13:02.000Z",
       "followers": 95068,
       "isBot": false,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@wirtschaftswoche.bsky.social",
-      "handle": "wirtschaftswoche.bsky.social",
-      "text": "Die Probleme bei der Ersatzteilversorgung des Heers erreichen die Chef-Ebene. Der Koalitionspartner verlangt Aufklärung von SPD-Verteidigungsminister Boris Pistorius.",
-      "url": "https://bsky.app/profile/wirtschaftswoche.bsky.social/post/3mzlfhdiq362z",
-      "engagement": 0,
-      "ts": "2026-11-05T18:30:37.456+01:00",
-      "followers": 5195,
-      "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -88,7 +111,7 @@
       "url": "https://troet.cafe/@ndaktuell/117558353261606434",
       "engagement": 0,
       "ts": "2026-11-04T13:15:14.000Z",
-      "followers": 9959,
+      "followers": 9998,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -109,16 +132,6 @@
       "url": "https://www.reddit.com/r/de/comments/1xkl3z6/f35akampfjets_warum_die_bundeswehr_von_den_usa/",
       "engagement": 0,
       "ts": "2026-10-31T20:53:41+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Reddit r/de",
-      "author": "u/PhoenixTin",
-      "text": "Mehr Meldungen von sexualisiertem Fehlverhalten bei der Bundeswehr",
-      "url": "https://www.reddit.com/r/de/comments/1xjm1nn/mehr_meldungen_von_sexualisiertem_fehlverhalten/",
-      "engagement": 0,
-      "ts": "2026-10-30T17:40:58+00:00",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -155,6 +168,46 @@
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
+      "text": "Europäisches Interesse an Barak 8 wächst",
+      "url": "https://esut.de/2026/11/meldungen/76657/europaeisches-interesse-an-barak-8/",
+      "engagement": 0,
+      "ts": "Fri, 06 Nov 2026 13:11:31 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Mekka-Verteidigungspakt: Saudi-Arabien, Türkei und Pakistan stärken Zusammenarbeit",
+      "url": "https://esut.de/2026/11/fachbeitraege/76278/mekka-verteidigungspakt/",
+      "engagement": 0,
+      "ts": "Fri, 06 Nov 2026 09:55:43 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Südkoreas Rüstungsindustrie: Warum Europa auf „K-Defense“ setzt",
+      "url": "https://esut.de/2026/11/fachbeitraege/76232/suedkoreas-ruestungsindustrie/",
+      "engagement": 0,
+      "ts": "Fri, 06 Nov 2026 09:33:21 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Indien lässt Boeing 767 zu Tankflugzeugen umrüsten",
+      "url": "https://esut.de/2026/11/meldungen/76617/indien-boeing-767-tankflugzeugen/",
+      "engagement": 0,
+      "ts": "Fri, 06 Nov 2026 08:08:27 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
       "text": "Vorwürfe über möglichen Chemiewaffeneinsatz der Huthi",
       "url": "https://esut.de/2026/11/meldungen/76597/chemiewaffeneinsatz-der-huthi/",
       "engagement": 0,
@@ -163,82 +216,22 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Atlantik-Brücke warnt nach US-Midterms vor „gefährlicher Zeit für Europa“",
-      "url": "https://esut.de/2026/11/meldungen/76584/atlantik-bruecke-us-midterms-trump/",
-      "engagement": 0,
-      "ts": "Thu, 05 Nov 2026 11:42:51 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Hensoldt steigert Auftragseingang auf 3,56 Milliarden",
-      "url": "https://esut.de/2026/11/meldungen/76588/hensoldt-auftrag-356-milliarden/",
-      "engagement": 0,
-      "ts": "Thu, 05 Nov 2026 11:18:36 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Raytheon prüft deutsche Zulieferer für die Tomahawk-Produktion",
-      "url": "https://esut.de/2026/11/meldungen/76579/raytheon-zulieferer-tomahawk/",
-      "engagement": 0,
-      "ts": "Thu, 05 Nov 2026 10:01:32 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Rüstungsgüter: Neue Anbieter verändern den Markt",
-      "url": "https://esut.de/2026/11/meldungen/76575/ruestungsgueter-anbieter-markt/",
-      "engagement": 0,
-      "ts": "Thu, 05 Nov 2026 07:22:51 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Spiegel Politik",
-      "author": "Spiegel Politik",
-      "text": "Sexuelles Fehlverhalten: Bundeswehr gab in drei Jahren 724 Fälle an Justiz ab",
-      "url": "https://www.spiegel.de/politik/sexuelles-fehlverhalten-bundeswehr-gab-in-drei-jahren-724-faelle-an-justiz-ab-a-967328e1-e5fa-47ca-ad0b-03a471597ea2#ref=rss",
-      "engagement": 0,
-      "ts": "Fri, 6 Nov 2026 05:02:00 +0100",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Spiegel Politik",
-      "author": "Spiegel Politik",
-      "text": "Bundeswehr: Boris Pistorius richtet Hotline für Opfer von sexualisiertem Fehlverhalten ein",
-      "url": "https://www.spiegel.de/politik/deutschland/sexualisiertes-fehlverhalten-in-der-bundeswehr-pistorius-richtet-hilfs-hotline-fuer-soldatinnen-ein-a-21f97e3d-9e23-4bde-987a-0df8eab69fce#ref=rss",
-      "engagement": 0,
-      "ts": "Thu, 5 Nov 2026 15:26:00 +0100",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
       "platform": "Welt Topnews",
       "author": "Welt Topnews",
-      "text": "Hunderte Verfahren wegen sexuellen Fehlverhaltens bei der Bundeswehr",
-      "url": "https://www.welt.de/politik/deutschland/article6aed4647a389bc337cfc75cd/neue-dunkelfeldstudie-hunderte-verfahren-wegen-sexuellen-fehlverhaltens-bei-der-bundeswehr.html",
+      "text": "„Keine Aufwuchsprobleme“ – Bundeswehr kann Personalbedarf wohl ohne Wehrpflicht decken",
+      "url": "https://www.welt.de/politik/article6aee8645a389bc337cfc89aa/boris-pistorius-keine-aufwuchsprobleme-bundeswehr-kann-personalbedarf-wohl-ohne-wehrpflicht-decken.html",
       "engagement": 0,
-      "ts": "Fri, 06 Nov 2026 03:23:21 GMT",
+      "ts": "Sat, 07 Nov 2026 03:35:12 GMT",
       "alwaysKeep": true,
       "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Der Diskurs des Tages wird von den Problemen der Bundeswehr dominiert, insbesondere von sexuellem Fehlverhalten und -ermittlungen bei Soldaten. Darüber hinaus gibt es Berichte über die neue Generalinspekteur Christian Freuding und die Ersatzteilversorgung des Heeres.",
+    "summary": "Der Diskurs des Tages dominiert durch die Berichte über den neuen Generalinspekteur der Bundeswehr Christian Freuding, Proteste von Jugendlichen und die Rolle der Bundeswehr in der internationalen Sicherheit.",
     "themes": [
-      "Sexuelles Fehlverhalten in der Bundeswehr",
-      "Neuer Generalinspekteur Christian Freuding",
-      "Ersatzteilversorgung im Heer"
+      "Christian Freuding wird neuer Generalinspekteur der Bundeswehr",
+      "Gen-Z-Proteste: Was die Bundesregierung für die Jugend macht",
+      "Europäische Sicherheitspolitik und -technologie"
     ]
   }
 }

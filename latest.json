@@ -1,7 +1,19 @@
 {
-  "generated": "2026-11-07T04:32:49.361Z",
-  "timestamp": "7.11.2026, 05:32:49",
+  "generated": "2026-11-08T04:33:00.298Z",
+  "timestamp": "8.11.2026, 05:33:00",
   "items": [
+    {
+      "platform": "Bluesky",
+      "author": "@waldorfcharles.bsky.social",
+      "handle": "waldorfcharles.bsky.social",
+      "text": "Wie wär’s mit Freiwilligkeit und kostenlosem Führerschein? Also freiwillig Bundeswehr, THW, Feuerwehr, Pflege usw.",
+      "url": "https://bsky.app/profile/waldorfcharles.bsky.social/post/3mzpxnkt7yk2a",
+      "engagement": 92,
+      "ts": "2026-11-07T13:06:53.059Z",
+      "followers": 7372,
+      "isBot": false,
+      "sentiment": "positiv"
+    },
     {
       "platform": "Mastodon",
       "author": "@BlumeEvolution@digitalcourage.social",
@@ -9,56 +21,55 @@
       "url": "https://digitalcourage.social/@BlumeEvolution/117562266646320726",
       "engagement": 40,
       "ts": "2026-11-05T05:50:28.000Z",
-      "followers": 3984,
+      "followers": 3989,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Bluesky",
-      "author": "@sixtus.net",
-      "handle": "sixtus.net",
-      "text": "Macht das nicht überlichterweise Manuel Hagel, unterstützt von der Bundeswehr?",
-      "url": "https://bsky.app/profile/sixtus.net/post/3mznusmzwqc2s",
-      "engagement": 26,
-      "ts": "2026-11-06T17:10:42.443Z",
-      "followers": 39778,
+      "author": "@nroettgen.bsky.social",
+      "handle": "nroettgen.bsky.social",
+      "text": "Vorsichtiger Optimismus ist ok, voreilige Aussagen sind deplatziert. Wir sind mit dem Aufwuchs der Bundeswehr noch lange nicht da, wo wir hin müssen. Die aktuellen Zahlen sind die ersten fünf Kilometer eines Marathons.\npresse-augsburg.de/roettgen-kri...",
+      "url": "https://bsky.app/profile/nroettgen.bsky.social/post/3mzqckiqt7s2i",
+      "engagement": 27,
+      "ts": "2026-11-07T16:22:01.376Z",
+      "followers": 22653,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@snoopde.eurosky.social",
+      "handle": "snoopde.eurosky.social",
+      "text": "#GenZregelt wird es freuen\n\nDazu ist aber auch nötig entschieden gegen Russland vorzugehen.\nDenn, ist Russland erst in Polen, sind wir alle Soldaten\n\nBtw: ist Pistorius der einzige der bisher Inhaltlich auf die Demos überhaupt reagiert?",
+      "url": "https://bsky.app/profile/snoopde.eurosky.social/post/3mzpvigbkoc2d",
+      "engagement": 9,
+      "ts": "2026-11-07T12:28:13.029Z",
+      "followers": 2657,
+      "isBot": false,
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Mastodon",
+      "author": "@lisapoettinger@todon.eu",
+      "text": "So sieht sie aus die groooße Opposition. Wenn Rassismus & Sexismus nicht überzeugend genug sind, dann vielleicht das: die # AfD schickt unsere Freunde, Söhne, Kollegen genau so in den # Krieg wie alle anderen etablierten Parteien. Sie ist Teil der # Zeitenwende .",
+      "url": "https://todon.eu/@lisapoettinger/117569272784323899",
+      "engagement": 9,
+      "ts": "2026-11-06T11:32:13.000Z",
+      "followers": 2934,
+      "isBot": false,
+      "sentiment": "negativ"
     },
     {
       "platform": "Mastodon",
       "author": "@tagesschau@ard.social",
-      "text": "Gen-Z-Proteste: Was die Bundesregierung für die Jugend macht Die bundesweit angekündigten Proteste junger Menschen werfen die Frage auf: Tut die Politik zu wenig für Jugendliche? Fragen an zwei junge Abgeordnete mit Blick auf Rente, Wehrdienst und Bildung. Von Sarah Beham. ➡️ https://www. tagesschau.de/inland/innenpoli tik/jugendproteste-bundesregierung-100.html?at_medium=mastodon&at_campaign=tage",
-      "url": "https://ard.social/@tagesschau/117534975772586003",
-      "engagement": 15,
-      "ts": "2026-10-31T10:10:02.000Z",
+      "text": "Pistorius rechnet derzeit nicht mit Rückkehr zur Wehrpflicht Die Wiedereinführung der Wehrpflicht scheint zum jetzigen Zeitpunkt offenbar nicht nötig. Verteidigungsminister Pistorius berichtet von einer positiven Entwicklung beim Bundeswehrpersonal. Er will künftig mehr Frauen für die Bundeswehr gewinnen. ➡️ https://www. tagesschau.de/inland/innenpoli tik/bundeswehr-diskussion-wehrpflicht-100.html",
+      "url": "https://ard.social/@tagesschau/117573876641549951",
+      "engagement": 5,
+      "ts": "2026-11-07T07:03:02.000Z",
       "followers": 95068,
       "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@loyalmagazin.bsky.social",
-      "handle": "loyalmagazin.bsky.social",
-      "text": "3/4 General Freuding wird der 18. Generalinspekteur der Bundeswehr seit der Einführung des Amtes im Jahre 1957. Er ist der 13. Heeressoldat, der die Funktion des obersten militärischen Beraters des Verteidigungsministers und der Bundesregierung übernimmt. 👉",
-      "url": "https://bsky.app/profile/loyalmagazin.bsky.social/post/3mznkqw6h6s2p",
-      "engagement": 6,
-      "ts": "2026-11-06T14:10:45.293Z",
-      "followers": 859,
-      "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@dermonologist.bsky.social",
-      "handle": "dermonologist.bsky.social",
-      "text": "Rettungsübung in Zeiten hybrider Bedrohung: Regionalzug kollidiert mit einem Militärtransport, Dutzende Schwerverletzte, kein Handynetz. In der Lausitz haben über 1000 Rettungskräfte, Feuerwehr, Polizei & Bundeswehr zivil-militärische Zusammenarbeit geübt. \nshare.deutschlandradio.de/dlf-audiothe...",
-      "url": "https://bsky.app/profile/dermonologist.bsky.social/post/3mznqth3lrs2a",
-      "engagement": 3,
-      "ts": "2026-11-06T15:59:34.792Z",
-      "followers": 3112,
-      "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -69,7 +80,7 @@
       "ts": "2026-11-05T14:01:01.000Z",
       "followers": 95068,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
@@ -91,18 +102,7 @@
       "ts": "2026-11-04T13:45:20.000Z",
       "followers": 9998,
       "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Mastodon",
-      "author": "@tagesschau@ard.social",
-      "text": "Aus für UN-Friedensmission in der Westsahara nach Veto im UN-Sicherheitsrat Nach mehr als 30 Jahren das Aus für die UN-Friedensmission MINURSO: Russland hat die Verlängerung im UN-Sicherheitsrat blockiert. Damit müssen zivile und militärische Kräfte das Gebiet in den kommenden Tagen verlassen - auch deutsche Soldaten. ➡️ https://www. tagesschau.de/ausland/afrika/w estsahara-un-mission-100.html?at_",
-      "url": "https://ard.social/@tagesschau/117536403145960591",
-      "engagement": 1,
-      "ts": "2026-10-31T16:13:02.000Z",
-      "followers": 95068,
-      "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -113,7 +113,17 @@
       "ts": "2026-11-04T13:15:14.000Z",
       "followers": 9998,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "Reddit r/de",
+      "author": "u/Conscious_Glove6032",
+      "text": "Bundeswehr: Boris Pistorius sieht derzeit keine Notwendigkeit für Wehrpflicht",
+      "url": "https://www.reddit.com/r/de/comments/1xq1hze/bundeswehr_boris_pistorius_sieht_derzeit_keine/",
+      "engagement": 0,
+      "ts": "2026-11-07T08:30:56+00:00",
+      "alwaysKeep": true,
+      "sentiment": "negativ"
     },
     {
       "platform": "Reddit r/de",
@@ -123,17 +133,27 @@
       "engagement": 0,
       "ts": "2026-11-05T14:19:42+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
-      "platform": "Reddit r/de",
-      "author": "u/WombatusMighty",
-      "text": "F-35A-Kampfjets: Warum die Bundeswehr von den USA abhängig ist",
-      "url": "https://www.reddit.com/r/de/comments/1xkl3z6/f35akampfjets_warum_die_bundeswehr_von_den_usa/",
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Pistorius sieht (vorerst) keine Notwendigkeit für Wehrpflicht – Fragebogen nicht für Nachwuchswerbung",
+      "url": "https://augengeradeaus.net/2026/11/pistorius-sieht-vorerst-keine-notwendigkeit-fuer-wehrpflicht-fragebogen-nicht-fuer-nachwuchswerbung/",
       "engagement": 0,
-      "ts": "2026-10-31T20:53:41+00:00",
+      "ts": "Sat, 07 Nov 2026 17:44:48 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Sicherheitshalber der Podcast #113: Der global-galaktische Weltraum-Rundumschlag | Wie trumpy werden die nächsten zwei Jahre?",
+      "url": "https://augengeradeaus.net/2026/11/sicherheitshalber-der-podcast-113-der-global-galaktische-weltraum-rundumschlag-wie-trumpy-werden-die-naechsten-zwei-jahre/",
+      "engagement": 0,
+      "ts": "Sat, 07 Nov 2026 17:07:32 +0000",
+      "alwaysKeep": true,
+      "sentiment": "kritisch"
     },
     {
       "platform": "Augen geradeaus!",
@@ -143,7 +163,7 @@
       "engagement": 0,
       "ts": "Thu, 05 Nov 2026 15:47:26 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Augen geradeaus!",
@@ -162,6 +182,26 @@
       "url": "https://augengeradeaus.net/2026/11/erneuter-anlauf-fuer-die-rueckkehr-der-lazarettzuege/",
       "engagement": 0,
       "ts": "Tue, 03 Nov 2026 19:58:16 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Speed Care Mineral: „Unser Produkt ist absolut gefährlich“",
+      "url": "https://esut.de/2026/11/fachbeitraege/76240/speed-care-mineral-gefaehrlich/",
+      "engagement": 0,
+      "ts": "Sat, 07 Nov 2026 09:46:43 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Demokratie unter Druck: Die Suche nach einer neuen Mitte",
+      "url": "https://esut.de/2026/11/fachbeitraege/76261/demokratie-deutschland-mitte/",
+      "engagement": 0,
+      "ts": "Sat, 07 Nov 2026 09:00:39 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -206,32 +246,32 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Vorwürfe über möglichen Chemiewaffeneinsatz der Huthi",
-      "url": "https://esut.de/2026/11/meldungen/76597/chemiewaffeneinsatz-der-huthi/",
+      "platform": "Tagesschau Alle Meldungen",
+      "author": "Tagesschau Alle Meldungen",
+      "text": "Medienbericht: Kaum Geld aus Sondervermögen in Bildungsinfrastruktur geflossen",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/sondervermoegen-bildungsinfrastruktur-100.html",
       "engagement": 0,
-      "ts": "Thu, 05 Nov 2026 13:03:31 +0000",
+      "ts": "Sun, 08 Nov 2026 04:28:25 +0100",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
-      "platform": "Welt Topnews",
-      "author": "Welt Topnews",
-      "text": "„Keine Aufwuchsprobleme“ – Bundeswehr kann Personalbedarf wohl ohne Wehrpflicht decken",
-      "url": "https://www.welt.de/politik/article6aee8645a389bc337cfc89aa/boris-pistorius-keine-aufwuchsprobleme-bundeswehr-kann-personalbedarf-wohl-ohne-wehrpflicht-decken.html",
+      "platform": "Spiegel Politik",
+      "author": "Spiegel Politik",
+      "text": "Bundeswehr: Personalbedarf kann laut Boris Pistorius voraussichtlich auch ohne Wehrpflicht gedeckt werden",
+      "url": "https://www.spiegel.de/politik/deutschland/bundeswehr-personalbedarf-kann-laut-boris-pistorius-voraussichtlich-auch-ohne-wehrpflicht-gedeckt-werden-a-34b7a192-f4f4-4446-b403-dd06d7d30212#ref=rss",
       "engagement": 0,
-      "ts": "Sat, 07 Nov 2026 03:35:12 GMT",
+      "ts": "Sat, 7 Nov 2026 08:05:00 +0100",
       "alwaysKeep": true,
       "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Der Diskurs des Tages dominiert durch die Berichte über den neuen Generalinspekteur der Bundeswehr Christian Freuding, Proteste von Jugendlichen und die Rolle der Bundeswehr in der internationalen Sicherheit.",
+    "summary": "Der Diskurs dominiert heute die Bundeswehr-Debatte, insbesondere im Hinblick auf Freiwilligkeit und Wehrpflicht. Pistorius' Aussagen über die Unnotwendigkeit einer Wehrpflicht sorgen für Kontroversen.",
     "themes": [
-      "Christian Freuding wird neuer Generalinspekteur der Bundeswehr",
-      "Gen-Z-Proteste: Was die Bundesregierung für die Jugend macht",
-      "Europäische Sicherheitspolitik und -technologie"
+      "Pistorius' Wehrdienst-Modell",
+      "AfD-Faschismus-Vorwurf",
+      "Beschaffungsverzögerung von Speed Care Mineral"
     ]
   }
 }

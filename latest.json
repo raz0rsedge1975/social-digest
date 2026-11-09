@@ -1,19 +1,7 @@
 {
-  "generated": "2026-11-08T04:33:00.298Z",
-  "timestamp": "8.11.2026, 05:33:00",
+  "generated": "2026-11-09T04:32:58.053Z",
+  "timestamp": "9.11.2026, 05:32:58",
   "items": [
-    {
-      "platform": "Bluesky",
-      "author": "@waldorfcharles.bsky.social",
-      "handle": "waldorfcharles.bsky.social",
-      "text": "Wie wär’s mit Freiwilligkeit und kostenlosem Führerschein? Also freiwillig Bundeswehr, THW, Feuerwehr, Pflege usw.",
-      "url": "https://bsky.app/profile/waldorfcharles.bsky.social/post/3mzpxnkt7yk2a",
-      "engagement": 92,
-      "ts": "2026-11-07T13:06:53.059Z",
-      "followers": 7372,
-      "isBot": false,
-      "sentiment": "positiv"
-    },
     {
       "platform": "Mastodon",
       "author": "@BlumeEvolution@digitalcourage.social",
@@ -21,31 +9,19 @@
       "url": "https://digitalcourage.social/@BlumeEvolution/117562266646320726",
       "engagement": 40,
       "ts": "2026-11-05T05:50:28.000Z",
-      "followers": 3989,
+      "followers": 3990,
       "isBot": false,
       "sentiment": "positiv"
     },
     {
       "platform": "Bluesky",
-      "author": "@nroettgen.bsky.social",
-      "handle": "nroettgen.bsky.social",
-      "text": "Vorsichtiger Optimismus ist ok, voreilige Aussagen sind deplatziert. Wir sind mit dem Aufwuchs der Bundeswehr noch lange nicht da, wo wir hin müssen. Die aktuellen Zahlen sind die ersten fünf Kilometer eines Marathons.\npresse-augsburg.de/roettgen-kri...",
-      "url": "https://bsky.app/profile/nroettgen.bsky.social/post/3mzqckiqt7s2i",
-      "engagement": 27,
-      "ts": "2026-11-07T16:22:01.376Z",
-      "followers": 22653,
-      "isBot": false,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@snoopde.eurosky.social",
-      "handle": "snoopde.eurosky.social",
-      "text": "#GenZregelt wird es freuen\n\nDazu ist aber auch nötig entschieden gegen Russland vorzugehen.\nDenn, ist Russland erst in Polen, sind wir alle Soldaten\n\nBtw: ist Pistorius der einzige der bisher Inhaltlich auf die Demos überhaupt reagiert?",
-      "url": "https://bsky.app/profile/snoopde.eurosky.social/post/3mzpvigbkoc2d",
-      "engagement": 9,
-      "ts": "2026-11-07T12:28:13.029Z",
-      "followers": 2657,
+      "author": "@keine-aahnung31675.bsky.social",
+      "handle": "keine-aahnung31675.bsky.social",
+      "text": "Ganz nach dem Drehbuch der Heritage Foundation: Arme knechten, Bürgergeld kürzen, Polizei aufmarschieren lassen, drohende Demos niederknüppeln lassen, im Ernstfall Bundeswehr mobilisieren. So sieht's also aus. 🤮🤮",
+      "url": "https://bsky.app/profile/keine-aahnung31675.bsky.social/post/3mzsjnywsmc2a",
+      "engagement": 10,
+      "ts": "2026-11-08T13:34:34.680Z",
+      "followers": 4751,
       "isBot": false,
       "sentiment": "kritisch"
     },
@@ -65,7 +41,7 @@
       "author": "@tagesschau@ard.social",
       "text": "Pistorius rechnet derzeit nicht mit Rückkehr zur Wehrpflicht Die Wiedereinführung der Wehrpflicht scheint zum jetzigen Zeitpunkt offenbar nicht nötig. Verteidigungsminister Pistorius berichtet von einer positiven Entwicklung beim Bundeswehrpersonal. Er will künftig mehr Frauen für die Bundeswehr gewinnen. ➡️ https://www. tagesschau.de/inland/innenpoli tik/bundeswehr-diskussion-wehrpflicht-100.html",
       "url": "https://ard.social/@tagesschau/117573876641549951",
-      "engagement": 5,
+      "engagement": 6,
       "ts": "2026-11-07T07:03:02.000Z",
       "followers": 95068,
       "isBot": false,
@@ -91,7 +67,7 @@
       "ts": "2026-11-06T18:37:03.000Z",
       "followers": 87321,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -101,6 +77,18 @@
       "engagement": 2,
       "ts": "2026-11-04T13:45:20.000Z",
       "followers": 9998,
+      "isBot": false,
+      "sentiment": "negativ"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@claudiasalowski.bsky.social",
+      "handle": "claudiasalowski.bsky.social",
+      "text": "Die A-2610/2 Allgemeine Regelung zum Umgang mit Sexualität und sexualisiertem Fehlverhalten des BMVg ist in ihrer aktuellen Form seit 01.09.2023 gültig. Das Problem ist nicht, dass es keinen klaren Kodex gibt, auf den alle verpflichtet wären, sondern dass ihn nicht alle einhalten.",
+      "url": "https://bsky.app/profile/claudiasalowski.bsky.social/post/3mzs3k5upm22k",
+      "engagement": 1,
+      "ts": "2026-11-08T09:21:53.256Z",
+      "followers": 4466,
       "isBot": false,
       "sentiment": "kritisch"
     },
@@ -113,7 +101,17 @@
       "ts": "2026-11-04T13:15:14.000Z",
       "followers": 9998,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Reddit r/de",
+      "author": "u/DubioserKerl",
+      "text": "Bundeswehr - Söder: \"Brauchen wieder echte Wehrpflicht\"",
+      "url": "https://www.reddit.com/r/de/comments/1xqs8dk/bundeswehr_söder_brauchen_wieder_echte_wehrpflicht/",
+      "engagement": 0,
+      "ts": "2026-11-08T06:58:01+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -123,7 +121,7 @@
       "engagement": 0,
       "ts": "2026-11-07T08:30:56+00:00",
       "alwaysKeep": true,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Reddit r/de",
@@ -133,7 +131,7 @@
       "engagement": 0,
       "ts": "2026-11-05T14:19:42+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -143,7 +141,7 @@
       "engagement": 0,
       "ts": "Sat, 07 Nov 2026 17:44:48 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -153,7 +151,7 @@
       "engagement": 0,
       "ts": "Sat, 07 Nov 2026 17:07:32 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -163,7 +161,7 @@
       "engagement": 0,
       "ts": "Thu, 05 Nov 2026 15:47:26 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -182,6 +180,16 @@
       "url": "https://augengeradeaus.net/2026/11/erneuter-anlauf-fuer-die-rueckkehr-der-lazarettzuege/",
       "engagement": 0,
       "ts": "Tue, 03 Nov 2026 19:58:16 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Erdbeben bei den US-Midterms: Was nun, Mr. President?",
+      "url": "https://esut.de/2026/11/meldungen/76662/erdbeben-us-midterms-president/",
+      "engagement": 0,
+      "ts": "Sun, 08 Nov 2026 09:37:00 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -234,44 +242,14 @@
       "ts": "Fri, 06 Nov 2026 09:33:21 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Indien lässt Boeing 767 zu Tankflugzeugen umrüsten",
-      "url": "https://esut.de/2026/11/meldungen/76617/indien-boeing-767-tankflugzeugen/",
-      "engagement": 0,
-      "ts": "Fri, 06 Nov 2026 08:08:27 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Tagesschau Alle Meldungen",
-      "author": "Tagesschau Alle Meldungen",
-      "text": "Medienbericht: Kaum Geld aus Sondervermögen in Bildungsinfrastruktur geflossen",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/sondervermoegen-bildungsinfrastruktur-100.html",
-      "engagement": 0,
-      "ts": "Sun, 08 Nov 2026 04:28:25 +0100",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Spiegel Politik",
-      "author": "Spiegel Politik",
-      "text": "Bundeswehr: Personalbedarf kann laut Boris Pistorius voraussichtlich auch ohne Wehrpflicht gedeckt werden",
-      "url": "https://www.spiegel.de/politik/deutschland/bundeswehr-personalbedarf-kann-laut-boris-pistorius-voraussichtlich-auch-ohne-wehrpflicht-gedeckt-werden-a-34b7a192-f4f4-4446-b403-dd06d7d30212#ref=rss",
-      "engagement": 0,
-      "ts": "Sat, 7 Nov 2026 08:05:00 +0100",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Der Diskurs dominiert heute die Bundeswehr-Debatte, insbesondere im Hinblick auf Freiwilligkeit und Wehrpflicht. Pistorius' Aussagen über die Unnotwendigkeit einer Wehrpflicht sorgen für Kontroversen.",
+    "summary": "Der Diskurs dominiert die Debatte über die Wehrpflicht, die A-2610/2 und die Beschaffungsverzögerung bei der Bundeswehr. Christian Freuding wird neuer Generalinspekteur der Bundeswehr.",
     "themes": [
       "Pistorius' Wehrdienst-Modell",
-      "AfD-Faschismus-Vorwurf",
-      "Beschaffungsverzögerung von Speed Care Mineral"
+      "Beschaffungsverzögerung bei der Bundeswehr",
+      "A-2610/2 und sexueller Fehlverhalten"
     ]
   }
 }

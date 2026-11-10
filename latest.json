@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-09T04:32:58.053Z",
-  "timestamp": "9.11.2026, 05:32:58",
+  "generated": "2026-11-10T04:32:55.466Z",
+  "timestamp": "10.11.2026, 05:32:55",
   "items": [
     {
       "platform": "Mastodon",
@@ -9,21 +9,9 @@
       "url": "https://digitalcourage.social/@BlumeEvolution/117562266646320726",
       "engagement": 40,
       "ts": "2026-11-05T05:50:28.000Z",
-      "followers": 3990,
+      "followers": 3994,
       "isBot": false,
-      "sentiment": "positiv"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@keine-aahnung31675.bsky.social",
-      "handle": "keine-aahnung31675.bsky.social",
-      "text": "Ganz nach dem Drehbuch der Heritage Foundation: Arme knechten, Bürgergeld kürzen, Polizei aufmarschieren lassen, drohende Demos niederknüppeln lassen, im Ernstfall Bundeswehr mobilisieren. So sieht's also aus. 🤮🤮",
-      "url": "https://bsky.app/profile/keine-aahnung31675.bsky.social/post/3mzsjnywsmc2a",
-      "engagement": 10,
-      "ts": "2026-11-08T13:34:34.680Z",
-      "followers": 4751,
-      "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -34,7 +22,7 @@
       "ts": "2026-11-06T11:32:13.000Z",
       "followers": 2934,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -43,9 +31,9 @@
       "url": "https://ard.social/@tagesschau/117573876641549951",
       "engagement": 6,
       "ts": "2026-11-07T07:03:02.000Z",
-      "followers": 95068,
+      "followers": 95180,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "negativ"
     },
     {
       "platform": "Mastodon",
@@ -54,9 +42,9 @@
       "url": "https://ard.social/@tagesschau/117564195597959388",
       "engagement": 3,
       "ts": "2026-11-05T14:01:01.000Z",
-      "followers": 95068,
+      "followers": 95180,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -82,13 +70,13 @@
     },
     {
       "platform": "Bluesky",
-      "author": "@claudiasalowski.bsky.social",
-      "handle": "claudiasalowski.bsky.social",
-      "text": "Die A-2610/2 Allgemeine Regelung zum Umgang mit Sexualität und sexualisiertem Fehlverhalten des BMVg ist in ihrer aktuellen Form seit 01.09.2023 gültig. Das Problem ist nicht, dass es keinen klaren Kodex gibt, auf den alle verpflichtet wären, sondern dass ihn nicht alle einhalten.",
-      "url": "https://bsky.app/profile/claudiasalowski.bsky.social/post/3mzs3k5upm22k",
-      "engagement": 1,
-      "ts": "2026-11-08T09:21:53.256Z",
-      "followers": 4466,
+      "author": "@chillthecat.bsky.social",
+      "handle": "chillthecat.bsky.social",
+      "text": "Aber Hauptsache hundert Milliarden für die Bundeswehr. Nur in Deutschland.",
+      "url": "https://bsky.app/profile/chillthecat.bsky.social/post/3mzveotrh6s2q",
+      "engagement": 0,
+      "ts": "2026-11-09T16:43:33.328Z",
+      "followers": 6389,
       "isBot": false,
       "sentiment": "kritisch"
     },
@@ -101,7 +89,7 @@
       "ts": "2026-11-04T13:15:14.000Z",
       "followers": 9998,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "negativ"
     },
     {
       "platform": "Reddit r/de",
@@ -186,70 +174,70 @@
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
+      "text": "TYTAN eröffnet Fertigung für 3.000 Abfangdrohnen in Bayern",
+      "url": "https://esut.de/2026/11/meldungen/76701/tytan-3-000-abfangdrohnen-bayern/",
+      "engagement": 0,
+      "ts": "Mon, 09 Nov 2026 17:41:35 +0000",
+      "alwaysKeep": true,
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Neuer Arctic Hunter soll U-Boote im Nordatlantik aufspüren",
+      "url": "https://esut.de/2026/11/meldungen/76688/arctic-hunter-u-boote-nordatlantik/",
+      "engagement": 0,
+      "ts": "Mon, 09 Nov 2026 11:19:25 +0000",
+      "alwaysKeep": true,
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Patria auf Expansionskurs: Mehr Fahrzeugproduktion und neue unbemannte Kettenfahrzeuge",
+      "url": "https://esut.de/2026/11/meldungen/76676/patria-unbemannte-kettenfahrzeuge/",
+      "engagement": 0,
+      "ts": "Mon, 09 Nov 2026 09:47:27 +0000",
+      "alwaysKeep": true,
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Skyranger erobert Europa: Auch Belgien bestellt 20 Systeme",
+      "url": "https://esut.de/2026/11/meldungen/76678/skyranger-erobert-europ-belgien-20/",
+      "engagement": 0,
+      "ts": "Mon, 09 Nov 2026 09:41:33 +0000",
+      "alwaysKeep": true,
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Deutz baut auf Defence",
+      "url": "https://esut.de/2026/11/fachbeitraege/76243/deutz-baut-auf-defence/",
+      "engagement": 0,
+      "ts": "Mon, 09 Nov 2026 07:50:42 +0000",
+      "alwaysKeep": true,
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
       "text": "Erdbeben bei den US-Midterms: Was nun, Mr. President?",
       "url": "https://esut.de/2026/11/meldungen/76662/erdbeben-us-midterms-president/",
       "engagement": 0,
       "ts": "Sun, 08 Nov 2026 09:37:00 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Speed Care Mineral: „Unser Produkt ist absolut gefährlich“",
-      "url": "https://esut.de/2026/11/fachbeitraege/76240/speed-care-mineral-gefaehrlich/",
-      "engagement": 0,
-      "ts": "Sat, 07 Nov 2026 09:46:43 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Demokratie unter Druck: Die Suche nach einer neuen Mitte",
-      "url": "https://esut.de/2026/11/fachbeitraege/76261/demokratie-deutschland-mitte/",
-      "engagement": 0,
-      "ts": "Sat, 07 Nov 2026 09:00:39 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Europäisches Interesse an Barak 8 wächst",
-      "url": "https://esut.de/2026/11/meldungen/76657/europaeisches-interesse-an-barak-8/",
-      "engagement": 0,
-      "ts": "Fri, 06 Nov 2026 13:11:31 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Mekka-Verteidigungspakt: Saudi-Arabien, Türkei und Pakistan stärken Zusammenarbeit",
-      "url": "https://esut.de/2026/11/fachbeitraege/76278/mekka-verteidigungspakt/",
-      "engagement": 0,
-      "ts": "Fri, 06 Nov 2026 09:55:43 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Südkoreas Rüstungsindustrie: Warum Europa auf „K-Defense“ setzt",
-      "url": "https://esut.de/2026/11/fachbeitraege/76232/suedkoreas-ruestungsindustrie/",
-      "engagement": 0,
-      "ts": "Fri, 06 Nov 2026 09:33:21 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     }
   ],
   "analysis": {
-    "summary": "Der Diskurs dominiert die Debatte über die Wehrpflicht, die A-2610/2 und die Beschaffungsverzögerung bei der Bundeswehr. Christian Freuding wird neuer Generalinspekteur der Bundeswehr.",
+    "summary": "Die Diskussion um die Wehrpflicht und die Rolle der Bundeswehr im Mittelmeer dominiert den heutigen Diskurs. Christian Freuding wird neuer Generalinspekteur der Bundeswehr, während Boris Pistorius keine Notwendigkeit für Wehrpflicht sieht.",
     "themes": [
       "Pistorius' Wehrdienst-Modell",
-      "Beschaffungsverzögerung bei der Bundeswehr",
-      "A-2610/2 und sexueller Fehlverhalten"
+      "Bundeswehr im Mittelmeer",
+      "Wehrpflicht und Sicherheit"
     ]
   }
 }

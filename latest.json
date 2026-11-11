@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-10T04:32:55.466Z",
-  "timestamp": "10.11.2026, 05:32:55",
+  "generated": "2026-11-11T04:33:07.289Z",
+  "timestamp": "11.11.2026, 05:33:07",
   "items": [
     {
       "platform": "Mastodon",
@@ -14,6 +14,30 @@
       "sentiment": "neutral"
     },
     {
+      "platform": "Bluesky",
+      "author": "@hartpunkt.bsky.social",
+      "handle": "hartpunkt.bsky.social",
+      "text": "Aus Spionagegründen verbannt die Bundeswehr Drohnen und Autos chinesischer Bauart aus der Kaserne. Dieser Schritt greift jedoch zu kurz, denn wenn Drohnen und Autos eine Spionagegefahr darstellen, dann sicherlich auch Mobiltelefone und weitere IT-Geräte.\n\nwww.hartpunkt.de/zu-kurz-gesp...",
+      "url": "https://bsky.app/profile/hartpunkt.bsky.social/post/3mzy2j5cjmk2f",
+      "engagement": 26,
+      "ts": "2026-11-10T18:19:23.794Z",
+      "followers": 990,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@zeit.de",
+      "handle": "zeit.de",
+      "text": "Die Bundeswehr befürchtet, dass Drohnen chinesischer Hersteller sensible Daten an Geheimdienste weiterleiten. Sie sollen durch europäische Produkte ersetzt werden. ",
+      "url": "https://bsky.app/profile/zeit.de/post/3mzyqw4j7i62i",
+      "engagement": 13,
+      "ts": "2026-11-11T00:49:56.000Z",
+      "followers": 53399,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
       "platform": "Mastodon",
       "author": "@lisapoettinger@todon.eu",
       "text": "So sieht sie aus die groooße Opposition. Wenn Rassismus & Sexismus nicht überzeugend genug sind, dann vielleicht das: die # AfD schickt unsere Freunde, Söhne, Kollegen genau so in den # Krieg wie alle anderen etablierten Parteien. Sie ist Teil der # Zeitenwende .",
@@ -22,7 +46,7 @@
       "ts": "2026-11-06T11:32:13.000Z",
       "followers": 2934,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -33,7 +57,31 @@
       "ts": "2026-11-07T07:03:02.000Z",
       "followers": 95180,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@demon81.bsky.social",
+      "handle": "demon81.bsky.social",
+      "text": "Deutsche Polizei und Bundeswehr:\n\nJetzt bin ich was, jetzt kann ich was, jetzt hab ich eine Uniform.\n🫡",
+      "url": "https://bsky.app/profile/demon81.bsky.social/post/3mzxyrtubj22i",
+      "engagement": 5,
+      "ts": "2026-11-10T17:48:28.396Z",
+      "followers": 2374,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@sensehofstede.nl",
+      "handle": "sensehofstede.nl",
+      "text": "Der Spiegel: Bundeswehr verbannt chinesische Drohnen und Autos aus den Kasernen: „In den vergangenen Wochen wurde für die gesamte Bundeswehr angeordnet, dass bereits angeschaffte handelsübliche Drohnen der großen chinesischen Hersteller wie DJI nicht mehr eingesetzt werden sollen.“",
+      "url": "https://bsky.app/profile/sensehofstede.nl/post/3mzyiz64uwk2v",
+      "engagement": 3,
+      "ts": "2026-11-10T22:38:53.914Z",
+      "followers": 3360,
+      "isBot": false,
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -55,7 +103,7 @@
       "ts": "2026-11-06T18:37:03.000Z",
       "followers": 87321,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -66,19 +114,19 @@
       "ts": "2026-11-04T13:45:20.000Z",
       "followers": 9998,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
-      "author": "@chillthecat.bsky.social",
-      "handle": "chillthecat.bsky.social",
-      "text": "Aber Hauptsache hundert Milliarden für die Bundeswehr. Nur in Deutschland.",
-      "url": "https://bsky.app/profile/chillthecat.bsky.social/post/3mzveotrh6s2q",
+      "author": "@siebensiebensieben.bsky.social",
+      "handle": "siebensiebensieben.bsky.social",
+      "text": "🤔\n\nDie Bundeswehr setzt bei Übungen bislang auch auf chinesische Drohnen. Doch damit soll jetzt Schluss sein. Das Verteidigungsministerium befürchtet, dass sensible Daten nach Peking weitergeleitet werden könnten. Soldaten mit Autos aus China müssen nun außerhalb der Kasernen parken.",
+      "url": "https://bsky.app/profile/siebensiebensieben.bsky.social/post/3mzymmqnutc2s",
       "engagement": 0,
-      "ts": "2026-11-09T16:43:33.328Z",
-      "followers": 6389,
+      "ts": "2026-11-10T23:43:32.106Z",
+      "followers": 2145,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -89,35 +137,36 @@
       "ts": "2026-11-04T13:15:14.000Z",
       "followers": 9998,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
-      "platform": "Reddit r/de",
-      "author": "u/DubioserKerl",
-      "text": "Bundeswehr - Söder: \"Brauchen wieder echte Wehrpflicht\"",
-      "url": "https://www.reddit.com/r/de/comments/1xqs8dk/bundeswehr_söder_brauchen_wieder_echte_wehrpflicht/",
+      "platform": "Mastodon",
+      "author": "@tagesschau@ard.social",
+      "text": "Zahl der Kriegsdienstverweigerer steigt weiter deutlich Der Wehrdienst bleibt weiterhin freiwillig. Die Musterung bei Männern ist allerdings verpflichtend. Die Zahl der Kriegsdienstverweigerungen steigt in diesem Jahr deutlich an. ➡️ https://www. tagesschau.de/inland/kriegsdie nstverweigerer-steigend-100.html?at_medium=mastodon&at_campaign=tagesschau.de # Wehrdienst",
+      "url": "https://ard.social/@tagesschau/117595896700534697",
       "engagement": 0,
-      "ts": "2026-11-08T06:58:01+00:00",
+      "ts": "2026-11-11T04:23:02.000Z",
+      "followers": 95180,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Reddit r/bundeswehr",
+      "author": "u/Plane_Substance8720",
+      "text": "Bundeswehr-Merchandise",
+      "url": "https://www.reddit.com/r/bundeswehr/comments/1xsxvi0/bundeswehrmerchandise/",
+      "engagement": 0,
+      "ts": "2026-11-10T20:33:57+00:00",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
-      "platform": "Reddit r/de",
-      "author": "u/Conscious_Glove6032",
-      "text": "Bundeswehr: Boris Pistorius sieht derzeit keine Notwendigkeit für Wehrpflicht",
-      "url": "https://www.reddit.com/r/de/comments/1xq1hze/bundeswehr_boris_pistorius_sieht_derzeit_keine/",
+      "platform": "Reddit r/bundeswehr",
+      "author": "u/Ulfstructor",
+      "text": "Unter Waffen wird nicht gegrüßt?",
+      "url": "https://www.reddit.com/r/bundeswehr/comments/1xsi0ep/unter_waffen_wird_nicht_gegrüßt/",
       "engagement": 0,
-      "ts": "2026-11-07T08:30:56+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Reddit r/de",
-      "author": "u/genericdude234",
-      "text": "Christian Freuding wird neuer Generalinspekteur der Bundeswehr",
-      "url": "https://www.reddit.com/r/de/comments/1xojtql/christian_freuding_wird_neuer_generalinspekteur/",
-      "engagement": 0,
-      "ts": "2026-11-05T14:19:42+00:00",
+      "ts": "2026-11-10T08:52:50+00:00",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -162,82 +211,92 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Erneuter Anlauf für die Rückkehr der Lazarettzüge",
-      "url": "https://augengeradeaus.net/2026/11/erneuter-anlauf-fuer-die-rueckkehr-der-lazarettzuege/",
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "NATO testet neue Sensoren zur Drohnenabwehr in Dänemark",
+      "url": "https://esut.de/2026/11/meldungen/76740/nato-senso-drohnenabwehr-daenemark/",
       "engagement": 0,
-      "ts": "Tue, 03 Nov 2026 19:58:16 +0000",
+      "ts": "Tue, 10 Nov 2026 19:05:23 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "TYTAN eröffnet Fertigung für 3.000 Abfangdrohnen in Bayern",
-      "url": "https://esut.de/2026/11/meldungen/76701/tytan-3-000-abfangdrohnen-bayern/",
+      "text": "Neue deutsche Fertigung für 155 mm Artilleriemunition gestartet",
+      "url": "https://esut.de/2026/11/meldungen/76732/fertigung-155mm-artilleriemunition/",
       "engagement": 0,
-      "ts": "Mon, 09 Nov 2026 17:41:35 +0000",
+      "ts": "Tue, 10 Nov 2026 17:36:53 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Neuer Arctic Hunter soll U-Boote im Nordatlantik aufspüren",
-      "url": "https://esut.de/2026/11/meldungen/76688/arctic-hunter-u-boote-nordatlantik/",
+      "text": "Neuer Generalinspekteur: Die Personalie Freuding weckt hohe Ansprüche",
+      "url": "https://esut.de/2026/11/meldungen/76720/generalinspekteur-freuding-heer/",
       "engagement": 0,
-      "ts": "Mon, 09 Nov 2026 11:19:25 +0000",
+      "ts": "Tue, 10 Nov 2026 14:42:11 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Patria auf Expansionskurs: Mehr Fahrzeugproduktion und neue unbemannte Kettenfahrzeuge",
-      "url": "https://esut.de/2026/11/meldungen/76676/patria-unbemannte-kettenfahrzeuge/",
+      "text": "AUKUS erprobt Drohnen zur U-Boot-Jagd im Pazifik",
+      "url": "https://esut.de/2026/11/meldungen/76717/aukus-drohnen-u-boot-jagd-pazifik/",
       "engagement": 0,
-      "ts": "Mon, 09 Nov 2026 09:47:27 +0000",
+      "ts": "Tue, 10 Nov 2026 14:29:45 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Skyranger erobert Europa: Auch Belgien bestellt 20 Systeme",
-      "url": "https://esut.de/2026/11/meldungen/76678/skyranger-erobert-europ-belgien-20/",
+      "text": "Russlands Blutzoll explodiert: 21.330 Soldaten in 9 Tagen",
+      "url": "https://esut.de/2026/11/meldungen/76709/russlands-blutzoll-21330-soldaten/",
       "engagement": 0,
-      "ts": "Mon, 09 Nov 2026 09:41:33 +0000",
+      "ts": "Tue, 10 Nov 2026 13:04:18 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
       "author": "ESUT Europ. Sicherheit",
-      "text": "Deutz baut auf Defence",
-      "url": "https://esut.de/2026/11/fachbeitraege/76243/deutz-baut-auf-defence/",
+      "text": "Fraunhofer FKIE: Neue Technologien – Schlagflügelplattformen",
+      "url": "https://esut.de/2026/11/fachbeitraege/74137/fkie-schlagfluegelplattformen/",
       "engagement": 0,
-      "ts": "Mon, 09 Nov 2026 07:50:42 +0000",
+      "ts": "Tue, 10 Nov 2026 10:26:43 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Erdbeben bei den US-Midterms: Was nun, Mr. President?",
-      "url": "https://esut.de/2026/11/meldungen/76662/erdbeben-us-midterms-president/",
+      "platform": "Tagesschau Alle Meldungen",
+      "author": "Tagesschau Alle Meldungen",
+      "text": "Zahl der Kriegsdienstverweigerer steigt weiter deutlich",
+      "url": "https://www.tagesschau.de/inland/kriegsdienstverweigerer-steigend-100.html",
       "engagement": 0,
-      "ts": "Sun, 08 Nov 2026 09:37:00 +0000",
+      "ts": "Wed, 11 Nov 2026 05:22:53 +0100",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Spiegel Politik",
+      "author": "Spiegel Politik",
+      "text": "Bundeswehr verbannt Drohnen und Autos aus China aus den Kasernen – Spionagegefahr",
+      "url": "https://www.spiegel.de/politik/deutschland/bundeswehr-verbannt-drohnen-und-autos-aus-china-aus-den-kasernen-spionagegefahr-a-551cf80d-6065-427d-b469-70727ea4cf24#ref=rss",
+      "engagement": 0,
+      "ts": "Tue, 10 Nov 2026 17:27:00 +0100",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Die Diskussion um die Wehrpflicht und die Rolle der Bundeswehr im Mittelmeer dominiert den heutigen Diskurs. Christian Freuding wird neuer Generalinspekteur der Bundeswehr, während Boris Pistorius keine Notwendigkeit für Wehrpflicht sieht.",
+    "summary": "Die Bundeswehr verbannt chinesische Drohnen und Autos aus den Kasernen, Pistorius rechnet nicht mit Rückkehr zur Wehrpflicht und die Zahl der Kriegsdienstverweigerer steigt weiter.",
     "themes": [
       "Pistorius' Wehrdienst-Modell",
-      "Bundeswehr im Mittelmeer",
-      "Wehrpflicht und Sicherheit"
+      "Bundeswehr-Chinesen-Verbanntung",
+      "Kriegsdienstverweigerung"
     ]
   }
 }

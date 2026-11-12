@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-11T04:33:07.289Z",
-  "timestamp": "11.11.2026, 05:33:07",
+  "generated": "2026-11-12T04:33:24.255Z",
+  "timestamp": "12.11.2026, 05:33:24",
   "items": [
     {
       "platform": "Mastodon",
@@ -9,31 +9,19 @@
       "url": "https://digitalcourage.social/@BlumeEvolution/117562266646320726",
       "engagement": 40,
       "ts": "2026-11-05T05:50:28.000Z",
-      "followers": 3994,
+      "followers": 3998,
       "isBot": false,
       "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
-      "author": "@hartpunkt.bsky.social",
-      "handle": "hartpunkt.bsky.social",
-      "text": "Aus Spionagegründen verbannt die Bundeswehr Drohnen und Autos chinesischer Bauart aus der Kaserne. Dieser Schritt greift jedoch zu kurz, denn wenn Drohnen und Autos eine Spionagegefahr darstellen, dann sicherlich auch Mobiltelefone und weitere IT-Geräte.\n\nwww.hartpunkt.de/zu-kurz-gesp...",
-      "url": "https://bsky.app/profile/hartpunkt.bsky.social/post/3mzy2j5cjmk2f",
-      "engagement": 26,
-      "ts": "2026-11-10T18:19:23.794Z",
-      "followers": 990,
-      "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@zeit.de",
-      "handle": "zeit.de",
-      "text": "Die Bundeswehr befürchtet, dass Drohnen chinesischer Hersteller sensible Daten an Geheimdienste weiterleiten. Sie sollen durch europäische Produkte ersetzt werden. ",
-      "url": "https://bsky.app/profile/zeit.de/post/3mzyqw4j7i62i",
-      "engagement": 13,
-      "ts": "2026-11-11T00:49:56.000Z",
-      "followers": 53399,
+      "author": "@ardor.bsky.social",
+      "handle": "ardor.bsky.social",
+      "text": "Die Zahl der Anträge auf #Kriegsdienstverweigerung ist deutlich angestiegen. Allein im Oktober kamen fast 1.900 Anträge hinzu.\nVom 1. Januar bis 31. Oktober sind insgesamt fast 17.000 Anträge auf Kriegsdienstverweigerung eingegangen.\n#Bundeswehr #Wehrpflicht #Aufrüstung #Militarisierung",
+      "url": "https://bsky.app/profile/ardor.bsky.social/post/3mzzcwhuelc2f",
+      "engagement": 28,
+      "ts": "2026-11-11T06:22:40.745Z",
+      "followers": 3525,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -44,7 +32,42 @@
       "url": "https://todon.eu/@lisapoettinger/117569272784323899",
       "engagement": 9,
       "ts": "2026-11-06T11:32:13.000Z",
-      "followers": 2934,
+      "followers": 2945,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@dokmz.bsky.social",
+      "handle": "dokmz.bsky.social",
+      "text": "Belästigungen und körperliche Gewalt: Studie offenbart verheerendes Ausmaß von sexualisiertem Fehlverhalten bei der Bundeswehr\nBesonders junge Soldatinnen in unteren Dienstgraden häufiges Ziel von Belästigung. Dunkelfeldstudie sexualisiertem Fehlverhalten in Bundeswehr: \ndokmz.com/2026/11/11/b...",
+      "url": "https://bsky.app/profile/dokmz.bsky.social/post/3n22wqabyhs2u",
+      "engagement": 8,
+      "ts": "2026-11-11T21:49:46.052Z",
+      "followers": 3000,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@hartpunkt.bsky.social",
+      "handle": "hartpunkt.bsky.social",
+      "text": "Anlässlich der medialen Berichterstattung über die Verbannung von Drohnen und Fahrzeugen chinesischer Bauart aus Bundeswehrkasernen präzisierte das Verteidigungsministerium in der heuten Bundespressekonferenz die aktuelle Regelung in der Bundeswehr.\n\nwww.hartpunkt.de/verteidigung...",
+      "url": "https://bsky.app/profile/hartpunkt.bsky.social/post/3n22v5dlsak2f",
+      "engagement": 6,
+      "ts": "2026-11-11T21:21:18.242Z",
+      "followers": 991,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Mastodon",
+      "author": "@tagesschau@ard.social",
+      "text": "Sexualisiertes Fehlverhalten: Die Bundeswehr hat ein strukturelles Problem Eine systematische Befragung macht erstmals das Ausmaß sexualisierten Fehlverhaltens in der Bundeswehr sichtbar. Gut so - aber die angekündigten Konsequenzen reichen nicht, meint Mario Kubina. ➡️ https://www. tagesschau.de/kommentar/bundes wehr-sexuelle-uebergriffe-100.html?at_medium=mastodon&at_campaign=tagesschau.de # Kom",
+      "url": "https://ard.social/@tagesschau/117598853696393493",
+      "engagement": 6,
+      "ts": "2026-11-11T16:55:02.000Z",
+      "followers": 95180,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -60,28 +83,49 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "Bluesky",
-      "author": "@demon81.bsky.social",
-      "handle": "demon81.bsky.social",
-      "text": "Deutsche Polizei und Bundeswehr:\n\nJetzt bin ich was, jetzt kann ich was, jetzt hab ich eine Uniform.\n🫡",
-      "url": "https://bsky.app/profile/demon81.bsky.social/post/3mzxyrtubj22i",
+      "platform": "Mastodon",
+      "author": "@tagesschau@ard.social",
+      "text": "Zahl der Kriegsdienstverweigerer steigt weiter deutlich Der Wehrdienst bleibt weiterhin freiwillig. Die Musterung bei Männern ist allerdings verpflichtend. Die Zahl der Kriegsdienstverweigerungen steigt in diesem Jahr deutlich an. ➡️ https://www. tagesschau.de/inland/kriegsdie nstverweigerer-steigend-100.html?at_medium=mastodon&at_campaign=tagesschau.de # Wehrdienst",
+      "url": "https://ard.social/@tagesschau/117595896700534697",
       "engagement": 5,
-      "ts": "2026-11-10T17:48:28.396Z",
-      "followers": 2374,
+      "ts": "2026-11-11T04:23:02.000Z",
+      "followers": 95180,
       "isBot": false,
       "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
-      "author": "@sensehofstede.nl",
-      "handle": "sensehofstede.nl",
-      "text": "Der Spiegel: Bundeswehr verbannt chinesische Drohnen und Autos aus den Kasernen: „In den vergangenen Wochen wurde für die gesamte Bundeswehr angeordnet, dass bereits angeschaffte handelsübliche Drohnen der großen chinesischen Hersteller wie DJI nicht mehr eingesetzt werden sollen.“",
-      "url": "https://bsky.app/profile/sensehofstede.nl/post/3mzyiz64uwk2v",
-      "engagement": 3,
-      "ts": "2026-11-10T22:38:53.914Z",
-      "followers": 3360,
+      "author": "@zeit.de",
+      "handle": "zeit.de",
+      "text": "Laut einer Dunkelfeldstudie ist sexualisiertes Fehlverhalten in der Bundeswehr häufiger als erfasst. Grünenabgeordnete Mihalic fordert eine Untersuchung bei der Polizei.",
+      "url": "https://bsky.app/profile/zeit.de/post/3n23g522xhd24",
+      "engagement": 4,
+      "ts": "2026-11-12T02:11:46.000Z",
+      "followers": 53411,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Mastodon",
+      "author": "@tagesschau@ard.social",
+      "text": "Pistorius pocht auf \"null Toleranz\" gegenüber sexualisiertem Fehlverhalten in Bundeswehr Angesichts der hohen Zahl an Fällen von sexualisiertem Fehlverhalten bei der Bundeswehr will Verteidigungsminister Pistorius mit \"null Toleranz\" dagegen vorgehen. Unter anderem durch bessere Prävention und eine externe Anlaufstelle für Betroffene. ➡️ https://www. tagesschau.de/inland/innenpoli tik/bundeswehr-d",
+      "url": "https://ard.social/@tagesschau/117597280847914315",
+      "engagement": 3,
+      "ts": "2026-11-11T10:15:02.000Z",
+      "followers": 95180,
+      "isBot": false,
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Mastodon",
+      "author": "@heiseonline@social.heise.de",
+      "text": "Deutschland will Manipulation von Satellitennavigation etwas entgegensetzen Cyberagentur, Bundeswehr und DLR suchen Technologien zur Abwehr und gezielten Beeinflussung von Signalen für GPS & Co. – vor dem Hintergrund massiver Störungen. https://www. heise.de/news/Deutschland-will -Manipulation-von-Satellitennavigation-etwas-entgegensetzen-11516136.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraeg",
+      "url": "https://social.heise.de/@heiseonline/117570943261143605",
+      "engagement": 3,
+      "ts": "2026-11-06T18:37:03.000Z",
+      "followers": 87321,
+      "isBot": false,
+      "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
@@ -92,81 +136,89 @@
       "ts": "2026-11-05T14:01:01.000Z",
       "followers": 95180,
       "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Mastodon",
-      "author": "@heiseonline@social.heise.de",
-      "text": "Deutschland will Manipulation von Satellitennavigation etwas entgegensetzen Cyberagentur, Bundeswehr und DLR suchen Technologien zur Abwehr und gezielten Beeinflussung von Signalen für GPS & Co. – vor dem Hintergrund massiver Störungen. https://www. heise.de/news/Deutschland-will -Manipulation-von-Satellitennavigation-etwas-entgegensetzen-11516136.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraeg",
-      "url": "https://social.heise.de/@heiseonline/117570943261143605",
-      "engagement": 2,
-      "ts": "2026-11-06T18:37:03.000Z",
-      "followers": 87321,
-      "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Mastodon",
-      "author": "@ndaktuell@troet.cafe",
-      "text": "Wegen Steroiden und sexualisierten Fehlverhaltens wird gegen zehn Soldaten in Weißenfels ermittelt. Die Rede ist auch von Führungsversagen. # Bundeswehr https://www. nd-aktuell.de/artikel/1203642. bundeswehr-in-weissenfels-justiz-prueft-uebergriffe-und-doping-im-sanitaetsregiment.html",
-      "url": "https://troet.cafe/@ndaktuell/117558471577650779",
-      "engagement": 2,
-      "ts": "2026-11-04T13:45:20.000Z",
-      "followers": 9998,
-      "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@siebensiebensieben.bsky.social",
-      "handle": "siebensiebensieben.bsky.social",
-      "text": "🤔\n\nDie Bundeswehr setzt bei Übungen bislang auch auf chinesische Drohnen. Doch damit soll jetzt Schluss sein. Das Verteidigungsministerium befürchtet, dass sensible Daten nach Peking weitergeleitet werden könnten. Soldaten mit Autos aus China müssen nun außerhalb der Kasernen parken.",
-      "url": "https://bsky.app/profile/siebensiebensieben.bsky.social/post/3mzymmqnutc2s",
-      "engagement": 0,
-      "ts": "2026-11-10T23:43:32.106Z",
-      "followers": 2145,
-      "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Mastodon",
-      "author": "@ndaktuell@troet.cafe",
-      "text": "Die # Bundeswehr soll im Mittelmeer russische Schiffe kontrollieren dürfen. # Seenotrettung bleibt ausdrücklich keine Aufgabe der erneuerten EU-Operation. https://www. nd-aktuell.de/artikel/1203641. russische-schattenflotte-bundestag-entscheidet-ueber-heikles-neues-irini-mandat.html",
-      "url": "https://troet.cafe/@ndaktuell/117558353261606434",
-      "engagement": 0,
-      "ts": "2026-11-04T13:15:14.000Z",
-      "followers": 9998,
-      "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
       "author": "@tagesschau@ard.social",
-      "text": "Zahl der Kriegsdienstverweigerer steigt weiter deutlich Der Wehrdienst bleibt weiterhin freiwillig. Die Musterung bei Männern ist allerdings verpflichtend. Die Zahl der Kriegsdienstverweigerungen steigt in diesem Jahr deutlich an. ➡️ https://www. tagesschau.de/inland/kriegsdie nstverweigerer-steigend-100.html?at_medium=mastodon&at_campaign=tagesschau.de # Wehrdienst",
-      "url": "https://ard.social/@tagesschau/117595896700534697",
-      "engagement": 0,
-      "ts": "2026-11-11T04:23:02.000Z",
+      "text": "Dunkelfeldstudie bei der Bundeswehr - Viele Fälle von sexualisiertem Fehlverhalten Einer Untersuchung zufolge ist sexualisiertes Fehlverhalten in der Bundeswehr weiter verbreitet als bislang bekannt - am häufigsten betroffen sind Soldatinnen. Recherchen von WDR, NDR und SZ geben Einblick in konkrete Fälle. ➡️ https://www. tagesschau.de/investigativ/wdr /bundeswehr-sexuelle-belaestigung-100.html?at",
+      "url": "https://ard.social/@tagesschau/117597276884737945",
+      "engagement": 2,
+      "ts": "2026-11-11T10:14:02.000Z",
       "followers": 95180,
+      "isBot": false,
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Mastodon",
+      "author": "@heiseonline@social.heise.de",
+      "text": "Münchner Rüstungs-KI: Helsing stellt Plattform Clarity vor Das Münchner Unternehmen Helsing hat mit Clarity eine KI-Plattform für militärische Analysen vorgestellt, die als europäische Alternative zu US-Systemen dient. https://www. heise.de/news/Muenchner-Ruestu ngs-KI-Helsing-stellt-Plattform-Clarity-vor-11521399.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraege.md_beitraege&utm_source=mastodon",
+      "url": "https://social.heise.de/@heiseonline/117598853739170618",
+      "engagement": 1,
+      "ts": "2026-11-11T16:55:03.000Z",
+      "followers": 87321,
+      "isBot": false,
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Mastodon",
+      "author": "@ndaktuell@troet.cafe",
+      "text": "72 Prozent der Soldatinnen in der # Bundeswehr beklagen verbale Belästigung, 10 Prozent sexualisierte Gewalt. Auch nicht-heterosexuelle Männer sind häufig betroffen. https://www. nd-aktuell.de/artikel/1203815. bundeswehr-studie-enthuellt-sexualisiertes-fehlverhalten-in-der-bundeswehr.html",
+      "url": "https://troet.cafe/@ndaktuell/117598696650312511",
+      "engagement": 1,
+      "ts": "2026-11-11T16:15:06.000Z",
+      "followers": 9998,
+      "isBot": false,
+      "sentiment": "negativ"
+    },
+    {
+      "platform": "Mastodon",
+      "author": "@ndaktuell@troet.cafe",
+      "text": "Das durch eine neue Studie offenbarte Ausmaß von Belästigung und Übergriffen in der # Bundeswehr ist wenig überraschend. https://www. nd-aktuell.de/artikel/1203813. bundeswehr-und-sexuelle-gewalt-sexualisierte-gewalt-in-der-bundeswehr-toxisches-system.html",
+      "url": "https://troet.cafe/@ndaktuell/117598639119512547",
+      "engagement": 0,
+      "ts": "2026-11-11T16:00:28.000Z",
+      "followers": 9998,
       "isBot": false,
       "sentiment": "neutral"
     },
     {
-      "platform": "Reddit r/bundeswehr",
-      "author": "u/Plane_Substance8720",
-      "text": "Bundeswehr-Merchandise",
-      "url": "https://www.reddit.com/r/bundeswehr/comments/1xsxvi0/bundeswehrmerchandise/",
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Bundeswehr will keine chinesischen Drohnen mehr einsetzen (Spoiler: demnächst)",
+      "url": "https://augengeradeaus.net/2026/11/bundeswehr-will-keine-chinesischen-drohnen-mehr-einsetzen-spoiler-demnaechst/",
       "engagement": 0,
-      "ts": "2026-11-10T20:33:57+00:00",
+      "ts": "Wed, 11 Nov 2026 17:51:56 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
-      "platform": "Reddit r/bundeswehr",
-      "author": "u/Ulfstructor",
-      "text": "Unter Waffen wird nicht gegrüßt?",
-      "url": "https://www.reddit.com/r/bundeswehr/comments/1xsi0ep/unter_waffen_wird_nicht_gegrüßt/",
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Neue Studie: Großteil der Soldatinnen beklagt sexuelle Belästigung, gemeldet wird wenig – Neufassung",
+      "url": "https://augengeradeaus.net/2026/11/neue-studie-grossteil-der-soldatinnen-beklagt-sexuelle-belaestigung-gemeldet-wird-wenig-neufassung/",
       "engagement": 0,
-      "ts": "2026-11-10T08:52:50+00:00",
+      "ts": "Wed, 11 Nov 2026 14:00:52 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Dunkelfeldstudie zu sexuellem Fehlverhalten in der Bundeswehr veröffentlicht: Drei Viertel der Soldatinnen erlebten Belästigung",
+      "url": "https://augengeradeaus.net/2026/11/dunkelfeldstudie-zu-sexuellem-fehlverhalten-in-der-bundeswehr-veroeffentlicht-drei-viertel-der-soldatinnen-erlebten-belaestigung/",
+      "engagement": 0,
+      "ts": "Wed, 11 Nov 2026 09:48:51 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Bundeswehr plant drei Milliarden Euro für Satelliten-gestütztes Raketenwarnsystem",
+      "url": "https://augengeradeaus.net/2026/11/bundeswehr-plant-drei-milliarden-euro-fuer-satelliten-gestuetztes-raketenwarnsystem/",
+      "engagement": 0,
+      "ts": "Wed, 11 Nov 2026 06:00:28 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -201,12 +253,42 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Nach der Kühlung in Supermarktregalen jetzt Blutbanken im Visier (bislang nur in Frankreich)",
-      "url": "https://augengeradeaus.net/2026/11/nach-der-kuehlung-in-supermarktregalen-jetzt-blutbanken-im-visier-bislang-nur-in-frankreich/",
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Helsing stellt KI-Software Clarity für militärische Zielaufklärung vor",
+      "url": "https://esut.de/2026/11/meldungen/76756/helsing-ki-software-clarity/",
       "engagement": 0,
-      "ts": "Wed, 04 Nov 2026 15:58:05 +0000",
+      "ts": "Wed, 11 Nov 2026 12:47:27 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Kommando Luftwaffe: Neues Wappen mit Weltraum",
+      "url": "https://esut.de/2026/11/meldungen/76751/kommando-luftwaffe-wappen-weltraum/",
+      "engagement": 0,
+      "ts": "Wed, 11 Nov 2026 10:57:11 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "454 kg Gefechtskopf: Rafael enthüllt Marschflugkörper SUPER ICE",
+      "url": "https://esut.de/2026/11/meldungen/76744/454-kg-marschflugkoerper-super-ice/",
+      "engagement": 0,
+      "ts": "Wed, 11 Nov 2026 09:37:12 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Finnland bestellt deutsche RGW110 für 84,5 Millionen",
+      "url": "https://esut.de/2026/11/meldungen/76736/finnland-deutsch-rgw110-845-millio/",
+      "engagement": 0,
+      "ts": "Wed, 11 Nov 2026 05:48:00 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -231,72 +313,34 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Neuer Generalinspekteur: Die Personalie Freuding weckt hohe Ansprüche",
-      "url": "https://esut.de/2026/11/meldungen/76720/generalinspekteur-freuding-heer/",
-      "engagement": 0,
-      "ts": "Tue, 10 Nov 2026 14:42:11 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "AUKUS erprobt Drohnen zur U-Boot-Jagd im Pazifik",
-      "url": "https://esut.de/2026/11/meldungen/76717/aukus-drohnen-u-boot-jagd-pazifik/",
-      "engagement": 0,
-      "ts": "Tue, 10 Nov 2026 14:29:45 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Russlands Blutzoll explodiert: 21.330 Soldaten in 9 Tagen",
-      "url": "https://esut.de/2026/11/meldungen/76709/russlands-blutzoll-21330-soldaten/",
-      "engagement": 0,
-      "ts": "Tue, 10 Nov 2026 13:04:18 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Fraunhofer FKIE: Neue Technologien – Schlagflügelplattformen",
-      "url": "https://esut.de/2026/11/fachbeitraege/74137/fkie-schlagfluegelplattformen/",
-      "engagement": 0,
-      "ts": "Tue, 10 Nov 2026 10:26:43 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
       "platform": "Tagesschau Alle Meldungen",
       "author": "Tagesschau Alle Meldungen",
-      "text": "Zahl der Kriegsdienstverweigerer steigt weiter deutlich",
-      "url": "https://www.tagesschau.de/inland/kriegsdienstverweigerer-steigend-100.html",
+      "text": "Sexualisiertes Fehlverhalten: Die Bundeswehr hat ein strukturelles Problem",
+      "url": "https://www.tagesschau.de/kommentar/bundeswehr-sexuelle-uebergriffe-100.html",
       "engagement": 0,
-      "ts": "Wed, 11 Nov 2026 05:22:53 +0100",
+      "ts": "Wed, 11 Nov 2026 17:54:55 +0100",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "Spiegel Politik",
       "author": "Spiegel Politik",
-      "text": "Bundeswehr verbannt Drohnen und Autos aus China aus den Kasernen – Spionagegefahr",
-      "url": "https://www.spiegel.de/politik/deutschland/bundeswehr-verbannt-drohnen-und-autos-aus-china-aus-den-kasernen-spionagegefahr-a-551cf80d-6065-427d-b469-70727ea4cf24#ref=rss",
+      "text": "Boris Pistorius: Schafft der Verteidigungsminister die Wende beim Kampf gegen sexuelles Fehlverhalten in der Bundeswehr?",
+      "url": "https://www.spiegel.de/politik/deutschland/boris-pistorius-schafft-der-verteidigungsminister-die-wende-beim-kampf-gegen-sexuelles-fehlverhalten-in-der-bundeswehr-a-375d7184-5ee3-4aaa-8eaa-edc21847a3de#ref=rss",
       "engagement": 0,
-      "ts": "Tue, 10 Nov 2026 17:27:00 +0100",
+      "ts": "Wed, 11 Nov 2026 19:04:00 +0100",
       "alwaysKeep": true,
       "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Die Bundeswehr verbannt chinesische Drohnen und Autos aus den Kasernen, Pistorius rechnet nicht mit Rückkehr zur Wehrpflicht und die Zahl der Kriegsdienstverweigerer steigt weiter.",
+    "summary": "Der Diskurs dominiert von sexualisiertem Fehlverhalten in der Bundeswehr, Belästigung und Übergriffen sowie von Pistorius' Wehrdienst-Modell und der neuen Generalinspekteur Christian Freuding.",
     "themes": [
-      "Pistorius' Wehrdienst-Modell",
-      "Bundeswehr-Chinesen-Verbanntung",
-      "Kriegsdienstverweigerung"
+      "sexualisiertes Fehlverhalten in der Bundeswehr",
+      "Belästigung und Übergriffe in der Bundeswehr",
+      "Pistorius' Wehrdienst-Modell und neue Generalinspekteur",
+      "Bundeswehr und KI-Software Clarity",
+      "Neue Studie zu sexuellem Fehlverhalten"
     ]
   }
 }

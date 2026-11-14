@@ -1,42 +1,7 @@
 {
-  "generated": "2026-11-13T04:33:21.786Z",
-  "timestamp": "13.11.2026, 05:33:21",
+  "generated": "2026-11-14T04:33:36.008Z",
+  "timestamp": "14.11.2026, 05:33:36",
   "items": [
-    {
-      "platform": "Bluesky",
-      "author": "@ardor.bsky.social",
-      "handle": "ardor.bsky.social",
-      "text": "Die Zahl der Anträge auf #Kriegsdienstverweigerung ist deutlich angestiegen. Allein im Oktober kamen fast 1.900 Anträge hinzu.\nVom 1. Januar bis 31. Oktober sind insgesamt fast 17.000 Anträge auf Kriegsdienstverweigerung eingegangen.\n#Bundeswehr #Wehrpflicht #Aufrüstung #Militarisierung",
-      "url": "https://bsky.app/profile/ardor.bsky.social/post/3mzzcwhuelc2f",
-      "engagement": 29,
-      "ts": "2026-11-11T06:22:40.745Z",
-      "followers": 3529,
-      "isBot": false,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@ellebil.bsky.social",
-      "handle": "ellebil.bsky.social",
-      "text": "Warum darf die Bundeswehr einen Onlineshop haben? Ich wittere eine FragdenStaat-Anfrage.",
-      "url": "https://bsky.app/profile/ellebil.bsky.social/post/3n25gihbq6c2d",
-      "engagement": 20,
-      "ts": "2026-11-12T21:37:04.294Z",
-      "followers": 3188,
-      "isBot": false,
-      "sentiment": "negativ"
-    },
-    {
-      "platform": "Mastodon",
-      "author": "@lisapoettinger@todon.eu",
-      "text": "So sieht sie aus die groooße Opposition. Wenn Rassismus & Sexismus nicht überzeugend genug sind, dann vielleicht das: die # AfD schickt unsere Freunde, Söhne, Kollegen genau so in den # Krieg wie alle anderen etablierten Parteien. Sie ist Teil der # Zeitenwende .",
-      "url": "https://todon.eu/@lisapoettinger/117569272784323899",
-      "engagement": 9,
-      "ts": "2026-11-06T11:32:13.000Z",
-      "followers": 2945,
-      "isBot": false,
-      "sentiment": "neutral"
-    },
     {
       "platform": "Mastodon",
       "author": "@tagesschau@ard.social",
@@ -57,7 +22,7 @@
       "ts": "2026-11-07T07:03:02.000Z",
       "followers": 95180,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
@@ -68,7 +33,7 @@
       "ts": "2026-11-12T20:26:12.000Z",
       "followers": 2157,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "negativ"
     },
     {
       "platform": "Mastodon",
@@ -90,30 +55,7 @@
       "ts": "2026-11-11T10:15:02.000Z",
       "followers": 95180,
       "isBot": false,
-      "sentiment": "negativ"
-    },
-    {
-      "platform": "Mastodon",
-      "author": "@heiseonline@social.heise.de",
-      "text": "Deutschland will Manipulation von Satellitennavigation etwas entgegensetzen Cyberagentur, Bundeswehr und DLR suchen Technologien zur Abwehr und gezielten Beeinflussung von Signalen für GPS & Co. – vor dem Hintergrund massiver Störungen. https://www. heise.de/news/Deutschland-will -Manipulation-von-Satellitennavigation-etwas-entgegensetzen-11516136.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraeg",
-      "url": "https://social.heise.de/@heiseonline/117570943261143605",
-      "engagement": 3,
-      "ts": "2026-11-06T18:37:03.000Z",
-      "followers": 87321,
-      "isBot": false,
       "sentiment": "kritisch"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@tuttyblueskyly.eurosky.social",
-      "handle": "tuttyblueskyly.eurosky.social",
-      "text": "Die Münchner Drohnenhersteller Quantum Systems einer „massiver Cyberangriff“erlebte.\nDie Angreifers eine Schadprogramm auf die Unternehmensinterne Server, als eine versteckt Update für ein würdig Programm schmuggeln. \nQuantum eine Vertragpartner des Bundeswehr und Ukraine ist.\n#QuantumSystems",
-      "url": "https://bsky.app/profile/tuttyblueskyly.eurosky.social/post/3n25ho2trfc2f",
-      "engagement": 2,
-      "ts": "2026-11-12T21:58:06.317Z",
-      "followers": 22196,
-      "isBot": false,
-      "sentiment": "negativ"
     },
     {
       "platform": "Mastodon",
@@ -127,27 +69,15 @@
       "sentiment": "kritisch"
     },
     {
-      "platform": "Bluesky",
-      "author": "@crashbug.eurosky.social",
-      "handle": "crashbug.eurosky.social",
-      "text": "#Bundeswehr Classics\nwww.youtube.com/watch?v=7706...",
-      "url": "https://bsky.app/profile/crashbug.eurosky.social/post/3n25cb42zxs2x",
-      "engagement": 1,
-      "ts": "2026-11-12T20:21:22.691Z",
-      "followers": 3910,
-      "isBot": false,
-      "sentiment": "positiv"
-    },
-    {
       "platform": "Mastodon",
       "author": "@heiseonline@social.heise.de",
       "text": "Münchner Rüstungs-KI: Helsing stellt Plattform Clarity vor Das Münchner Unternehmen Helsing hat mit Clarity eine KI-Plattform für militärische Analysen vorgestellt, die als europäische Alternative zu US-Systemen dient. https://www. heise.de/news/Muenchner-Ruestu ngs-KI-Helsing-stellt-Plattform-Clarity-vor-11521399.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraege.md_beitraege&utm_source=mastodon",
       "url": "https://social.heise.de/@heiseonline/117598853739170618",
       "engagement": 1,
       "ts": "2026-11-11T16:55:03.000Z",
-      "followers": 87321,
+      "followers": 87424,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
@@ -156,9 +86,9 @@
       "url": "https://troet.cafe/@ndaktuell/117598696650312511",
       "engagement": 1,
       "ts": "2026-11-11T16:15:06.000Z",
-      "followers": 9998,
+      "followers": 10012,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -167,19 +97,19 @@
       "url": "https://troet.cafe/@ndaktuell/117598639119512547",
       "engagement": 0,
       "ts": "2026-11-11T16:00:28.000Z",
-      "followers": 9998,
+      "followers": 10012,
       "isBot": false,
       "sentiment": "kritisch"
     },
     {
       "platform": "Augen geradeaus!",
       "author": "Augen geradeaus!",
-      "text": "Combat-Badeentchen: Neue Dimension der Lieferprobleme bei der Bundeswehr",
+      "text": "Combat-Badeentchen: Neue Dimension der Lieferprobleme bei der Bundeswehr (Nachtrag: BPK)",
       "url": "https://augengeradeaus.net/2026/11/combat-badeentchen-neue-dimension-der-lieferprobleme-bei-der-bundeswehr/",
       "engagement": 0,
       "ts": "Thu, 12 Nov 2026 15:46:32 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "negativ"
     },
     {
       "platform": "Augen geradeaus!",
@@ -189,7 +119,7 @@
       "engagement": 0,
       "ts": "Thu, 12 Nov 2026 08:54:18 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -249,7 +179,27 @@
       "engagement": 0,
       "ts": "Sat, 07 Nov 2026 17:07:32 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "70 Minuten in der Luft: Israels neue Rucksackdrohne SENIX",
+      "url": "https://esut.de/2026/11/meldungen/76815/70-israels-rucksackdrohne-senix/",
+      "engagement": 0,
+      "ts": "Fri, 13 Nov 2026 14:42:59 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "GSIS 2026: Europas Sicherheit braucht mehr als Konferenzen",
+      "url": "https://esut.de/2026/11/meldungen/76802/gsis-2026-europas-sicherheit/",
+      "engagement": 0,
+      "ts": "Fri, 13 Nov 2026 05:23:51 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
@@ -290,54 +240,14 @@
       "ts": "Thu, 12 Nov 2026 10:00:47 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Für 260 Millionen Dollar: Weitere PULS für die NATO",
-      "url": "https://esut.de/2026/11/meldungen/76769/260-millionen-dollar-puls-nato/",
-      "engagement": 0,
-      "ts": "Thu, 12 Nov 2026 08:44:16 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Helsing stellt KI-Software Clarity für militärische Zielaufklärung vor",
-      "url": "https://esut.de/2026/11/meldungen/76756/helsing-ki-software-clarity/",
-      "engagement": 0,
-      "ts": "Wed, 11 Nov 2026 12:47:27 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Tagesschau Alle Meldungen",
-      "author": "Tagesschau Alle Meldungen",
-      "text": "Bayerischer Drohnenhersteller Quantum Systems meldet Cyberangriff",
-      "url": "https://www.tagesschau.de/inland/quantum-systems-cyberangriff-100.html",
-      "engagement": 0,
-      "ts": "Thu, 12 Nov 2026 22:09:07 +0100",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Spiegel Politik",
-      "author": "Spiegel Politik",
-      "text": "Massiver Cyberangriff auf deutschen Drohnenhersteller Quantum Systems",
-      "url": "https://www.spiegel.de/politik/massiver-cyberangriff-auf-drohnenhersteller-quantum-systems-a-354b0289-2281-4af6-a532-ee03b45d8b30#ref=rss",
-      "engagement": 0,
-      "ts": "Thu, 12 Nov 2026 21:05:00 +0100",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Der Diskurs um die Bundeswehr wird von den Themen sexualisiertem Fehlverhalten, Belästigung und Wehrdienstverweigerung dominiert. Die Zahl der Anträge auf Kriegsdienstverweigerung ist deutlich angestiegen, und viele Soldatinnen beklagen sexuelle Belästigung und Übergriffe.",
+    "summary": "Die Bundeswehr steht vor einer Reihe von Herausforderungen, darunter sexuelles Fehlverhalten, Lieferprobleme und die Frage der Wehrpflicht. Pistorius' Position zu Wehrdienst und sexuellem Fehlverhalten dominiert den Diskurs.",
     "themes": [
-      "sexualisiertes Fehlverhalten in der Bundeswehr",
-      "Belästigung und Wehrdienstverweigerung",
-      "Bundeswehr-Beschaffungsprobleme und -verzögerungen"
+      "Pistorius' Wehrdienst-Modell",
+      "Sexuelles Fehlverhalten in der Bundeswehr",
+      "Lieferprobleme bei der Bundeswehr"
     ]
   }
 }

@@ -1,7 +1,19 @@
 {
-  "generated": "2026-11-14T04:33:36.008Z",
-  "timestamp": "14.11.2026, 05:33:36",
+  "generated": "2026-11-15T04:33:10.639Z",
+  "timestamp": "15.11.2026, 05:33:10",
   "items": [
+    {
+      "platform": "Bluesky",
+      "author": "@ardor.bsky.social",
+      "handle": "ardor.bsky.social",
+      "text": "Die Zahl der Anträge auf #Kriegsdienstverweigerung ist deutlich angestiegen. Allein im Oktober kamen fast 1.900 Anträge hinzu.\nVom 1. Januar bis 31. Oktober sind insgesamt fast 17.000 Anträge auf Kriegsdienstverweigerung eingegangen.\n#Bundeswehr #Wehrpflicht #Aufrüstung #Militarisierung",
+      "url": "https://bsky.app/profile/ardor.bsky.social/post/3mzzcwhuelc2f",
+      "engagement": 29,
+      "ts": "2026-11-11T06:22:40.745Z",
+      "followers": 3533,
+      "isBot": false,
+      "sentiment": "kritisch"
+    },
     {
       "platform": "Mastodon",
       "author": "@tagesschau@ard.social",
@@ -11,18 +23,7 @@
       "ts": "2026-11-11T16:55:02.000Z",
       "followers": 95180,
       "isBot": false,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Mastodon",
-      "author": "@tagesschau@ard.social",
-      "text": "Pistorius rechnet derzeit nicht mit Rückkehr zur Wehrpflicht Die Wiedereinführung der Wehrpflicht scheint zum jetzigen Zeitpunkt offenbar nicht nötig. Verteidigungsminister Pistorius berichtet von einer positiven Entwicklung beim Bundeswehrpersonal. Er will künftig mehr Frauen für die Bundeswehr gewinnen. ➡️ https://www. tagesschau.de/inland/innenpoli tik/bundeswehr-diskussion-wehrpflicht-100.html",
-      "url": "https://ard.social/@tagesschau/117573876641549951",
-      "engagement": 6,
-      "ts": "2026-11-07T07:03:02.000Z",
-      "followers": 95180,
-      "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "negativ"
     },
     {
       "platform": "Mastodon",
@@ -31,9 +32,9 @@
       "url": "https://digitalcourage.social/@sl007/117605346358506913",
       "engagement": 5,
       "ts": "2026-11-12T20:26:12.000Z",
-      "followers": 2157,
+      "followers": 2158,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -43,6 +44,30 @@
       "engagement": 5,
       "ts": "2026-11-11T04:23:02.000Z",
       "followers": 95180,
+      "isBot": false,
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@snoopde.eurosky.social",
+      "handle": "snoopde.eurosky.social",
+      "text": "Da war ich Bundeswehr.\n😂 was für ein Kulturschock\n\nAber schöne Gegend",
+      "url": "https://bsky.app/profile/snoopde.eurosky.social/post/3n2ca4ktpw22u",
+      "engagement": 3,
+      "ts": "2026-11-14T19:26:21.617Z",
+      "followers": 2661,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@reboehi.bsky.social",
+      "handle": "reboehi.bsky.social",
+      "text": "www.deutschlandfunk.de/kommentar-zu...\n\n#kommentar @deutschlandfunk.de.web.brid.gy @juliaweigelt.bsky.social 🙋🏻‍♂️🤞🏻💪🏻🙏🏻🤗\n\n#missbrauch #metoo #mysogynie #sexismus #bundeswehr",
+      "url": "https://bsky.app/profile/reboehi.bsky.social/post/3n2c44uxpfc2i",
+      "engagement": 3,
+      "ts": "2026-11-14T18:14:57.261Z",
+      "followers": 2478,
       "isBot": false,
       "sentiment": "kritisch"
     },
@@ -66,6 +91,18 @@
       "ts": "2026-11-11T10:14:02.000Z",
       "followers": 95180,
       "isBot": false,
+      "sentiment": "negativ"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@helgethomas.bsky.social",
+      "handle": "helgethomas.bsky.social",
+      "text": "Dobrindt baut eine Geheimpolizei, Prien stoppt die Demokratie-Förderung, die JU will die Bundeswehr im Inneren, Reiche bereitet Notstandsgesetz vor … \n\nLangsam wird’s echt gruselig …",
+      "url": "https://bsky.app/profile/helgethomas.bsky.social/post/3n2bzotzp522y",
+      "engagement": 1,
+      "ts": "2026-11-14T17:31:19.036Z",
+      "followers": 2109,
+      "isBot": false,
       "sentiment": "kritisch"
     },
     {
@@ -88,7 +125,7 @@
       "ts": "2026-11-11T16:15:06.000Z",
       "followers": 10012,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "negativ"
     },
     {
       "platform": "Mastodon",
@@ -109,7 +146,7 @@
       "engagement": 0,
       "ts": "Thu, 12 Nov 2026 15:46:32 +0000",
       "alwaysKeep": true,
-      "sentiment": "negativ"
+      "sentiment": "positiv"
     },
     {
       "platform": "Augen geradeaus!",
@@ -119,7 +156,7 @@
       "engagement": 0,
       "ts": "Thu, 12 Nov 2026 08:54:18 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Augen geradeaus!",
@@ -129,7 +166,7 @@
       "engagement": 0,
       "ts": "Wed, 11 Nov 2026 17:51:56 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "negativ"
     },
     {
       "platform": "Augen geradeaus!",
@@ -139,7 +176,7 @@
       "engagement": 0,
       "ts": "Wed, 11 Nov 2026 14:00:52 +0000",
       "alwaysKeep": true,
-      "sentiment": "negativ"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Augen geradeaus!",
@@ -149,7 +186,7 @@
       "engagement": 0,
       "ts": "Wed, 11 Nov 2026 09:48:51 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -159,25 +196,15 @@
       "engagement": 0,
       "ts": "Wed, 11 Nov 2026 06:00:28 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Pistorius sieht (vorerst) keine Notwendigkeit für Wehrpflicht – Fragebogen nicht für Nachwuchswerbung",
-      "url": "https://augengeradeaus.net/2026/11/pistorius-sieht-vorerst-keine-notwendigkeit-fuer-wehrpflicht-fragebogen-nicht-fuer-nachwuchswerbung/",
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Wege in die Wehrindustrie – Defence Readiness entscheidet über den Einstieg",
+      "url": "https://esut.de/2026/11/fachbeitraege/76810/wehrindustrie-defence-readiness/",
       "engagement": 0,
-      "ts": "Sat, 07 Nov 2026 17:44:48 +0000",
-      "alwaysKeep": true,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Sicherheitshalber der Podcast #113: Der global-galaktische Weltraum-Rundumschlag | Wie trumpy werden die nächsten zwei Jahre?",
-      "url": "https://augengeradeaus.net/2026/11/sicherheitshalber-der-podcast-113-der-global-galaktische-weltraum-rundumschlag-wie-trumpy-werden-die-naechsten-zwei-jahre/",
-      "engagement": 0,
-      "ts": "Sat, 07 Nov 2026 17:07:32 +0000",
+      "ts": "Sat, 14 Nov 2026 12:32:15 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -232,22 +259,22 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "General Atomics investiert in Nordholz",
-      "url": "https://esut.de/2026/11/meldungen/76768/general-atomics-nordholz/",
+      "platform": "Tagesschau Alle Meldungen",
+      "author": "Tagesschau Alle Meldungen",
+      "text": "Berlin: Hunderte bei \"Gen Z regelt\"-Protest - mehrere Festnahmen",
+      "url": "https://www.tagesschau.de/inland/regional/berlin/gen-z-regelt-protest-berlin-100.html",
       "engagement": 0,
-      "ts": "Thu, 12 Nov 2026 10:00:47 +0000",
+      "ts": "Sat, 14 Nov 2026 22:31:18 +0100",
       "alwaysKeep": true,
       "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Die Bundeswehr steht vor einer Reihe von Herausforderungen, darunter sexuelles Fehlverhalten, Lieferprobleme und die Frage der Wehrpflicht. Pistorius' Position zu Wehrdienst und sexuellem Fehlverhalten dominiert den Diskurs.",
+    "summary": "Der Diskurs um die Bundeswehr wird von den Themen sexualisiertem Fehlverhalten, Lieferproblemen und der neuen Satelliten-gestützten Raketenwarnsystem dominiert. Pistorius' Wehrdienst-Modell und die AfD-Faschismus-Vorwürfe sind weiterhin aktuell.",
     "themes": [
-      "Pistorius' Wehrdienst-Modell",
-      "Sexuelles Fehlverhalten in der Bundeswehr",
-      "Lieferprobleme bei der Bundeswehr"
+      "sexualisiertes Fehlverhalten in der Bundeswehr",
+      "Lieferprobleme bei der Bundeswehr",
+      "Satelliten-gestütztes Raketenwarnsystem"
     ]
   }
 }

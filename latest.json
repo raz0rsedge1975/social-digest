@@ -1,7 +1,19 @@
 {
-  "generated": "2026-11-15T04:33:10.639Z",
-  "timestamp": "15.11.2026, 05:33:10",
+  "generated": "2026-11-16T04:36:08.461Z",
+  "timestamp": "16.11.2026, 05:36:08",
   "items": [
+    {
+      "platform": "Bluesky",
+      "author": "@mattschimmernd.bsky.social",
+      "handle": "mattschimmernd.bsky.social",
+      "text": "Verstehe jeden jungen Menschen, der Angst hat und auf keinen Fall zur Bundeswehr möchte. Wer allerdings gleichzeitig glaubt, wir könnten uns Aufrüstung und Unterstützung der Ukraine sparen, begeht - leider - einen gravierenden Denkfehler.",
+      "url": "https://bsky.app/profile/mattschimmernd.bsky.social/post/3n2exxyqtpk2k",
+      "engagement": 36,
+      "ts": "2026-11-15T21:38:37.704Z",
+      "followers": 2432,
+      "isBot": false,
+      "sentiment": "kritisch"
+    },
     {
       "platform": "Bluesky",
       "author": "@ardor.bsky.social",
@@ -12,7 +24,19 @@
       "ts": "2026-11-11T06:22:40.745Z",
       "followers": 3533,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "negativ"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@wunder2welt.bsky.social",
+      "handle": "wunder2welt.bsky.social",
+      "text": "Es gibt in Deutschland noch zwei Rommel-Kasernen (de.wikipedia.org/wiki/General..., de.wikipedia.org/wiki/Rommel-... ).\n D.h. die Bundeswehr betreibt auch Heldenverehrung dieser problematischen Figur. Dahinter kann sich die AfD dann gut verstecken.",
+      "url": "https://bsky.app/profile/wunder2welt.bsky.social/post/3n2egihvy2c2b",
+      "engagement": 10,
+      "ts": "2026-11-15T16:25:43.125Z",
+      "followers": 2317,
+      "isBot": false,
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -23,7 +47,7 @@
       "ts": "2026-11-11T16:55:02.000Z",
       "followers": 95180,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -34,7 +58,7 @@
       "ts": "2026-11-12T20:26:12.000Z",
       "followers": 2158,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -44,30 +68,6 @@
       "engagement": 5,
       "ts": "2026-11-11T04:23:02.000Z",
       "followers": 95180,
-      "isBot": false,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@snoopde.eurosky.social",
-      "handle": "snoopde.eurosky.social",
-      "text": "Da war ich Bundeswehr.\n😂 was für ein Kulturschock\n\nAber schöne Gegend",
-      "url": "https://bsky.app/profile/snoopde.eurosky.social/post/3n2ca4ktpw22u",
-      "engagement": 3,
-      "ts": "2026-11-14T19:26:21.617Z",
-      "followers": 2661,
-      "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Bluesky",
-      "author": "@reboehi.bsky.social",
-      "handle": "reboehi.bsky.social",
-      "text": "www.deutschlandfunk.de/kommentar-zu...\n\n#kommentar @deutschlandfunk.de.web.brid.gy @juliaweigelt.bsky.social 🙋🏻‍♂️🤞🏻💪🏻🙏🏻🤗\n\n#missbrauch #metoo #mysogynie #sexismus #bundeswehr",
-      "url": "https://bsky.app/profile/reboehi.bsky.social/post/3n2c44uxpfc2i",
-      "engagement": 3,
-      "ts": "2026-11-14T18:14:57.261Z",
-      "followers": 2478,
       "isBot": false,
       "sentiment": "kritisch"
     },
@@ -91,19 +91,19 @@
       "ts": "2026-11-11T10:14:02.000Z",
       "followers": 95180,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Bluesky",
-      "author": "@helgethomas.bsky.social",
-      "handle": "helgethomas.bsky.social",
-      "text": "Dobrindt baut eine Geheimpolizei, Prien stoppt die Demokratie-Förderung, die JU will die Bundeswehr im Inneren, Reiche bereitet Notstandsgesetz vor … \n\nLangsam wird’s echt gruselig …",
-      "url": "https://bsky.app/profile/helgethomas.bsky.social/post/3n2bzotzp522y",
+      "author": "@christiandorlach71.bsky.social",
+      "handle": "christiandorlach71.bsky.social",
+      "text": "Auch, wenn die Kriegserklärung von Österreich-Ungarn an Serbien schon erfolgte am 28.07.1914. So marschierte Österreich-Ungarns Militär erst in Serbien ein, um 4 Uhr morgens, am 29.07.1914!!!!!!! Ich habe ein Buch von Inneren Führung von der Bundeswehr! Da steht alles sehr genau drin, was geschah!!!",
+      "url": "https://bsky.app/profile/christiandorlach71.bsky.social/post/3n2ega77lcs2z",
       "engagement": 1,
-      "ts": "2026-11-14T17:31:19.036Z",
-      "followers": 2109,
+      "ts": "2026-11-15T16:21:05.567Z",
+      "followers": 7524,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -114,7 +114,7 @@
       "ts": "2026-11-11T16:55:03.000Z",
       "followers": 87424,
       "isBot": false,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -125,7 +125,7 @@
       "ts": "2026-11-11T16:15:06.000Z",
       "followers": 10012,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -136,7 +136,37 @@
       "ts": "2026-11-11T16:00:28.000Z",
       "followers": 10012,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Reddit r/bundeswehr",
+      "author": "u/Greek_Bodybuilder95",
+      "text": "Einplanungsphase",
+      "url": "https://www.reddit.com/r/bundeswehr/comments/1xx18p1/einplanungsphase/",
+      "engagement": 0,
+      "ts": "2026-11-15T17:26:03+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Reddit r/bundeswehr",
+      "author": "u/Klutzy_Draw4662",
+      "text": "Dunkelfeldstudie nur 18 % Rücklauf. Und daraus werden weitreichende Schlussfolgerungen gezogen?",
+      "url": "https://www.reddit.com/r/bundeswehr/comments/1xwva6u/dunkelfeldstudie_nur_18_rücklauf_und_daraus/",
+      "engagement": 0,
+      "ts": "2026-11-15T13:17:40+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Reddit r/bundeswehr",
+      "author": "u/Savings-Will4479",
+      "text": "Wie empfindet ihr rückblickend die Entscheidung zur Bundeswehr gegabgen zu sein?",
+      "url": "https://www.reddit.com/r/bundeswehr/comments/1xwqxp5/wie_empfindet_ihr_rückblickend_die_entscheidung/",
+      "engagement": 0,
+      "ts": "2026-11-15T09:05:01+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -146,7 +176,7 @@
       "engagement": 0,
       "ts": "Thu, 12 Nov 2026 15:46:32 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -156,7 +186,7 @@
       "engagement": 0,
       "ts": "Thu, 12 Nov 2026 08:54:18 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -166,7 +196,7 @@
       "engagement": 0,
       "ts": "Wed, 11 Nov 2026 17:51:56 +0000",
       "alwaysKeep": true,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -176,7 +206,7 @@
       "engagement": 0,
       "ts": "Wed, 11 Nov 2026 14:00:52 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -197,84 +227,14 @@
       "ts": "Wed, 11 Nov 2026 06:00:28 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Wege in die Wehrindustrie – Defence Readiness entscheidet über den Einstieg",
-      "url": "https://esut.de/2026/11/fachbeitraege/76810/wehrindustrie-defence-readiness/",
-      "engagement": 0,
-      "ts": "Sat, 14 Nov 2026 12:32:15 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "70 Minuten in der Luft: Israels neue Rucksackdrohne SENIX",
-      "url": "https://esut.de/2026/11/meldungen/76815/70-israels-rucksackdrohne-senix/",
-      "engagement": 0,
-      "ts": "Fri, 13 Nov 2026 14:42:59 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "GSIS 2026: Europas Sicherheit braucht mehr als Konferenzen",
-      "url": "https://esut.de/2026/11/meldungen/76802/gsis-2026-europas-sicherheit/",
-      "engagement": 0,
-      "ts": "Fri, 13 Nov 2026 05:23:51 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Bölting führt ab heute die Hubschrauber des Heeres",
-      "url": "https://esut.de/2026/11/meldungen/76795/boelting-heute-hubschrauber-heer/",
-      "engagement": 0,
-      "ts": "Thu, 12 Nov 2026 18:02:50 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Beginn der Bundeswehr: Die Ernennung der ersten 100 Soldaten",
-      "url": "https://esut.de/2026/11/fachbeitraege/64925/bundeswehr-ersten-100-soldaten/",
-      "engagement": 0,
-      "ts": "Thu, 12 Nov 2026 16:30:37 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Polnische WB Group stellt deutschen Ableger und Repräsentanz vor",
-      "url": "https://esut.de/2026/11/meldungen/76785/wb-group-repraesentanz/",
-      "engagement": 0,
-      "ts": "Thu, 12 Nov 2026 13:14:41 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Tagesschau Alle Meldungen",
-      "author": "Tagesschau Alle Meldungen",
-      "text": "Berlin: Hunderte bei \"Gen Z regelt\"-Protest - mehrere Festnahmen",
-      "url": "https://www.tagesschau.de/inland/regional/berlin/gen-z-regelt-protest-berlin-100.html",
-      "engagement": 0,
-      "ts": "Sat, 14 Nov 2026 22:31:18 +0100",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Der Diskurs um die Bundeswehr wird von den Themen sexualisiertem Fehlverhalten, Lieferproblemen und der neuen Satelliten-gestützten Raketenwarnsystem dominiert. Pistorius' Wehrdienst-Modell und die AfD-Faschismus-Vorwürfe sind weiterhin aktuell.",
+    "summary": "Der Diskurs dominiert von sexualisiertem Fehlverhalten in der Bundeswehr, Kriegsdienstverweigerungen und Beschaffungsproblemen.",
     "themes": [
-      "sexualisiertes Fehlverhalten in der Bundeswehr",
-      "Lieferprobleme bei der Bundeswehr",
-      "Satelliten-gestütztes Raketenwarnsystem"
+      "Pistorius' Wehrdienst-Modell",
+      "Dunkelfeldstudie zu sexuellem Fehlverhalten",
+      "Beschaffungs-Verzögerung bei Satelliten-gestütztem Raketenwarnsystem"
     ]
   }
 }

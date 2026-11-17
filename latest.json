@@ -1,19 +1,7 @@
 {
-  "generated": "2026-11-16T04:36:08.461Z",
-  "timestamp": "16.11.2026, 05:36:08",
+  "generated": "2026-11-17T04:33:06.947Z",
+  "timestamp": "17.11.2026, 05:33:06",
   "items": [
-    {
-      "platform": "Bluesky",
-      "author": "@mattschimmernd.bsky.social",
-      "handle": "mattschimmernd.bsky.social",
-      "text": "Verstehe jeden jungen Menschen, der Angst hat und auf keinen Fall zur Bundeswehr möchte. Wer allerdings gleichzeitig glaubt, wir könnten uns Aufrüstung und Unterstützung der Ukraine sparen, begeht - leider - einen gravierenden Denkfehler.",
-      "url": "https://bsky.app/profile/mattschimmernd.bsky.social/post/3n2exxyqtpk2k",
-      "engagement": 36,
-      "ts": "2026-11-15T21:38:37.704Z",
-      "followers": 2432,
-      "isBot": false,
-      "sentiment": "kritisch"
-    },
     {
       "platform": "Bluesky",
       "author": "@ardor.bsky.social",
@@ -22,19 +10,19 @@
       "url": "https://bsky.app/profile/ardor.bsky.social/post/3mzzcwhuelc2f",
       "engagement": 29,
       "ts": "2026-11-11T06:22:40.745Z",
-      "followers": 3533,
+      "followers": 3538,
       "isBot": false,
-      "sentiment": "negativ"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Bluesky",
-      "author": "@wunder2welt.bsky.social",
-      "handle": "wunder2welt.bsky.social",
-      "text": "Es gibt in Deutschland noch zwei Rommel-Kasernen (de.wikipedia.org/wiki/General..., de.wikipedia.org/wiki/Rommel-... ).\n D.h. die Bundeswehr betreibt auch Heldenverehrung dieser problematischen Figur. Dahinter kann sich die AfD dann gut verstecken.",
-      "url": "https://bsky.app/profile/wunder2welt.bsky.social/post/3n2egihvy2c2b",
-      "engagement": 10,
-      "ts": "2026-11-15T16:25:43.125Z",
-      "followers": 2317,
+      "author": "@markusdecker.bsky.social",
+      "handle": "markusdecker.bsky.social",
+      "text": "„Ob Frauen beim Militär der Weisheit letzter Schluss sind, mag manch einer bezweifeln. Zwar ist dies wegen der Gleichstellung der Geschlechter grundgesetzlich vorgesehen. Unbestreitbar aber können Frauen die Soldaten von ihrem Verteidigungsauftrag ablenken.\"\n\nEin Leser zu Sexismus in der Bundeswehr",
+      "url": "https://bsky.app/profile/markusdecker.bsky.social/post/3n2gvf4ujp22t",
+      "engagement": 27,
+      "ts": "2026-11-16T15:57:36.485Z",
+      "followers": 6379,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -45,7 +33,7 @@
       "url": "https://ard.social/@tagesschau/117598853696393493",
       "engagement": 6,
       "ts": "2026-11-11T16:55:02.000Z",
-      "followers": 95180,
+      "followers": 95348,
       "isBot": false,
       "sentiment": "kritisch"
     },
@@ -58,7 +46,7 @@
       "ts": "2026-11-12T20:26:12.000Z",
       "followers": 2158,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "negativ"
     },
     {
       "platform": "Mastodon",
@@ -67,7 +55,7 @@
       "url": "https://ard.social/@tagesschau/117595896700534697",
       "engagement": 5,
       "ts": "2026-11-11T04:23:02.000Z",
-      "followers": 95180,
+      "followers": 95348,
       "isBot": false,
       "sentiment": "kritisch"
     },
@@ -78,7 +66,7 @@
       "url": "https://ard.social/@tagesschau/117597280847914315",
       "engagement": 3,
       "ts": "2026-11-11T10:15:02.000Z",
-      "followers": 95180,
+      "followers": 95348,
       "isBot": false,
       "sentiment": "kritisch"
     },
@@ -89,19 +77,19 @@
       "url": "https://ard.social/@tagesschau/117597276884737945",
       "engagement": 2,
       "ts": "2026-11-11T10:14:02.000Z",
-      "followers": 95180,
+      "followers": 95348,
       "isBot": false,
       "sentiment": "kritisch"
     },
     {
       "platform": "Bluesky",
-      "author": "@christiandorlach71.bsky.social",
-      "handle": "christiandorlach71.bsky.social",
-      "text": "Auch, wenn die Kriegserklärung von Österreich-Ungarn an Serbien schon erfolgte am 28.07.1914. So marschierte Österreich-Ungarns Militär erst in Serbien ein, um 4 Uhr morgens, am 29.07.1914!!!!!!! Ich habe ein Buch von Inneren Führung von der Bundeswehr! Da steht alles sehr genau drin, was geschah!!!",
-      "url": "https://bsky.app/profile/christiandorlach71.bsky.social/post/3n2ega77lcs2z",
+      "author": "@dantesinferno2025.bsky.social",
+      "handle": "dantesinferno2025.bsky.social",
+      "text": "🔴 Bislang wurden #Daten gestohlen, nun blieben Bundeswehr-Drohnen vorsorglich am Boden: Nach Einschätzungen aus Sicherheitskreisen ist die jüngste #Cyberattacke auf #QuantumSystems ein beispielloser Fall.",
+      "url": "https://bsky.app/profile/dantesinferno2025.bsky.social/post/3n2hfaz7zpk2y",
       "engagement": 1,
-      "ts": "2026-11-15T16:21:05.567Z",
-      "followers": 7524,
+      "ts": "2026-11-16T20:41:38.318Z",
+      "followers": 6046,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -114,7 +102,7 @@
       "ts": "2026-11-11T16:55:03.000Z",
       "followers": 87424,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
@@ -136,37 +124,57 @@
       "ts": "2026-11-11T16:00:28.000Z",
       "followers": 10012,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
-      "platform": "Reddit r/bundeswehr",
-      "author": "u/Greek_Bodybuilder95",
-      "text": "Einplanungsphase",
-      "url": "https://www.reddit.com/r/bundeswehr/comments/1xx18p1/einplanungsphase/",
+      "platform": "YouTube (Bundeswehr)",
+      "author": "Bundeswehr",
+      "text": "#shorts: Wer erklärt eigentlich Sicherheitspolitik? Frag doch einen Jugendoffizier | Bundeswehr",
+      "url": "https://www.youtube.com/shorts/cccPchdlCUM",
       "engagement": 0,
-      "ts": "2026-11-15T17:26:03+00:00",
+      "ts": "2026-11-16T14:27:33+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
-      "platform": "Reddit r/bundeswehr",
-      "author": "u/Klutzy_Draw4662",
-      "text": "Dunkelfeldstudie nur 18 % Rücklauf. Und daraus werden weitreichende Schlussfolgerungen gezogen?",
-      "url": "https://www.reddit.com/r/bundeswehr/comments/1xwva6u/dunkelfeldstudie_nur_18_rücklauf_und_daraus/",
+      "platform": "YouTube (Bundeswehr)",
+      "author": "Bundeswehr",
+      "text": "Leises Gedenken zum Volkstrauertag: „Sheltering Sky“ von John Mackey | Bundeswehr",
+      "url": "https://www.youtube.com/watch?v=eIR_2y5T_6s",
       "engagement": 0,
-      "ts": "2026-11-15T13:17:40+00:00",
+      "ts": "2026-11-15T10:59:30+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
-      "platform": "Reddit r/bundeswehr",
-      "author": "u/Savings-Will4479",
-      "text": "Wie empfindet ihr rückblickend die Entscheidung zur Bundeswehr gegabgen zu sein?",
-      "url": "https://www.reddit.com/r/bundeswehr/comments/1xwqxp5/wie_empfindet_ihr_rückblickend_die_entscheidung/",
+      "platform": "YouTube (Bundeswehr)",
+      "author": "Bundeswehr",
+      "text": "Zugunglück: 1.000 Retter, 26 Organisationen, eine Übung | Bundeswehr",
+      "url": "https://www.youtube.com/watch?v=VIJW9B9njEk",
       "engagement": 0,
-      "ts": "2026-11-15T09:05:01+00:00",
+      "ts": "2026-11-13T11:19:02+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "YouTube (Bundeswehr)",
+      "author": "Bundeswehr",
+      "text": "#shorts: Frag doch einen Jugendoffizier: Gründungstag | Bundeswehr",
+      "url": "https://www.youtube.com/shorts/RrY4uGUD4vA",
+      "engagement": 0,
+      "ts": "2026-11-12T10:30:14+00:00",
+      "alwaysKeep": true,
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "YouTube (Bundeswehr)",
+      "author": "Bundeswehr",
+      "text": "Ausrüstung im Test: die Versuchskräfte der Bundeswehr | Bundeswehr",
+      "url": "https://www.youtube.com/watch?v=Q0eaHuIfd1E",
+      "engagement": 0,
+      "ts": "2026-11-10T12:13:50+00:00",
+      "alwaysKeep": true,
+      "sentiment": "positiv"
     },
     {
       "platform": "Augen geradeaus!",
@@ -176,7 +184,7 @@
       "engagement": 0,
       "ts": "Thu, 12 Nov 2026 15:46:32 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Augen geradeaus!",
@@ -186,7 +194,7 @@
       "engagement": 0,
       "ts": "Thu, 12 Nov 2026 08:54:18 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Augen geradeaus!",
@@ -196,7 +204,7 @@
       "engagement": 0,
       "ts": "Wed, 11 Nov 2026 17:51:56 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "negativ"
     },
     {
       "platform": "Augen geradeaus!",
@@ -206,7 +214,7 @@
       "engagement": 0,
       "ts": "Wed, 11 Nov 2026 14:00:52 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Augen geradeaus!",
@@ -216,7 +224,7 @@
       "engagement": 0,
       "ts": "Wed, 11 Nov 2026 09:48:51 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "negativ"
     },
     {
       "platform": "Augen geradeaus!",
@@ -226,15 +234,85 @@
       "engagement": 0,
       "ts": "Wed, 11 Nov 2026 06:00:28 +0000",
       "alwaysKeep": true,
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Trotz Beschaffungsstopp: Irland kauft israelische Drohnenabwehr",
+      "url": "https://esut.de/2026/11/meldungen/76853/irland-kauft-israel-drohnenabwehr/",
+      "engagement": 0,
+      "ts": "Mon, 16 Nov 2026 17:46:15 +0000",
+      "alwaysKeep": true,
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Iran droht mit Raketenangriff auf britischen Stützpunkt",
+      "url": "https://esut.de/2026/11/meldungen/76849/iran-droht-raketenangriff-british/",
+      "engagement": 0,
+      "ts": "Mon, 16 Nov 2026 16:06:54 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Drohnen: Per Modul zur NATO-qualifizierten Loitering Munition",
+      "url": "https://esut.de/2026/11/meldungen/76842/drohnen-nato-loitering-munition/",
+      "engagement": 0,
+      "ts": "Mon, 16 Nov 2026 11:09:58 +0000",
+      "alwaysKeep": true,
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Dominator: Warum bemannte Flugzeuge selten zu Drohnen werden",
+      "url": "https://esut.de/2026/11/meldungen/76838/dominator-bemannt-flugzeug-drohnen/",
+      "engagement": 0,
+      "ts": "Mon, 16 Nov 2026 07:34:30 +0000",
+      "alwaysKeep": true,
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Arrow 4 vor Produktionsstart: Bundeswehr will Beschaffung",
+      "url": "https://esut.de/2026/11/meldungen/76834/arrow-4-produktionsstar-bundeswehr/",
+      "engagement": 0,
+      "ts": "Mon, 16 Nov 2026 06:02:30 +0000",
+      "alwaysKeep": true,
+      "sentiment": "negativ"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Patriot: Rumänien als Vorreiter für günstigere Flugkörper",
+      "url": "https://esut.de/2026/11/meldungen/76830/patriot-rumaenien-luftverteidigung/",
+      "engagement": 0,
+      "ts": "Sun, 15 Nov 2026 20:48:15 +0000",
+      "alwaysKeep": true,
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "Welt Topnews",
+      "author": "Welt Topnews",
+      "text": "Pistorius führt Insa-Ranking an – Wüst zieht an Söder vorbei, Merz bleibt Letzter",
+      "url": "https://www.welt.de/politik/deutschland/article6afb6fd0bfa018bfcc9896b0/beliebtheit-der-politiker-pistorius-fuehrt-insa-ranking-an-wuest-zieht-an-soeder-vorbei-merz-bleibt-letzter.html",
+      "engagement": 0,
+      "ts": "Mon, 16 Nov 2026 21:25:22 GMT",
+      "alwaysKeep": true,
       "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Der Diskurs dominiert von sexualisiertem Fehlverhalten in der Bundeswehr, Kriegsdienstverweigerungen und Beschaffungsproblemen.",
+    "summary": "Der Diskurs dominiert von Belästigung und Übergriffen in der Bundeswehr, die Zahl der Kriegsdienstverweigerungen steigt weiter, und es gibt Berichte über Probleme mit der Ausrüstung und Beschaffungsprozessen.",
     "themes": [
       "Pistorius' Wehrdienst-Modell",
-      "Dunkelfeldstudie zu sexuellem Fehlverhalten",
-      "Beschaffungs-Verzögerung bei Satelliten-gestütztem Raketenwarnsystem"
+      "Belästigung und Übergriffen in der Bundeswehr",
+      "Beschaffungsprobleme und -verzögerungen"
     ]
   }
 }

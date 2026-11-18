@@ -1,7 +1,19 @@
 {
-  "generated": "2026-11-17T04:33:06.947Z",
-  "timestamp": "17.11.2026, 05:33:06",
+  "generated": "2026-11-18T04:33:26.790Z",
+  "timestamp": "18.11.2026, 05:33:26",
   "items": [
+    {
+      "platform": "Bluesky",
+      "author": "@wiegold.de",
+      "handle": "wiegold.de",
+      "text": "Was Bundeswehr und Verteidigungsministerium so zu tun haben, Vol. XXX '(Fun Fact: mit dem infrage stehenden S-Pedelec darf man gar nicht auf Radwegen fahren, aber woher soll ein Brigadegeneral so was wissen?)",
+      "url": "https://bsky.app/profile/wiegold.de/post/3n2jws37exs2r",
+      "engagement": 82,
+      "ts": "2026-11-17T21:00:43.907Z",
+      "followers": 16078,
+      "isBot": false,
+      "sentiment": "positiv"
+    },
     {
       "platform": "Bluesky",
       "author": "@ardor.bsky.social",
@@ -10,21 +22,33 @@
       "url": "https://bsky.app/profile/ardor.bsky.social/post/3mzzcwhuelc2f",
       "engagement": 29,
       "ts": "2026-11-11T06:22:40.745Z",
-      "followers": 3538,
+      "followers": 3539,
       "isBot": false,
       "sentiment": "kritisch"
     },
     {
       "platform": "Bluesky",
-      "author": "@markusdecker.bsky.social",
-      "handle": "markusdecker.bsky.social",
-      "text": "„Ob Frauen beim Militär der Weisheit letzter Schluss sind, mag manch einer bezweifeln. Zwar ist dies wegen der Gleichstellung der Geschlechter grundgesetzlich vorgesehen. Unbestreitbar aber können Frauen die Soldaten von ihrem Verteidigungsauftrag ablenken.\"\n\nEin Leser zu Sexismus in der Bundeswehr",
-      "url": "https://bsky.app/profile/markusdecker.bsky.social/post/3n2gvf4ujp22t",
-      "engagement": 27,
-      "ts": "2026-11-16T15:57:36.485Z",
-      "followers": 6379,
+      "author": "@wiegold.de",
+      "handle": "wiegold.de",
+      "text": "Die Details sind ja noch lustiger: \"... hob das Truppendienstgericht die Beschwerdebescheide ... auf und verwies die Sache zur Entscheidung über die Erstbeschwerde an den Generalinspekteur der Bundeswehr.\"",
+      "url": "https://bsky.app/profile/wiegold.de/post/3n2jygtqjjc2z",
+      "engagement": 23,
+      "ts": "2026-11-17T21:30:14.465Z",
+      "followers": 16078,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "negativ"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@luftwaffe.bundeswehr.de",
+      "handle": "luftwaffe.bundeswehr.de",
+      "text": "🛰️ Weltraum und Verteidigung\n\nDer Weltraum hat längst sicherheitspolitische Relevanz.\nWelche Rolle spielt er für unsere Verteidigung?\nDarüber spricht unser Inspekteur, Generalleutnant Neumann, im Podcast 'Generaldebatte'.\n\n🎧 Jetzt reinhören:\nwww.bundeswehr.de/de/mediathek...\n\n(📷: Bundeswehr/Kassette)",
+      "url": "https://bsky.app/profile/luftwaffe.bundeswehr.de/post/3n2k42sklk22b",
+      "engagement": 15,
+      "ts": "2026-11-17T22:35:05.532Z",
+      "followers": 3484,
+      "isBot": false,
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -35,7 +59,7 @@
       "ts": "2026-11-11T16:55:02.000Z",
       "followers": 95348,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "positiv"
     },
     {
       "platform": "Mastodon",
@@ -44,20 +68,9 @@
       "url": "https://digitalcourage.social/@sl007/117605346358506913",
       "engagement": 5,
       "ts": "2026-11-12T20:26:12.000Z",
-      "followers": 2158,
+      "followers": 2155,
       "isBot": false,
       "sentiment": "negativ"
-    },
-    {
-      "platform": "Mastodon",
-      "author": "@tagesschau@ard.social",
-      "text": "Zahl der Kriegsdienstverweigerer steigt weiter deutlich Der Wehrdienst bleibt weiterhin freiwillig. Die Musterung bei Männern ist allerdings verpflichtend. Die Zahl der Kriegsdienstverweigerungen steigt in diesem Jahr deutlich an. ➡️ https://www. tagesschau.de/inland/kriegsdie nstverweigerer-steigend-100.html?at_medium=mastodon&at_campaign=tagesschau.de # Wehrdienst",
-      "url": "https://ard.social/@tagesschau/117595896700534697",
-      "engagement": 5,
-      "ts": "2026-11-11T04:23:02.000Z",
-      "followers": 95348,
-      "isBot": false,
-      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -82,18 +95,6 @@
       "sentiment": "kritisch"
     },
     {
-      "platform": "Bluesky",
-      "author": "@dantesinferno2025.bsky.social",
-      "handle": "dantesinferno2025.bsky.social",
-      "text": "🔴 Bislang wurden #Daten gestohlen, nun blieben Bundeswehr-Drohnen vorsorglich am Boden: Nach Einschätzungen aus Sicherheitskreisen ist die jüngste #Cyberattacke auf #QuantumSystems ein beispielloser Fall.",
-      "url": "https://bsky.app/profile/dantesinferno2025.bsky.social/post/3n2hfaz7zpk2y",
-      "engagement": 1,
-      "ts": "2026-11-16T20:41:38.318Z",
-      "followers": 6046,
-      "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
       "platform": "Mastodon",
       "author": "@heiseonline@social.heise.de",
       "text": "Münchner Rüstungs-KI: Helsing stellt Plattform Clarity vor Das Münchner Unternehmen Helsing hat mit Clarity eine KI-Plattform für militärische Analysen vorgestellt, die als europäische Alternative zu US-Systemen dient. https://www. heise.de/news/Muenchner-Ruestu ngs-KI-Helsing-stellt-Plattform-Clarity-vor-11521399.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraege.md_beitraege&utm_source=mastodon",
@@ -113,7 +114,7 @@
       "ts": "2026-11-11T16:15:06.000Z",
       "followers": 10012,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -124,6 +125,16 @@
       "ts": "2026-11-11T16:00:28.000Z",
       "followers": 10012,
       "isBot": false,
+      "sentiment": "negativ"
+    },
+    {
+      "platform": "YouTube (Bundeswehr)",
+      "author": "Bundeswehr",
+      "text": "#04: Machtkampf im Orbit: Ist Überlegenheit im All der Schlüssel zur Sicherheit? | Bundeswehr",
+      "url": "https://www.youtube.com/watch?v=CW_zJ9oOWhA",
+      "engagement": 0,
+      "ts": "2026-11-17T21:15:13+00:00",
+      "alwaysKeep": true,
       "sentiment": "kritisch"
     },
     {
@@ -164,17 +175,17 @@
       "engagement": 0,
       "ts": "2026-11-12T10:30:14+00:00",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
-      "platform": "YouTube (Bundeswehr)",
-      "author": "Bundeswehr",
-      "text": "Ausrüstung im Test: die Versuchskräfte der Bundeswehr | Bundeswehr",
-      "url": "https://www.youtube.com/watch?v=Q0eaHuIfd1E",
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Personalstärke Oktober 2026: Rekordzunahme auf 190.600 Soldaten, „Brauchen absehbar keine Wehrpflicht“",
+      "url": "https://augengeradeaus.net/2026/11/personalstaerke-oktober-2026-rekordzunahme-auf-190-600-soldaten-brauchen-absehbar-keine-wehrpflicht/",
       "engagement": 0,
-      "ts": "2026-11-10T12:13:50+00:00",
+      "ts": "Tue, 17 Nov 2026 12:19:50 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -184,7 +195,7 @@
       "engagement": 0,
       "ts": "Thu, 12 Nov 2026 15:46:32 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -194,7 +205,7 @@
       "engagement": 0,
       "ts": "Thu, 12 Nov 2026 08:54:18 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -204,7 +215,7 @@
       "engagement": 0,
       "ts": "Wed, 11 Nov 2026 17:51:56 +0000",
       "alwaysKeep": true,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -214,7 +225,7 @@
       "engagement": 0,
       "ts": "Wed, 11 Nov 2026 14:00:52 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -224,7 +235,7 @@
       "engagement": 0,
       "ts": "Wed, 11 Nov 2026 09:48:51 +0000",
       "alwaysKeep": true,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -234,7 +245,47 @@
       "engagement": 0,
       "ts": "Wed, 11 Nov 2026 06:00:28 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bundeswehr Journal",
+      "author": "Bundeswehr Journal",
+      "text": "BDSV: Elisabeth Hauschild folgt auf Hans Christoph Atzpodien",
+      "url": "https://www.bundeswehr-journal.de/2026/bdsv-elisabeth-hauschild-folgt-auf-hans-christoph-atzpodien/",
+      "engagement": 0,
+      "ts": "Thu, 12 Nov 2026 20:12:21 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Iran startet Drohnenangriff auf US-Militäranlage in Bahrain",
+      "url": "https://esut.de/2026/11/meldungen/76864/iran-bahrain-drohnen/",
+      "engagement": 0,
+      "ts": "Tue, 17 Nov 2026 14:00:56 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Chinas KI-Drohnenschwärme: Bedrohliche Übermacht",
+      "url": "https://esut.de/2026/11/fachbeitraege/76238/chinas-ki-drohnenschwaerme/",
+      "engagement": 0,
+      "ts": "Tue, 17 Nov 2026 12:22:24 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Wirtschaftsschutztagung: „Wir sollten uns mit der Ernstfall-Logik beschäftigen“",
+      "url": "https://esut.de/2026/11/meldungen/76857/wirtschaftsschutztagung-ernstfall/",
+      "engagement": 0,
+      "ts": "Tue, 17 Nov 2026 09:00:32 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
@@ -244,7 +295,7 @@
       "engagement": 0,
       "ts": "Mon, 16 Nov 2026 17:46:15 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
@@ -264,55 +315,25 @@
       "engagement": 0,
       "ts": "Mon, 16 Nov 2026 11:09:58 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Dominator: Warum bemannte Flugzeuge selten zu Drohnen werden",
-      "url": "https://esut.de/2026/11/meldungen/76838/dominator-bemannt-flugzeug-drohnen/",
+      "platform": "Tagesschau Alle Meldungen",
+      "author": "Tagesschau Alle Meldungen",
+      "text": "\"Ziemlich dumm\": Pistorius reagiert auf US-Kritik an ukrainischen Angriffen",
+      "url": "https://www.tagesschau.de/ausland/europa/pistorius-ukraine-angriffe-usa-kritik-100.html",
       "engagement": 0,
-      "ts": "Mon, 16 Nov 2026 07:34:30 +0000",
-      "alwaysKeep": true,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Arrow 4 vor Produktionsstart: Bundeswehr will Beschaffung",
-      "url": "https://esut.de/2026/11/meldungen/76834/arrow-4-produktionsstar-bundeswehr/",
-      "engagement": 0,
-      "ts": "Mon, 16 Nov 2026 06:02:30 +0000",
-      "alwaysKeep": true,
-      "sentiment": "negativ"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Patriot: Rumänien als Vorreiter für günstigere Flugkörper",
-      "url": "https://esut.de/2026/11/meldungen/76830/patriot-rumaenien-luftverteidigung/",
-      "engagement": 0,
-      "ts": "Sun, 15 Nov 2026 20:48:15 +0000",
-      "alwaysKeep": true,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "Welt Topnews",
-      "author": "Welt Topnews",
-      "text": "Pistorius führt Insa-Ranking an – Wüst zieht an Söder vorbei, Merz bleibt Letzter",
-      "url": "https://www.welt.de/politik/deutschland/article6afb6fd0bfa018bfcc9896b0/beliebtheit-der-politiker-pistorius-fuehrt-insa-ranking-an-wuest-zieht-an-soeder-vorbei-merz-bleibt-letzter.html",
-      "engagement": 0,
-      "ts": "Mon, 16 Nov 2026 21:25:22 GMT",
+      "ts": "Tue, 17 Nov 2026 22:20:52 +0100",
       "alwaysKeep": true,
       "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Der Diskurs dominiert von Belästigung und Übergriffen in der Bundeswehr, die Zahl der Kriegsdienstverweigerungen steigt weiter, und es gibt Berichte über Probleme mit der Ausrüstung und Beschaffungsprozessen.",
+    "summary": "Der Diskurs dominiert von sexuellem Fehlverhalten in der Bundeswehr, Belästigung und Übergriffen sowie von Beschaffungsproblemen und Satelliten-gestützten Raketenwarnsystemen.",
     "themes": [
       "Pistorius' Wehrdienst-Modell",
-      "Belästigung und Übergriffen in der Bundeswehr",
-      "Beschaffungsprobleme und -verzögerungen"
+      "Beschaffungs-Verzögerung bei Drohnen",
+      "Dunkelfeldstudie zu sexuellem Fehlverhalten in der Bundeswehr"
     ]
   }
 }

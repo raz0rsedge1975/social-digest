@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-22T04:32:57.021Z",
-  "timestamp": "22.11.2026, 05:32:57",
+  "generated": "2026-11-23T04:33:00.416Z",
+  "timestamp": "23.11.2026, 05:33:00",
   "items": [
     {
       "platform": "Bluesky",
@@ -10,9 +10,20 @@
       "url": "https://bsky.app/profile/chollibrehm.bsky.social/post/3n2puad3tck2a",
       "engagement": 4,
       "ts": "2026-11-20T05:30:59.147Z",
-      "followers": 4858,
+      "followers": 4868,
       "isBot": false,
       "sentiment": "neutral"
+    },
+    {
+      "platform": "Mastodon",
+      "author": "@tagesschau@ard.social",
+      "text": "Künftiger Generalinspekteur will bei sexualisiertem Fehlverhalten durchgreifen Die Bundeswehr hat ein Problem mit sexualisiertem Fehlverhalten. Das belegt eine Studie. Der künftige Generalinspekteur der Bundeswehr, Freuding, will hier \"unerbittlich hart durchgreifen\". Die Zahlen seien \"unerträglich\". ➡️ https://www. tagesschau.de/inland/gesellsch aft/bundeswehr-generalinspekteur-gegen-sexualisiert",
+      "url": "https://ard.social/@tagesschau/117659475856250098",
+      "engagement": 4,
+      "ts": "2026-11-22T09:52:03.000Z",
+      "followers": 95381,
+      "isBot": false,
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -23,7 +34,7 @@
       "ts": "2026-11-18T05:06:03.000Z",
       "followers": 87525,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Mastodon",
@@ -56,7 +67,7 @@
       "ts": "2026-11-18T05:19:03.000Z",
       "followers": 87525,
       "isBot": false,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -66,7 +77,7 @@
       "engagement": 0,
       "ts": "2026-11-20T12:43:57+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -76,7 +87,7 @@
       "engagement": 0,
       "ts": "2026-11-18T16:56:15+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -86,7 +97,7 @@
       "engagement": 0,
       "ts": "2026-11-17T21:15:13+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -96,17 +107,7 @@
       "engagement": 0,
       "ts": "2026-11-16T14:27:33+00:00",
       "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "YouTube (Bundeswehr)",
-      "author": "Bundeswehr",
-      "text": "Leises Gedenken zum Volkstrauertag: „Sheltering Sky“ von John Mackey | Bundeswehr",
-      "url": "https://www.youtube.com/watch?v=eIR_2y5T_6s",
-      "engagement": 0,
-      "ts": "2026-11-15T10:59:30+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "Augen geradeaus!",
@@ -116,7 +117,7 @@
       "engagement": 0,
       "ts": "Fri, 20 Nov 2026 16:21:41 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Augen geradeaus!",
@@ -126,7 +127,7 @@
       "engagement": 0,
       "ts": "Thu, 19 Nov 2026 17:36:42 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "negativ"
     },
     {
       "platform": "Augen geradeaus!",
@@ -136,7 +137,17 @@
       "engagement": 0,
       "ts": "Tue, 17 Nov 2026 12:19:50 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Russische Treffer in Polen: NATO plant Beratungen am Montag",
+      "url": "https://esut.de/2026/11/meldungen/76939/russische-treffer-polen-nato-berat/",
+      "engagement": 0,
+      "ts": "Sun, 22 Nov 2026 14:04:18 +0000",
+      "alwaysKeep": true,
+      "sentiment": "negativ"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
@@ -146,7 +157,7 @@
       "engagement": 0,
       "ts": "Sat, 21 Nov 2026 09:35:29 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
@@ -156,7 +167,7 @@
       "engagement": 0,
       "ts": "Sat, 21 Nov 2026 08:02:44 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
@@ -189,62 +200,32 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Frankreichs Ministerin besucht freiwillig Wehrdienstleistende",
-      "url": "https://esut.de/2026/11/meldungen/76900/freiwillig-wehrdienstleistende/",
-      "engagement": 0,
-      "ts": "Fri, 20 Nov 2026 08:00:48 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
       "platform": "Spiegel Politik",
       "author": "Spiegel Politik",
-      "text": "News: Boris Pistorius, Ukraine, AfD auf Kurssuche, Donald Trump lobt Stephen Miller",
-      "url": "https://www.spiegel.de/politik/deutschland/news-boris-pistorius-patzt-hilfen-fuer-die-ukraine-afd-auf-kurssuche-donald-trump-lobt-stephen-miller-a-cb84b583-511a-4850-9455-833a6e8d92a7#ref=rss",
+      "text": "Bundeswehr ändert Truppenverlegung nach Litauen kurzfristig",
+      "url": "https://www.spiegel.de/politik/deutschland/bahn-statt-konvoi-bundeswehr-aendert-truppenverlegung-nach-litauen-kurzfristig-a-74ad6a42-70a8-4973-ab13-571ba1696bce#ref=rss",
       "engagement": 0,
-      "ts": "Sat, 21 Nov 2026 06:46:00 +0100",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Spiegel Politik",
-      "author": "Spiegel Politik",
-      "text": "Gen Z regelt: »Wir möchten mitreden, wir möchten, dass man uns zuhört«",
-      "url": "https://www.spiegel.de/politik/deutschland/gen-z-regelt-jugendliche-protestieren-fuer-bildung-klima-und-bezahlbares-leben-a-e88fe963-e880-4004-9043-c7d84ca70e6e#ref=rss",
-      "engagement": 0,
-      "ts": "Fri, 20 Nov 2026 17:32:00 +0100",
+      "ts": "Sun, 22 Nov 2026 11:22:00 +0100",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
       "platform": "Welt Topnews",
       "author": "Welt Topnews",
-      "text": "„Das ist nicht meine Bundeswehr“ – Freuding will bei sexuellem Fehlverhalten hart durchgreifen",
-      "url": "https://www.welt.de/politik/deutschland/article6b022d9139a3e8110f0e5e68/generalinspekteur-das-ist-nicht-meine-bundeswehr-freuding-will-bei-sexuellem-fehlverhalten-hart-durchgreifen.html",
+      "text": "Wie Freuding die Bundeswehr für den modernen Krieg rüsten will",
+      "url": "https://www.welt.de/politik/deutschland/plus6afee42bc1e8003ef73c43e7/designierter-generalinspekteur-wie-freuding-die-bundeswehr-fuer-den-modernen-krieg-ruesten-will.html",
       "engagement": 0,
-      "ts": "Sat, 21 Nov 2026 23:57:52 GMT",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Welt Topnews",
-      "author": "Welt Topnews",
-      "text": "Russland nicht provozieren – Bundeswehr ändert Kräfte-Verlegung nach Litauen",
-      "url": "https://www.welt.de/politik/deutschland/article6b0228355842ff528b9e34bc/geplante-grossuebung-russland-nicht-provozieren-bundeswehr-aendert-kraefte-verlegung-nach-litauen.html",
-      "engagement": 0,
-      "ts": "Sat, 21 Nov 2026 23:34:09 GMT",
+      "ts": "Sun, 22 Nov 2026 21:17:56 GMT",
       "alwaysKeep": true,
       "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Heute diskutiert der Bundeswehr-Diskurs um die Ausweitung des Militärpakts mit Polen, die Bedeutung von Sicherheitspolitik und die Reaktionen auf den russischen Luftangriff auf Polen.",
+    "summary": "Die Bundeswehr plant den Ausbau des Militärpakts mit Polen und wirbt für mehr Zusammenarbeit in Sicherheitsfragen, während es um die Frage der sexualisierten Fehlverhaltens im Militär und die Zentralregister für Krisenfälle geht.",
     "themes": [
       "Pistorius' Wehrdienst-Modell",
-      "Beschaffungsverzögerung durch Java-Bugs",
-      "Russlands Angriff auf Polen und NATO-Reaktion"
+      "sexualisiertes Fehlverhalten im Militär",
+      "Zentralregister für Krisenfälle in der Personalreserve"
     ]
   }
 }

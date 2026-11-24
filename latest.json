@@ -1,7 +1,31 @@
 {
-  "generated": "2026-11-23T04:33:00.416Z",
-  "timestamp": "23.11.2026, 05:33:00",
+  "generated": "2026-11-24T04:32:59.052Z",
+  "timestamp": "24.11.2026, 05:32:59",
   "items": [
+    {
+      "platform": "Bluesky",
+      "author": "@ahaachja.bsky.social",
+      "handle": "ahaachja.bsky.social",
+      "text": "22:50 – 23:35 Uhr\nKrieg im Weltraum - Wie verwundbar ist Deutschland?\nDeutschland 2026 \n\nDasErste\n\n„Der nächste Krieg wird im Weltraum verloren“, da ist sich Generalmajor Michael Traut sicher. Er ist Kommandeur des Weltraumkommandos der Bundeswehr und beobachtet, wie ...",
+      "url": "https://bsky.app/profile/ahaachja.bsky.social/post/3n2z57eg4js2e",
+      "engagement": 9,
+      "ts": "2026-11-23T22:05:28.299Z",
+      "followers": 15926,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Bluesky",
+      "author": "@unterstuetzung.bundeswehr.de",
+      "handle": "unterstuetzung.bundeswehr.de",
+      "text": "🥽🪖 Militärische Lageplanung in der virtuellen Realität!\n\nMit dem virtuellen Sandkasten können Soldatinnen und Soldaten Gelände und militärische Lagen dreidimensional erkunden.\n\n🎯 Innovation im Unterstützungsbereich: Neue Möglichkeiten für Ausbildung und Lagebesprechung.\n\n#Bundeswehr #VR",
+      "url": "https://bsky.app/profile/unterstuetzung.bundeswehr.de/post/3n2yzw5toj22d",
+      "engagement": 4,
+      "ts": "2026-11-23T21:06:38.187Z",
+      "followers": 1347,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
     {
       "platform": "Bluesky",
       "author": "@chollibrehm.bsky.social",
@@ -10,7 +34,7 @@
       "url": "https://bsky.app/profile/chollibrehm.bsky.social/post/3n2puad3tck2a",
       "engagement": 4,
       "ts": "2026-11-20T05:30:59.147Z",
-      "followers": 4868,
+      "followers": 4867,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -23,7 +47,7 @@
       "ts": "2026-11-22T09:52:03.000Z",
       "followers": 95381,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -34,7 +58,7 @@
       "ts": "2026-11-18T05:06:03.000Z",
       "followers": 87525,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Mastodon",
@@ -67,7 +91,7 @@
       "ts": "2026-11-18T05:19:03.000Z",
       "followers": 87525,
       "isBot": false,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -77,7 +101,7 @@
       "engagement": 0,
       "ts": "2026-11-20T12:43:57+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -87,7 +111,7 @@
       "engagement": 0,
       "ts": "2026-11-18T16:56:15+00:00",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "YouTube (Bundeswehr)",
@@ -97,17 +121,27 @@
       "engagement": 0,
       "ts": "2026-11-17T21:15:13+00:00",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
-      "platform": "YouTube (Bundeswehr)",
-      "author": "Bundeswehr",
-      "text": "#shorts: Wer erklärt eigentlich Sicherheitspolitik? Frag doch einen Jugendoffizier | Bundeswehr",
-      "url": "https://www.youtube.com/shorts/cccPchdlCUM",
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "DroneWatch: Deutsch-Ukrainische Abfangdrohne erfolgreich gegen modernste russische Drohne",
+      "url": "https://augengeradeaus.net/2026/11/dronewatch-deutsch-ukrainische-abfangdrohne-erfolgreich-gegen-modernste-russische-drohne/",
       "engagement": 0,
-      "ts": "2026-11-16T14:27:33+00:00",
+      "ts": "Mon, 23 Nov 2026 18:56:15 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Bundeswehr testet taktischen Einsatz von Kamikaze-Drohnen an der NATO-Nordostflanke",
+      "url": "https://augengeradeaus.net/2026/11/bundeswehr-testet-taktischen-einsatz-von-kamikaze-drohnen-an-der-nato-nordostflanke/",
+      "engagement": 0,
+      "ts": "Mon, 23 Nov 2026 13:52:04 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -117,7 +151,7 @@
       "engagement": 0,
       "ts": "Fri, 20 Nov 2026 16:21:41 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -127,7 +161,7 @@
       "engagement": 0,
       "ts": "Thu, 19 Nov 2026 17:36:42 +0000",
       "alwaysKeep": true,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -137,7 +171,37 @@
       "engagement": 0,
       "ts": "Tue, 17 Nov 2026 12:19:50 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Tiltan verlagert Tests von Sensoren und KI ins virtuelle Gefechtsfeld",
+      "url": "https://esut.de/2026/11/meldungen/76949/tiltan-ki-virtuelles-gefechtsfeld/",
+      "engagement": 0,
+      "ts": "Mon, 23 Nov 2026 17:00:10 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Studie: So viele Drohnen (ver)braucht die Infanterie",
+      "url": "https://esut.de/2026/11/meldungen/76956/studie-drohnen-verbrauc-infanterie/",
+      "engagement": 0,
+      "ts": "Mon, 23 Nov 2026 14:29:21 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Ukraine versenkt russische Korvette Merkury vor Libyen",
+      "url": "https://esut.de/2026/11/meldungen/76944/ukraine-ru-korvette-merkury-libyen/",
+      "engagement": 0,
+      "ts": "Mon, 23 Nov 2026 13:18:02 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
@@ -147,7 +211,7 @@
       "engagement": 0,
       "ts": "Sun, 22 Nov 2026 14:04:18 +0000",
       "alwaysKeep": true,
-      "sentiment": "negativ"
+      "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
@@ -157,7 +221,7 @@
       "engagement": 0,
       "ts": "Sat, 21 Nov 2026 09:35:29 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
@@ -167,65 +231,25 @@
       "engagement": 0,
       "ts": "Sat, 21 Nov 2026 08:02:44 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Russischer Luftangriff: 3 Einschläge in Polen",
-      "url": "https://esut.de/2026/11/meldungen/76920/polen-beschuss-russland-luftsystem/",
-      "engagement": 0,
-      "ts": "Fri, 20 Nov 2026 16:14:56 +0000",
-      "alwaysKeep": true,
       "sentiment": "neutral"
     },
     {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "FKH-Symposium bei General Dynamics European Land Systems",
-      "url": "https://esut.de/2026/11/meldungen/76910/fkh-symposium-general-dynamics/",
+      "platform": "Tagesschau Alle Meldungen",
+      "author": "Tagesschau Alle Meldungen",
+      "text": "Deutschland baut künftig ukrainische Drohnen",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-pistorius-104.html",
       "engagement": 0,
-      "ts": "Fri, 20 Nov 2026 13:23:50 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Israel: Iran produziert wieder rund 60 Raketen im Monat",
-      "url": "https://esut.de/2026/11/meldungen/76907/israel-iran-produziert-60-raketen/",
-      "engagement": 0,
-      "ts": "Fri, 20 Nov 2026 12:52:53 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Spiegel Politik",
-      "author": "Spiegel Politik",
-      "text": "Bundeswehr ändert Truppenverlegung nach Litauen kurzfristig",
-      "url": "https://www.spiegel.de/politik/deutschland/bahn-statt-konvoi-bundeswehr-aendert-truppenverlegung-nach-litauen-kurzfristig-a-74ad6a42-70a8-4973-ab13-571ba1696bce#ref=rss",
-      "engagement": 0,
-      "ts": "Sun, 22 Nov 2026 11:22:00 +0100",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Welt Topnews",
-      "author": "Welt Topnews",
-      "text": "Wie Freuding die Bundeswehr für den modernen Krieg rüsten will",
-      "url": "https://www.welt.de/politik/deutschland/plus6afee42bc1e8003ef73c43e7/designierter-generalinspekteur-wie-freuding-die-bundeswehr-fuer-den-modernen-krieg-ruesten-will.html",
-      "engagement": 0,
-      "ts": "Sun, 22 Nov 2026 21:17:56 GMT",
+      "ts": "Tue, 24 Nov 2026 02:46:30 +0100",
       "alwaysKeep": true,
       "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Die Bundeswehr plant den Ausbau des Militärpakts mit Polen und wirbt für mehr Zusammenarbeit in Sicherheitsfragen, während es um die Frage der sexualisierten Fehlverhaltens im Militär und die Zentralregister für Krisenfälle geht.",
+    "summary": "Der Diskurs des Tages dominiert durch die Diskussion über die NATO und die Bundeswehr, insbesondere im Hinblick auf die Zusammenarbeit mit Polen und die Ausbildung von Kamikaze-Drohnen. Pistorius' Wehrdienst-Modell und die Besprechung der Personalreserve sind ebenfalls zentrale Themen.",
     "themes": [
       "Pistorius' Wehrdienst-Modell",
-      "sexualisiertes Fehlverhalten im Militär",
-      "Zentralregister für Krisenfälle in der Personalreserve"
+      "Zusammenarbeit mit Polen",
+      "Kamikaze-Drohnen-Ausbildung"
     ]
   }
 }

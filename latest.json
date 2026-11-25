@@ -1,28 +1,28 @@
 {
-  "generated": "2026-11-24T04:32:59.052Z",
-  "timestamp": "24.11.2026, 05:32:59",
+  "generated": "2026-11-25T04:33:05.242Z",
+  "timestamp": "25.11.2026, 05:33:05",
   "items": [
     {
       "platform": "Bluesky",
-      "author": "@ahaachja.bsky.social",
-      "handle": "ahaachja.bsky.social",
-      "text": "22:50 – 23:35 Uhr\nKrieg im Weltraum - Wie verwundbar ist Deutschland?\nDeutschland 2026 \n\nDasErste\n\n„Der nächste Krieg wird im Weltraum verloren“, da ist sich Generalmajor Michael Traut sicher. Er ist Kommandeur des Weltraumkommandos der Bundeswehr und beobachtet, wie ...",
-      "url": "https://bsky.app/profile/ahaachja.bsky.social/post/3n2z57eg4js2e",
-      "engagement": 9,
-      "ts": "2026-11-23T22:05:28.299Z",
-      "followers": 15926,
+      "author": "@markusdecker.bsky.social",
+      "handle": "markusdecker.bsky.social",
+      "text": "Nicht einmal bei der Bundeswehr lieben sie Waffen. Und wenn sie in der Ukraine mehr Waffen hätten, dann müssten dort keine Kinder sterben.",
+      "url": "https://bsky.app/profile/markusdecker.bsky.social/post/3n33gj2inuk2x",
+      "engagement": 20,
+      "ts": "2026-11-24T19:57:16.589Z",
+      "followers": 6400,
       "isBot": false,
       "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
-      "author": "@unterstuetzung.bundeswehr.de",
-      "handle": "unterstuetzung.bundeswehr.de",
-      "text": "🥽🪖 Militärische Lageplanung in der virtuellen Realität!\n\nMit dem virtuellen Sandkasten können Soldatinnen und Soldaten Gelände und militärische Lagen dreidimensional erkunden.\n\n🎯 Innovation im Unterstützungsbereich: Neue Möglichkeiten für Ausbildung und Lagebesprechung.\n\n#Bundeswehr #VR",
-      "url": "https://bsky.app/profile/unterstuetzung.bundeswehr.de/post/3n2yzw5toj22d",
-      "engagement": 4,
-      "ts": "2026-11-23T21:06:38.187Z",
-      "followers": 1347,
+      "author": "@rentwaffnen.bsky.social",
+      "handle": "rentwaffnen.bsky.social",
+      "text": "Die Bundeswehr will die Dr.-Leo-Löwenstein-Kaserne in der Aachener Beverau erweitern. Aber Anwohner und die Stadt #Aachen sind gegen den Ausbau und wollen am 28. November demonstrieren. \nEin Interview: \nwww.jungewelt.de/artikel/5338...\n\n#EselswegRetten #BundeswehrWegtreten",
+      "url": "https://bsky.app/profile/rentwaffnen.bsky.social/post/3n33descckk2f",
+      "engagement": 5,
+      "ts": "2026-11-24T19:01:12.555Z",
+      "followers": 2288,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -35,6 +35,17 @@
       "engagement": 4,
       "ts": "2026-11-20T05:30:59.147Z",
       "followers": 4867,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Mastodon",
+      "author": "@heiseonline@social.heise.de",
+      "text": "Linnemann: KI als „Gamechanger“, Bundeswehr will krisenfeste Gesundheitsdaten Minister Linnemann will das Gesundheitssystem mit KI und präventiver Datenmedizin bezahlbar halten. Militär und Industrie mahnen zur besseren Notfallversorgung. https://www. heise.de/news/Linnemann-KI-als -Gamechanger-Bundeswehr-will-krisenfeste-Gesundheitsdaten-11536290.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraeg",
+      "url": "https://social.heise.de/@heiseonline/117671646425593989",
+      "engagement": 4,
+      "ts": "2026-11-24T13:27:11.000Z",
+      "followers": 87525,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -94,6 +105,28 @@
       "sentiment": "neutral"
     },
     {
+      "platform": "Bluesky",
+      "author": "@schanzenini.bsky.social",
+      "handle": "schanzenini.bsky.social",
+      "text": "Ein Museum der Bundeswehr sei der falsche Ort für das Archiv, betont Stock von den Zeugen Jehovas: \"Sie müssen sich vorstellen, dass diese Familie bereit war, unter größtem Druck den Wehrdienst zu verweigern und ein gewaltvolles Regime nicht zu unterstützen.\"\nwww.tagesschau.de/inland/gesel...",
+      "url": "https://bsky.app/profile/schanzenini.bsky.social/post/3n2zx43fkz22k",
+      "engagement": 0,
+      "ts": "2026-11-24T05:48:55.467Z",
+      "followers": 2435,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "YouTube (Bundeswehr)",
+      "author": "Bundeswehr",
+      "text": "#shorts Wann hilft die Bundeswehr bei Katastrophen? Frag doch einen Jugendoffizier I Bundeswehr",
+      "url": "https://www.youtube.com/shorts/XxypeIVbXe0",
+      "engagement": 0,
+      "ts": "2026-11-24T15:04:52+00:00",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
       "platform": "YouTube (Bundeswehr)",
       "author": "Bundeswehr",
       "text": "#shorts: Was bedeutet die NATO für Deutschland? Frag doch einen Jugendoffizier | Bundeswehr",
@@ -114,12 +147,12 @@
       "sentiment": "neutral"
     },
     {
-      "platform": "YouTube (Bundeswehr)",
-      "author": "Bundeswehr",
-      "text": "#04: Machtkampf im Orbit: Ist Überlegenheit im All der Schlüssel zur Sicherheit? | Bundeswehr",
-      "url": "https://www.youtube.com/watch?v=CW_zJ9oOWhA",
+      "platform": "Augen geradeaus!",
+      "author": "Augen geradeaus!",
+      "text": "Bundestags-Studie zu autonomen Waffen: Kamikaze-Drohnen sind nicht das Problem (Update: Studie veröffentlicht)",
+      "url": "https://augengeradeaus.net/2026/11/bundestags-studie-zu-autonomen-waffen-kamikaze-drohnen-sind-nicht-das-problem/",
       "engagement": 0,
-      "ts": "2026-11-17T21:15:13+00:00",
+      "ts": "Tue, 24 Nov 2026 13:24:46 +0000",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -151,7 +184,7 @@
       "engagement": 0,
       "ts": "Fri, 20 Nov 2026 16:21:41 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "Augen geradeaus!",
@@ -161,17 +194,27 @@
       "engagement": 0,
       "ts": "Thu, 19 Nov 2026 17:36:42 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
-      "platform": "Augen geradeaus!",
-      "author": "Augen geradeaus!",
-      "text": "Personalstärke Oktober 2026: Rekordzunahme auf 190.600 Soldaten, „Brauchen absehbar keine Wehrpflicht“",
-      "url": "https://augengeradeaus.net/2026/11/personalstaerke-oktober-2026-rekordzunahme-auf-190-600-soldaten-brauchen-absehbar-keine-wehrpflicht/",
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "David’s Sling gewinnt massiv an Bedeutung gegenüber Arrow",
+      "url": "https://esut.de/2026/11/meldungen/76961/davids-sling-soll-kuenftig-arrow/",
       "engagement": 0,
-      "ts": "Tue, 17 Nov 2026 12:19:50 +0000",
+      "ts": "Tue, 24 Nov 2026 13:23:22 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Neue Fregatten F128 erhalten Selbstschutzsysteme von Elbit",
+      "url": "https://esut.de/2026/11/meldungen/76964/fregatten-f128-selbstschutz-elbit/",
+      "engagement": 0,
+      "ts": "Tue, 24 Nov 2026 09:09:58 +0000",
+      "alwaysKeep": true,
+      "sentiment": "kritisch"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
@@ -181,7 +224,7 @@
       "engagement": 0,
       "ts": "Mon, 23 Nov 2026 17:00:10 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "positiv"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
@@ -191,7 +234,7 @@
       "engagement": 0,
       "ts": "Mon, 23 Nov 2026 14:29:21 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
@@ -201,7 +244,7 @@
       "engagement": 0,
       "ts": "Mon, 23 Nov 2026 13:18:02 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "negativ"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
@@ -211,45 +254,25 @@
       "engagement": 0,
       "ts": "Sun, 22 Nov 2026 14:04:18 +0000",
       "alwaysKeep": true,
-      "sentiment": "neutral"
+      "sentiment": "kritisch"
     },
     {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Russlands Angriff auf Polen: Komplettes Versagen der Luftverteidigung",
-      "url": "https://esut.de/2026/11/meldungen/76934/russland-polen-luftverteidigung/",
+      "platform": "Spiegel Politik",
+      "author": "Spiegel Politik",
+      "text": "Bundeswehr setzt im Fall von russischen Atomsprengköpfen im All auf elektronische Abwehr",
+      "url": "https://www.spiegel.de/politik/deutschland/bundeswehr-setzt-im-fall-von-russischen-atomsprengkoepfen-im-all-auf-elektronische-abwehr-a-24a268ff-aeaa-444c-9c49-df83f2d2408c#ref=rss",
       "engagement": 0,
-      "ts": "Sat, 21 Nov 2026 09:35:29 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Analyse der 3 russischen Treffer in Polen: Es war kein Zufall",
-      "url": "https://esut.de/2026/11/meldungen/76928/analyse-3-russische-treffer-polen/",
-      "engagement": 0,
-      "ts": "Sat, 21 Nov 2026 08:02:44 +0000",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Tagesschau Alle Meldungen",
-      "author": "Tagesschau Alle Meldungen",
-      "text": "Deutschland baut künftig ukrainische Drohnen",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-pistorius-104.html",
-      "engagement": 0,
-      "ts": "Tue, 24 Nov 2026 02:46:30 +0100",
+      "ts": "Tue, 24 Nov 2026 17:32:00 +0100",
       "alwaysKeep": true,
       "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Der Diskurs des Tages dominiert durch die Diskussion über die NATO und die Bundeswehr, insbesondere im Hinblick auf die Zusammenarbeit mit Polen und die Ausbildung von Kamikaze-Drohnen. Pistorius' Wehrdienst-Modell und die Besprechung der Personalreserve sind ebenfalls zentrale Themen.",
+    "summary": "Der Diskurs des Tages dominiert durch die Debatte um die Ausweitung der Militärpakt-Beziehungen mit Polen und die Bedeutung von Kamikaze-Drohnen in der Bundeswehr.",
     "themes": [
       "Pistorius' Wehrdienst-Modell",
-      "Zusammenarbeit mit Polen",
-      "Kamikaze-Drohnen-Ausbildung"
+      "Kamikaze-Drohnen in der Bundeswehr",
+      "Militärpakt mit Polen"
     ]
   }
 }

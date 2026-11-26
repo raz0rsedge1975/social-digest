@@ -1,28 +1,39 @@
 {
-  "generated": "2026-11-25T04:33:05.242Z",
-  "timestamp": "25.11.2026, 05:33:05",
+  "generated": "2026-11-26T04:32:46.334Z",
+  "timestamp": "26.11.2026, 05:32:46",
   "items": [
     {
       "platform": "Bluesky",
-      "author": "@markusdecker.bsky.social",
-      "handle": "markusdecker.bsky.social",
-      "text": "Nicht einmal bei der Bundeswehr lieben sie Waffen. Und wenn sie in der Ukraine mehr Waffen hätten, dann müssten dort keine Kinder sterben.",
-      "url": "https://bsky.app/profile/markusdecker.bsky.social/post/3n33gj2inuk2x",
-      "engagement": 20,
-      "ts": "2026-11-24T19:57:16.589Z",
-      "followers": 6400,
+      "author": "@opfuekdo.bundeswehr.de",
+      "handle": "opfuekdo.bundeswehr.de",
+      "text": "Generalleutnant Alexander Sollfrank, Befehlshaber des Operativen Führungskommandos der Bundeswehr, war in den vergangenen Tagen in Litauen. Er hat die Panzergrenadierbrigade 37 bei der Übung Grand Eagle und die Panzerbrigade 45 „Litauen“ bei Freedom Shield II in Rūdninkai besucht.",
+      "url": "https://bsky.app/profile/opfuekdo.bundeswehr.de/post/3n35bxcv4zc23",
+      "engagement": 26,
+      "ts": "2026-11-25T13:41:05.922Z",
+      "followers": 3109,
       "isBot": false,
       "sentiment": "neutral"
     },
     {
       "platform": "Bluesky",
-      "author": "@rentwaffnen.bsky.social",
-      "handle": "rentwaffnen.bsky.social",
-      "text": "Die Bundeswehr will die Dr.-Leo-Löwenstein-Kaserne in der Aachener Beverau erweitern. Aber Anwohner und die Stadt #Aachen sind gegen den Ausbau und wollen am 28. November demonstrieren. \nEin Interview: \nwww.jungewelt.de/artikel/5338...\n\n#EselswegRetten #BundeswehrWegtreten",
-      "url": "https://bsky.app/profile/rentwaffnen.bsky.social/post/3n33descckk2f",
+      "author": "@loyalmagazin.bsky.social",
+      "handle": "loyalmagazin.bsky.social",
+      "text": "Die #Bundeswehr wächst an aktiven Soldaten und #Reservisten. Doch die ersten Zielmarken des Aufwuchspfads wurden niedrig gesetzt. Es gibt begründete Zweifel, dass die Zielstruktur von 460.000 Soldaten ohne #Wehrpflicht aufgebaut werden kann.👉 \nwww.reservistenverband.de/magazin-die-...",
+      "url": "https://bsky.app/profile/loyalmagazin.bsky.social/post/3n34y755azc2r",
+      "engagement": 7,
+      "ts": "2026-11-25T10:46:30.908Z",
+      "followers": 869,
+      "isBot": false,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "Mastodon",
+      "author": "@heiseonline@social.heise.de",
+      "text": "Linnemann: KI als „Gamechanger“, Bundeswehr will krisenfeste Gesundheitsdaten Minister Linnemann will das Gesundheitssystem mit KI und präventiver Datenmedizin bezahlbar halten. Militär und Industrie mahnen zur besseren Notfallversorgung. https://www. heise.de/news/Linnemann-KI-als -Gamechanger-Bundeswehr-will-krisenfeste-Gesundheitsdaten-11536290.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraeg",
+      "url": "https://social.heise.de/@heiseonline/117671646425593989",
       "engagement": 5,
-      "ts": "2026-11-24T19:01:12.555Z",
-      "followers": 2288,
+      "ts": "2026-11-24T13:27:11.000Z",
+      "followers": 87525,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -34,18 +45,7 @@
       "url": "https://bsky.app/profile/chollibrehm.bsky.social/post/3n2puad3tck2a",
       "engagement": 4,
       "ts": "2026-11-20T05:30:59.147Z",
-      "followers": 4867,
-      "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Mastodon",
-      "author": "@heiseonline@social.heise.de",
-      "text": "Linnemann: KI als „Gamechanger“, Bundeswehr will krisenfeste Gesundheitsdaten Minister Linnemann will das Gesundheitssystem mit KI und präventiver Datenmedizin bezahlbar halten. Militär und Industrie mahnen zur besseren Notfallversorgung. https://www. heise.de/news/Linnemann-KI-als -Gamechanger-Bundeswehr-will-krisenfeste-Gesundheitsdaten-11536290.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraeg",
-      "url": "https://social.heise.de/@heiseonline/117671646425593989",
-      "engagement": 4,
-      "ts": "2026-11-24T13:27:11.000Z",
-      "followers": 87525,
+      "followers": 4870,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -56,18 +56,7 @@
       "url": "https://ard.social/@tagesschau/117659475856250098",
       "engagement": 4,
       "ts": "2026-11-22T09:52:03.000Z",
-      "followers": 95381,
-      "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Mastodon",
-      "author": "@heiseonline@social.heise.de",
-      "text": "Personalreserve Gesundheit: Hartmannbund fordert Zentralregister für Krisenfall Ärztinnen und Pfleger stehen oft auf mehreren Reservelisten gleichzeitig – der Hartmannbund fordert deshalb ein bundesweites Zentralregister für den Krisenfall. https://www. heise.de/news/Personalreserve- Gesundheit-Hartmannbund-fordert-Zentralregister-fuer-Krisenfall-11523613.html?wt_mc=sm.red.ho.mastodon.mastodon.md_",
-      "url": "https://social.heise.de/@heiseonline/117635702017757974",
-      "engagement": 2,
-      "ts": "2026-11-18T05:06:03.000Z",
-      "followers": 87525,
+      "followers": 95483,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -78,7 +67,7 @@
       "url": "https://ard.social/@tagesschau/117646743494467361",
       "engagement": 1,
       "ts": "2026-11-20T03:54:02.000Z",
-      "followers": 95381,
+      "followers": 95483,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -89,18 +78,7 @@
       "url": "https://ard.social/@tagesschau/117642394478176600",
       "engagement": 1,
       "ts": "2026-11-19T09:28:02.000Z",
-      "followers": 95381,
-      "isBot": false,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "Mastodon",
-      "author": "@heiseonline@social.heise.de",
-      "text": "Mittwoch: Gefährliche Lücke in Java, Systemausfälle bei US-Behörden und -Firmen Updates gegen Java-Bugs + Ausfälle bei US-Diensten + Star Wars ohne Lizenz + YouTubes neue TV-Zählung + Panasonics kompakte Kinokamera + Digital-Health-Podcast https://www. heise.de/news/Mittwoch-Gefaehr liche-Luecke-in-Java-Systemausfaelle-bei-US-Behoerden-und-Firmen-11528635.html?wt_mc=sm.red.ho.mastodon.mastodon.md_",
-      "url": "https://social.heise.de/@heiseonline/117635753142401620",
-      "engagement": 1,
-      "ts": "2026-11-18T05:19:03.000Z",
-      "followers": 87525,
+      "followers": 95483,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -112,7 +90,7 @@
       "url": "https://bsky.app/profile/schanzenini.bsky.social/post/3n2zx43fkz22k",
       "engagement": 0,
       "ts": "2026-11-24T05:48:55.467Z",
-      "followers": 2435,
+      "followers": 2436,
       "isBot": false,
       "sentiment": "neutral"
     },
@@ -133,16 +111,6 @@
       "url": "https://www.youtube.com/shorts/irxKyjySerk",
       "engagement": 0,
       "ts": "2026-11-20T12:43:57+00:00",
-      "alwaysKeep": true,
-      "sentiment": "neutral"
-    },
-    {
-      "platform": "YouTube (Bundeswehr)",
-      "author": "Bundeswehr",
-      "text": "#shorts: Generaldebatte - Machtkampf im All | Bundeswehr",
-      "url": "https://www.youtube.com/shorts/GLvvfrFZgsg",
-      "engagement": 0,
-      "ts": "2026-11-18T16:56:15+00:00",
       "alwaysKeep": true,
       "sentiment": "neutral"
     },
@@ -184,7 +152,7 @@
       "engagement": 0,
       "ts": "Fri, 20 Nov 2026 16:21:41 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
+      "sentiment": "neutral"
     },
     {
       "platform": "Augen geradeaus!",
@@ -194,7 +162,57 @@
       "engagement": 0,
       "ts": "Thu, 19 Nov 2026 17:36:42 +0000",
       "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Thales liefert GM200 MM/C-Radare für Belgiens Blue Dome",
+      "url": "https://esut.de/2026/11/meldungen/77056/thales-gm200-mm-c-radar-blue-dome/",
+      "engagement": 0,
+      "ts": "Wed, 25 Nov 2026 17:18:11 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "PGZ legt dritte polnische Fregatte ORP „Huragan“ auf Kiel",
+      "url": "https://esut.de/2026/11/meldungen/77072/pgz-polnische-fregatte-orp-huragan/",
+      "engagement": 0,
+      "ts": "Wed, 25 Nov 2026 16:17:47 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Mirko Reuter wird CTO bei ARX Robotics",
+      "url": "https://esut.de/2026/11/meldungen/77060/mirko-reuter-cto-bei-arx-robotics/",
+      "engagement": 0,
+      "ts": "Wed, 25 Nov 2026 14:00:56 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Rheinmetalls Lynx geht in der Ukraine auf Shahed-Jagd",
+      "url": "https://esut.de/2026/11/meldungen/77040/schuetzenpanzer-lynx-ukraine/",
+      "engagement": 0,
+      "ts": "Wed, 25 Nov 2026 12:49:37 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
+    },
+    {
+      "platform": "ESUT Europ. Sicherheit",
+      "author": "ESUT Europ. Sicherheit",
+      "text": "Partnerschaft: Rheinmetall und der Bob- und Schlittenverbands für Deutschland",
+      "url": "https://esut.de/2026/11/meldungen/77037/bob-und-schlittenverband/",
+      "engagement": 0,
+      "ts": "Wed, 25 Nov 2026 10:06:12 +0000",
+      "alwaysKeep": true,
+      "sentiment": "neutral"
     },
     {
       "platform": "ESUT Europ. Sicherheit",
@@ -204,75 +222,25 @@
       "engagement": 0,
       "ts": "Tue, 24 Nov 2026 13:23:22 +0000",
       "alwaysKeep": true,
-      "sentiment": "positiv"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Neue Fregatten F128 erhalten Selbstschutzsysteme von Elbit",
-      "url": "https://esut.de/2026/11/meldungen/76964/fregatten-f128-selbstschutz-elbit/",
-      "engagement": 0,
-      "ts": "Tue, 24 Nov 2026 09:09:58 +0000",
-      "alwaysKeep": true,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Tiltan verlagert Tests von Sensoren und KI ins virtuelle Gefechtsfeld",
-      "url": "https://esut.de/2026/11/meldungen/76949/tiltan-ki-virtuelles-gefechtsfeld/",
-      "engagement": 0,
-      "ts": "Mon, 23 Nov 2026 17:00:10 +0000",
-      "alwaysKeep": true,
-      "sentiment": "positiv"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Studie: So viele Drohnen (ver)braucht die Infanterie",
-      "url": "https://esut.de/2026/11/meldungen/76956/studie-drohnen-verbrauc-infanterie/",
-      "engagement": 0,
-      "ts": "Mon, 23 Nov 2026 14:29:21 +0000",
-      "alwaysKeep": true,
-      "sentiment": "kritisch"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Ukraine versenkt russische Korvette Merkury vor Libyen",
-      "url": "https://esut.de/2026/11/meldungen/76944/ukraine-ru-korvette-merkury-libyen/",
-      "engagement": 0,
-      "ts": "Mon, 23 Nov 2026 13:18:02 +0000",
-      "alwaysKeep": true,
-      "sentiment": "negativ"
-    },
-    {
-      "platform": "ESUT Europ. Sicherheit",
-      "author": "ESUT Europ. Sicherheit",
-      "text": "Russische Treffer in Polen: NATO plant Beratungen am Montag",
-      "url": "https://esut.de/2026/11/meldungen/76939/russische-treffer-polen-nato-berat/",
-      "engagement": 0,
-      "ts": "Sun, 22 Nov 2026 14:04:18 +0000",
-      "alwaysKeep": true,
-      "sentiment": "kritisch"
+      "sentiment": "neutral"
     },
     {
       "platform": "Spiegel Politik",
       "author": "Spiegel Politik",
-      "text": "Bundeswehr setzt im Fall von russischen Atomsprengköpfen im All auf elektronische Abwehr",
-      "url": "https://www.spiegel.de/politik/deutschland/bundeswehr-setzt-im-fall-von-russischen-atomsprengkoepfen-im-all-auf-elektronische-abwehr-a-24a268ff-aeaa-444c-9c49-df83f2d2408c#ref=rss",
+      "text": "Boris Pistorius: Ministerium ruft 14 Milliarden Euro aus Mega-Budget nicht ab",
+      "url": "https://www.spiegel.de/politik/deutschland/boris-pistorius-ministerium-ruft-14-milliarden-euro-aus-mega-budget-nicht-ab-a-e72550cb-0c72-4624-acb3-0c120f407461#ref=rss",
       "engagement": 0,
-      "ts": "Tue, 24 Nov 2026 17:32:00 +0100",
+      "ts": "Thu, 26 Nov 2026 05:08:00 +0100",
       "alwaysKeep": true,
       "sentiment": "neutral"
     }
   ],
   "analysis": {
-    "summary": "Der Diskurs des Tages dominiert durch die Debatte um die Ausweitung der Militärpakt-Beziehungen mit Polen und die Bedeutung von Kamikaze-Drohnen in der Bundeswehr.",
+    "summary": "Die Bundeswehr expandiert ihre Ziele und Ausbildung, während es um die Zusammenarbeit mit Polen und die Bekämpfung von Nationalismus und sexualisiertem Fehlverhalten geht. Die Diskussion um autonome Waffen und Kamikaze-Drohnen ist weiterhin aktuell.",
     "themes": [
       "Pistorius' Wehrdienst-Modell",
-      "Kamikaze-Drohnen in der Bundeswehr",
-      "Militärpakt mit Polen"
+      "Zusammenarbeit mit Polen",
+      "Bekämpfung von Nationalismus und sexualisiertem Fehlverhalten"
     ]
   }
 }
